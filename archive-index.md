@@ -1,0 +1,234 @@
+# archive-index.md
+
+Master list of all titles on thegaryhalbertletter.com (from the archive front page).
+Purpose: match letters we read against official titles, and track what remains.
+Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip] = not a letter (product/promo/audio page)
+
+## Newsletters
+
+- [ ] A Starving Crowd (AKA The One Advantage)
+- [ ] Hands On Experience For A Basic Education In Advertising Principles!
+- [ ] Do It By The Numbers!
+- [ ] The Big Idea
+- [ ] Let's Do The Twist!
+- [ ] Why You Must Eliminate The "Human Deadwood" From Your Life!
+- [ ] Gary Halbert's Famous Personal Ad
+- [ ] The Secrets of The Water Ad!
+- [ ] How To Write Killer Headlines!
+- [ ] Separating World-Class Copywriters From Lesser Brethren!
+- [ ] Gary Halbert's Unfinished Business
+- [ ] The Dark Side Of Success!
+- [ ] A "Fighter Pilot" Attitude!
+- [ ] Missing Gary Halbert Swipe File Resurfaces After More Than A Decade!?
+- [ ] The Wisdom & Wit of Gary Halbert
+- [ ] The Few Products From Others That Get... The Halbert Seal of Approval
+- [ ] "An Open Letter From Kevin Halbert To Anyone Who Wants Or Needs To Hire A Great Copywriter"
+- [ ] Rolls Royce Letter. Can You Guess
+- [ ] Rolls Royce Letter Revealed
+- [ ] 20 Clicks
+- [ ] Gary Halbert's Secrets Revealed
+- [ ] The Amazing Secret Of A Marketing Genius Who Is Afraid To Fly
+- [ ] How You Should Start Everyday For The Rest Of Your Life!
+- [ ] My Most Important Newsletter
+- [ ] It Was A Veritable Orgy Of Ideas!
+- [ ] Something Worth Thinking About
+- [ ] Great News for Fans of The Gary Halbert Letter
+- [ ] Giving It Your Best Shot On Your Very First Test!
+- [ ] The Amazing Direct Mail Secret Of A Desperate Nerd From Ohio!
+- [ ] John Reese The 500 Pound Gorilla
+- [ ] The Difference Between Winners and Losers
+- [ ] Water!
+- [ ] Why I Am The Best Copywriter Alive (I'm Even Better Than The Ones Who Are Dead)!
+- [ ] Channeling The Head Shitweasel (by John Carlton)
+- [ ] How To Make Your Ad In The Yellow Pages Pull In 400% More Business Than It Does Now - At No Extra Charge!
+- [ ] Guru Gary's Guide To Things To Think About When Times Are Tough!
+- [ ] Boxes Of Nuggets!
+- [ ] 12-Month Millionaire
+- [ ] A Special Treat For Readers Of The Gary Halbert Letter
+- [ ] Meditation For Miserable People Who Want To Stay That Way!
+- [ ] AIDA!
+- [ ] How To Write Better Copy, Faster! And... How To Write Copy Like Gary Halbert!
+- [ ] How To Mail Up To 100,000 Letters Per Week At No Cost Whatsoever! (Not Even Postage)
+- [ ] Big Announcement and FREE Audio from Gary's 87' Brainstorm Seminar
+- [ ] Happy Birthday Pop (by Bond Halbert)
+- [ ] Monster Website Profits
+- [ ] Mindset
+- [ ] Modesty Personified
+- [ ] Secrets of The 700 Million Dollar Man
+- [ ] Marketing From Outer Space
+- [ ] Jam Packed
+- [ ] Go Ask Alice
+- [ ] I Bid Thee Farewell
+- [ ] Enlightening And Extremely Time Sensitive!
+- [ ] Fair Maiden's Writing
+- [ ] Believe It Or Not... Here's Another Gift From Gary Halbert For Internet Marketers!
+- [ ] Gary Halbert's Present For Internet Marketers!
+- [ ] More Secrets Of The Water Ad!
+- [ ] A Mysterious Chunk Of Metal That Can Triple Your Online Profits
+- [ ] A Very Important Newsletter!
+- [ ] That's White Mail!
+- [ ] That's White Mail II
+- [ ] How To Cash In Big By Using Contests And Sweepstakes To Hype Your Promotions!
+- [ ] A Sad Day In Direct Response Marketing
+- [ ] Happy To Be Alive!
+- [ ] I Told You So!
+- [ ] The BIG Website Profit Making Secret
+- [ ] Operation Moneysuck!
+- [ ] Sewage Soup!
+- [ ] Cajun Country
+- [ ] MASH
+- [ ] Katrina Relief From Allen
+- [ ] Trying To Reason With Hurricane Season!
+- [ ] One Hundred Million Dollars Per Year!
+- [ ] An Insane Idea?
+- [ ] Praise The Lord!
+- [ ] Answer To "Can You Guess?"
+- [ ] Answer To "Can You Guess Part II?"
+- [ ] Answer To "Can You Guess Part III?"
+- [ ] An Example Of Mark Joyner's Genius Viral Marketing Techniques
+- [ ] The Most Important Thing You Need To Know To Make Website Profits
+- [ ] Neurological Imprinting!
+- [ ] My Newest "Killer Idea"!
+- [ ] Greatest Marketing Breakthrough Comes Out Of The Closet!
+- [ ] Part II (Greatest Marketing Breakthrough)
+- [ ] Gary Halbert's Last Newsletter
+- [ ] Free Gold From Gary
+- [ ] More Free Gold From Gary
+- [ ] Two Garys Trying To Make Your Holidays Merry
+- [ ] When The Sun Comes Up... You Better Be Running!
+- [ ] Gary Halbert's New Free Teleseminar
+- [ ] An Open Letter To Anyone So Insane That He Wants To Become A Gary Halbert Client
+- [ ] Gary's Girlfriend In Motion
+- [ ] Gary Hates Hurricanes
+- [ ] Save The World Kill Yourself Now!
+- [ ] Little Bill Gates
+- [ ] Down & Dirty High Impact Marketing
+- [ ] Jason J. Cox
+- [ ] Engineered Paradigm Changes... Continued
+- [ ] Proof That Gary Halbert Is Really Rather Stupid
+- [ ] Let's Give Castration A Chance!
+- [ ] Direct Response
+- [ ] Chapter 11
+- [ ] Chapter 12 Something Important Even Your Doctor Doesn't Know About!
+- [ ] Free Consulting From Gary Halbert
+- [ ] Julie Paris Speaks Her Mind
+- [ ] Gloomy Sunday
+- [ ] Gary Makes It All Better!
+- [ ] The Easiest Way To Make Money In The World
+- [ ] Money
+- [ ] Interesting Facts
+- [ ] How Plastic Surgery Helped Me Become A World-Class Copywriter!
+- [ ] An Apology
+- [ ] The Shortest [And Most Valuable] Newsletter Gary Halbert Has Ever Written!
+- [ ] The Missing Link To Website Profits
+- [ ] Special Report
+- [ ] Urgent Message 9/14/03 PLEASE READ IMMEDIATELY!
+- [ ] Money Making Website Secrets You Will Never Learn From Anyone Else
+- [ ] Memorial Videos Posted
+- [ ] I Deserve A Black Belt In Self Pity!
+- [ ] Disaster Insurance!
+- [ ] Private Details About The Life Of Gary Halbert!
+- [ ] What's Good About The Best Of Them!
+- [ ] Please Unload Weapons And Remove Ski Masks!
+- [ ] Sex And Money!
+- [ ] I Can Be A Real Asshole Sometimes!
+- [ ] The Real Truth About Promoting A Website!
+- [ ] Let's See If We Can't Piss Somebody Off This Month... How About... Women?
+- [ ] You Don't Have To Get It Perfect, You Just Got To Get It Going!
+- [ ] You Can't Know What You Don't Know!
+- [ ] Vanity Radio!
+- [ ] The First Step If You Are At Ground Zero!
+- [ ] I Suggest You Commit "Image Suicide"!
+- [ ] Blitzkrieg "Paradigm" Change!
+- [ ] I Have Approximately The Same Talent For Management That A Pig Has For Solving Geometry Problems!
+- [ ] I Didn't Have To Masturbate To Get My Heart Started This Morning!
+- [ ] Improve Your Response Without Changing A Word Of Your Copy!
+- [ ] Price Is Relative!
+- [ ] "Grabbers!"
+- [ ] The ABC's Of Protecting Your Customer List!
+- [ ] Little Blue Books!
+- [ ] Why You Must Avoid People Who Are Scared Shitless!
+- [ ] What Every Catalog Mailer Does Wrong!
+- [ ] Perry Marshall Interview Google AdWords
+- [ ] Are You Guilty Of Committing These 10 Stupid Things?
+- [ ] The Only Thing That Makes Any Positive Difference In Your Life!
+- [ ] How To Deal With "Nightmare Clients"!
+- [ ] How To Get As Much Money As You Need To "Roll Out" Your Project And Get It Without Borrowing!
+- [ ] How To Get The Exact Name And Address Of Every Man, Woman, And Child Who Is Ever Likely To Become One Of Your Customers!
+- [ ] Grout Sponge!
+- [ ] Warning: This Is NOT A Newsletter!
+- [ ] All Post Offices Are NOT Created Equal!
+- [ ] How To Live To Be 110... And... Still Remember Where You Left Your Car Keys!
+- [ ] The World Is Your Urinal!
+- [ ] How To Make More Money From A Website Than Any Sane Person Can Possibly Spend!
+- [ ] Financial Sodomy Inc.!
+- [ ] "The Suck"!
+- [ ] How To "Sweeten" Your Profits!
+- [ ] A Few Marketing Secrets Never Before Revealed!
+- [ ] 27 "Pearls-Of-Wisdom" That Will Help You Make A Fortune!
+- [ ] Another Issue About... Where The Money Is... And... How To Get It!
+- [ ] How To Use Cheap Little Classified Ads To Make As Much As $10,000 Per Day!
+- [ ] Where The Money Is... And... How To Get It!
+- [ ] Remember Y2K? I Sure Do... And... How I Was Wrong About It!
+- [ ] How To Make Your Advertising 750% More Profitable!
+- [ ] The Two Most Important Direct Marketing Success Secrets In The World!
+- [ ] Why Multi-Level Marketing Sucks!
+- [ ] The Halbert Index!
+- [ ] How To Use Interesting Facts In Your Sales Messages To Sky Rocket Response!
+- [ ] Little "Automatic" Telephone Calls That Will Triple Your Sales!
+- [ ] Why The Best Way To Promote A Website Is Not The Internet!
+- [ ] How To Get A Product To Sell If You Don't Have One Already... And... How To Get It For Nothing!
+- [ ] How To Make God Laugh... And... The World's Most Perfect Stock Trading System!
+- [ ] More Stock Trading Secrets!
+- [ ] How To Make Money With Your Personal Computer!
+- [ ] The Most Valuable Skill You Can Have In Today's World... If... You Want To Become Independently Wealthy!
+- [ ] Newsletter About Nothing!
+- [ ] Why "Thoughtless" Writing Is The Best Writing!
+- [ ] How To Set Up An Immediately-Profitable Website!
+- [ ] How To Get Yourself Or Your Product Featured On Cable TV At No Cost Whatsoever!
+- [ ] I Bet Bill Gates Never Had A Good Piece Of Ass In His Life!
+- [ ] Pound-For-Pound The Most Cost Effective Block Of Space!
+- [ ] How To Use 976 Numbers To Get People To Pay To Hear Your Sales Pitch!
+- [ ] How To Get Movie And TV Stars To Help You Sell Your Products And Services!
+
+## Boron Letters
+
+- [ ] Boron Letters - Chapter 1
+- [ ] Boron Letters - Chapter 2
+- [ ] Boron Letters - Chapter 3
+- [ ] Boron Letters - Chapter 4
+- [ ] Boron Letters - Chapter 5
+- [ ] Boron Letters - Chapter 6
+- [ ] Boron Letters - Chapter 7
+- [ ] Boron Letters - Chapter 8
+- [ ] Boron Letters - Chapter 9
+- [ ] Boron Letters - Chapter 10
+- [ ] Boron Letters - Chapter 11
+- [ ] Boron Letters - Chapter 12
+- [ ] Boron Letters - Chapter 13
+- [ ] Boron Letters - Chapter 14
+- [ ] Boron Letters - Chapter 15
+- [ ] Boron Letters - Chapter 16
+- [ ] Boron Letters - Chapter 17
+- [ ] Boron Letters - Chapter 18
+- [ ] Boron Letters - Chapter 19
+- [ ] Boron Letters - Chapter 20
+- [ ] Boron Letters - Chapter 21
+- [ ] Boron Letters - Chapter 22
+- [ ] Boron Letters - Chapter 23
+- [ ] Boron Letters - Chapter 24
+- [ ] Boron Letters - Chapter 25
+
+## Skipped (not letters — product pages, audio, promo, video)
+
+- [skip] Login / Subscribe pages
+- [skip] Join Our Facebook Group
+- [skip] Buy Halbert Stuff At Halbertising.com / Get Official Halbert Products / Unpublished Gary Halbert Newsletters
+- [skip] Listen To The Gary Halbert Letters On The Go / audio versions
+- [skip] Join Our Monthly Mentoring Group / Subscribe to HalbertiZing
+- [skip] Claude Hopkins' Scientific Advertising Audio Book (sample/buy)
+- [skip] Seminars: The Electronic Marketing Seminar / The Gary Halbert Copywriting Seminar / The Gary Halbert Memorial Seminar
+- [skip] Gary Halbert Videos / From Gary Halbert's Lips To Your Ears (audio/video)
+- [skip] Free Live Recordings / Kevin Halbert Shares Gary Halbert Recording
+- [skip] Books Available On Amazon
+- [skip] Privacy Policy / Terms And Conditions
