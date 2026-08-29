@@ -1,0 +1,211 @@
+# client-applications.md
+
+Klientspesifikk anvendelse av Halbert-mekanismer, hentet fra samtalen "Karriereskifte til
+kreativ strateg på en måned" (23.–29. august). Holdt atskilt fra `mechanisms.md`, som er
+generelle mekanismer uten klient-kobling.
+
+Kilde: `conversations.json`-eksport (ikke committet til repoet — kun brukt til å trekke ut
+dette dokumentet). Samtalen var 1045 meldinger; posisjon er merket **TIDLIG** (23. aug, dag 1),
+**MIDT** (24.–26. aug) eller **SENT** (27.–29. aug), pluss omtrentlig meldingsnummer (msg #) så
+du kan søke det opp igjen i eksporten ved behov. Samtale-summary (komprimert tidlig del) er
+vevet inn der den er relevant.
+
+Usikre punkter (tall/påstander som ikke er verifisert i selve samtalen) er merket
+**⚠️ VERIFISER**.
+
+---
+
+## Stille (bambus-sengetøy)
+
+### Vinkler/segmenter identifisert
+
+- **Søvnløshet hos kvinner 40+ / overgangsalder** (TIDLIG, msg 112, og SENT msg 890)
+  Kjernemekanisme lånt fra "Why Men Crack": uventet synder (ikke stress/jobb, men søvn/varme)
+  → mekanisme (kroppstemperatur/fuktighet) → løsning eier logikken. Håvards eget
+  headline-forslag sent i samtalen: **"Et hemmelig søvn triks for deg som er i
+  overgangsalderen, uten å gå på hormoner"** — vurdert av Claude som et solid callout, men
+  "må strammes inn". Ikke testet ennå på dette tidspunktet i samtalen.
+
+- **Atopisk eksem** (MIDT, msg 258–261)
+  Oppdaget fra en kunde-review: *"Farvel til svette og kløende netter"*. Markedsstørrelse
+  diskutert: ⚠️ VERIFISER — Claude oppga ~20 % av barn og 5–10 % av voksne i Norden har/har
+  hatt atopisk eksem; tallet ble ikke sjekket mot noen kilde i samtalen. Anbefaling: kjør som
+  én vinkel blant flere, ikke hele batchen.
+
+- **Barn/foreldre-segment** (MIDT, msg 258–261, brukt igjen SENT msg 872)
+  Fra samme review-runde: *"5-åringen min var i ekstase, ville ikke bytte tilbake"* — foreldre
+  som beslutningstaker, emosjonell vinkel. Brukt som egen hook-variant: *"5-åringen nektet å
+  bytte tilbake. Moren skjønte hvorfor første natten."*
+
+- **"Klam/kald i kundens ord"** (MIDT, msg 258–261)
+  Fra review: *"man blir verken klam eller kald"* — brukt ordrett som kundespråk-mekanisme
+  (Do It By The Numbers-prinsippet: bruk kundens egne ord, ikke dine).
+
+- **Estetikk/luksus** (MIDT, msg 480–482)
+  Håvard pekte på at Stilles sengetøy "glinser og ser luksus ut" — Claude reviderte først ned
+  denne vinkelen (krever verbalt bevis à la Rolls Royce-klokka), men snudde da Håvard påpekte
+  at produktet vises i bilde/video: visuelt bevis kan gjøre samme jobb som en verbal detalj.
+  Justert prioritering landet på: 1) helse/komfort, 2) skille-seg-ut/estetikk (båret av bilde),
+  3) popularitet/sosial. Merk: Stille har allerede en **"luxury lover"-persona** og har testet
+  luksusvinkling før (bekreftet av Håvard, msg 482) — dette var altså en bekreftelse/utvidelse,
+  ikke en helt ny oppdagelse.
+
+- **"Skille seg ut" / differensiering** (MIDT, msg 486–487)
+  Hook: **"Ikke alle soverom ser sånn ut"** (Byrd-aktig negativ/eksklusivitets-vinkel) — Håvard
+  kalte denne "peak". Rationale bygget for Jonathan: koblet til John Carltons "20 Clicks" hot
+  buttons-liste (grådighet/popularitet/sex/skille-seg-ut/helse), presentert som "hull i
+  testmatrisen" heller enn "det sto i et gammelt brev".
+
+- **Sex appeal / status ("impress a date")** (SENT, msg 872–873)
+  Håvards idé: *"Hvis du skal ta med noen hjem, ta de med hjem til bambus sengeset."* Koblet av
+  Claude til hot button "sex appeal in advertising without offending". Vurdering: reell,
+  utestet driver — men flagget som mer seksuelt ladet enn den godkjente "Sov naken"-annonsen,
+  og potensielt i konflikt med det mer familieorienterte eksem/barn-sporet. Anbefalt som egen,
+  smalere test (yngre/single), ikke blandet inn i hovedstrømmen.
+
+- **Pris/retargeting-vinnere** (MIDT, msg 462–463)
+  Håvard rapporterte at Stilles best presterende annonser er rene pris-annonser: *"Bambussengetøy.
+  Spesialpris: 770kr"* (⚠️ VERIFISER pris/tidspunkt). Konklusjon: dette er sannsynligvis varm/
+  retargeting-trafikk som allerede er problem-/løsningsbevisst og ikke trenger agitasjon —
+  kreative vinkler (eksem, varme, klam) fungerer trolig best som **kald trafikk-hooks**, mens
+  pris-annonsen er **retargeting-closer**. Foreslått: test begge lag i samme funnel.
+
+### Konkret copy skrevet i samtalen
+
+- **Første Stille-utkast** (TIDLIG, msg 112, skrevet før rammeverket var lært) — kvinner 40+,
+  søvnmangel, bomull/husstøvmidd → bambus. Fikk grundig revisjon: manglet bevispunkt for
+  temperatur-påstanden, "25 000 byttet"-tallet uten kilde (⚠️ VERIFISER), "temperaturregulerende
+  egenskaper" for adjektiv-aktig (ikke en klokke-detalj).
+
+- **Halbert-formel-headline** (TIDLIG, msg 227): *"Endelig: Norske søvnforskere peker på grunnen
+  til at kvinner over 40 våkner kl. 03 – og den er ikke stress"* — markert av Claude selv som
+  skrevet "på Halbert-autopilot, ikke på research"; krever dokumentasjon av forskerne/mekanismen
+  før bruk. To sikrere varianter uten autoritets-krav ble gitt samtidig (selvtest-varianten og
+  falsk-antagelse-varianten).
+
+- **17 ufiltrerte headlines** (eksem/klam-vinkel) skrevet av Håvard (MIDT, msg 374) — vurdert
+  som for lange og for clevre, manglet konkret detalj (tall/sitat/dato/nektelse).
+
+- **5 reviderte headlines med klokke-detalj** (MIDT, msg 381):
+  1. *"Kroppen din må ned 1 grad for å sove dypt. Sengetøyet ditt jobber imot deg."*
+     (⚠️ VERIFISER 1-grads-tallet mot kilde før bruk — eksplisitt nevnt i samtalen som
+     ikke-verifisert)
+  2. *"Hun byttet sengetøy 19. august. 'Man blir verken klam eller kald.'"* (ekte kundesitat)
+  3. *"Derfor våkner du klokka 03 – og hvorfor 'legg deg tidligere' aldri har hjulpet."*
+  4. *"Ikke kjøp bambussengetøy hvis du sover kaldt."* (negativ kvalifisering)
+  5. *"5-åringen nektet å bytte tilbake. Moren skjønte hvorfor første natten."*
+
+- **AIDA/storytelling UGC-manus**, flere iterasjoner (SENT, msg 766–889):
+  1. *"Jeg trodde jeg bare var en dårlig sover"* — første fullversjon, ren AIDA-struktur.
+  2. *"Kjæresten min spurte..."* — partner legger merke til endringen (sosialt bevis, ikke
+     selv-diagnose).
+  3. Tekstilingeniør-versjon — første variant med en "kald å ta på"-demonstrasjon ble **avvist av
+     Håvard som for svak/uverifiserbar** (god selvkorrigering å ta med: ikke en gyldig
+     demonstrasjon av pusteevne), erstattet med ekspert-sitat-versjon.
+  4. Venninne-samtale-versjon, UGC-native talespråk ("hvorfor ser senga di sånn ut liksom") —
+     Håvard: "Bra! wow". Curiosity-hooken *"Hvorfor ser senga di sånn ut?"* ble isolert som egen
+     mulig standalone-hook.
+  5. **"Ingrid"-manuset** — lang tredjeperson-versjon bygget direkte på Water Ad-strukturen
+     (navngitt person, konkurrenter eliminert systematisk, implikasjon fremfor påstand, "25 000
+     nordmenn har byttet" ⚠️ VERIFISER, 30-netters garanti). Vurdert av Håvard som "ganske bra",
+     med idé om å gjøre den om til animasjon.
+
+- **Vinkel-shift, ikke bare copy** — Håvard fant selv at et vekt-/sammenligningsargument
+  ("vannflaske") IKKE er en Stille-vinkel (det er Vidda, se under) — nevnt her fordi Claude
+  blandet kontoene sammen midtveis i samtalen (se "Feil å dobbeltsjekke" nederst).
+
+### Konklusjoner / regler etablert for Stille spesifikt
+
+- Kreative vinkler = kald trafikk-hooks; ren pris-annonse = varm trafikk-closer (MIDT, msg 463).
+- "Sell the destination, not the trip": ikke "bambusfiber puster godt", men "du våkner uthvilt"
+  (MIDT, msg 507).
+- Prioritert hot-button-rekkefølge for Stille: helse/komfort → skille-seg-ut/estetikk →
+  popularitet/sosial. Grådighet og sex frarådet generelt for produktet (MIDT, msg 477) — men se
+  sex-appeal-unntaket over (SENT), som ble vurdert som en egen, smalere test snarere enn en
+  regelendring.
+- **"Vi beklager"/"Unnskyld"-konseptet** (SENT, msg 698–699): en reell, allerede kjørt Stille-
+  annonse (headline i stil "unnskyld, vi kan ikke reservere settet – etterspørselen er for høy")
+  som Håvard foreslo etter å ha sett store merker bruke samme mønster. Generert "mange hundre
+  tusen" (⚠️ VERIFISER beløp/valuta — ikke spesifisert i samtalen) i omsetning, men Håvard fikk
+  ikke intent/attribusjon internt for ideen. Koblet analytisk til A-Pile/B-Pile-familien
+  (ser ikke ut som reklame) og til begrunnet knapphet (Coat of Arms-mekanismen). Attribusjons-
+  problemet ble flagget som eget punkt å ta opp med Jonathan, uavhengig av copy-analysen.
+- **"Sov naken. Sov i bambus."** (SENT, msg 852–853) — **ikke** Håvards egen idé; ifølge
+  samtale-summaryen laget Jonathan denne ved å reverse-engineere en konkurrent (ikke en
+  iterasjon av en tidligere vinner — Håvard korrigerte Claude eksplisitt på dette punktet
+  tidligere i samtalen). Vurdert: teknisk sett IKKE A-Pile/B-Pile (den mekanismen krever et
+  skjult avsender-filter/konvolutt, som ikke finnes i en merket "Sponsored"-post) men i samme
+  "familie" av prinsipp — visuell autentisitet senker garden selv når publikum vet det er en
+  annonse.
+
+---
+
+## Vidda (campingstol)
+
+### Vinkler/segmenter identifisert
+
+- **Vekt-vinkelen** ("lettere enn en vannflaske") — allerede bevist i video-format før samtalen
+  startet (MIDT, msg 461–463). Anbefalt testet som **format-overføring** til static, ikke som ny
+  påstand, siden hypotesen allerede har bevist seg.
+
+- **Telt-vinkelen** (TIDLIG/MIDT, msg 250 og 461) — funnet gjennom **forumtråder + kunde-reviews
+  som spontant nevner telt-bruk**, vurdert av Claude som "sterkere research enn de fleste
+  batcher har" fordi det er to uavhengige kilder som peker samme vei.
+
+- **Svensk marked** (MIDT, msg 208–210) — bekreftet at en 4-konsept-batch var bevisst skrevet på
+  svensk (Vidda ekspanderer til Sverige), ikke en språkfeil. Håvard presiserte selv: det var
+  4 ulike **konsepter** (format/utførelse) på **samme vinkel og samme awareness**, ikke 4 ulike
+  vinkler — Claude hadde først feilkarakterisert det som 4 ulike innganger/awareness-punkter.
+
+### Konkret copy skrevet/vurdert i samtalen
+
+- **B2: "Äntligen en skön stol i tältet"** (MIDT, msg 229) — vurdert ord-for-ord mot Halbert-
+  formelen: "Äntligen" = news/relief, "skön stol" = benefit, "i tältet" = context-callout. Mangler
+  hard spesifisitet (intet tall); foreslått neste iterasjon: legg på vekt-tall
+  ("...en stol som väger 400 gram och räddar ryggen i tältet").
+
+- **D4: testimonial-annonse** ("sitta upprätt och läsa... helt grymt" – Silje, verifisert kunde)
+  (MIDT, msg 229) — vurdert som sterkere enn de fleste skrevne headlines fordi ekte kundespråk
+  gjør "Do It By The Numbers"-jobben automatisk.
+
+- **"Lettere enn vannflaska di. Redder ryggen hele kvelden."** (MIDT, msg 389) — hovedforslag,
+  bygget på den allerede video-bekreftede vekt-hypotesen.
+
+- **To alternative headlines** samme økt: *"Endelig en skikkelig stol i teltet"* (relief) og
+  *"'Jeg kan sitte oppreist og lese. Helt grymt.' – Silje"* (kundesitat som headline).
+
+- **Split-screen vekt-sammenligning** (TIDLIG, msg 254–257) — Håvards idé om å vise Vidda (700g)
+  mot en vannflaske (1100g). Første runde: Claude trodde stolen var *tyngre* enn en vannflaske
+  og advarte mot å "tape sammenligningen"; Håvard korrigerte (stolen er lettere, med video som
+  allerede bekrefter hooken) — komparasjonen ble da vurdert som trygg, siden det er
+  format-overføring av en allerede bevist påstand, ikke en ny.
+
+### Konklusjoner / regler etablert for Vidda spesifikt
+
+- Én variabel per batch-test: hold vinkel konstant og varier format for å teste om "vinkel
+  fungerer ikke" eller "utførelse fungerer ikke" (TIDLIG, msg 257).
+- Research-setning verdt å bruke ordrett i rationale-dokumenter: *"vinkel avledet fra
+  forumdiskusjoner om sitteplass i telt + reviews som spontant nevner telt-bruk"* (TIDLIG,
+  msg 257).
+
+---
+
+## Feil å dobbeltsjekke (Claude tok feil i samtalen, senere korrigert)
+
+- Claude blandet Vidda-teltvinkelen inn i en Stille-kontekst midtveis (SENT, msg 716–719) —
+  bekreftet og korrigert i selve samtalen ("ikke noe som havnet i dokumentet", ifølge Claude),
+  men verdt å dobbeltsjekke egne notater fra rundt dette tidspunktet uansett.
+- Claude feilkarakteriserte først en 4-konsept Vidda-batch som "4 awareness-punkter/4 innganger"
+  (MIDT, msg 208–210) — Håvard rettet til: 4 konsepter, samme vinkel, samme awareness
+  (problem-aware).
+- Claude trodde først Vidda-stolen var tyngre enn en vannflaske (TIDLIG, msg 254–257) — feil,
+  korrigert av Håvard.
+
+## Ikke klient-spesifikt, men verdt å vite ved gjennomlesing
+
+- Curriculumet er fra Alex Coopers offentlige liste; Jonathan følger alt Halbert anbefaler unntatt
+  fysisk håndkopiering og bokkjøp (samtale-summary).
+- Suksesskriteriet fra Jonathan: "70 % klar innen dag 30".
+- Provisjonsstruktur nevnt: 10 % av full faktura på kontoer Håvard forvalter som strateg
+  (samtale-summary — ⚠️ VERIFISER detaljer, kun nevnt i sammendraget, ikke i selve meldingene
+  som ble gjennomgått).
