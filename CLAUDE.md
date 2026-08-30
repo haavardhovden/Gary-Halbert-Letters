@@ -24,10 +24,11 @@ steps each time:
      `letter-XXX.md`, if a matching title exists in the master list; otherwise leave it (the
      archive index is the *official* title list from thegaryhalbertletter.com — don't invent
      new entries in it for letters that aren't already named there).
-   - `mechanisms.md` — only if the letter has real standalone copywriting value. Add a new
-     numbered entry (with a `Kilde:` line pointing at the new `letter-XXX.md`) or extend an
-     existing entry as an additional example, whichever fits better. Low-value/logistics
-     letters get logged in `letters-read.md` but do **not** get a mechanisms.md entry.
+   - `mechanisms.md` — **only touch it when the letter contributes a genuinely new pattern**,
+     not already captured (even loosely) by an existing entry. A weak or partial variant of a
+     technique that's already in there is just `value: no` + a short reason in chat — don't
+     add it as a new entry, and don't extend an existing entry with it as "another example"
+     either. The bar is a new mechanism, not a new instance of one already logged.
 
 ## mechanisms.md ground rules
 
