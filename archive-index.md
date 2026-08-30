@@ -90,7 +90,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Neurological Imprinting! ([letter-073.md](letters/letter-073.md))
 - [x] My Newest "Killer Idea"! ([letter-074.md](letters/letter-074.md))
 - [x] Greatest Marketing Breakthrough Comes Out Of The Closet! ([letter-075.md](letters/letter-075.md))
-- [x] Part II (Greatest Marketing Breakthrough) ([letter-076.md](letters/letter-076.md))
+- [ ] Part II (Greatest Marketing Breakthrough)
 - [x] Gary Halbert's Last Newsletter, Part I ([letter-077.md](letters/letter-077.md))
 - [ ] Free Gold From Gary
 - [ ] More Free Gold From Gary
@@ -194,7 +194,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 ## Boron Letters
 
 - [x] Boron Letters - Chapter 1 ([letter-008.md](letters/letter-008.md))
-- [ ] Boron Letters - Chapter 2
+- [x] Boron Letters - Chapter 2 ([letter-078.md](letters/letter-078.md))
 - [ ] Boron Letters - Chapter 3
 - [ ] Boron Letters - Chapter 4
 - [ ] Boron Letters - Chapter 5
