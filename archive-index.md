@@ -91,7 +91,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] My Newest "Killer Idea"! ([letter-074.md](letters/letter-074.md))
 - [x] Greatest Marketing Breakthrough Comes Out Of The Closet! ([letter-075.md](letters/letter-075.md))
 - [ ] Part II (Greatest Marketing Breakthrough)
-- [ ] Gary Halbert's Last Newsletter
+- [x] Gary Halbert's Last Newsletter, Part I ([letter-077.md](letters/letter-077.md))
 - [ ] Free Gold From Gary
 - [ ] More Free Gold From Gary
 - [ ] Two Garys Trying To Make Your Holidays Merry
