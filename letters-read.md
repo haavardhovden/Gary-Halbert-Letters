@@ -76,3 +76,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 071. [letter-071.md] — "I have received an enormous amount of e-mails from people trying to guess why each of the three lett..."
 072. [letter-072.md] — "You better watch out... because... I'm going to try to sell you something with this letter...."
 073. [letter-073.md] — "Sometimes I wonder about myself...."
+074. [letter-074.md] — "Yesterday I had a "killer idea" about how I can help many of my subscribers make a great deal of..."

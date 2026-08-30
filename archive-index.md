@@ -87,8 +87,8 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [ ] Answer To "Can You Guess Part III?"
 - [ ] An Example Of Mark Joyner's Genius Viral Marketing Techniques
 - [ ] The Most Important Thing You Need To Know To Make Website Profits
-- [ ] Neurological Imprinting!
-- [ ] My Newest "Killer Idea"!
+- [x] Neurological Imprinting! ([letter-073.md](letters/letter-073.md))
+- [x] My Newest "Killer Idea"! ([letter-074.md](letters/letter-074.md))
 - [ ] Greatest Marketing Breakthrough Comes Out Of The Closet!
 - [ ] Part II (Greatest Marketing Breakthrough)
 - [ ] Gary Halbert's Last Newsletter
