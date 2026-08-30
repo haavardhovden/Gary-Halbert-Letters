@@ -198,6 +198,8 @@ Sult måles: **recency** (nylig kjøpt lignende), **frequency** (kjøper ofte), 
 
 ### 11. “Why Men Crack” (Postum-annonsen)
 
+**Kilde:** ads/why-men-crack-postum.md, ads/why-men-crack-postum.pdf
+
 Skap bevissthet om et EKTE problem leseren ikke tenkte på → forklar med en logisk mekanisme (lånt energi må betales tilbake) → ei løsningen.
 **Bonus-mekanisme:** Når produktet mangler kategoriens kjerne-attributt (koffein), selg mangelen som fordelen — via frykt for selve attributten.
 
@@ -210,34 +212,49 @@ Skap bevissthet om et EKTE problem leseren ikke tenkte på → forklar med en lo
 
 ### 13. Admiral Byrd-ekspedisjonen
 
+**Kilde:** ads/admiral-byrd-expedition-letter.md, ads/admiral-byrd-expedition-letter.pdf
+
 Til publikum som HAR alt: selg utfordring, status, knapphet — ikke komfort.
 Ulemper FØRST i teksten (“it will cost you $10,000… discomfort… danger”) = kvalifisering + bevis på ærlighet samtidig.
 
 ### 14. Joe Karbo — “Lazy Man’s Way To Riches”
+
+**Kilde:** ads/lazy-mans-way-to-riches-karbo.md, ads/lazy-mans-way-to-riches-karbo.pdf
 
 Selg TILLATELSEN, ikke bare løsningen — omdefiner leserens skam (latskap) til fortrinn.
 Garanti som BEVISER, ikke bare beroliger: sjekken innløses ikke på 31 dager, og ved retur får kunden den UINNLØSTE sjekken tilbake — beviser at han ikke trengte pengene, altså at metoden virket.
 
 ### 15. Sherwin Cody — “Do You Make These Mistakes In English?”
 
+**Kilde:** ads/do-you-make-these-mistakes-in-english.md, ads/do-you-make-these-mistakes-in-english.pdf
+
 Selvtest-headline for publikum som ikke vet de har et problem. Leseren tar seg selv i feilen i første avsnitt.
 “No agent will call” — dreper den usagte frykten.
 
 ### 16. Merrill Lynch — stock & bond-annonsen
 
+**Kilde:** ads/stock-and-bond-business-merrill-lynch.md, ads/stock-and-bond-business-merrill-lynch.pdf
+
 Redd/forvirret marked → undervis i stedet for å selge (advertorial-format). Volum av nøytral info = autoritet.
 
 ### 17. Coat of Arms-brevet
+
+**Kilde:** ads/coat-of-arms-letter.md, ads/coat-of-arms-letter.pdf
 
 Relevans (ditt navn) + forkledning (personlig brev, ikke reklame) + reason-why (“lagde noen ekstra kopier”).
 Tap-vinkling-slektning: personalisering via mail-merge — føles unikt, er masseproduksjon.
 
 ### 18. Diett-annonsen (Halbert)
 
+**Kilde:** ads/burn-off-body-fat-hour-by-hour.md, ads/burn-off-body-fat-hour-by-hour.pdf
+(= "How To Burn Off Body Fat, Hour-By-Hour" — Don Schwerdtfeger, M.D., 1980)
+
 **Favor-vendingen:** “Hjelp meg med forskningen min” snur maktdynamikken — leseren blir deltaker, ikke kunde. Garden faller.
 Spesifikke tall slår adjektiver (“6 pounds first weekend” > “raskt vekttap”).
 
 ### 19. Rolls Royce (Ogilvy)
+
+**Kilde:** ads/rolls-royce-60-mph-ogilvy.md, ads/rolls-royce-60-mph-ogilvy.pdf
 
 Spesifikk, verifiserbar detalj > påstand. Leseren konkluderer selv (“klokka er det høyeste du hører” → “sinnsykt godt bygget”).
 Detaljen kom fra 3 ukers RESEARCH, ikke inspirasjon.
@@ -245,6 +262,8 @@ Detaljen kom fra 3 ukers RESEARCH, ikke inspirasjon.
 Pris i annonsen ($13,995) = bevisst kvalifisering, ikke skjuling.
 
 ### 20. Social Security-annonsen (Halbert)
+
+**Kilde:** ads/social-security-ad-halbert.md, ads/social-security-ad-halbert.pdf
 
 Bullets = åpne loops (sier AT noe finnes, aldri HVA).
 **Tap-vinkling:** “Hent det som allerede er ditt” slår “få noe nytt” — tap av eget føles mer akutt enn ny gevinst.
