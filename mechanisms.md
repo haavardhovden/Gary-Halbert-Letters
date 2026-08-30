@@ -340,6 +340,15 @@ Halbert introduserer morgenløping til sønnen sin ved å ta et negativt ladet o
 **Hvorfor det er en annen mekanisme enn #11 (Why Men Crack):** #11 bruker frykt + mekanisme til å forklare et PROBLEM leseren allerede har. Denne bruker ønske + mekanisme til å gjøre en NY, ønsket vane føles uunngåelig i stedet for anstrengende.
 **Når brukes:** Når du selger en vane/rutine (ikke et engangskjøp) og motstanden er "jeg orker ikke være disiplinert" — omdefiner disiplinen som noe kroppen selv vil ha, med en navngitt biologisk/kjemisk mekanisme som bevis.
 
+### 30. "Student of Markets" — Si vs. Gjør (Boron Letters, kapittel 5)
+
+**Kilde:** letter-081.md
+
+Stol ALDRI på hva folk SIER de foretrekker/kjøper — stol på hva de FAKTISK kjøper. Øl-eksempel: en undersøkelse viste at 80 % foretrakk premiumølet, men salgstallene viste at de fleste kjøpte det vanlige. National Enquirer-eksempel: nesten ingen innrømmer å lese den, men den er verdens mest solgte avis. Folk gir det svaret de tror de BØR gi i en undersøkelse (sosialt ønskelig), ikke det ærlige — så selvrapportert preferanse er systematisk upålitelig data.
+**Hvorfor det er en annen mekanisme enn #9 (Movement over meditation):** #9 handler om HVOR du henter research (ut i felten, ikke fra skrivebordet). Denne handler om HVILKEN datakilde du kan stole på når du ER der — atferdsdata (faktiske kjøp) slår selvrapportert data (meninger/undersøkelser/fokusgrupper), fordi folk systematisk pynter på egne preferanser.
+**Når brukes:** Når kundeundersøkelser eller fokusgrupper motsier faktiske salgs-/atferdsdata — atferd vinner alltid. Godt sjekkpunkt før man designer en batch rundt hva målgruppen "sier" de vil ha.
+*(Samme kapittel har også et sterkt worked example av #10 Starving Crowd — SRDS-listedata med "average unit of sale" × antall kjøpere for å anslå markedsstørrelse — men det er en anvendelse av #10, ikke en egen mekanisme.)*
+
 ---
 
 ## MODERNE PARALLELL (Alex Cooper / Ad Crate — YouTube)

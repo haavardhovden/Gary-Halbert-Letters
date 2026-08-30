@@ -83,3 +83,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 078. [letter-078.md] — "The Boron Letters - Chapter 2 — Today I crossed some sort of invisible mental line...."
 079. [letter-079.md] — "The Boron Letters - Chapter 3 — Guess what? Today I jogged "The Hill" two times without stopping!..."
 080. [letter-080.md] — "The Boron Letters - Chapter 4 — It was very nice for all of you to come up yesterday and bring me a birthday cake...."
+081. [letter-081.md] — "The Boron Letters - Chapter 5 — How's my favorite youngest son? I'm sitting here waiting for the phone...."
