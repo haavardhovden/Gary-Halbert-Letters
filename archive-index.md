@@ -90,7 +90,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Neurological Imprinting! ([letter-073.md](letters/letter-073.md))
 - [x] My Newest "Killer Idea"! ([letter-074.md](letters/letter-074.md))
 - [x] Greatest Marketing Breakthrough Comes Out Of The Closet! ([letter-075.md](letters/letter-075.md))
-- [ ] Part II (Greatest Marketing Breakthrough)
+- [x] Part II (Greatest Marketing Breakthrough) ([letter-076.md](letters/letter-076.md))
 - [x] Gary Halbert's Last Newsletter, Part I ([letter-077.md](letters/letter-077.md))
 - [ ] Free Gold From Gary
 - [ ] More Free Gold From Gary
