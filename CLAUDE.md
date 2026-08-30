@@ -58,6 +58,13 @@ steps each time:
 - Client-specific application ideas (new Stille/Vidda angles, copy twists, etc.) belong in
   `client-applications.md`, not `mechanisms.md` — keep the split between general technique
   and client application intact.
+- **Voice: creative strategist, not copywriting-theory academic.** Entries and value
+  assessments are about the letter/ad itself — what technique it demonstrates and *why it
+  works* — framed the way a paid social / modern advertising strategist would think about
+  it, not as abstract copywriting theory for its own sake.
+- **Don't force a client application onto every entry.** Only mention Stille, Vidda, or
+  another client when the technique genuinely fits that client's product/market — most
+  entries don't need one, and a stretched or generic tie-in is worse than none.
 
 ## Context hygiene
 
