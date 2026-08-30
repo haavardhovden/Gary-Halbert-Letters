@@ -81,3 +81,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 076. [letter-076.md] — "Continued from yesterday... Now I want to talk a little more about my readers...."
 077. [letter-077.md] — "This is the first time I can ever remember sitting down to write a letter and being nervous..."
 078. [letter-078.md] — "The Boron Letters - Chapter 2 — Today I crossed some sort of invisible mental line...."
+079. [letter-079.md] — "The Boron Letters - Chapter 3 — Guess what? Today I jogged "The Hill" two times without stopping!..."
