@@ -8,8 +8,11 @@ When the user pastes a Gary Halbert letter (or similar long marketing text) dire
 the chat, treat it as the next letter to process — without the user needing to repeat these
 steps each time:
 
-1. **Check for duplicates.** Search `letters-read.md` and `archive-index.md` (by title and
-   by opening line) to confirm this letter hasn't already been logged or saved.
+1. **Don't block on duplicate-checking.** A quick glance at `letters-read.md` /
+   `archive-index.md` is fine, but completeness matters more than avoiding duplicates — if
+   it's unclear whether a letter was already saved, save it anyway rather than spending time
+   verifying. A duplicate `letters/letter-XXX.md` is a non-issue; a missing letter is the
+   actual failure mode.
 2. **Save it verbatim.** Write the pasted text as-is to the next `letters/letter-XXX.md`
    (zero-padded, next number after the highest existing file in `letters/`).
 3. **Assess its copywriting value.** Yes/no, plus the key techniques it demonstrates (or,
