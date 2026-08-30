@@ -2,6 +2,20 @@
 
 Standing instructions for working in this repo.
 
+## curriculum.md
+
+`curriculum.md` (repo root) is the full 30-day plan. This repo's letters/mechanisms work is
+step 1 (section 1) of it. Sections 2–6 (Ogilvy/Caples/other copywriters, classic ads beyond
+the swipe-file canon, modern DTC ad study via Atria, books, follows/newsletters/courses) are
+later stages — **not started yet**. Don't act on them without being asked.
+
+Going forward, once later stages are underway: `mechanisms.md` is the single running
+knowledge base across *every* stage of the curriculum, not just the Halbert letters —
+techniques from classic ads, modern DTC ad study, and books all land in the same file,
+cross-referenced by source (the existing `Kilde:` convention extends naturally: a book gets
+`Kilde: <title>, ch. X` or similar instead of `letter-XXX.md`). Same numbered-entry format,
+same "new pattern only" bar, same rule about proposing Stille/Vidda-touching changes first.
+
 ## Processing a pasted Gary Halbert letter
 
 When the user pastes a Gary Halbert letter (or similar long marketing text) directly into
