@@ -78,3 +78,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 073. [letter-073.md] — "Sometimes I wonder about myself...."
 074. [letter-074.md] — "Yesterday I had a "killer idea" about how I can help many of my subscribers make a great deal of..."
 075. [letter-075.md] — "It may sound grandiose to say so... but... I honestly believe this issue of my newsletter is going..."
+076. [letter-076.md] — "Continued from yesterday... Now I want to talk a little more about my readers...."

@@ -324,6 +324,14 @@ Bygg opp et ekte, detaljert kostnadsregnestykke for “den vanlige måten” (an
 I stedet for å bare påstå at et vindu snart lukkes, viser han to konkrete historiske eksempler (976-numre, TV-infomercials) som fulgte akkurat samme kurve: åpent og vilt lønnsomt → regulering/konkurranse → “glory days are over.” Bruker det etablerte mønsteret som bevis for at det samme vil skje med den nye kanalen — hastverket blir en konklusjon leseren trekker selv, ikke en påstand han må tro på.
 **Når brukes:** For nye/uslitte kanaler eller metoder — finn 1-2 analoge tidligere “gullaldre” som lukket seg på samme måte, og la leseren se mønsteret selv i stedet for å si “skynd deg.”
 
+### 28. Efficiency vs. Effectiveness (kano-analogien)
+
+**Kilde:** letter-076.md
+
+To kanoer som padler mot samme mål: den ene padler perfekt (ideell J-stroke, maks kraft per tak) men er i feil elv (Mississippi) og kommer aldri frem. Den andre padler med skoene og bare hendene — ingen teknikk i det hele tatt — men er i riktig elv (Ohio) og kommer frem uansett. Poenget: effektiv utførelse i feil kanal taper alltid mot dårlig utførelse i riktig kanal. Underbygget med et konkret regnestykke: en kompis fikk 1 lead per 10 000 e-poster (billig, skalerbart, men svakt), mot Halberts eget direktereklame-brev på 7 % respons — som gjør direktereklame **470 ganger mer effektiv** per utsendelse, selv om e-post er den “mest effektive” (les: billigste/mest skalerbare) kanalen på papiret.
+**Hvorfor det er en annen mekanisme enn #24 (“strategi > copy”):** #24 handler om at strategi slår eksekvering generelt. Denne handler spesifikt om **kanalvalg** — velg riktig kanal/format FØR du optimerer eksekveringen i den, ellers optimerer du deg lenger inn i feil elv.
+**Når brukes:** Som en sjekk før man kaster mer polish på en underpresterende kanal/format — er dette et eksekveringsproblem, eller er hele kanalen feil for målgruppen/budskapet?
+
 ---
 
 ## MODERNE PARALLELL (Alex Cooper / Ad Crate — YouTube)
