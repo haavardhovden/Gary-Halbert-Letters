@@ -332,6 +332,14 @@ To kanoer som padler mot samme mål: den ene padler perfekt (ideell J-stroke, ma
 **Hvorfor det er en annen mekanisme enn #24 (“strategi > copy”):** #24 handler om at strategi slår eksekvering generelt. Denne handler spesifikt om **kanalvalg** — velg riktig kanal/format FØR du optimerer eksekveringen i den, ellers optimerer du deg lenger inn i feil elv.
 **Når brukes:** Som en sjekk før man kaster mer polish på en underpresterende kanal/format — er dette et eksekveringsproblem, eller er hele kanalen feil for målgruppen/budskapet?
 
+### 29. "Positiv avhengighet"-omrammingen (Boron Letters, kapittel 1)
+
+**Kilde:** letter-008.md
+
+Halbert introduserer morgenløping til sønnen sin ved å ta et negativt ladet ord — "avhengighet" — og splitte det i to før leseren rekker å reagere: negativ avhengighet (sigaretter, senker livskvaliteten) vs. positiv avhengighet (trening, øker den). Deretter navngir han mekanismen med tall som gjør påstanden vitenskapelig i stedet for motiverende: beta-endorfiner og noradrenalin, "200 ganger sterkere enn morfin." Effekten: disiplin slutter å kreve viljestyrke — kroppen blir beskrevet som noe som TREKKES mot vanen automatisk, ikke noe leseren må presse seg selv til.
+**Hvorfor det er en annen mekanisme enn #11 (Why Men Crack):** #11 bruker frykt + mekanisme til å forklare et PROBLEM leseren allerede har. Denne bruker ønske + mekanisme til å gjøre en NY, ønsket vane føles uunngåelig i stedet for anstrengende.
+**Når brukes:** Når du selger en vane/rutine (ikke et engangskjøp) og motstanden er "jeg orker ikke være disiplinert" — omdefiner disiplinen som noe kroppen selv vil ha, med en navngitt biologisk/kjemisk mekanisme som bevis.
+
 ---
 
 ## MODERNE PARALLELL (Alex Cooper / Ad Crate — YouTube)
