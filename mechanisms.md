@@ -310,6 +310,20 @@ Ikke krev betaling ved bestilling — utsett belastning/innløsning 30-45 dager,
 - Uenighet løses med SPLIT-TEST, ikke argumentasjon
 - Test på god copy: “Wow, hvor kjøper jeg det?” — ikke “fin annonse”
 
+### 26. Kostnads-strip-fantasien (“Greatest Marketing Breakthrough Comes Out Of The Closet!”)
+
+**Kilde:** letter-075.md
+
+Bygg opp et ekte, detaljert kostnadsregnestykke for “den vanlige måten” (annonsekost, telefonkost, porto, fulfillment — med konkrete tall, lander på et magert overskudd av en stor omsetning). Fjern så hver kostnadslinje én etter én i en eksplisitt “tenk om”-fantasi, til bunnlinjen går fra et magert overskudd til nesten hele omsetningen i ren profitt — FØR mekanismen som faktisk gjør det mulig avsløres. Kontrasten mellom det reelle og fantasi-regnestykket gjør avsløringen langt kraftigere enn å bare påstå “ingen kostnader.”
+**Når brukes:** Når løsningen din eliminerer en kostnad/friksjon markedet tar for gitt — vis dem hele regningen først, fjern den bit for bit, avslør så hvordan.
+
+### 27. Presedens-hastverk (samme brev)
+
+**Kilde:** letter-075.md
+
+I stedet for å bare påstå at et vindu snart lukkes, viser han to konkrete historiske eksempler (976-numre, TV-infomercials) som fulgte akkurat samme kurve: åpent og vilt lønnsomt → regulering/konkurranse → “glory days are over.” Bruker det etablerte mønsteret som bevis for at det samme vil skje med den nye kanalen — hastverket blir en konklusjon leseren trekker selv, ikke en påstand han må tro på.
+**Når brukes:** For nye/uslitte kanaler eller metoder — finn 1-2 analoge tidligere “gullaldre” som lukket seg på samme måte, og la leseren se mønsteret selv i stedet for å si “skynd deg.”
+
 ---
 
 ## MODERNE PARALLELL (Alex Cooper / Ad Crate — YouTube)

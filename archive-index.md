@@ -89,7 +89,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [ ] The Most Important Thing You Need To Know To Make Website Profits
 - [x] Neurological Imprinting! ([letter-073.md](letters/letter-073.md))
 - [x] My Newest "Killer Idea"! ([letter-074.md](letters/letter-074.md))
-- [ ] Greatest Marketing Breakthrough Comes Out Of The Closet!
+- [x] Greatest Marketing Breakthrough Comes Out Of The Closet! ([letter-075.md](letters/letter-075.md))
 - [ ] Part II (Greatest Marketing Breakthrough)
 - [ ] Gary Halbert's Last Newsletter
 - [ ] Free Gold From Gary
