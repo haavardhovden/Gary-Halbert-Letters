@@ -200,12 +200,3 @@ Usikre punkter (tall/påstander som ikke er verifisert i selve samtalen) er merk
   (problem-aware).
 - Claude trodde først Vidda-stolen var tyngre enn en vannflaske (TIDLIG, msg 254–257) — feil,
   korrigert av Håvard.
-
-## Ikke klient-spesifikt, men verdt å vite ved gjennomlesing
-
-- Curriculumet er fra Alex Coopers offentlige liste; Jonathan følger alt Halbert anbefaler unntatt
-  fysisk håndkopiering og bokkjøp (samtale-summary).
-- Suksesskriteriet fra Jonathan: "70 % klar innen dag 30".
-- Provisjonsstruktur nevnt: 10 % av full faktura på kontoer Håvard forvalter som strateg
-  (samtale-summary — ⚠️ VERIFISER detaljer, kun nevnt i sammendraget, ikke i selve meldingene
-  som ble gjennomgått).
