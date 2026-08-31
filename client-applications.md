@@ -70,6 +70,28 @@ Usikre punkter (tall/påstander som ikke er verifisert i selve samtalen) er merk
   kreative vinkler (eksem, varme, klam) fungerer trolig best som **kald trafikk-hooks**, mens
   pris-annonsen er **retargeting-closer**. Foreslått: test begge lag i samme funnel.
 
+- **Fibromyalgi / allodyni** (live sesjon, 31. aug 2026 — ikke fra samtale-eksporten)
+  Ny, ubekreftet vinkel oppdaget via Google AI Mode-research, ikke fra kunde-eksporten.
+  Allodyni (hudoverfølsomhet ved fibromyalgi) er et presist, lite utnyttet smertepunkt — runde/
+  glatte bambusfibre vs. flate bomullsfibre er en reell materialforskjell, ikke bare en
+  markedsføringspåstand. Markedssignal: Ecoy (konkurrent) har uoppfordrede kundeanmeldelser
+  fra fibromyalgi-pasienter (Suzanne Tancred, Kayla) som omtaler produktet positivt for nettopp
+  dette. **Viktig:** disse anmeldelsene er om Ecoy, ikke Stille — brukt kun som bevis på at
+  behovet/markedet finnes, aldri som sosialt bevis for Stille. Ca. 160 000 i Norge har
+  diagnosen (3–5 % av voksne, kilder: revmatiker.no/apotek1.no — ⚠️ VERIFISER spesifikt
+  "Norge i verdenstoppen"-påstanden), ~90 % kvinner, oftest 20–60 år.
+  To forbehold før dette er brief-klart: (1) helsetilstand-targeting kan være begrenset på
+  Meta — sjekk med mediekjøper om det lar seg gjøre presist eller om budskapet må selv-kvalifisere
+  bredere trafikk; (2) unngå kur-/behandlingspåstander, hold språket på opplevd komfort/lindring.
+  Pasientsitater fra forum ("huden føles som et åpent sår") er ikke kildesporet til faktiske
+  tråder ennå — verifiser før ordrett bruk, samme standard som "sove naken"-forumspråket.
+
+- **Nyoperert / restitusjon** (live sesjon, 31. aug 2026 — ikke fra samtale-eksporten)
+  Emosjonell vinkel: nyopererte tilbringer det meste av døgnet i sengen, med sår/sting som gjør
+  vanlig sengetøy ubehagelig, pluss svette fra medisiner/narkose. "Unn deg noe"-psykologi i en
+  sårbar periode, også aktuell som pårørende-gave ("god bedring"). Ikke research-bekreftet
+  utover generell logikk (sår hud + friksjon + svette) — ubekreftet, ikke brief-klar.
+
 ### Konkret copy skrevet i samtalen
 
 - **Første Stille-utkast** (TIDLIG, msg 112, skrevet før rammeverket var lært) — kvinner 40+,
