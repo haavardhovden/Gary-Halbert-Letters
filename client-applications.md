@@ -89,8 +89,16 @@ Usikre punkter (tall/påstander som ikke er verifisert i selve samtalen) er merk
 - **Nyoperert / restitusjon** (live sesjon, 31. aug 2026 — ikke fra samtale-eksporten)
   Emosjonell vinkel: nyopererte tilbringer det meste av døgnet i sengen, med sår/sting som gjør
   vanlig sengetøy ubehagelig, pluss svette fra medisiner/narkose. "Unn deg noe"-psykologi i en
-  sårbar periode, også aktuell som pårørende-gave ("god bedring"). Ikke research-bekreftet
-  utover generell logikk (sår hud + friksjon + svette) — ubekreftet, ikke brief-klar.
+  sårbar periode, også aktuell som pårørende-gave ("god bedring").
+  **Oppdatert markedssignal:** to uoppfordrede Cozy Earth-anmeldelser (konkurrent, ikke Stille)
+  kobler direkte mykhet til kirurgisk restitusjon — Carol Korhumel: *"only Cozy Earth shirts
+  feels soft enough"* etter brystkreft-operasjon; Gloria L: bambusteppet *"soothes my scars,
+  it is a dream indeed"*. Sterkere enn generell logikk alene, siden det nå er ekte kundespråk
+  fra to uavhengige konkurrenter (Ecoy for fibromyalgi, Cozy Earth for nyoperert). Én tredje
+  Cozy Earth-anmeldelse (Jim) ble vurdert og forkastet som støtte — den handler om en
+  kundeservice-klage, ikke om produktets egnethet for restitusjon.
+  Fortsatt ikke brief-klar: samme forbehold som fibromyalgi-vinkelen (unngå medisinske/
+  helbredende påstander, hold språket på komfort/lindring av opplevd ubehag).
 
 ### Konkret copy skrevet i samtalen
 
