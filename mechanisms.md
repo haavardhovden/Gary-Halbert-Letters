@@ -192,6 +192,8 @@ Eksempel: “Ta huset AV markedet for å selge det raskere” (sant: kortere lig
 
 ### 10. “A Starving Crowd”
 
+**Kilde:** letter-082.md (Boron Letters kap. 6 — hamburger-eksempelet og 10-trinns listestigen)
+
 Største fordel i marketing = et publikum som allerede sulter etter produktet.
 Sult måles: **recency** (nylig kjøpt lignende), **frequency** (kjøper ofte), **unit-of-sale** (betaler mye). Recency viktigst.
 **Advarsel:** Liten test viser alltid de beste kundene på lista — forvent svakere tall ved skalering (rollout ≠ test-resultat).
