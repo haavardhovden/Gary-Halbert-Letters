@@ -85,3 +85,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 080. [letter-080.md] — "The Boron Letters - Chapter 4 — It was very nice for all of you to come up yesterday and bring me a birthday cake...."
 081. [letter-081.md] — "The Boron Letters - Chapter 5 — How's my favorite youngest son? I'm sitting here waiting for the phone...."
 082. [letter-082.md] — "The Boron Letters - Chapter 6 — No messing around. I'm going to dive right back into the subject of becoming a \"student of markets\"..."
+083. [letter-083.md] — "The Boron Letters - Chapter 7 — Let's get right back into the subject of becoming a student of markets, especially mailing lists...."

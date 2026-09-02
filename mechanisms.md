@@ -351,6 +351,14 @@ Stol ALDRI på hva folk SIER de foretrekker/kjøper — stol på hva de FAKTISK 
 **Når brukes:** Når kundeundersøkelser eller fokusgrupper motsier faktiske salgs-/atferdsdata — atferd vinner alltid. Godt sjekkpunkt før man designer en batch rundt hva målgruppen "sier" de vil ha.
 *(Samme kapittel har også et sterkt worked example av #10 Starving Crowd — SRDS-listedata med "average unit of sale" × antall kjøpere for å anslå markedsstørrelse — men det er en anvendelse av #10, ikke en egen mekanisme.)*
 
+### 31. Gjentatt annonse = truffet nerve (Boron Letters, kapittel 7)
+
+**Kilde:** letter-083.md
+
+Annonser og DM-pakker som kjører igjen og igjen, måned etter måned, er det sikreste beviset som finnes på at det er penger i et budskap. Ingen betaler for å gjenta en taper. Så: *"Observe the ads that keep repeating."* Halberts poeng er at du ikke trenger å gjette, spørre eller kjøre undersøkelser for å finne hot buttons — markedet har allerede stemt med annonsørens lommebok, og du kan lese resultatet direkte. Deretter: treff samme nerve, bare bedre.
+**Hvorfor det er en annen mekanisme enn #30:** #30 sier stol på kundens kjøp, ikke kundens ord. Denne sier stol på *konkurrentens* gjentatte spend, det er en annen datakilde med samme logikk: atferd med penger bak slår alt som blir sagt. Den er også en annen ting enn swipe file-tenkningen (#2, verktøy 1): swipe file samler *godt skrevne* annonser, denne samler annonser som *beviselig kjører lenge*, uansett håndverk.
+**2026-oversettelse:** Meta Ads Library sin "startet"-dato og impresjonsrange er nøyaktig dette. En konkurrent-annonse som har vært aktiv i seks måneder er verdt mer som research enn ti annonser som ser bra ut og forsvant etter to uker. Se etter det som overlever, ikke det som imponerer.
+
 ---
 
 ## MODERNE PARALLELL (Alex Cooper / Ad Crate — YouTube)
