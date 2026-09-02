@@ -359,6 +359,15 @@ Annonser og DM-pakker som kjører igjen og igjen, måned etter måned, er det si
 **Hvorfor det er en annen mekanisme enn #30:** #30 sier stol på kundens kjøp, ikke kundens ord. Denne sier stol på *konkurrentens* gjentatte spend, det er en annen datakilde med samme logikk: atferd med penger bak slår alt som blir sagt. Den er også en annen ting enn swipe file-tenkningen (#2, verktøy 1): swipe file samler *godt skrevne* annonser, denne samler annonser som *beviselig kjører lenge*, uansett håndverk.
 **2026-oversettelse:** Meta Ads Library sin "startet"-dato og impresjonsrange er nøyaktig dette. En konkurrent-annonse som har vært aktiv i seks måneder er verdt mer som research enn ti annonser som ser bra ut og forsvant etter to uker. Se etter det som overlever, ikke det som imponerer.
 
+### 32. Emosjonelle vendepunkter som målgruppe (Boron Letters, kapittel 8)
+
+**Kilde:** letter-084.md
+
+Folk som nettopp har gått gjennom en stor livsendring er unormalt åpne for tilbud: nybakte foreldre, nygifte, nylig skilt, mistet noen, fått lønnsøkning, gått konkurs, kjøpt ny bil. Halberts eksempel: da SRDS begynte å tilby 120 000 nye navn på gravide hver måned, bestilte han en rapport ("How To Raise Your Child's IQ Before It Is Even Born!") *fordi listen fantes*, ikke omvendt. Produktet ble laget til markedet.
+**Hvorfor det virker:** En livsendring rokker ved vaner og identitet samtidig. Personen er i ferd med å bli noen ny og kjøper ting som hører til den nye rollen, uten å ha etablerte merkelojaliteter i den ennå. Det er recency (#10) anvendt på *livet*, ikke på et tidligere kjøp: markedet er ikke "foreldre", det er "ble forelder for tre uker siden".
+**Hvorfor det er en annen mekanisme enn #10:** Starving Crowd måler sult via kjøpshistorikk. Denne finner sult der det ennå ikke finnes kjøpshistorikk, fordi behovet nettopp oppsto. Det er en annen inngang til samme jakt.
+**2026-oversettelse:** Plattformene har "life events" som målretting, men det mer brukbare er å skrive *hooken* til vendepunktet: "nettopp flyttet hjemmefra", "første sommer med baby", "første telttur med ungene". Vendepunktet gjør callouten skarpere enn demografi.
+
 ---
 
 ## MODERNE PARALLELL (Alex Cooper / Ad Crate — YouTube)
