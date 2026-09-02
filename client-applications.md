@@ -167,6 +167,21 @@ Usikre punkter (tall/påstander som ikke er verifisert i selve samtalen) er merk
   skjult avsender-filter/konvolutt, som ikke finnes i en merket "Sponsored"-post) men i samme
   "familie" av prinsipp — visuell autentisitet senker garden selv når publikum vet det er en
   annonse.
+- **Feedback fra Jonathan på eksem-batchen (2. sept, muntlig gjennomgang):** godkjent og
+  sendt videre. Det som ble trukket fram som riktig: bruk av kundens egne ord, research bak
+  vinkelen, sterkt fokus på problemet + testimonial i første bilde, diversitet i personer,
+  og markering (highlight) av det leseren skal legge ekstra merke til — også at det sto i
+  briefen til design. Ett bilde ble endret, og regelen bak endringen er verdt å ta med:
+  - **Hooken er problemet, ikke produktet.** "Varmen kan gjøre eksemen verre" er det som
+    stopper scrollen. "Prøv kjølende bambus-sengetøy" hooker ingen. Headlinen må derfor eie
+    hierarkiet i bildet (størrelse *og* farge), ikke ligge som én del av noe større. Jonathans
+    versjon: **"Varmen kan gjøre eksemen verre. Derfor bytter mange til kjølende sengetøy i
+    bambus."** Problem først, løsning som konsekvens.
+  - Unngå spørsmål-headlines som krever tolkning ("Hva kan man gjøre i eksemvarmen?") når en
+    påstand gjør jobben mer direkte.
+  - Praktisk: skru opp lysstyrken litt på mørke bilder så teksten er lesbar for mødre i
+    40–50-årsalderen med svakere syn. Målgruppen bestemmer kontrast, ikke estetikken.
+  - Hierarki/farge-poenget gis videre som fast feedback til Felix (design).
 
 ---
 
