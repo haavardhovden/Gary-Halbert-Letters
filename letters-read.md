@@ -111,3 +111,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 106. [letter-106.md] — "Gary Halbert's New Free Teleseminar — My new free teleseminar will happen just 2 1/2 days from now...."
 107. [letter-107.md] — "An Open Letter To Anyone So Insane That He Wants To Become A Gary Halbert Client — I have been working on a marketing concept for nearly half-a-year...."
 108. [letter-108.md] — "Gary's Girlfriend In Motion — If you go to the website... you will see my girlfriend dancing in a Costa Rican rock and roll video...."
+109. [letter-109.md] — "Gary Hates Hurricanes — This may be the most important e-mail you will ever receive. At least from me...."
