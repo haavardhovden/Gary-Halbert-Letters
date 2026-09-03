@@ -100,7 +100,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] An Open Letter To Anyone So Insane That He Wants To Become A Gary Halbert Client ([letter-107.md](letters/letter-107.md))
 - [x] Gary's Girlfriend In Motion ([letter-108.md](letters/letter-108.md))
 - [x] Gary Hates Hurricanes ([letter-109.md](letters/letter-109.md))
-- [ ] Save The World Kill Yourself Now!
+- [x] Save The World  Kill Yourself Now! ([letter-110.md](letters/letter-110.md))
 - [ ] Little Bill Gates
 - [ ] Down & Dirty High Impact Marketing
 - [ ] Jason J. Cox
