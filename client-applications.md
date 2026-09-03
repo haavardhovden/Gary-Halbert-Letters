@@ -157,6 +157,22 @@ Usikre punkter (tall/påstander som ikke er verifisert i selve samtalen) er merk
   ("vannflaske") IKKE er en Stille-vinkel (det er Vidda, se under) — nevnt her fordi Claude
   blandet kontoene sammen midtveis i samtalen (se "Feil å dobbeltsjekke" nederst).
 
+- **E5-versjon av eksem-vinkelen, Håvards utkast (3. sept) og omskriving:**
+  Håvards utkast: *"Eksem og kløe om natten? / Bambussengetøy gir deg: Kjølig og uavbrutt
+  søvn / Ingen svette eller kløe / OEKO-Tex sertifisert og mild mot huden / Bytt sengetøy
+  idag!"* Vurdert som featureliste, ikke AIDA: headlinen navngir symptomet uten mekanisme,
+  Interest mangler (hopper fra symptom til produkt), "ingen kløe" er et løfte sengetøy ikke
+  kan holde, og closingen er én linje uten frist eller risikofjerning (mekanisme 37).
+  Omskriving i samme format:
+  *"Eksem som klør mer om natten? Det er ofte varmen. / Kroppen må ned i temperatur for å
+  sove dypt. Vanlig sengetøy holder på varmen, huden svetter, og kløen våkner. / Bambus puster
+  og leder varmen bort. Kjøligere hud, roligere netter. / ✓ Merkbart kjøligere enn bomull
+  ✓ Mild mot huden, OEKO-TEX-sertifisert ✓ 30 dagers åpent kjøp / Prøv det i 30 netter. Blir
+  nettene ikke bedre, sender du det tilbake."*
+  Regel som falt ut av det: **påstå bare det sengetøyet faktisk gjør** (kjøligere, roligere),
+  aldri det det ikke kan (fjerne kløe). En review som motbeviser løftet koster mer enn
+  løftet gir.
+
 ### Konklusjoner / regler etablert for Stille spesifikt
 
 - Kreative vinkler = kald trafikk-hooks; ren pris-annonse = varm trafikk-closer (MIDT, msg 463).
