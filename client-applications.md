@@ -100,6 +100,19 @@ Usikre punkter (tall/påstander som ikke er verifisert i selve samtalen) er merk
   Fortsatt ikke brief-klar: samme forbehold som fibromyalgi-vinkelen (unngå medisinske/
   helbredende påstander, hold språket på komfort/lindring av opplevd ubehag).
 
+- **Søvnfakta-manus som native ad** (3. sept, Håvards idé under lesing av Boron kap. 16)
+  Et manus bygget på *Interest*-steget i AIDA: interessante, konkrete fakta om søvn. Hvor mye
+  bedre søvn senker stress, hva det gjør med humør, hukommelse, vekt osv. Formatet er native
+  ad/advertorial, altså noe som leses som en artikkel, ikke som en annonse (A-Pile-familien).
+  Vurdering: solid som Interest-blokk, men to ting må på plass før det selger bambus og ikke
+  bare søvn. (1) Tallene må være ekte og siterbare (⚠️ VERIFISER hvert tall mot kilde før
+  bruk, ikke "studier viser"). (2) Det trengs en bro fra "søvn er verdifullt" til "temperatur
+  er det som stjeler den", ellers er det en folkeopplysningsvideo som like gjerne selger
+  madrasser eller magnesium. Broen er mekanismen: kroppen må ned i temperatur for å sove
+  dypt, og det er der sengetøyet kommer inn. Rekkefølge: fakta om søvn (Interest) → fakta om
+  temperatur og søvn (Interest, snevret inn) → "picture with pleasure" av en kjølig natt
+  (Desire) → tydelig, lang close (Action, mekanisme 37).
+
 ### Konkret copy skrevet i samtalen
 
 - **Første Stille-utkast** (TIDLIG, msg 112, skrevet før rammeverket var lært) — kvinner 40+,

@@ -404,6 +404,15 @@ Etter at sand-posen er forklart (Maui-strand som kan kjøpes), sier Halbert hva 
 **Kobling:** #33 grabberen får oppmerksomhet, #36 bruker den. Samme brev viser også grabberens grense: "A Submarine That Flies?" over en pilleannonse er juks, leseren føler seg lurt, og det straffes. Grabberen må være *relevant* for budskapet, og sanden er det fordi den er produktet.
 **2026-oversettelse:** Hooken stopper tommelen, men det er sanselinja som selger. "Kald side av puta hele natta", "dyna som ikke klistrer seg til leggene klokka fire". Skriv hva kroppen kjenner, ikke hva stoffet er laget av.
 
+### 37. Closingen er 25 % av annonsen (Boron Letters, kapittel 16)
+
+**Kilde:** letter-092.md
+
+Halbert sier han lukker bedre enn noen, og at han ofte bruker en fjerdedel av hele annonsen på det. Oppskriften er over-spesifisering: si hvor kupongen er, si fyll den ut, si legg ved betaling, si hvor mye, si hvem sjekken skal stiles til, si bruk konvolutten, si at den ikke trenger frimerke, si legg den i posten. Så: gjør det *nå*, i dag. Og til slutt: hva hen får ved å skynde seg, og hva hen taper ved å vente.
+**Hvorfor det virker:** Leseren har nettopp fått lyst (D i AIDA), og lyst forsvinner fort. Hvert lille "hvordan gjør jeg det egentlig" er et sted der lysten kan lekke ut. Ved å beskrive hvert steg fjerner du alle slike steder, og ved å sette tidsfrist gir du lysten et sted å gå før den kjølner. Det føles overdrevet for skriveren og helt naturlig for leseren, som er opptatt og leser med et halvt øye.
+**Hvorfor det er en annen mekanisme enn #5 (timing):** #5 sier ikke be om salget for tidlig. Denne sier at når du først ber, be *grundig* og *lenge*. De fleste gjør det motsatte: lang pitch, én linje CTA.
+**2026-oversettelse:** "Trykk på lenka under, velg størrelse, legg i handlekurv, 30 dagers åpent kjøp, sendes i morgen hvis du bestiller før kl. 14." Ikke "Kjøp nå". Og i video: closingen er ikke siste sekund, den er siste fjerdedel.
+
 ---
 
 ## MODERNE PARALLELL (Alex Cooper / Ad Crate — YouTube)

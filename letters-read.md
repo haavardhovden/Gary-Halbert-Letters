@@ -94,3 +94,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 089. [letter-089.md] — "The Boron Letters - Chapter 13 — Well, I've found myself a little hideaway near the top of \"The Hill\" and I am sitting cross-legged (yoga style) on a blanket...."
 090. [letter-090.md] — "The Boron Letters - Chapter 14 — Today we are going to talk about that baggie full of dirt that we have attached to our real estate investment sales letter...."
 091. [letter-091.md] — "The Boron Letters - Chapter 15 — Happy Birthday! You know son, you are the joy of my life. I hope you pass your driver's test today...."
+092. [letter-092.md] — "The Boron Letters - Chapter 16 — AIDA. As I said yesterday, it stands for attention, interest, desire, and action...."
