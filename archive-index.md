@@ -97,7 +97,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Two Garys Trying To Make Your Holidays Merry ([letter-104.md](letters/letter-104.md))
 - [x] When The Sun Comes Up... You Better Be Running! ([letter-105.md](letters/letter-105.md))
 - [x] Gary Halbert's New Free Teleseminar ([letter-106.md](letters/letter-106.md))
-- [ ] An Open Letter To Anyone So Insane That He Wants To Become A Gary Halbert Client
+- [x] An Open Letter To Anyone So Insane That He Wants To Become A Gary Halbert Client ([letter-107.md](letters/letter-107.md))
 - [ ] Gary's Girlfriend In Motion
 - [ ] Gary Hates Hurricanes
 - [ ] Save The World Kill Yourself Now!
