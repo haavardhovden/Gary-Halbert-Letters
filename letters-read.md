@@ -105,3 +105,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 100. [letter-100.md] — "The Boron Letters - Chapter 24 — Well, I'm feeling better today. I think these short, frequent days of fasting are really cleaning me out...."
 101. [letter-101.md] — "The Boron Letters - Chapter 25 — Tonight I am going to be writing about something I didn't think I was going to be writing about...."
 102. [letter-102.md] — "Gary Halbert's New Free Teleseminar — I am working on a very important newsletter (maybe two of them) that will be of great interest to every successful marketer of information...."
+103. [letter-103.md] — "(teleseminar-invitasjon, feb 2005) — Would you like to hear me on a live seminar? This week? On Thursday?..."
