@@ -104,3 +104,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 099. [letter-099.md] — "The Boron Letters - Chapter 23 — Well, here I am in my room trying to avoid the heat. I heard it is 114 degrees outside right here and 120 in Palm Springs...."
 100. [letter-100.md] — "The Boron Letters - Chapter 24 — Well, I'm feeling better today. I think these short, frequent days of fasting are really cleaning me out...."
 101. [letter-101.md] — "The Boron Letters - Chapter 25 — Tonight I am going to be writing about something I didn't think I was going to be writing about...."
+102. [letter-102.md] — "Gary Halbert's New Free Teleseminar — I am working on a very important newsletter (maybe two of them) that will be of great interest to every successful marketer of information...."
