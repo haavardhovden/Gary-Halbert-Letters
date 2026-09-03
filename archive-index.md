@@ -96,7 +96,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [ ] More Free Gold From Gary
 - [x] Two Garys Trying To Make Your Holidays Merry ([letter-104.md](letters/letter-104.md))
 - [x] When The Sun Comes Up... You Better Be Running! ([letter-105.md](letters/letter-105.md))
-- [x] Gary Halbert's New Free Teleseminar ([letter-102.md](letters/letter-102.md))
+- [x] Gary Halbert's New Free Teleseminar ([letter-106.md](letters/letter-106.md))
 - [ ] An Open Letter To Anyone So Insane That He Wants To Become A Gary Halbert Client
 - [ ] Gary's Girlfriend In Motion
 - [ ] Gary Hates Hurricanes
