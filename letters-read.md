@@ -97,3 +97,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 092. [letter-092.md] — "The Boron Letters - Chapter 16 — AIDA. As I said yesterday, it stands for attention, interest, desire, and action...."
 093. [letter-093.md] — "The Boron Letters - Chapter 17 — Yesterday, the last thing I wrote about was how I want you to take the Tova \"facelift ad\" and copy it in your handwriting...."
 094. [letter-094.md] — "The Boron Letters - Chapter 18 — Well, here I am trying to get started again. Once more, I haven't the faintest idea of what I'm going to write about...."
+095. [letter-095.md] — "The Boron Letters - Chapter 19 — Today, as I promised, our subject will be \"You Never Get A Second Chance To Make A First Impression.\"..."
