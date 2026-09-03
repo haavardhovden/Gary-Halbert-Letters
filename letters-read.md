@@ -99,3 +99,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 094. [letter-094.md] — "The Boron Letters - Chapter 18 — Well, here I am trying to get started again. Once more, I haven't the faintest idea of what I'm going to write about...."
 095. [letter-095.md] — "The Boron Letters - Chapter 19 — Today, as I promised, our subject will be \"You Never Get A Second Chance To Make A First Impression.\"..."
 096. [letter-096.md] — "The Boron Letters - Chapter 20 — A long, long time ago Dennis Haslinger told me that most of the most serious mistakes I would make in life would be bad ego decisions...."
+097. [letter-097.md] — "The Boron Letters - Chapter 21 — Here I am again sitting down to write and not knowing what I am going to write about. Yesterday was the hardest day I've had here so far...."
