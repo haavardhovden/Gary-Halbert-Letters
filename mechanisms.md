@@ -128,6 +128,7 @@ Det mest gjentatte enkeltrådet i hele arkivet, på tvers av dusinvis av letters
 Copy er mekanisk håndverk, ikke talent:
 Les kanonen → samle mekanismer/headlines på kort → research produktet → bland kortene til én sterk selg-idé (CSI) → skriv fort, usensurert → rydd i sekvensen: **oppmerksomhet → interesse → tro → bevis → fordeler → bestill → bestill nå**.
 **Nøkkelpoeng:** Må GJØRES, ikke bare forstås. Steg utført ≠ steg forstått intellektuelt.
+**Manglende steg, lagt til fra Boron kap. 15 (letter-091.md):** mellom research og skriving skal det være en *pause*. Nugget notes (ett ord, halve setninger, alt som dukker opp mens du leser), stjernemerk de beste (*, **, ***), og legg så hele prosjektet bort i en dag eller to. Halbert sier den store selg-ideen oftest kommer *da*, ikke ved skrivebordet. Så: research → rangér → slipp → skriv etter AIDA. Pausen er ikke latskap, den er steget der ideen faktisk oppstår.
 
 ### 2. “Fact Sheet / Benefit List / Deal Sheet” (denne du leser nå)
 

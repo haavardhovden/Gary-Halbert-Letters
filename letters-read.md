@@ -93,3 +93,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 088. [letter-088.md] — "The Boron Letters - Chapter 12 — Let's get right back to that real estate letter. I've already pointed out how that little baggie filled with dirt will attract and focus our reader's attention...."
 089. [letter-089.md] — "The Boron Letters - Chapter 13 — Well, I've found myself a little hideaway near the top of \"The Hill\" and I am sitting cross-legged (yoga style) on a blanket...."
 090. [letter-090.md] — "The Boron Letters - Chapter 14 — Today we are going to talk about that baggie full of dirt that we have attached to our real estate investment sales letter...."
+091. [letter-091.md] — "The Boron Letters - Chapter 15 — Happy Birthday! You know son, you are the joy of my life. I hope you pass your driver's test today...."
