@@ -107,3 +107,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 102. [letter-102.md] — "Gary Halbert's New Free Teleseminar — I am working on a very important newsletter (maybe two of them) that will be of great interest to every successful marketer of information...."
 103. [letter-103.md] — "(teleseminar-invitasjon, feb 2005) — Would you like to hear me on a live seminar? This week? On Thursday?..."
 104. [letter-104.md] — "Two Garys Trying To Make Your Holidays Merry — Years ago, in what now seems another life, Jay Abraham asked me to read a sales letter...."
+105. [letter-105.md] — "When The Sun Comes Up... You Better Be Running! — Every morning in Africa, a gazelle wakes up. It knows it must run faster than the fastest lion...."
