@@ -95,3 +95,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 090. [letter-090.md] — "The Boron Letters - Chapter 14 — Today we are going to talk about that baggie full of dirt that we have attached to our real estate investment sales letter...."
 091. [letter-091.md] — "The Boron Letters - Chapter 15 — Happy Birthday! You know son, you are the joy of my life. I hope you pass your driver's test today...."
 092. [letter-092.md] — "The Boron Letters - Chapter 16 — AIDA. As I said yesterday, it stands for attention, interest, desire, and action...."
+093. [letter-093.md] — "The Boron Letters - Chapter 17 — Yesterday, the last thing I wrote about was how I want you to take the Tova \"facelift ad\" and copy it in your handwriting...."
