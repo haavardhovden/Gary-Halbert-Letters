@@ -98,7 +98,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] When The Sun Comes Up... You Better Be Running! ([letter-105.md](letters/letter-105.md))
 - [x] Gary Halbert's New Free Teleseminar ([letter-106.md](letters/letter-106.md))
 - [x] An Open Letter To Anyone So Insane That He Wants To Become A Gary Halbert Client ([letter-107.md](letters/letter-107.md))
-- [ ] Gary's Girlfriend In Motion
+- [x] Gary's Girlfriend In Motion ([letter-108.md](letters/letter-108.md))
 - [ ] Gary Hates Hurricanes
 - [ ] Save The World Kill Yourself Now!
 - [ ] Little Bill Gates

@@ -110,3 +110,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 105. [letter-105.md] — "When The Sun Comes Up... You Better Be Running! — Every morning in Africa, a gazelle wakes up. It knows it must run faster than the fastest lion...."
 106. [letter-106.md] — "Gary Halbert's New Free Teleseminar — My new free teleseminar will happen just 2 1/2 days from now...."
 107. [letter-107.md] — "An Open Letter To Anyone So Insane That He Wants To Become A Gary Halbert Client — I have been working on a marketing concept for nearly half-a-year...."
+108. [letter-108.md] — "Gary's Girlfriend In Motion — If you go to the website... you will see my girlfriend dancing in a Costa Rican rock and roll video...."
