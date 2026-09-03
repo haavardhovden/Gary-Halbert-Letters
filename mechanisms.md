@@ -154,6 +154,7 @@ Alle sorterer post i to bunker: A-Pile (ser personlig ut, åpnes alltid) vs B-Pi
 **Timing = forføring:** varm opp FØR du ber om salget. “Ask too soon, she says no.”
 **Bevis:** redesignet en klients kampanje (samme ord, bare A-Pile-format) → +$96 000/mnd, +$1M/år, 45 minutters arbeid.
 **2026-oversettelse:** UGC som ikke ser ut som reklame = A-Pile. Poleret merkevarereklame = B-Pile.
+**Space ad-versjonen (Boron kap. 18, letter-094.md):** redaksjonelt innhold leses ~5x mer enn annonser, så annonsen skal se ut som en *begeistret artikkel* ("rave review" fra en reporter), ikke som en annonse — og layouten skal fange leseren uten at leseren *legger merke til* layouten. Halbert studerte redaksjonelle oppslag, ikke annonser, når han skulle designe annonser. Sterkeste bevis i arkivet: Coat of Arms-oppfølgingen. 70-produkters firefarge-katalog bombet, 3-produkters brosjyre gikk i null, men et personlig brev med et *fotografi* vedlagt ("tenkte du ville se hvordan Noble-våpenet ser ut i farger, så jeg sender deg dette bildet") dro inn $40M. Jo mer profesjonelt salgsapparatet så ut, jo dårligere gikk det.
 
 ---
 

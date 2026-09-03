@@ -210,7 +210,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Boron Letters - Chapter 15 ([letter-091.md](letters/letter-091.md))
 - [x] Boron Letters - Chapter 16 ([letter-092.md](letters/letter-092.md))
 - [x] Boron Letters - Chapter 17 ([letter-093.md](letters/letter-093.md))
-- [ ] Boron Letters - Chapter 18
+- [x] Boron Letters - Chapter 18 ([letter-094.md](letters/letter-094.md))
 - [ ] Boron Letters - Chapter 19
 - [ ] Boron Letters - Chapter 20
 - [ ] Boron Letters - Chapter 21

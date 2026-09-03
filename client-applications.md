@@ -173,6 +173,15 @@ Usikre punkter (tall/påstander som ikke er verifisert i selve samtalen) er merk
   aldri det det ikke kan (fjerne kløe). En review som motbeviser løftet koster mer enn
   løftet gir.
 
+- **"Picture with pleasure" på NAKEN-annonsene (3. sept, Håvards idé fra Boron kap. 17):**
+  "Sov naken. Sov i bambus."-familien stopper i dag ved frekkheten/hooken. Halberts word
+  pictures (jacuzzi-eksempelet: følelsen av vannet mot bar hud) er det manglende neste
+  leddet: beskriv sanselig hvordan bambus kjennes mot bar hud — glatt, kjølig, ingenting
+  som klistrer. Hooken får oppmerksomheten, sanselinja gjør naken-vinkelen til en
+  *produktopplevelse* i stedet for bare et blikkfang. NB: hold det i Halberts jacuzzi-register
+  (sanselig, ikke seksuelt) — sex-appeal er tidligere vurdert som smal egen test for Stille,
+  ikke hovedspor.
+
 ### Konklusjoner / regler etablert for Stille spesifikt
 
 - Kreative vinkler = kald trafikk-hooks; ren pris-annonse = varm trafikk-closer (MIDT, msg 463).
