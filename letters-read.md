@@ -91,3 +91,5 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 086. [letter-086.md] — "The Boron Letters - Chapter 10 — Well, here I sit for the second day in a row starting my letter to you without knowing exactly what I am going to write about...."
 087. [letter-087.md] — "The Boron Letters - Chapter 11 — As I left you yesterday, we had just came up with a working title for our real estate investment report...."
 088. [letter-088.md] — "The Boron Letters - Chapter 12 — Let's get right back to that real estate letter. I've already pointed out how that little baggie filled with dirt will attract and focus our reader's attention...."
+089. [letter-089.md] — "The Boron Letters - Chapter 13 — Well, I've found myself a little hideaway near the top of \"The Hill\" and I am sitting cross-legged (yoga style) on a blanket...."
+090. [letter-090.md] — "The Boron Letters - Chapter 14 — Today we are going to talk about that baggie full of dirt that we have attached to our real estate investment sales letter...."
