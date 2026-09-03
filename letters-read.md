@@ -89,3 +89,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 084. [letter-084.md] — "The Boron Letters - Chapter 8 — Another digression. I am tired. I was upset after last night's visit plus my roommate was snoring like a buzzsaw...."
 085. [letter-085.md] — "The Boron Letters - Chapter 9 — Well, kiddo, I don't exactly know what I'm going to write about today so what I am going to do is just keep putting words down on paper...."
 086. [letter-086.md] — "The Boron Letters - Chapter 10 — Well, here I sit for the second day in a row starting my letter to you without knowing exactly what I am going to write about...."
+087. [letter-087.md] — "The Boron Letters - Chapter 11 — As I left you yesterday, we had just came up with a working title for our real estate investment report...."
