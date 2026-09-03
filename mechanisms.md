@@ -377,6 +377,15 @@ En liten plastpose med jord stiftet øverst på brevet. Leseren har allerede åp
 **Hvorfor det er en annen mekanisme enn #5:** A-Pile/B-Pile handler om å bli åpnet. Grabberen handler om å bli lest når du først er åpnet. To ulike terskler, to ulike verktøy, og Halbert setter dem opp som steg 1 og steg 2 i samme brev.
 **2026-oversettelse:** Første frame i en video eller det første øyet lander på i en static. Et uventet objekt eller bilde som ikke gir mening før teksten forklarer det (en klumpete dyne i fryseren, et termometer i senga). Testen er den samme som Halberts: får det leseren til å tenke "hva i all verden", og betaler copyen tilbake?
 
+### 34. Situert nærhet: tid, sted og hva du gjør akkurat nå (Boron Letters, kapittel 12)
+
+**Kilde:** letter-088.md
+
+Øverst i hvert brev: ukedag, dato, klokkeslett. I teksten: "akkurat nå sitter jeg i kors på senga i rom 7, dorm 6, og har nettopp løpt bakken fem ganger på 57 minutter og 5 sekunder". Halbert sier det gjør to ting samtidig. Det *binder* leser og skriver (du føler deg nærmere en som forteller hvor hen er). Og det gir teksten *vekt*: en tidsstemplet melding leses som et telegram, ikke som en brosjyre. Sammen med "Dear Bond" i stedet for "Dear Reader" blir resultatet at leseren opplever brevet som skrevet til seg, av en person, i et øyeblikk.
+**Hvorfor det virker:** Reklame er tidløs og avsenderløs, og det er nettopp det som gjør den lett å ignorere. Et konkret øyeblikk og en konkret kropp gjør avsenderen til et menneske, og mennesker lytter til mennesker. Detaljene trenger ikke være relevante for produktet. De trenger bare være sanne og spesifikke.
+**Hvorfor det er en annen mekanisme enn #5 og #17:** A-Pile handler om at *formatet* ikke ser ut som reklame. Coat of Arms handler om at *navnet ditt* står der. Denne handler om at *avsenderen* finnes i tid og rom. Du kan ha begge de to første og fortsatt høres ut som et firma.
+**2026-oversettelse:** Creator-åpningen "sitter i bilen nå, måtte bare si dette" og "filmet dette klokka tre i natt fordi jeg ikke fikk sove" er nøyaktig dette. Det er også grunnen til at UGC med synlig rot i bakgrunnen ofte slår studio: rotet er tidsstempelet.
+
 ---
 
 ## MODERNE PARALLELL (Alex Cooper / Ad Crate — YouTube)
