@@ -103,3 +103,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 098. [letter-098.md] — "The Boron Letters - Chapter 22 — O.K. Buddy, here we go again. That section on propositions and an \"excuse for a deal\" was quite interesting, wasn't it?..."
 099. [letter-099.md] — "The Boron Letters - Chapter 23 — Well, here I am in my room trying to avoid the heat. I heard it is 114 degrees outside right here and 120 in Palm Springs...."
 100. [letter-100.md] — "The Boron Letters - Chapter 24 — Well, I'm feeling better today. I think these short, frequent days of fasting are really cleaning me out...."
+101. [letter-101.md] — "The Boron Letters - Chapter 25 — Tonight I am going to be writing about something I didn't think I was going to be writing about...."
