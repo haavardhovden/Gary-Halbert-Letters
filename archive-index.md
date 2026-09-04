@@ -101,7 +101,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Gary's Girlfriend In Motion ([letter-108.md](letters/letter-108.md))
 - [x] Gary Hates Hurricanes ([letter-109.md](letters/letter-109.md))
 - [x] Save The World  Kill Yourself Now! ([letter-110.md](letters/letter-110.md))
-- [ ] Little Bill Gates
+- [x] Little Bill Gates ([letter-111.md](letters/letter-111.md))
 - [ ] Down & Dirty High Impact Marketing
 - [ ] Jason J. Cox
 - [ ] Engineered Paradigm Changes... Continued
