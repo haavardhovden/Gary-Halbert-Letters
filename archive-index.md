@@ -116,7 +116,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Gary Makes It All Better! ([letter-123.md](letters/letter-123.md))
 - [x] The Easiest Way To Make Money In The World ([letter-124.md](letters/letter-124.md))
 - [x] Money ([letter-125.md](letters/letter-125.md))
-- [ ] Interesting Facts
+- [x] Interesting Facts ([letter-126.md](letters/letter-126.md))
 - [ ] How Plastic Surgery Helped Me Become A World-Class Copywriter!
 - [ ] An Apology
 - [ ] The Shortest [And Most Valuable] Newsletter Gary Halbert Has Ever Written!

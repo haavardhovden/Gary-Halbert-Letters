@@ -460,6 +460,16 @@ En "paradigm change" er at hele rammen rundt deg skifter i mottakerens hode — 
 **Hvorfor det er en annen mekanisme enn #35/#40:** #35 gjør nei dyrt i én transaksjon. #40 begrunner ett tilbud. Denne bygger om *relasjonen* før noe tilbud finnes — den jobber på avsender-nivå, over tid, og endrer hvordan ALLE senere budskap leses.
 **2026-oversettelse:** Organisk innhold som faktisk lærer bort noe (uten gate), håndskrevne takkekort i pakken, refusjon uten krangel rundet opp — alt som gjør at neste annonse leses som "fra dem jeg stoler på". For en DTC-merkevare er dette back-end: kjøp nr. 2 selges av hvordan kjøp nr. 1 ble håndtert.
 
+### 42. Interessant fakta + segue: kjøp interessen med noe sant, og gå så over til salget (Interesting Facts, letter-126)
+
+**Kilde:** letter-126.md (teorien), letter-110.md og letter-125.md (Halbert i praksis: befolkningsgrafen, 40 pengefakta)
+
+Halbert vil at du skal ha en swipe file til: ikke bare headlines og brev, men **interessante fakta**. Hvorfor? Fordi et sant, overraskende faktum er det billigste Interest-steget i AIDA som finnes. "Jell-O koblet til EEG gir hjernebølger som en frisk voksen." Du leser videre. Du kan ikke la være. Så kommer *seguen* — overgangen som binder faktumet til salget: "...og jeg tror webmaster-ekspertene jeg nettopp hørte på hadde dårligere hjernebølger enn Jell-O. Ingen av dem visste dette:" — og nå er du i pitchen uten å ha merket døra.
+**Hvorfor det virker:** Et faktum er ikke reklame. Det er et lite løfte om at avsenderen vet noe du ikke vet — og det er nøyaktig posisjonen du vil selge fra. Faktumet gir også *tillatelse* til å lese en pitch: leseren har allerede fått noe.
+**Regelen (Halberts egne ord):** ikke "søtt", men *gyldig*. Seguen må være en ekte bro, ellers er det ubåten som flyr (#33s grense). Han gir 15 fakta som hjemmelekse — øvelsen er å finne broen, ikke faktumet.
+**Hvorfor det er en egen mekanisme:** #33 grabberen er et fysisk objekt. #36 er sanselig opplevelse av *produktet*. Denne er et *sant faktum om verden* som ikke handler om produktet i det hele tatt — og broen er hele håndverket.
+**2026-oversettelse:** Hook-teksten i en video: "Kroppstemperaturen din må falle 1 grad for at du skal sovne" → "og det er derfor du ligger våken i juli" → produkt. Fakta-hooks slår påstands-hooks i kald trafikk fordi de ikke ber om noe. Bygg lista: hver gang du leser noe som får deg til å stoppe — inn i fakta-fila.
+
 ---
 
 ## MODERNE PARALLELL (Alex Cooper / Ad Crate — YouTube)
