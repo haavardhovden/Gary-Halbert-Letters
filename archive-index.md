@@ -124,7 +124,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Special Report ([letter-131.md](letters/letter-131.md))
 - [x] Urgent Message 9/14/03 PLEASE READ IMMEDIATELY! ([letter-132.md](letters/letter-132.md))
 - [x] Money Making Website Secrets You Will Never Learn From Anyone Else ([letter-133.md](letters/letter-133.md))
-- [ ] Memorial Videos Posted
+- [x] Memorial Videos Posted ([letter-134.md](letters/letter-134.md))
 - [ ] I Deserve A Black Belt In Self Pity!
 - [ ] Disaster Insurance!
 - [ ] Private Details About The Life Of Gary Halbert!
