@@ -123,7 +123,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] The Missing Link To Website Profits ([letter-130.md](letters/letter-130.md))
 - [x] Special Report ([letter-131.md](letters/letter-131.md))
 - [x] Urgent Message 9/14/03 PLEASE READ IMMEDIATELY! ([letter-132.md](letters/letter-132.md))
-- [ ] Money Making Website Secrets You Will Never Learn From Anyone Else
+- [x] Money Making Website Secrets You Will Never Learn From Anyone Else ([letter-133.md](letters/letter-133.md))
 - [ ] Memorial Videos Posted
 - [ ] I Deserve A Black Belt In Self Pity!
 - [ ] Disaster Insurance!
