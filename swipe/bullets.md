@@ -1,0 +1,22 @@
+# Bullets / fascinations — swipe file
+
+Regel (mek. #8 "Let's Do The Twist"): en bullet er et løfte med hull i. Spesifikk nok til å tro,
+åpen nok til at du må kjøpe for å lukke løkka. Aldri en feature.
+
+## Mønstre (med eksempler fra letter-124 FirePlay-copyen og letter-112 Motherload)
+- **Tall + hemmelighet:** "The six 'tricks' which are a man's surest path to..." / "Seven simple ways to get your reader to buy immediately!"
+- **"Hvorfor X... og hvordan Y":** "Why 'pick-up lines' almost never work... and... the ONE 'almost magic' way to approach a woman which works nearly every time!"
+- **Autoritet som ikke vet:** "The real reason why Prozac and Zoloft are so popular! (Almost no one... not even doctors... understands...)"
+- **Det de ikke vil du skal vite:** "One of the most jealously guarded discoveries of sex researchers who had been given almost unlimited research funding..."
+- **Prosent + gruppe:** "What 44% of women wish men knew about..." / "...erection problems 52% of all men (even those under 30) report as their number one source of embarrassment"
+- **Feilen du gjør:** "The 10 most common 'clumsy mistakes' 90% of all men make..." / "The biggest mistake most people make in their advertising!"
+- **Sammenligning som sjokk:** "A simple headline that pulls twice as much as a '50% Off' headline!"
+- **Motsatt av forventet:** "The incredible 'success patterns' which actually give physically unattractive men a HUGE romantic advantage over good-looking hunks!"
+- **Konkret liten ting, stor effekt:** "Why your fingernails might literally be ruining your love life!" / "A 15-minute change in the way you shower and dress which may very likely double your animal attractiveness"
+- **Sanselig navn på metoden:** "The amazing 'Towel-Hanging' trick..." / "The thrilling '18-Hour-Plan'..." — gi teknikken et navn, så blir den et objekt.
+
+## Stille/Vidda — utkast (skriv 10 per uke, behold de 2 beste)
+- "Hvorfor 'mykt' sengetøy ofte er det som gjør deg svett klokka tre... og det ene stoffet som ikke gjør det"
+- "Den 1-graders regelen hudleger kjenner til — og hvorfor den avgjør om du klør i natt"
+- "3 ting i soverommet ditt som holder på varmen (nr. 2 ligger oppå deg)"
+- [Vidda] "Hvorfor de fleste campingstoler er designet for å se bra ut i butikken, ikke for ryggen din etter 4 timer"
