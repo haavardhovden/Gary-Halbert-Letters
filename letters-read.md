@@ -114,3 +114,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 109. [letter-109.md] — "Gary Hates Hurricanes — This may be the most important e-mail you will ever receive. At least from me...."
 110. [letter-110.md] — "Save The World Kill Yourself Now! — I want to show you a graph. I'm putting it right here on the first page of this letter...."
 111. [letter-111.md] — "Little Bill Gates — This message is going to be short and sweet and... for many of you... The Most Electrifying Message I've Ever Written!..."
+112. [letter-112.md] — "Down & Dirty High Impact Marketing — I have never written to you directly before, but I am so excited about something...."

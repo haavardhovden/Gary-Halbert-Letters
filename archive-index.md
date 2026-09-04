@@ -102,7 +102,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Gary Hates Hurricanes ([letter-109.md](letters/letter-109.md))
 - [x] Save The World  Kill Yourself Now! ([letter-110.md](letters/letter-110.md))
 - [x] Little Bill Gates ([letter-111.md](letters/letter-111.md))
-- [ ] Down & Dirty High Impact Marketing
+- [x] Down & Dirty High Impact Marketing ([letter-112.md](letters/letter-112.md))
 - [ ] Jason J. Cox
 - [ ] Engineered Paradigm Changes... Continued
 - [ ] Proof That Gary Halbert Is Really Rather Stupid
