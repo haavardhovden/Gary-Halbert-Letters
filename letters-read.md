@@ -120,3 +120,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 115. [letter-115.md] — "Proof That Gary Halbert Is Really Rather Stupid — I've gotta eat some crow... so... I may as well start chewing...."
 116. [letter-116.md] — "Let's Give Castration A Chance! — My cat is despicable. I hate him. When I first got him, he was the cutest thing I'd ever seen...."
 117. [letter-117.md] — "Direct Response — Find a need and fill it. These six words represent the most valid, core advice...."
+118. [letter-118.md] — "Chapter 11 (Does Size Really Matter?) — OK, the most asked question about sex (it's asked all over the world) is...."

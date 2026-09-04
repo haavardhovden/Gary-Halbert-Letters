@@ -108,7 +108,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Proof That Gary Halbert Is Really Rather Stupid ([letter-115.md](letters/letter-115.md))
 - [x] Let's Give Castration A Chance! ([letter-116.md](letters/letter-116.md))
 - [x] Direct Response ([letter-117.md](letters/letter-117.md))
-- [ ] Chapter 11
+- [x] Chapter 11 ([letter-118.md](letters/letter-118.md))
 - [ ] Chapter 12 Something Important Even Your Doctor Doesn't Know About!
 - [ ] Free Consulting From Gary Halbert
 - [ ] Julie Paris Speaks Her Mind
