@@ -182,6 +182,35 @@ Usikre punkter (tall/påstander som ikke er verifisert i selve samtalen) er merk
   (sanselig, ikke seksuelt) — sex-appeal er tidligere vurdert som smal egen test for Stille,
   ikke hovedspor.
 
+#### 2026-09-04 — Håvards lekse fra Interesting Facts (mek. #42): struts-faktum → bambus
+
+Håvards utkast (ordrett): "An ostrich cannot fly, but it can outrun a race horse. [...] what most
+people think is true, is most often NOT TRUE. For example, most people think they don't sweat at
+night or that they don't wake up at night. But in reality you sweat about 500 ml EVERY NIGHT. And
+you wake up about 30–90 minutes every night. [...] most people sleep in cotton sheets. Heavy, non
+breathable [...] This soaks up all of the 500 ml of sweat each night, and since it doesn't breathe,
+it holds it there. [...] a bacteria paradise. [...] Before cotton and silk was the only option [...]
+now there is a new alternative [...] for 3 reasons. The breathability, the soft feeling and how
+extremely beautiful it looks. This fabric is called Bamboo."
+
+Vurdering (Claude, Halbert-stil):
+- Broen er gyldig, ikke søt. Strutsen handler om "det du tror er sant, er ikke sant" → det du tror
+  om natten din er ikke sant. Ta bort strutsen og argumentet står. Bestått.
+- Svakhet 1: broen er lang. Halbert bruker én setning. Her er det tre før vi er hos leseren.
+- Svakhet 2: tallene. 500 ml/natt og 30–90 min våken er madrass-bransjens tall, ikke forskningens
+  (se swipe/facts.md). Bruk tall som tåler en kommentar fra en lege i kommentarfeltet.
+- Svakhet 3: "bomull er stygt" er en påstand leseren ikke kjenner seg igjen i. Den bryter tilliten
+  faktumet bygde. Angrip det bomull faktisk gjør (holder på fukt), ikke det den ser ut som.
+- Svakhet 4: "3 reasons" og "storming the market" er reklamespråk midt i en tekst som til nå ikke
+  så ut som reklame. Grunnprinsipp 1 brytes akkurat der salget begynner.
+- Styrke: "bacteria paradise" er picture with pleasure snudd på hodet (#36, negativ variant), og
+  det er bildet som selger. Behold det.
+- Bedre struts-versjon foreslått (ikke mer relevant enn Stilles egne søvnfakta, men øvelsen var
+  broen): "Strutsen kan ikke fly. Men den løper fra en veddeløpshest. Det du tror om natten din
+  er like feil: du svetter et par desiliter og våkner flere ganger. Du husker det bare ikke.
+  Lakenet gjør det."
+
+
 ### Konklusjoner / regler etablert for Stille spesifikt
 
 - Kreative vinkler = kald trafikk-hooks; ren pris-annonse = varm trafikk-closer (MIDT, msg 463).
