@@ -113,7 +113,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Free Consulting From Gary Halbert ([letter-120.md](letters/letter-120.md))
 - [x] Julie Paris Speaks Her Mind ([letter-121.md](letters/letter-121.md))
 - [x] Gloomy Sunday ([letter-122.md](letters/letter-122.md))
-- [ ] Gary Makes It All Better!
+- [x] Gary Makes It All Better! ([letter-123.md](letters/letter-123.md))
 - [ ] The Easiest Way To Make Money In The World
 - [ ] Money
 - [ ] Interesting Facts

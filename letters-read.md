@@ -125,3 +125,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 120. [letter-120.md] — "Free Consulting From Gary Halbert — This is an extremely time-sensitive newsletter... so... I'm asking you to please read it right away...."
 121. [letter-121.md] — "Julie Paris Speaks Her Mind — I know because of Gary Halbert (AKA Bert Halgary) you have heard a lot about me and my new product called FirePlay...."
 122. [letter-122.md] — "Gloomy Sunday — I am a person who is passionate about purity. I don't believe in multi-tasking...."
+123. [letter-123.md] — "Gary Makes It All Better! — I need your help. I need a favor from you. And to get it, I'm going to offer you a bribe...."
