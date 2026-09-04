@@ -121,3 +121,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 116. [letter-116.md] — "Let's Give Castration A Chance! — My cat is despicable. I hate him. When I first got him, he was the cutest thing I'd ever seen...."
 117. [letter-117.md] — "Direct Response — Find a need and fill it. These six words represent the most valid, core advice...."
 118. [letter-118.md] — "Chapter 11 (Does Size Really Matter?) — OK, the most asked question about sex (it's asked all over the world) is...."
+119. [letter-119.md] — "Chapter 12: Something Important Even Your Doctor Doesn't Know About! — Oddly enough, I'm going to start this Chapter by writing a little about the country of Malaysia...."

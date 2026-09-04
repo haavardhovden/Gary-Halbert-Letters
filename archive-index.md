@@ -109,7 +109,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Let's Give Castration A Chance! ([letter-116.md](letters/letter-116.md))
 - [x] Direct Response ([letter-117.md](letters/letter-117.md))
 - [x] Chapter 11 ([letter-118.md](letters/letter-118.md))
-- [ ] Chapter 12 Something Important Even Your Doctor Doesn't Know About!
+- [x] Chapter 12 Something Important Even Your Doctor Doesn't Know About! ([letter-119.md](letters/letter-119.md))
 - [ ] Free Consulting From Gary Halbert
 - [ ] Julie Paris Speaks Her Mind
 - [ ] Gloomy Sunday
