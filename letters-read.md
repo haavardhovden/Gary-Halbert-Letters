@@ -130,3 +130,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 125. [letter-125.md] — "Money — A good man has died. His name is Bobby...."
 126. [letter-126.md] — "Interesting Facts — Most good direct response copywriters have a \"swipe file\" of headlines... But what most copywriters don't realize is, they should also have a swipe file of... Interesting Facts!"
 127. [letter-127.md] — "How Plastic Surgery Helped Me Become A World-Class Copywriter! — If you would like to know how plastic surgery helped me become a world-class copywriter, this will be the most exciting message you will ever read...."
+128. [letter-128.md] — "An Apology — I owe many of you a big apology. A short time ago, I wrote a one-page newsletter that appeared in an envelope icon titled \"The Shortest [And Most Valuable] Newsletter Gary Halbert Has Ever Written!\"..."

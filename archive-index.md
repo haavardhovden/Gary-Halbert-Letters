@@ -118,7 +118,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Money ([letter-125.md](letters/letter-125.md))
 - [x] Interesting Facts ([letter-126.md](letters/letter-126.md))
 - [x] How Plastic Surgery Helped Me Become A World-Class Copywriter! ([letter-127.md](letters/letter-127.md))
-- [ ] An Apology
+- [x] An Apology ([letter-128.md](letters/letter-128.md))
 - [ ] The Shortest [And Most Valuable] Newsletter Gary Halbert Has Ever Written!
 - [ ] The Missing Link To Website Profits
 - [ ] Special Report
