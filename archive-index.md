@@ -103,7 +103,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Save The World  Kill Yourself Now! ([letter-110.md](letters/letter-110.md))
 - [x] Little Bill Gates ([letter-111.md](letters/letter-111.md))
 - [x] Down & Dirty High Impact Marketing ([letter-112.md](letters/letter-112.md))
-- [ ] Jason J. Cox
+- [x] Jason J. Cox ([letter-113.md](letters/letter-113.md))
 - [ ] Engineered Paradigm Changes... Continued
 - [ ] Proof That Gary Halbert Is Really Rather Stupid
 - [ ] Let's Give Castration A Chance!
