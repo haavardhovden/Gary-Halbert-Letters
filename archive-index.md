@@ -104,7 +104,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Little Bill Gates ([letter-111.md](letters/letter-111.md))
 - [x] Down & Dirty High Impact Marketing ([letter-112.md](letters/letter-112.md))
 - [x] Jason J. Cox ([letter-113.md](letters/letter-113.md))
-- [ ] Engineered Paradigm Changes... Continued
+- [x] Engineered Paradigm Changes... Continued ([letter-114.md](letters/letter-114.md))
 - [ ] Proof That Gary Halbert Is Really Rather Stupid
 - [ ] Let's Give Castration A Chance!
 - [ ] Direct Response
