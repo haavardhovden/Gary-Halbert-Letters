@@ -121,7 +121,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] An Apology ([letter-128.md](letters/letter-128.md))
 - [x] The Shortest [And Most Valuable] Newsletter Gary Halbert Has Ever Written! ([letter-129.md](letters/letter-129.md))
 - [x] The Missing Link To Website Profits ([letter-130.md](letters/letter-130.md))
-- [ ] Special Report
+- [x] Special Report ([letter-131.md](letters/letter-131.md))
 - [ ] Urgent Message 9/14/03 PLEASE READ IMMEDIATELY!
 - [ ] Money Making Website Secrets You Will Never Learn From Anyone Else
 - [ ] Memorial Videos Posted

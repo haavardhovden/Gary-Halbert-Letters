@@ -15,6 +15,8 @@ Regel (mek. #8 "Let's Do The Twist"): en bullet er et løfte med hull i. Spesifi
 - **Konkret liten ting, stor effekt:** "Why your fingernails might literally be ruining your love life!" / "A 15-minute change in the way you shower and dress which may very likely double your animal attractiveness"
 - **Sanselig navn på metoden:** "The amazing 'Towel-Hanging' trick..." / "The thrilling '18-Hour-Plan'..." — gi teknikken et navn, så blir den et objekt.
 
+- **Blind teaser-bullet, Halberts mal (letter-131):** ta et lite kjent faktum fra research, skjul svaret, spiss tallet. "Three common foods that (if eaten twice weekly) will 100% guarantee you will NEVER have another yeast infection!" / "A popular household pet that is responsible for 53.7% of all yeast infections!" Han fant dem på i brevet, og sier det: noen timers research gir ekte varianter like sterke.
+
 ## Stille/Vidda — utkast (skriv 10 per uke, behold de 2 beste)
 - "Hvorfor 'mykt' sengetøy ofte er det som gjør deg svett klokka tre... og det ene stoffet som ikke gjør det"
 - "Den 1-graders regelen hudleger kjenner til — og hvorfor den avgjør om du klør i natt"

@@ -472,6 +472,17 @@ Halbert vil at du skal ha en swipe file til: ikke bare headlines og brev, men **
 
 ---
 
+### 43. Kjøpslysten har 15–20 sekunders holdbarhet: fjern alt mellom lysten og ordren (Special Report, letter-131)
+
+**Kilde:** letter-131.md (SkyMall-historien, "Delay is the death of a sale", A/B-testen på én bestillingsmåte)
+
+Du sitter på flyet og river ut sju sider fra SkyMall. Sveitserkniv med mobil. Barbérspeil til dusjen. Du SKAL kjøpe dem. Så lander flyet. Leiebil, feil hotellrom, nøkkelkort som ikke virker, varmtvannsberederen hjemme har sprunget lekk, sjefen vil ha rapporten klokka åtte. Sidene ligger krøllet i søpla en uke senere. Du ville ha dem. Du kjøpte dem aldri. Halberts regel: lysten til å kjøpe lever i 15–20 sekunder. Alt som skjer etter det, konkurrerer med 110 000 andre ting.
+**Hvorfor det virker:** Det er ikke overtalelse. Det er tid. Copyen har allerede gjort jobben, og salget tapes i gapet mellom "ja" og "bestilt". Derfor: bare én måte å bestille på (hver A/B-test han har sett), og den måten må være der lysten er. I 2003 var det telefonen ved siden av magasinet. Han har også tall på at vanlig nummer slår 800-nummer 2 til 1, uten å vite hvorfor. Det spiller ingen rolle. Tallet vant.
+**Hvorfor det er en egen mekanisme:** #37 (closingen er 25 % av annonsen) handler om hva du SIER i closingen. Denne handler om hvor mange sekunder og klikk som ligger mellom leserens ja og kvitteringen. To forskjellige tap.
+**2026-oversettelse:** Lysten oppstår i feeden. Hvert steg etterpå (klikk, sidelast, popup, cookie-banner, "velg størrelse", "opprett konto") spiser av de 20 sekundene. Halberts "phone only" er i dag: shop-i-app, forhåndsvalgt variant, gjestekasse, Vipps/Apple Pay som første valg. Og motsatt regel: ikke gi flere valg i det øyeblikket. Ett produkt, én knapp. Sammenlign alltid konvertering fra klikk til kjøp, ikke bare CTR, for det er her SkyMall-sidene dør.
+
+---
+
 ## MODERNE PARALLELL (Alex Cooper / Ad Crate — YouTube)
 
 Bekrefter ALT ovenfor i 2025-språk:
