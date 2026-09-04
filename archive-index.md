@@ -114,7 +114,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Julie Paris Speaks Her Mind ([letter-121.md](letters/letter-121.md))
 - [x] Gloomy Sunday ([letter-122.md](letters/letter-122.md))
 - [x] Gary Makes It All Better! ([letter-123.md](letters/letter-123.md))
-- [ ] The Easiest Way To Make Money In The World
+- [x] The Easiest Way To Make Money In The World ([letter-124.md](letters/letter-124.md))
 - [ ] Money
 - [ ] Interesting Facts
 - [ ] How Plastic Surgery Helped Me Become A World-Class Copywriter!
