@@ -127,3 +127,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 122. [letter-122.md] — "Gloomy Sunday — I am a person who is passionate about purity. I don't believe in multi-tasking...."
 123. [letter-123.md] — "Gary Makes It All Better! — I need your help. I need a favor from you. And to get it, I'm going to offer you a bribe...."
 124. [letter-124.md] — "The Easiest Way To Make Money In The World — This issue is going to teach you something valuable. Really valuable...."
+125. [letter-125.md] — "Money — A good man has died. His name is Bobby...."
