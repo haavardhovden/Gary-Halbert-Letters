@@ -72,7 +72,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [ ] A Sad Day In Direct Response Marketing
 - [ ] Happy To Be Alive!
 - [ ] I Told You So!
-- [ ] The BIG Website Profit Making Secret
+- [x] The BIG Website Profit Making Secret ([letter-129.md](letters/letter-129.md))
 - [ ] Operation Moneysuck!
 - [ ] Sewage Soup!
 - [ ] Cajun Country
