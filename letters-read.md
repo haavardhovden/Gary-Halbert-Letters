@@ -123,3 +123,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 118. [letter-118.md] — "Chapter 11 (Does Size Really Matter?) — OK, the most asked question about sex (it's asked all over the world) is...."
 119. [letter-119.md] — "Chapter 12: Something Important Even Your Doctor Doesn't Know About! — Oddly enough, I'm going to start this Chapter by writing a little about the country of Malaysia...."
 120. [letter-120.md] — "Free Consulting From Gary Halbert — This is an extremely time-sensitive newsletter... so... I'm asking you to please read it right away...."
+121. [letter-121.md] — "Julie Paris Speaks Her Mind — I know because of Gary Halbert (AKA Bert Halgary) you have heard a lot about me and my new product called FirePlay...."

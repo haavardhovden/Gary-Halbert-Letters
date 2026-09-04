@@ -111,7 +111,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Chapter 11 ([letter-118.md](letters/letter-118.md))
 - [x] Chapter 12 Something Important Even Your Doctor Doesn't Know About! ([letter-119.md](letters/letter-119.md))
 - [x] Free Consulting From Gary Halbert ([letter-120.md](letters/letter-120.md))
-- [ ] Julie Paris Speaks Her Mind
+- [x] Julie Paris Speaks Her Mind ([letter-121.md](letters/letter-121.md))
 - [ ] Gloomy Sunday
 - [ ] Gary Makes It All Better!
 - [ ] The Easiest Way To Make Money In The World
