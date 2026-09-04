@@ -122,7 +122,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] The Shortest [And Most Valuable] Newsletter Gary Halbert Has Ever Written! ([letter-129.md](letters/letter-129.md))
 - [x] The Missing Link To Website Profits ([letter-130.md](letters/letter-130.md))
 - [x] Special Report ([letter-131.md](letters/letter-131.md))
-- [ ] Urgent Message 9/14/03 PLEASE READ IMMEDIATELY!
+- [x] Urgent Message 9/14/03 PLEASE READ IMMEDIATELY! ([letter-132.md](letters/letter-132.md))
 - [ ] Money Making Website Secrets You Will Never Learn From Anyone Else
 - [ ] Memorial Videos Posted
 - [ ] I Deserve A Black Belt In Self Pity!
