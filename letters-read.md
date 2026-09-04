@@ -138,3 +138,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 133. [letter-133.md] — "Money Making Website Secrets You Will Never Learn From Anyone Else — If you are interested in making substantial website profits, this will be one of the most important newletters you will ever read. Hark unto me..."
 134. [letter-134.md] — "Memorial Videos Posted (Kevin Halbert, 2007) — Welcome to the Memorial section of the Gary Halbert Letter. Here we have posted videos of the memorial service..." (ikke et Halbert-brev; lagret for komplett arkiv)
 135. [letter-135.md] — "I Deserve A Black Belt In Self Pity! — If you are in direct marketing... and... you don't make a lot of extra profit because of the info in this newsletter... you... are too stupid to deserve to live!..."
+136. [letter-136.md] — "The Dark Side Of Success! — I'm in danger. This is really true. It's not an opening statement I'm using for shock value...."

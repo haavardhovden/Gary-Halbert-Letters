@@ -17,7 +17,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [ ] How To Write Killer Headlines!
 - [ ] Separating World-Class Copywriters From Lesser Brethren!
 - [ ] Gary Halbert's Unfinished Business
-- [ ] The Dark Side Of Success!
+- [x] The Dark Side Of Success! ([letter-136.md](letters/letter-136.md))
 - [ ] A "Fighter Pilot" Attitude!
 - [ ] Missing Gary Halbert Swipe File Resurfaces After More Than A Decade!?
 - [ ] The Wisdom & Wit of Gary Halbert
