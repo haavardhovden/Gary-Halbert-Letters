@@ -106,7 +106,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Jason J. Cox ([letter-113.md](letters/letter-113.md))
 - [x] Engineered Paradigm Changes... Continued ([letter-114.md](letters/letter-114.md))
 - [x] Proof That Gary Halbert Is Really Rather Stupid ([letter-115.md](letters/letter-115.md))
-- [ ] Let's Give Castration A Chance!
+- [x] Let's Give Castration A Chance! ([letter-116.md](letters/letter-116.md))
 - [ ] Direct Response
 - [ ] Chapter 11
 - [ ] Chapter 12 Something Important Even Your Doctor Doesn't Know About!

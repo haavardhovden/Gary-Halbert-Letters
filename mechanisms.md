@@ -449,7 +449,7 @@ Alle gode tilbud trenger en reason-why, ellers tror ingen på dem ("opphørssalg
 
 ### 41. Engineered paradigm change: flipp leseren fra skeptiker til alliert FØR salget (Engineered Paradigm Changes, letter-114)
 
-**Kilde:** letter-114.md
+**Kilde:** letter-116.md (originalen, "Let's Give Castration A Chance!"), letter-114.md (fortsettelsen)
 
 En "paradigm change" er at hele rammen rundt deg skifter i mottakerens hode — fra "selger" til "ærlig mann", fra irritasjon til varme. Halberts poeng er at dette kan *konstrueres* med små, billige handlinger i forkant av salget:
 - **$2,89-brevet:** bilpleiefirmaet "fant" penger i bilen din og sender dem tilbake (rundet OPP til $3). Kostnad: tre dollar. Effekt: du er nå kunde hos "den ærlige fyren", og neste tilbud møter null motstand.

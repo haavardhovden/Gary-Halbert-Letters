@@ -118,3 +118,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 113. [letter-113.md] — "Jason J. Cox — I almost NEVER do what I'm going to do right now...."
 114. [letter-114.md] — "Engineered Paradigm Changes...Continued — This letter is following close on the heels of my last newsletter...."
 115. [letter-115.md] — "Proof That Gary Halbert Is Really Rather Stupid — I've gotta eat some crow... so... I may as well start chewing...."
+116. [letter-116.md] — "Let's Give Castration A Chance! — My cat is despicable. I hate him. When I first got him, he was the cutest thing I'd ever seen...."
