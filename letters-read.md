@@ -122,3 +122,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 117. [letter-117.md] — "Direct Response — Find a need and fill it. These six words represent the most valid, core advice...."
 118. [letter-118.md] — "Chapter 11 (Does Size Really Matter?) — OK, the most asked question about sex (it's asked all over the world) is...."
 119. [letter-119.md] — "Chapter 12: Something Important Even Your Doctor Doesn't Know About! — Oddly enough, I'm going to start this Chapter by writing a little about the country of Malaysia...."
+120. [letter-120.md] — "Free Consulting From Gary Halbert — This is an extremely time-sensitive newsletter... so... I'm asking you to please read it right away...."
