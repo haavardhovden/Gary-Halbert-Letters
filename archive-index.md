@@ -141,7 +141,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] I Suggest You Commit "Image Suicide"! ([letter-148.md](letters/letter-148.md))
 - [x] Blitzkrieg "Paradigm" Change! ([letter-149.md](letters/letter-149.md))
 - [x] I Have Approximately The Same Talent For Management That A Pig Has For Solving Geometry Problems! ([letter-150.md](letters/letter-150.md))
-- [ ] I Didn't Have To Masturbate To Get My Heart Started This Morning!
+- [x] I Didn't Have To Masturbate To Get My Heart Started This Morning! ([letter-151.md](letters/letter-151.md))
 - [ ] Improve Your Response Without Changing A Word Of Your Copy!
 - [ ] Price Is Relative!
 - [ ] "Grabbers!"

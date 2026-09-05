@@ -438,6 +438,8 @@ Halberts definisjon av en god skriver er ikke stil, det er *klarhet*: lett å fo
 **Hvorfor det er en egen mekanisme:** Grunnprinsippene sier hva du skal si. Denne sier hvordan du holder leseren til du er ferdig med å si det. Den er ikke i AIDA, den ligger under hele AIDA.
 **2026-oversettelse:** Voiceover og caption-tekst i video. "Og her er greia." "Så hva skjer?" "Vent, det blir bedre." Det er de samme overgangene, og de gjør samme jobb: ingen pause der tommelen kan ta over.
 
+**Utdypning fra "Heart Started" (letter-151.md, Scott Haines):** Tallfestet versjon. 90 % av amerikanere leser på 7. klasse-nivå eller lavere, så sikt på Flesch-Kincaid grade 6 eller lavere og Reading Ease 70+. Setninger på 14–17 ord eller kortere, avsnitt på 2–4 linjer. Jeff Pauls test: "Ville Homer Simpson forstått dette?" De 10 % smarte blir ikke støtt av enkelt språk hvis de vil ha det du sier. To formatgrep for samme flyt: avslutt aldri en side eller spalte på punktum (da kan leseren legge fra seg brevet når telefonen ringer), og sett "(neste side...)" nederst. "Delay is the death of a sale." 2026: klipp aldri en video der en setning er ferdig. Klipp midt i. Samme grunn.
+
 ### 39. Beslutningen tas i første blikk, lesingen er rettferdiggjøring (Boron Letters, kapittel 19)
 
 **Kilde:** letter-095.md
