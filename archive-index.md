@@ -142,7 +142,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Blitzkrieg "Paradigm" Change! ([letter-149.md](letters/letter-149.md))
 - [x] I Have Approximately The Same Talent For Management That A Pig Has For Solving Geometry Problems! ([letter-150.md](letters/letter-150.md))
 - [x] I Didn't Have To Masturbate To Get My Heart Started This Morning! ([letter-151.md](letters/letter-151.md))
-- [ ] Improve Your Response Without Changing A Word Of Your Copy!
+- [x] Improve Your Response Without Changing A Word Of Your Copy! ([letter-152.md](letters/letter-152.md))
 - [ ] Price Is Relative!
 - [ ] "Grabbers!"
 - [ ] The ABC's Of Protecting Your Customer List!

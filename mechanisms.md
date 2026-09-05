@@ -165,6 +165,8 @@ Alle sorterer post i to bunker: A-Pile (ser personlig ut, åpnes alltid) vs B-Pi
 
 ## HEADLINE-TEKNIKK
 
+**Utdypning fra "Improve Your Response Without Changing A Word" (letter-152.md):** Halberts trakt for hvorfor formatet kommer før copyen: 100 000 betalt → 90 000 levert til posten → 66 000 levert av posten → 33 000 åpnet → 26 000 lest. Alt før "lest" er format og logistikk, ikke ord. Og han skiller de tapene han godtar (vil ikke ha produktet, for dyrt, tom for penger) fra dem han ikke godtar (ikke levert, ikke åpnet, ikke lest). Fire grep som lever i 2026: gjem "salgsapparatet" så det første leseren ser ikke gir "oh yuck" (brosjyren i egen konvolutt = ikke la annonsen se ut som en annonse i første ramme); eye relief (marger, underoverskrifter, fet skrift) så teksten ser lett ut før den leses; foto av avsenderen på brevhodet (personliggjør, gir leseren et ansikt); ekte telefonnummer i brødteksten, ikke et 800-nummer (leseren føler det er trygt å bestille fordi hen kan nå et menneske). Pluss en påstand verdt å teste: 1-års garanti gir både høyere respons og færre returer enn 10 eller 30 dager, fordi fristen glir ut av hodet.
+
 ### 6. “How To Write Killer Headlines”
 
 - **AIDA:** Attention → Interest → Desire → Action
