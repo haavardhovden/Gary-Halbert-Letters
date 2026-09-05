@@ -56,3 +56,28 @@ For Stille: Et sitat om mykhet beviser ikke kjøling. Salgstall beviser ikke hvo
 ### Dømmekraft
 
 TrimSpa-annonsen bruker svært sterke helse- og slankepåstander. Strukturen kan studeres, men påstandene skal ikke kopieres eller behandles som sanne uten dokumentasjon.
+
+
+---
+
+## Brev 140 — Sex And Money!
+
+**Verdi: middels–høy.**
+
+### Ny mekanisme
+
+Attraksjon er ikke nok. Personen i bildet må også oppleves som varm, vennlig og tilgjengelig for den konkrete målgruppen. Ellers får bildet oppmerksomhet, men ikke tilnærming. Lagt inn som CG-03 i [mekanismebasen](mechanisms.md).
+
+### Viktige lærdommer
+
+**Oppmerksomhet som ikke overføres, er bortkastet.** En seksualisert modell kan bli husket mens produktnavnet glemmes. Det er #33s relevansregel gjort målbar: Etter at bildet stopper noen, husker de produktet og budskapet — eller bare bildet?
+
+**Casting følger markedet.** Samme modell og uttrykk kan fungere for unge mannlige øldrikkere og skade en parfymeannonse rettet mot kvinner. Ikke spør om bildet er attraktivt. Spør om den rette målgruppen liker, identifiserer seg med eller ønsker å nærme seg personen.
+
+**Formatet forsterker grabberen.** Halbert sender bildet løst i konvolutten i stedet for å trykke det på brevet. Det gjør det til et objekt og en åpen løkke. Dette er en god demonstrasjon av den eksisterende grabber-mekanismen, ikke en ny mekanisme.
+
+**Gamle kanaler kan få ny kraft når alle forlater dem.** A-pile-mail blir mer synlig når ekte brev blir sjeldnere. Det er en anvendelse av mønsterbrudd og kanalmetning, men ikke dokumentert som en ny mekanisme her.
+
+### Bevisgrense
+
+Halbert hevder at ett modellbilde løftet en kundes salg til over en halv million dollar. Brevet gir ikke før/etter-tall, spend, kontrollvariant eller dokumentasjon på kausalitet. Påstanden er et signal verdt å undersøke, ikke bevis på at bildet alene skapte salget.
