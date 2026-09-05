@@ -559,7 +559,7 @@ Når Fact Sheet er fullt, velg tre fordeler som er sterke, forklarlige og bevisb
 
 ---
 
-### 50. Karbonkopi-brevet: se ut som en oppfølging, ikke en første kontakt (Vanity Radio, letter-146)
+### 50. [TAKTIKK, IKKE COPY] Karbonkopi-brevet: se ut som en oppfølging, ikke en første kontakt (Vanity Radio, letter-146)
 
 **Kilde:** letter-146.md (Ed Mayer, "the Dean of Direct Mail", gjenfortalt av Halbert)
 
@@ -571,7 +571,7 @@ Send et brev som ser ut som en kopi av et tidligere brev, med en lapp: "Her er e
 
 ---
 
-### 51. Annonsér annonsen din: én kanal peker på en annen, og responsen tredobles (Vanity Radio, letter-146)
+### 51. [TAKTIKK, IKKE COPY] Annonsér annonsen din: én kanal peker på en annen, og responsen tredobles (Vanity Radio, letter-146)
 
 **Kilde:** letter-146.md (radiospotter som sier "les Herald Examiner i dag, se etter siden med headlinen ...")
 
