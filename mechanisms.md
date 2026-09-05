@@ -27,6 +27,7 @@ Du kom selv frem til denne rekkefølgen for ny kunde — den matcher Halberts �
 
 1. **Se ikke ut som reklame.** A-Pile/B-Pile, Coat of Arms, Water Ad, UGC — garden må være nede før budskapet leveres.
 2. **Skriv fra markedet, ikke fra hodet.** Movement over meditation, Sales Detective, Do It By Numbers — hent ordene fra kundene, ikke fra kreativitet.
+   **Beviset (You Can't Know What You Don't Know, letter-145):** Halbert ga leserne 50 rapporttitler og ba dem gjette 10 vinnere og 10 tapere. Han selv traff 3 av 10. Frank Cawood, en av de beste i bransjen, traff 0. Ingen gjorde det bra. Konklusjonen hans: den dumme markedsføreren går inn i "den kreative skogen" og drømmer opp svar. Den gode gjetter ikke med kundens penger. Han tester alt: appell, headline, pris, kanal, plassering. Klysteret er apotekets mest lønnsomme vare, gult hus selger best, promillemåleren ble en konkurranse. Ingen kunne gjettet noe av det. Regelen er ikke ny. Beviset er det som gjør at du følger den når det haster.
 
 ---
 

@@ -150,4 +150,4 @@ Referanse: `books/the-boron-letters-2013.md` — hele boka (Bond Halbert Publish
 142. [letter-142.md] — "The Real Truth About Promoting A Website! — ..." (lest via Codex; mye gjenbruk fra letter-056)
 143. [letter-143.md] — "Let's See If We Can't Piss Somebody Off This Month... How About... Women? — John Carlton via Halbert" (lest via Codex; mek. #48 og #49)
 144. [letter-144.md] — "You Don't Have To Get It Perfect, You've Just Got To Get It Going! — ..." (lest via Codex; hele Fact Sheet → brev-prosessen; utdyper #2 og #6)
-145. [letter-145.md] — "You Can't Know What You Don't Know! — I used to drink a lot of beer. Not anymore...." (1988; 50-titler-testen: Halbert 3/10, Frank Cawood 0/10; test, ikke gjett)
+145. [letter-145.md] — "You Can't Know What You Don't Know! — I used to drink a lot of beer. Not anymore...." (1988; 50-titler-testen: Halbert 3/10, Frank Cawood 0/10. HØY verdi: beviset på at ekspertene ikke kan gjette bedre enn deg, så research og test er eneste vei. Håvards vurdering, og riktig.)
