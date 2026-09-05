@@ -140,3 +140,6 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 135. [letter-135.md] — "I Deserve A Black Belt In Self Pity! — If you are in direct marketing... and... you don't make a lot of extra profit because of the info in this newsletter... you... are too stupid to deserve to live!..."
 136. [letter-136.md] — "The Dark Side Of Success! — I'm in danger. This is really true. It's not an opening statement I'm using for shock value...."
 137. [letter-137.md] — "Disaster Insurance! — I hope you have finished reading (and found value) in my last newsletter which was mostly about doing business with \"The Bank For Insane People\"...."
+
+---
+Referanse: `books/the-boron-letters-2013.md` — hele boka (Bond Halbert Publishing, 2013/2014), inkl. forord og Bonds "UPDATE"-kommentarer etter hvert kapittel. Selve brevene er allerede lagret som letter-008, 078–081, 082–101. Bonds kommentarer er ikke lest ennå (kandidat til lørdagens gjennomgang).
