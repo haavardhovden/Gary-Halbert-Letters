@@ -130,6 +130,8 @@ Copy er mekanisk håndverk, ikke talent:
 Les kanonen → samle mekanismer/headlines på kort → research produktet → bland kortene til én sterk selg-idé (CSI) → skriv fort, usensurert → rydd i sekvensen: **oppmerksomhet → interesse → tro → bevis → fordeler → bestill → bestill nå**.
 **Nøkkelpoeng:** Må GJØRES, ikke bare forstås. Steg utført ≠ steg forstått intellektuelt.
 **Manglende steg, lagt til fra Boron kap. 15 (letter-091.md):** mellom research og skriving skal det være en *pause*. Nugget notes (ett ord, halve setninger, alt som dukker opp mens du leser), stjernemerk de beste (*, **, ***), og legg så hele prosjektet bort i en dag eller to. Halbert sier den store selg-ideen oftest kommer *da*, ikke ved skrivebordet. Så: research → rangér → slipp → skriv etter AIDA. Pausen er ikke latskap, den er steget der ideen faktisk oppstår.
+**Utdypning fra "Ground Zero" (letter-147.md):** Steg 1 skal gjøres FØR du kan det. Halbert: kjøp 1 000 konvolutter, skriv adressene selv, skriv brevet i én økt, send. Ikke vent til du "kan skrive". "It is movement that produces expertise. Not meditation." Coat of Arms-brevet virket ikke første gang. Det var feedbacken fra den første utsendelsen som lærte ham hva som manglet. 2026: første annonse skal ut og få ekte tall, ikke poleres. Læringen sitter i responsen, ikke i utkastet.
+Samme brev gir en tredeling av det du fyller kortene med: (1) grunnprinsipper som aldri endres (Hopkins), (2) "what's working now": hvilken variant markedet svarer på akkurat nå (alle vil ha et kupp, men hva som teller som kupp endrer seg), (3) kortene der de to kolliderer. Regel for kilder: lær bare av folk som har satset egne penger. "If a man ain't a player, he can't possibly understand the game."
 
 ### 2. “Fact Sheet / Benefit List / Deal Sheet” (denne du leser nå)
 
@@ -275,6 +277,7 @@ Pris i annonsen ($13,995) = bevisst kvalifisering, ikke skjuling.
 
 Bullets = åpne loops (sier AT noe finnes, aldri HVA).
 **Tap-vinkling:** “Hent det som allerede er ditt” slår “få noe nytt” — tap av eget føles mer akutt enn ny gevinst.
+**Opphavet (letter-147.md):** Annonsen ble ikke funnet opp ved skrivebordet. Akron Beacon Journal fortalte Halbert at hver gang de trykket det offentlige skjemaet "Request for Statement of Earnings", fikk de svar fra 17 % av hele opplaget, selv gjemt på side 74. Halbert bygde annonsen rundt det som allerede trakk: to kuponger nederst, venstre = det gratis skjemaet, høyre = boka til $3. Netto over én million. Mekanikken: finn noe folk allerede svarer på i flokk, og heng tilbudet ditt på det. Det er #10 Starving Crowd i praksis, med et konkret bevis på etterspørsel før én linje copy var skrevet.
 
 ### 21. Water Ad — kamuflasje-annonsen
 

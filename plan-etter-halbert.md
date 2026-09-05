@@ -12,3 +12,5 @@ Kilde: Fable-handoff 4. sept + Codex-handoff 5. sept (detaljer i `chat-gpt/after
 8. **Skriving og testing.** Mange kandidater, stjernemetoden, behold få. Én overføring til ekte klient per dag. Logg hypotese, creative, målgruppe, resultat. Resultater tilbake i Fact Sheet og bankene.
 
 Faste regler underveis: helarkiv-duplikatsjekk med tekstsammenligning når et brev føles kjent (Håvard har ofte rett); ingen helse-/søvn-/hudpåstand uten kilde; "antibakteriell" om bambus brukes ikke; "bedre luft inne enn ute" om Luftig brukes ikke.
+
+**Leseliste og rekkefølge fra Halbert selv (letter-147, 1989):** Scientific Advertising (Hopkins) minst 2–3 ganger FØR noe annet. Deretter: Robert Collier Letter Book, The First Hundred Million (Haldeman-Julius), Breakthrough Advertising (Schwartz), How To Write A Good Advertisement (Schwab), 7 Steps To Freedom (Suarez), My Life In Advertising (Hopkins). Filter for alle andre kilder: har forfatteren satset egne penger på det de lærer bort?

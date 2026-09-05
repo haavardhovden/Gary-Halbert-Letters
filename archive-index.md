@@ -137,7 +137,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] You Don't Have To Get It Perfect, You Just Got To Get It Going! ([letter-144.md](letters/letter-144.md))
 - [x] You Can't Know What You Don't Know! ([letter-145.md](letters/letter-145.md))
 - [x] Vanity Radio! ([letter-146.md](letters/letter-146.md))
-- [ ] The First Step If You Are At Ground Zero!
+- [x] The First Step If You Are At Ground Zero! ([letter-147.md](letters/letter-147.md))
 - [ ] I Suggest You Commit "Image Suicide"!
 - [ ] Blitzkrieg "Paradigm" Change!
 - [ ] I Have Approximately The Same Talent For Management That A Pig Has For Solving Geometry Problems!
