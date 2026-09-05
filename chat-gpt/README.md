@@ -13,8 +13,9 @@ Egen del for brev og oppdateringer fra samarbeidet med ChatGPT. Tidligere arbeid
 
 ## Brev mottatt her
 
-1. [What's Good About The Best Of Them](letters/whats-good-about-the-best-of-them.md) — bilannonse-konkurransen. Renere vedlegg fra brukeren lagret ordrett. Tittelen er identifisert fra innholdet, ikke lagt inn i originalteksten. Dette er ikke «Private Details About The Life Of Gary Halbert».
+1. [Private Details About The Life Of Gary Halbert!](letters/whats-good-about-the-best-of-them.md) — brev 138 i brukerens leserekkefølge; bilannonse-konkurransen. Brukerens tittel og nummerering er styrende.
+2. [Please Unload Weapons And Remove Ski Masks!](letters/letter-139-please-unload-weapons.md) — brev 139.
 
 ## Oppdateringer
 
-Se [vurderinger og lærdommer](updates.md).
+Se [vurderinger og lærdommer](updates.md) og [nye mekanismer](mechanisms.md).
