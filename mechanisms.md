@@ -528,6 +528,7 @@ Et bilde kan stoppe uten å selge. Hvis folk husker modellen og glemmer produkte
 **Test:** Fjern produktnavnet. Hva føler målgruppen om personen? "Jeg liker henne", "jeg vil være henne", "jeg stoler på henne", eller bare "hun er sexy"? Bare det siste er et faresignal. Jonathans "lysere bilder for mødre 40–50" er samme regel.
 
 ---
+**Utdypning fra "Image Suicide" (letter-148.md):** Samme mekanisme sett fra avsenderens side. Halbert til forsikrings- og myntselgere: firmanavn som "First Amalgamated International Fiduciary Bullion..." og brev som høres ut som et advokatfirma skremmer kunden bort, akkurat som den frosne skjønnheten i baren. "People respond to people. Warm people." Svaret på "våre kunder er mer sofistikerte, du kan ikke snakke ned til dem": jo større selskap og jo mer komplekst produkt, jo hardere jobber han for å få salgsbudskapet ned på menneskenivå. Og bonusen ved å slippe imaget: du får lov til å lære av hvem som helst (Halbert satt på nybegynnerkurs hos Ed Mayer som "boy wonder"). 2026: Stille og Vidda skal høres ut som et menneske som har prøvd produktet, ikke som en merkevare som presenterer seg.
 
 ### 47. La CTA-en være første øvelse i det du selger (I Can Be A Real Asshole, letter-141)
 
