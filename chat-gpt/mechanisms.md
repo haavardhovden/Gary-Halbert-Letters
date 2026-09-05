@@ -44,3 +44,18 @@ Halbert skiller mellom et bilde som bare er seksuelt og et bilde der personen og
 **Grense:** Brevets «$500,000 photo» er ikke et kontrollert før/etter-bevis. Bruk hypotesen til casting og testing; ikke som en universell lov om seksualiserte bilder.
 
 **Test:** Hvis produktnavnet fjernes, hva føler målgruppen om personen — «jeg liker henne», «jeg vil være henne», «jeg stoler på henne» eller bare «hun er sexy»? Bare det siste er et faresignal.
+
+
+## CG-04. La CTA-en være første øvelse
+
+**Kilde:** Brev 141, «I Can Be A Real Asshole Sometimes!»
+
+Halbert vil lære leseren å tjene penger med e-post. Den gratis rapporten kan ikke bestilles på telefon, fax eller vanlig post. Leseren må bruke e-post. Dermed blir CTA-en samtidig en mikroøvelse, et første steg og en enkel kvalifisering.
+
+**Mekanismen:** Ikke la neste steg bare hente belønningen. La det få kunden eller eleven til å utføre en liten versjon av atferden du ønsker senere.
+
+**Hvorfor det virker:** Handling skaper en mental investering. Personen går fra passiv leser til deltaker, og du får samtidig bevis på at personen kan og vil bruke kanalen.
+
+**Grense:** Hver ekstra handling skaper også frafall. Steget må enten lære noe, kvalifisere reelt eller gjøre sluttresultatet lettere. Friksjon uten funksjon er bare dårlig UX.
+
+**Test:** Når noen gjør CTA-en, har de allerede begynt å bruke løsningen — eller har de bare fylt ut enda et skjema?
