@@ -1,6 +1,6 @@
 # Chat GPT — oppdateringer
 
-## What's Good About The Best Of Them
+## Brev 138 — Private Details About The Life Of Gary Halbert!
 
 **Kilde:** [brevets fulltekst](letters/whats-good-about-the-best-of-them.md).
 
@@ -31,3 +31,28 @@ Vinnerannonsen har nyhet, konkrete fordeler og tydelig handling. Brevet dokument
 ### Klientkobling — vurdering, ikke verifiserte produktfakta
 
 For Stille: Et sitat om mykhet beviser ikke kjøling. Salgstall beviser ikke hvorfor kundene kjøpte. Beviset må støtte akkurat påstanden. Ingen tidligere Stille-notater er endret.
+
+
+---
+
+## Brev 139 — Please Unload Weapons And Remove Ski Masks!
+
+**Verdi: ja, høy.**
+
+### Ny mekanisme
+
+«Simple, Easy Solutions Which Do NOT Give Them Another Problem.» Kunden kjøper ikke bare hovedresultatet. Kunden kjøper også fraværet av nye oppgaver, valg, læring og friksjon etter kjøpet. Lagt inn som CG-02 i [mekanismebasen](mechanisms.md).
+
+### Viktige lærdommer som ikke er nye mekanismer
+
+**Velg riktig jobb før du skriver.** Halbert oppdaget et annet produkt hos Nutramerica som var bedre å selge enn det han opprinnelig fikk. Det er en sterk demonstrasjon av «strategi før copy» og «marked/tilbud før formulering», som allerede finnes i hovedbasen.
+
+**Lær copy selv om du hyrer den ut.** Kompetansen trengs for å velge og vurdere tekstforfatteren. Men gjør selv bare det du er uerstattelig på. Resten bør delegeres når økonomien tillater det.
+
+**Historiene gjør abstrakt friksjon synlig.** 54 tastetrykk, seks Western Union-kontorer og KFC-kassen lar leseren kjenne problemet før Halbert navngir løsningen. Det er picture-with-pleasure snudd: først lar han deg oppleve irritasjonen.
+
+**Annonsen er også salgsbevis for Halberts honorar.** Han sier ikke bare at han er dyr og god. Han viser en annonse og oppgir 5–6 dollar i omsetning per annonse-dollar. Det gjør prisen på 15 000 dollar pluss royalty lettere å vurdere. Tallene er Halberts egne opplysninger i brevet, ikke uavhengig verifisert.
+
+### Dømmekraft
+
+TrimSpa-annonsen bruker svært sterke helse- og slankepåstander. Strukturen kan studeres, men påstandene skal ikke kopieres eller behandles som sanne uten dokumentasjon.
