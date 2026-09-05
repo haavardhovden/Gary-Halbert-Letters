@@ -10,11 +10,27 @@ Dette starter med en gang siste brev er ferdig.
 - Slå sammen duplikater og svekk påstander som er overgeneralisert.
 - Skill tydelig mellom dokumentert effekt, Halberts påstand og vår egen tolkning.
 
-## 2. Velg brevene som skal leses igjen
+## 2. Egen gjennomgang av psykologien
+
+Samle og forklar hva Halbert faktisk har lært brukeren om psykologi på tvers av alle brevene:
+
+- hva som skaper og holder oppmerksomhet
+- hvorfor mennesker tror eller tviler
+- hvordan begjær, frykt, tap, nysgjerrighet og identitet påvirker handling
+- hvorfor marked, timing og nylige livsendringer påvirker kjøpelyst
+- hvordan friksjon, risiko og mental belastning stopper kjøp
+- hvordan spesifisitet, bevis, reason-why og innrømmelser bygger troverdighet
+- hvordan tilbud, knapphet, gjensidighet og forpliktelse virker
+- forskjellen mellom etisk påvirkning og manipulasjon
+- hva som er Halberts observasjoner, hva som er dokumentert, og hva som bare er vår tolkning
+
+Målet er ikke en liste med triks. Lag en samlet modell av menneskelig atferd som kan brukes til å forstå kunder og vurdere annonser.
+
+## 3. Velg brevene som skal leses igjen
 
 Lag en kort prioritert liste over de mest verdifulle brevene, med én konkret grunn til at hvert brev fortjener en ny lesing.
 
-## 3. Før/etter-test
+## 4. Før/etter-test
 
 Test forståelse, ikke hukommelse. Temaer:
 
@@ -28,7 +44,7 @@ Test forståelse, ikke hukommelse. Temaer:
 
 Spørsmålene skal kreve vurdering og anvendelse, ikke gjengivelse av tilfeldige tall eller formuleringer.
 
-## 4. Fact Sheet for hver klient
+## 5. Fact Sheet for hver klient
 
 Lag ett levende dokument per klient. Kilder skal merkes.
 
@@ -73,7 +89,7 @@ Sorter sitatene etter:
 
 Ikke pynt eller omskriv sitatene. Skill alltid ordrett sitat fra vår tolkning.
 
-## 5. Headline-bank per klient
+## 6. Headline-bank per klient
 
 Fra Fact Sheet og kundespråket:
 
@@ -88,7 +104,7 @@ Fra Fact Sheet og kundespråket:
 
 Hver kandidat må kunne spores tilbake til et faktum, sitat eller dokumentert funn. Ingen oppdiktede påstander.
 
-## 6. Skriving og overføring
+## 7. Skriving og overføring
 
 - Skriv mye, velg hardt og test de beste variantene.
 - Minst én kort overføring til en ekte klient per dag.
