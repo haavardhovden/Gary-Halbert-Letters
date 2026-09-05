@@ -90,3 +90,18 @@ Når Fact Sheet er fullt av detaljer, velg først tre fordeler som er sterke, en
 **Grense:** Tallet tre er et arbeidsverktøy, ikke en naturlov. Én sterk idé slår tre middelmådige, og fordelene må støtte samme hovedidé.
 
 **Test:** Kan en kunde gjengi de tre etter én gjennomlesing, og peker alle mot samme ønskede resultat?
+
+
+## CG-08. Headline = nyhet + stor fordel fra tilbudet
+
+**Kilde:** Brev 144, «You Don’t Have To Get It Perfect, You’ve Just Got To Get It Going!»
+
+Start ikke med ordspill. Se på Deal Sheet og finn det som faktisk er nytt, uvanlig eller verdt å fortelle, og koble det til den største fordelen. Halberts bilheadline sier rett ut hvem som tilbyr hva: en lokal tannlege gir Vegas-tur og ett års bensin til kjøperen av bilen.
+
+**Mekanismen:** Headlinen er en komprimert kunngjøring av det sterkeste i tilbudet. Hvis tilbudet er for ordinært til å gi en nyhetsverdig setning, forbedres tilbudet før teksten.
+
+**Hvorfor det virker:** Nyheten gir grunn til å stoppe. Fordelen gir grunn til å bry seg. Spesifisiteten gjør hendelsen virkelig.
+
+**Grense:** «Nyhet» må være sann og relevant. Et oppfunnet overraskelsesmoment som ikke endrer kjøpsargumentet, er fortsatt en falsk grabber.
+
+**Test:** Kan du peke på den eksakte linjen i Deal Sheet som headlinen kommer fra? Hvis headlinen fjernes, er det underliggende tilbudet fortsatt sterkt?
