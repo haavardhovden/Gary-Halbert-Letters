@@ -156,6 +156,7 @@ Alle sorterer post i to bunker: A-Pile (ser personlig ut, åpnes alltid) vs B-Pi
 **2026-oversettelse:** UGC som ikke ser ut som reklame = A-Pile. Poleret merkevarereklame = B-Pile.
 **Space ad-versjonen (Boron kap. 18, letter-094.md):** redaksjonelt innhold leses ~5x mer enn annonser, så annonsen skal se ut som en *begeistret artikkel* ("rave review" fra en reporter), ikke som en annonse — og layouten skal fange leseren uten at leseren *legger merke til* layouten. Halbert studerte redaksjonelle oppslag, ikke annonser, når han skulle designe annonser. Sterkeste bevis i arkivet: Coat of Arms-oppfølgingen. 70-produkters firefarge-katalog bombet, 3-produkters brosjyre gikk i null, men et personlig brev med et *fotografi* vedlagt ("tenkte du ville se hvordan Noble-våpenet ser ut i farger, så jeg sender deg dette bildet") dro inn $40M. Jo mer profesjonelt salgsapparatet så ut, jo dårligere gikk det.
 
+**Bonds tillegg (Boron 2013, kap. 11/14):** Folk har A-adresse (jobb/privat, sjekkes daglig) og B-adresse (til markedsførere, 500 uleste). "Det er bedre å ligge i spam-mappa til A-adressen enn i innboksen til B-adressen." Oversatt: kom deg inn i feeden folk faktisk ser, før du optimaliserer teksten. Og timing for avsløringen: pitchen vises først når leseren allerede er tent (Desire), ikke før. Online kan du skjule strukturen med mellomtitler som er blinde fordeler ("Hvorfor kundene våre sover bedre") i stedet for "Kjøp nå". Og knappen kan hete "Neste" i stedet for "Kjøp".
 ---
 
 ## HEADLINE-TEKNIKK
@@ -470,6 +471,8 @@ Halbert vil at du skal ha en swipe file til: ikke bare headlines og brev, men **
 **Hvorfor det er en egen mekanisme:** #33 grabberen er et fysisk objekt. #36 er sanselig opplevelse av *produktet*. Denne er et *sant faktum om verden* som ikke handler om produktet i det hele tatt — og broen er hele håndverket.
 **2026-oversettelse:** Hook-teksten i en video: "Kroppstemperaturen din må falle 1 grad for at du skal sovne" → "og det er derfor du ligger våken i juli" → produkt. Fakta-hooks slår påstands-hooks i kald trafikk fordi de ikke ber om noe. Bygg lista: hver gang du leser noe som får deg til å stoppe — inn i fakta-fila.
 
+**Bonds tillegg (Boron 2013, kap. 8):** "So what"-testen etter første utkast: les hver setning og spør "og så?". Og vær ærlig om egne motiver for å se andres: politistudenten ville ha respekt, gratis mat og slippe fartsbøter, ikke "beskytte og tjene". Folk oppgir det korrekte motivet, kjøper på det ekte. Skriv til det ekte.
+**Bonds tillegg (Boron 2013, kap. 14/17):** (1) Skriv hele utkastet i én økt ("copy dump"), så ulike dagers humør ikke lekker inn og gjør teksten usammenhengende. Rediger så 40 ganger. (2) Ha en liste med power-ord som er i tide nå, ikke Halberts fra 1984; bytt ut adjektivene etter utkastet. "Crisis" slår "problem". (3) Eye relief er viktigere enn noen gang: én til to linjer per avsnitt online, korte setninger er mer ettertrykkelige. Kutt til du ville kuttet noe kunden vil vite.
 ---
 
 ### 43. Kjøpslysten har 15–20 sekunders holdbarhet: fjern alt mellom lysten og ordren (Special Report, letter-131)
@@ -481,6 +484,7 @@ Du sitter på flyet og river ut sju sider fra SkyMall. Sveitserkniv med mobil. B
 **Hvorfor det er en egen mekanisme:** #37 (closingen er 25 % av annonsen) handler om hva du SIER i closingen. Denne handler om hvor mange sekunder og klikk som ligger mellom leserens ja og kvitteringen. To forskjellige tap.
 **2026-oversettelse:** Lysten oppstår i feeden. Hvert steg etterpå (klikk, sidelast, popup, cookie-banner, "velg størrelse", "opprett konto") spiser av de 20 sekundene. Halberts "phone only" er i dag: shop-i-app, forhåndsvalgt variant, gjestekasse, Vipps/Apple Pay som første valg. Og motsatt regel: ikke gi flere valg i det øyeblikket. Ett produkt, én knapp. Sammenlign alltid konvertering fra klikk til kjøp, ikke bare CTR, for det er her SkyMall-sidene dør.
 
+**Bonds tillegg (Boron 2013, kap. 12/16/18):** "Mange gode burgersjapper gikk konkurs da konkurrenten over gata fikk drive-thru." Spør alltid: hvordan kan bestilling bli enda enklere? Forhåndsutfylt kasse. Si eksplisitt hva som skjer etter at de har bestilt. Og nyansen på "ett valg": ett produkt i pitchen, men tre prisnivåer (basis, mellom, premium) er greit, og upsell kommer ETTER at betalingsinfo er lagt inn, aldri før. Test alltid én mot flere bestillingsmåter, svaret varierer.
 ---
 
 ## MODERNE PARALLELL (Alex Cooper / Ad Crate — YouTube)

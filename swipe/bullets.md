@@ -17,6 +17,9 @@ Regel (mek. #8 "Let's Do The Twist"): en bullet er et løfte med hull i. Spesifi
 
 - **Blind teaser-bullet, Halberts mal (letter-131):** ta et lite kjent faktum fra research, skjul svaret, spiss tallet. "Three common foods that (if eaten twice weekly) will 100% guarantee you will NEVER have another yeast infection!" / "A popular household pet that is responsible for 53.7% of all yeast infections!" Han fant dem på i brevet, og sier det: noen timers research gir ekte varianter like sterke.
 
+- **Bonds bullet-mønster (Boron 2013, kap. 16):** spesifikt/blindt faktum + fordel. "Only 20 minutes, leaving the rest of the day free." / "A four-line note which cuts refunds in half!" Andrevalg-headlines blir gode bullets. Ikke hele setninger, forkort.
+- **Bonds historie-bytte (kap. 16):** fortell din historie med problemet, og bytt til "du" i det øyeblikket ting blir bedre. "Tenåringene mine... så fant jeg en 40-siders bok. Den viser DEG hvordan..." Rett inn i bullets.
+
 ## Stille/Vidda — utkast (skriv 10 per uke, behold de 2 beste)
 - "Hvorfor 'mykt' sengetøy ofte er det som gjør deg svett klokka tre... og det ene stoffet som ikke gjør det"
 - "Den 1-graders regelen hudleger kjenner til — og hvorfor den avgjør om du klør i natt"
