@@ -143,3 +143,10 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 
 ---
 Referanse: `books/the-boron-letters-2013.md` — hele boka (Bond Halbert Publishing, 2013/2014), inkl. forord og Bonds "UPDATE"-kommentarer etter hvert kapittel. Selve brevene er allerede lagret som letter-008, 078–081, 082–101. Bonds kommentarer er ikke lest ennå (kandidat til lørdagens gjennomgang).
+138. [letter-138.md] — "What's Good About The Best Of Them! — I must confess, I've changed my mind about what I was going to write about in this month's newsletter...." (bilannonse-konkurransen, Brekke/IRS. Håvard leste den som "Private Details About The Life Of Gary Halbert!"; det offisielle arkivet kaller den "What's Good About The Best Of Them!". Lest via ChatGPT/Codex 5. sept.)
+139. [letter-139.md] — "Please Unload Weapons And Remove Ski Masks! — ..." (lest via Codex; mek. #45 løsning uten ny jobb)
+140. [letter-140.md] — "Sex And Money! — ..." (lest via Codex; mek. #46 attraksjon + tilnærming)
+141. [letter-141.md] — "I Can Be A Real Asshole Sometimes! — ..." (lest via Codex; mek. #47 CTA som første øvelse)
+142. [letter-142.md] — "The Real Truth About Promoting A Website! — ..." (lest via Codex; mye gjenbruk fra letter-056)
+143. [letter-143.md] — "Let's See If We Can't Piss Somebody Off This Month... How About... Women? — John Carlton via Halbert" (lest via Codex; mek. #48 og #49)
+144. [letter-144.md] — "You Don't Have To Get It Perfect, You've Just Got To Get It Going! — ..." (lest via Codex; hele Fact Sheet → brev-prosessen; utdyper #2 og #6)

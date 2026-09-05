@@ -1,3 +1,5 @@
+> **Merget 5. sept 2026:** brevene her er kopiert til `letters/letter-138.md` til `letter-144.md`, mekanismene CG-01–08 er lagt inn i `mechanisms.md` som #44–49 (CG-05 og CG-08 som utdypninger under #28 og #6). Mappen beholdes som historikk.
+
 # Chat GPT
 
 Egen del for brev og oppdateringer fra samarbeidet med ChatGPT. Tidligere arbeid beholdes urørt.

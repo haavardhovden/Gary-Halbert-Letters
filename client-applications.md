@@ -312,3 +312,20 @@ Vurdering (Claude, Halbert-stil):
   (problem-aware).
 - Claude trodde først Vidda-stolen var tyngre enn en vannflaske (TIDLIG, msg 254–257) — feil,
   korrigert av Håvard.
+
+---
+
+## Luftig (ventilasjonsfilter) — fra ChatGPT/Codex-økten 5. sept 2026
+
+Hovedsalgspunkt: det er superenkelt å bytte selv.
+
+**Big Idea utviklet i chatten:** en oppgave du trodde krevde en mann eller montør, er så enkel at du fikser den selv.
+Emosjonell motor: selvstendighet, mestring, litt skadefryd, spare penger, omsorg for hjem/familie.
+
+**Headline-retning:** "Han sa han skulle bytte ventilasjonsfilteret. Du gjorde det selv." Kort: "Han utsatte filterbyttet. Du fikset det selv."
+**Hypotese:** Vi tror mestringsvinkelen slår vanlig enkelhetscopy blant kvinner, fordi den gjør filterbyttet til en liten personlig seier, ikke en vedlikeholdsoppgave.
+**Static-struktur:** headline over; USP 1 bytt helt selv; USP 2 spar penger på å gjøre det selv; USP 3 slipp å huske neste bytte (BARE hvis Luftig faktisk har påminnelse/abonnement); CTA "Finn riktig filter til boligen din".
+**UGC-hook:** "Mannen min har sagt i flere uker at han skal bytte ventilasjonsfilteret. Så vet du hva? Jeg gjorde det selv. Og det var nesten latterlig enkelt."
+
+**Sannhetsgrenser:** ikke "familien puster bedre luft inne enn ute"; "renere luft hjemme" krever dokumentasjon og riktig bruk; "spar penger" krever at alternativet faktisk er betalt montør; "aldri tenke på det igjen" krever automatisk levering. Test kjønnet variant mot kjønnsnøytral mestringsvariant.
+**Mekanisme:** #45 (løsning som ikke gir kunden en ny jobb) er kjernen. Filteret er bare enkelt hvis hun slipper å huske neste bytte.

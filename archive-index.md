@@ -127,14 +127,14 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Memorial Videos Posted ([letter-134.md](letters/letter-134.md))
 - [x] I Deserve A Black Belt In Self Pity! ([letter-135.md](letters/letter-135.md))
 - [x] Disaster Insurance! ([letter-137.md](letters/letter-137.md))
-- [ ] Private Details About The Life Of Gary Halbert!
-- [ ] What's Good About The Best Of Them!
-- [ ] Please Unload Weapons And Remove Ski Masks!
-- [ ] Sex And Money!
-- [ ] I Can Be A Real Asshole Sometimes!
-- [ ] The Real Truth About Promoting A Website!
-- [ ] Let's See If We Can't Piss Somebody Off This Month... How About... Women?
-- [ ] You Don't Have To Get It Perfect, You Just Got To Get It Going!
+- [ ] Private Details About The Life Of Gary Halbert! (Håvard leste bilannonse-brevet under denne tittelen 5. sept; teksten er lagret som letter-138 under det offisielle navnet)
+- [x] What's Good About The Best Of Them! ([letter-138.md](letters/letter-138.md))
+- [x] Please Unload Weapons And Remove Ski Masks! ([letter-139.md](letters/letter-139.md))
+- [x] Sex And Money! ([letter-140.md](letters/letter-140.md))
+- [x] I Can Be A Real Asshole Sometimes! ([letter-141.md](letters/letter-141.md))
+- [x] The Real Truth About Promoting A Website! ([letter-142.md](letters/letter-142.md))
+- [x] Let's See If We Can't Piss Somebody Off This Month... How About... Women? ([letter-143.md](letters/letter-143.md))
+- [x] You Don't Have To Get It Perfect, You Just Got To Get It Going! ([letter-144.md](letters/letter-144.md))
 - [ ] You Can't Know What You Don't Know!
 - [ ] Vanity Radio!
 - [ ] The First Step If You Are At Ground Zero!
