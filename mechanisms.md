@@ -483,6 +483,8 @@ Halbert vil at du skal ha en swipe file til: ikke bare headlines og brev, men **
 **Bonds tillegg (Boron 2013, kap. 14/17):** (1) Skriv hele utkastet i én økt ("copy dump"), så ulike dagers humør ikke lekker inn og gjør teksten usammenhengende. Rediger så 40 ganger. (2) Ha en liste med power-ord som er i tide nå, ikke Halberts fra 1984; bytt ut adjektivene etter utkastet. "Crisis" slår "problem". (3) Eye relief er viktigere enn noen gang: én til to linjer per avsnitt online, korte setninger er mer ettertrykkelige. Kutt til du ville kuttet noe kunden vil vite.
 ---
 
+**Utdypning fra "Blitzkrieg Paradigm" (letter-149.md):** Hva er "news"? Ikke det som skjedde nylig. Det leseren ikke visste. Forelskelse gir en kjemisk effekt i ca. 90 dager. Det har vært sant i tusenvis av år, men er det nytt for deg, er det news. Halbert plukker aksjer etter samme regel: selskapet må ha en sann, sterk historie som nesten ingen har hørt. Tannlegeannonsen hans var "old news to dentists" og helt ukjent for pasientene. Regel for research: du trenger ikke finne noe nytt. Du trenger å finne det som er sant og ukjent for målgruppen. Det er som regel ting bransjen tar for gitt.
+
 ### 43. Kjøpslysten har 15–20 sekunders holdbarhet: fjern alt mellom lysten og ordren (Special Report, letter-131)
 
 **Kilde:** letter-131.md (SkyMall-historien, "Delay is the death of a sale", A/B-testen på én bestillingsmåte)
