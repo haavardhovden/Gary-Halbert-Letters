@@ -108,3 +108,31 @@ Gjør veien til belønningen til en liten praktisk øvelse i selve atferden du v
 ### Det vi ikke vet ennå
 
 De 19 faktaene peker mot en hybrid mellom e-post, post, segmentering og rask oppfølging. Halbert avslører ikke hele systemet i brevet; han tilbyr rapporten. Derfor lagrer vi ikke vår egen rekonstruksjon som om den var hans metode.
+
+
+---
+
+## Brev 142 — The Real Truth About Promoting A Website!
+
+**Verdi: middels.** Brevet er nytt, men den lange «Free Website Reveals»-annonsen og print-til-nett-grepet var allerede lest i letter-056. Brevet utdyper at promotering skaffer første besøk, mens sant, nyttig og unikt innhold må fortjene gjenbesøk og anbefalinger. Påstandene om trafikkrangering er ikke dokumentert.
+
+---
+
+## Brev 143 — Let’s See If We Can’t Piss Somebody Off This Month… How About… Women?
+
+**Forfatter:** John Carlton, publisert av Gary Halbert.
+
+**Verdi: høy.**
+
+### Nye mekanismer
+
+**Kontrollert lidenskap:** Leseren skal merke at avsenderen brenner for saken, men ikke bli overkjørt. Lidenskapen holder oppmerksomheten; ro og logikk fører salget. CG-06.
+
+**Tre fordeler som komprimeringsverktøy:** Når researchen er enorm, destilleres den først til tre sterke, forklarlige og bevisbare fordeler. De blir grunnmuren for USP, headline og pitch. CG-07.
+
+### Andre lærdommer
+
+- Ikke anta at du forstår et marked fordi du kjenner mennesker i det. Les mediene deres, cover-blurbs og annonser som går igjen.
+- «Kvinner føler, menn tenker» og tallene om 9 mot 200 følelser er grove, udokumenterte kjønnsstereotypier. Den holdbare lærdommen er å undersøke målgruppens følelsesspråk direkte.
+- Features uten følelse blir dødt. Følelse uten fakta gjør produktet uklart. God copy trenger begge.
+- Passasje om annonser som går måned etter måned bekrefter den eksisterende regelen: lang levetid er et signal om at noe trolig virker, men ikke et komplett resultatbevis.
