@@ -9,12 +9,12 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [ ] A Starving Crowd (AKA The One Advantage)
 - [ ] Hands On Experience For A Basic Education In Advertising Principles!
 - [ ] Do It By The Numbers!
-- [ ] The Big Idea
+- [x] The Big Idea ([letter-011.md](letters/letter-011.md))
 - [ ] Let's Do The Twist!
 - [ ] Why You Must Eliminate The "Human Deadwood" From Your Life!
 - [ ] Gary Halbert's Famous Personal Ad
 - [ ] The Secrets of The Water Ad!
-- [ ] How To Write Killer Headlines!
+- [x] How To Write Killer Headlines! ([letter-010.md](letters/letter-010.md))
 - [ ] Separating World-Class Copywriters From Lesser Brethren!
 - [ ] Gary Halbert's Unfinished Business
 - [x] The Dark Side Of Success! ([letter-136.md](letters/letter-136.md))
