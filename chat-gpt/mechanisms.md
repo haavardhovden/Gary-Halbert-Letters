@@ -59,3 +59,34 @@ Halbert vil lære leseren å tjene penger med e-post. Den gratis rapporten kan i
 **Grense:** Hver ekstra handling skaper også frafall. Steget må enten lære noe, kvalifisere reelt eller gjøre sluttresultatet lettere. Friksjon uten funksjon er bare dårlig UX.
 
 **Test:** Når noen gjør CTA-en, har de allerede begynt å bruke løsningen — eller har de bare fylt ut enda et skjema?
+
+
+## CG-05. Inngangskanalen trenger ikke være brukskanalen
+
+**Kilde:** Brev 142, «The Real Truth About Promoting A Website!» og tidligere letter-056.
+
+Skill mellom stedet kunden oppdager deg og stedet kunden konsumerer eller kjøper. Halbert bruker print til å drive folk til nett. Mekanismen er krysskanal, ikke «print er best».
+
+**Test:** Hvor er målgruppen mottakelig for å oppdage tilbudet, og har vi uten grunn antatt at dette må være samme sted som kjøpet?
+
+## CG-06. Lidenskap under kontroll
+
+**Kilde:** Brev 143, John Carlton via Halbert.
+
+Copy skal ha energi, men avsenderen skal fortsatt virke i kontroll. Leseren skal ane et glimt i øyet og knapt tilbakeholdt begeistring, ikke bli ropt i ansiktet.
+
+**Hvorfor:** Lidenskap gjør budskapet menneskelig og smittende. Kontroll gjør det troverdig og lar argumentet arbeide.
+
+**Test:** Merker leseren ekte begeistring samtidig som hun føler seg rolig ledet gjennom påstand, bevis, innvending og handling?
+
+## CG-07. Tre fordeler som komprimeringsverktøy
+
+**Kilde:** Brev 143, John Carlton via Halbert.
+
+Når Fact Sheet er fullt av detaljer, velg først tre fordeler som er sterke, enkle å forklare og mulig å bevise. Bruk dem som grunnmur for USP, headline og hovedpitch. Flere fordeler kan komme senere.
+
+**Hvorfor:** Tre tvinger fram prioritering uten å redusere produktet til én tilfeldig egenskap. Det skaper rytme og en struktur hjernen kan holde samlet.
+
+**Grense:** Tallet tre er et arbeidsverktøy, ikke en naturlov. Én sterk idé slår tre middelmådige, og fordelene må støtte samme hovedidé.
+
+**Test:** Kan en kunde gjengi de tre etter én gjennomlesing, og peker alle mot samme ønskede resultat?
