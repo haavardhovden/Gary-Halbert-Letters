@@ -30,7 +30,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [ ] The Amazing Secret Of A Marketing Genius Who Is Afraid To Fly
 - [ ] How You Should Start Everyday For The Rest Of Your Life!
 - [ ] My Most Important Newsletter
-- [ ] It Was A Veritable Orgy Of Ideas!
+- [x] It Was A Veritable Orgy Of Ideas! ([letter-029.md](letters/letter-029.md))
 - [ ] Something Worth Thinking About
 - [ ] Great News for Fans of The Gary Halbert Letter
 - [ ] Giving It Your Best Shot On Your Very First Test!
