@@ -19,6 +19,7 @@ Egen del for brev og oppdateringer fra samarbeidet med ChatGPT. Tidligere arbeid
 4. [I Can Be A Real Asshole Sometimes!](letters/letter-141-real-asshole.md) — brev 141.
 5. [The Real Truth About Promoting A Website!](letters/letter-142-real-truth-promoting-website.md) — brev 142. Deler av annonsen var allerede lest i letter-056.
 6. [Let’s See If We Can’t Piss Somebody Off This Month… How About… Women?](letters/letter-143-piss-off-women.md) — brev 143. Skrevet av John Carlton og publisert av Halbert.
+7. [You Don’t Have To Get It Perfect, You’ve Just Got To Get It Going!](letters/letter-144-get-it-going.md) — brev 144.
 
 ## Oppdateringer
 
