@@ -329,3 +329,6 @@ Emosjonell motor: selvstendighet, mestring, litt skadefryd, spare penger, omsorg
 
 **Sannhetsgrenser:** ikke "familien puster bedre luft inne enn ute"; "renere luft hjemme" krever dokumentasjon og riktig bruk; "spar penger" krever at alternativet faktisk er betalt montør; "aldri tenke på det igjen" krever automatisk levering. Test kjønnet variant mot kjønnsnøytral mestringsvariant.
 **Mekanisme:** #45 (løsning som ikke gir kunden en ny jobb) er kjernen. Filteret er bare enkelt hvis hun slipper å huske neste bytte.
+
+**Håvards råidé (ordrett fra Codex-chatten):** "Gjør det selv." "Vis mannen at kvinner også kan gjøre slike ting." "Bare se for deg ansiktet hans når du har byttet ventilasjonsfilter helt selv." Pluss spare penger, slippe å tenke på det igjen, familien puster bedre luft. Hans viktigste egenrettelse etter første annonseforsøk: si veldig raskt at det handler om VENTILASJONSFILTER. En god emosjonell hook hjelper ikke hvis kategorien er uklar.
+**UGC-script etter hooken:** vis filteret, hvor det sitter, hvor få steg, mestringsreaksjonen, konkret produktfordel, CTA for riktig filter.
