@@ -139,7 +139,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Vanity Radio! ([letter-146.md](letters/letter-146.md))
 - [x] The First Step If You Are At Ground Zero! ([letter-147.md](letters/letter-147.md))
 - [x] I Suggest You Commit "Image Suicide"! ([letter-148.md](letters/letter-148.md))
-- [ ] Blitzkrieg "Paradigm" Change!
+- [x] Blitzkrieg "Paradigm" Change! ([letter-149.md](letters/letter-149.md))
 - [ ] I Have Approximately The Same Talent For Management That A Pig Has For Solving Geometry Problems!
 - [ ] I Didn't Have To Masturbate To Get My Heart Started This Morning!
 - [ ] Improve Your Response Without Changing A Word Of Your Copy!

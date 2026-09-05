@@ -1,4 +1,4 @@
-# The Blitzkrieg Paradigm
+# Blitzkrieg "Paradigm" Change!
 
 From:
 Way-West and North of Jewfish Creek
