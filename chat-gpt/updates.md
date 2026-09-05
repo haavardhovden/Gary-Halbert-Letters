@@ -136,3 +136,37 @@ De 19 faktaene peker mot en hybrid mellom e-post, post, segmentering og rask opp
 - «Kvinner føler, menn tenker» og tallene om 9 mot 200 følelser er grove, udokumenterte kjønnsstereotypier. Den holdbare lærdommen er å undersøke målgruppens følelsesspråk direkte.
 - Features uten følelse blir dødt. Følelse uten fakta gjør produktet uklart. God copy trenger begge.
 - Passasje om annonser som går måned etter måned bekrefter den eksisterende regelen: lang levetid er et signal om at noe trolig virker, men ikke et komplett resultatbevis.
+
+
+---
+
+## Brev 144 — You Don’t Have To Get It Perfect, You’ve Just Got To Get It Going!
+
+**Verdi: svært høy.** Dette er et av de mest komplette prosessbrevene. Det overlapper med letter-037 og den eksisterende Fact Sheet → Benefit List → Deal Sheet-prosessen, men fullfører kjeden fra research til ferdig salgsbrev.
+
+### Ny mekanisme
+
+Headline bygges ved å hente det mest nyhetsverdige og den største fordelen direkte fra tilbudet. Hvis tilbudet ikke gir deg noe viktig å si, stopper du skrivingen og forbedrer tilbudet. Lagt inn som CG-08.
+
+### Prosessen brevet viser
+
+1. Fact Sheet: én fakta per kort.
+2. Benefit List: én fordel per kort.
+3. Deal Sheet: sterkeste skriftlige tilbud.
+4. Headline: nyhet + stor fordel.
+5. Subheadline: neste sterke fordel.
+6. Avsender: ekte navn, rolle og sted.
+7. Første setning: hva leseren får ved å fortsette.
+8. Utdyp løftet.
+9. Svar på «Hvorfor er tilbudet så godt?»
+10. Ranger kortene og list fakta/fordeler med det sterkeste først.
+11. Gi en sann reason-why som fjerner spørsmålstegnet.
+12. Be om handling og gi en ekte grunn til å gjøre det nå.
+13. Bruk P.S. til en ny detalj om hvorfor leseren bør handle nå.
+
+### Dømmekraft
+
+- «Hva du har å si» slår formulering. Et ordinært tilbud blir ikke stort av clever copy.
+- Spesifikk identitet gjør avsenderen virkelig: «lokal tannlege» slår «lokal mann».
+- Brevet bekrefter at handling er en del av læringen. Oppgaven trenger ikke være perfekt; den må gjennomføres.
+- Biltilbudet er pedagogisk og hypotetisk. Det er ikke dokumentert som en faktisk vinnende kampanje.
