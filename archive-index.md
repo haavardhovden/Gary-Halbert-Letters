@@ -135,7 +135,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] The Real Truth About Promoting A Website! ([letter-142.md](letters/letter-142.md))
 - [x] Let's See If We Can't Piss Somebody Off This Month... How About... Women? ([letter-143.md](letters/letter-143.md))
 - [x] You Don't Have To Get It Perfect, You Just Got To Get It Going! ([letter-144.md](letters/letter-144.md))
-- [ ] You Can't Know What You Don't Know!
+- [x] You Can't Know What You Don't Know! ([letter-145.md](letters/letter-145.md))
 - [ ] Vanity Radio!
 - [ ] The First Step If You Are At Ground Zero!
 - [ ] I Suggest You Commit "Image Suicide"!
