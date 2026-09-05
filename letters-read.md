@@ -139,3 +139,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 134. [letter-134.md] — "Memorial Videos Posted (Kevin Halbert, 2007) — Welcome to the Memorial section of the Gary Halbert Letter. Here we have posted videos of the memorial service..." (ikke et Halbert-brev; lagret for komplett arkiv)
 135. [letter-135.md] — "I Deserve A Black Belt In Self Pity! — If you are in direct marketing... and... you don't make a lot of extra profit because of the info in this newsletter... you... are too stupid to deserve to live!..."
 136. [letter-136.md] — "The Dark Side Of Success! — I'm in danger. This is really true. It's not an opening statement I'm using for shock value...."
+137. [letter-137.md] — "Disaster Insurance! — I hope you have finished reading (and found value) in my last newsletter which was mostly about doing business with \"The Bank For Insane People\"...."

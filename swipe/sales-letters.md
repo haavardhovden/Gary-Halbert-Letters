@@ -21,3 +21,6 @@ Hele pitcher med kjent struktur. Les høyt. Merk AIDA-overgangene.
 - Halbert-nyhetsbrev-malen: personlig åpning uten salg → "so what?"-bro → lærdom → P.S. med tilbud.
 
 ## Skal inn (seksjon 2–6 av curriculum, IKKE ennå): Bencivenga, Kennedy, Sugarman, Makepeace, Collier dollar bill letter, Schwartz.
+
+## Disaster Insurance (letter-137) — Halbert selger Boron Letters
+Struktur verdt å stjele: (1) forrige brev (Dark Side) var setupen, dette er salget; (2) reason-why for pris: piratkopi selges for 225 dollar, han selger ekte for 97; (3) 43 blinde bullets, ett per kapittel; (4) innrømt motiv ("I want to show off") som gjør resten troverdig; (5) P.S.-bonus som ikke kan kjøpes andre steder (personlig hjelp hvis du havner i trøbbel, kun i bassenget), så "kjøp billigere hos andre" mister poenget. Mek. #17/#40 (reason-why), #42-stil bullets.

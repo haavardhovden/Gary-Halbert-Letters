@@ -126,7 +126,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Money Making Website Secrets You Will Never Learn From Anyone Else ([letter-133.md](letters/letter-133.md))
 - [x] Memorial Videos Posted ([letter-134.md](letters/letter-134.md))
 - [x] I Deserve A Black Belt In Self Pity! ([letter-135.md](letters/letter-135.md))
-- [ ] Disaster Insurance!
+- [x] Disaster Insurance! ([letter-137.md](letters/letter-137.md))
 - [ ] Private Details About The Life Of Gary Halbert!
 - [ ] What's Good About The Best Of Them!
 - [ ] Please Unload Weapons And Remove Ski Masks!
