@@ -574,3 +574,8 @@ bevispunkter og "klokke-detaljer" — ikke som ferdig copy.
 - **Vurdering:** **FORBEHOLD.** Andelen varierer med definisjon (80 % opplever, ~33 % plages). Bruk "mange norske kvinner", ikke et tall, med mindre primærkilden sjekkes.
 
 *(Håvard 2026-09-06: overgangsalder er greit å bruke som callout. Ingen regel om at Stille "ikke løser nattesvette".)*
+
+### 50. Svetterate under en hetetokt: ca. 1,3 g/min for hele kroppen (målt)
+- **Kilde:** Freedman RR, "Biochemical, metabolic, and vascular mechanisms in menopausal hot flashes", Fertility and Sterility 1998 (kapasitans-hygrometri over brystbeinet; mest svette i panne og nese).
+- **Regnestykke:** 1,3 g/min × 3–4 min per hetetokt ≈ 4–5 ml per tokt. Selv 10 hetetokter på en natt gir under 50 ml ekstra på toppen av de ~200 ml (fakta #32). "500 ml per natt" finnes ikke i noen studie jeg har funnet.
+- **Vurdering:** **FORBEHOLD.** "200–500 ml" har en dokumentert nedre grense og en udokumentert øvre. Trygg formulering: "et par desiliter hver natt, og mer på netter med hetetokter". "Opptil en halv liter" er en bransjepåstand uten kilde. Håvards avgjørelse.
