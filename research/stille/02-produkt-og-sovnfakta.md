@@ -573,5 +573,4 @@ bevispunkter og "klokke-detaljer" — ikke som ferdig copy.
 - **Kilde:** forskning.no 2015 (omtale av norsk studie), NHI.no "Hetetoktene kan vare i mange år".
 - **Vurdering:** **FORBEHOLD.** Andelen varierer med definisjon (80 % opplever, ~33 % plages). Bruk "mange norske kvinner", ikke et tall, med mindre primærkilden sjekkes.
 
-### Regel for bruk i annonse
-Nattesvette har mange årsaker (overgangsalder, stress, medisiner, sykdom). Stille løser ikke årsaken. Stille kan bare påvirke *hvor klamt det blir* når det skjer (fakta #6, #26, #35). Skriv aldri "mot nattesvette". Skriv om det som skjer i senga når du svetter.
+*(Håvard 2026-09-06: overgangsalder er greit å bruke som callout. Ingen regel om at Stille "ikke løser nattesvette".)*

@@ -36,3 +36,35 @@ Format: headline → kilde → hvorfor den virker (mek. #) → Stille/Vidda-vri 
 - "Sov naken. Sov i bambus." — Jonathans, reverse-engineered fra konkurrent. Resultat: [fyll inn]
 - "Et hemmelig søvntriks for deg i overgangsalderen, uten å gå på hormoner" — Håvards, utestet.
 - "Unnskyld, vi kan ikke reservere settet – etterspørselen er for høy" — Håvards, kjørt, "mange hundre tusen" (verifiser).
+
+## Fra "100 Greatest Headlines" (74–100), tagget med mekanisme (lagt inn 2026-09-06)
+Mønster i parentes. Bruk mønsteret, ikke ordene.
+- "Announcing... the new edition of the encyclopedia that makes it fun to learn things" (nyhet + løfte, byggekloss "news", #6)
+- "Again she orders... 'a chicken salad, please'" (scene leseren skammer seg over, produktet nevnes ikke, #11/#15)
+- "For the woman who is older than she looks" (callout + smiger-paradoks, segmentering)
+- "Where you can go in a good used car" (picture with pleasure, #36)
+- "Check the kind of body you want" (selvtest, Cody-familien)
+- "'You kill that store, or I'll run you out of the state!'" (story-lead i sitat, anførselstegn = +recall)
+- "Here's a quick way to break up a cold" (løfte + fart, Hopkins-enkelt)
+- "There's another woman waiting for every man, and she's too smart to have 'morning mouth'" (frykt + mekanisme, Why Men Crack-familien, #11)
+- "This pen 'burps' before it drinks, but never afterwards!" (mekanismen gjort synlig, ikke påstanden, #19)
+- "If you were given $200,000 to spend, isn't this the kind of [product] you would build?" (involvering, picture, #36)
+- "'Last Friday... was I scared! My boss almost fired me!'" (story + spesifikk tid + førsteperson, #34)
+- "76 reasons why it would have paid you to answer our ad a few months ago" (tall + presedens-hastverk, #27)
+- "Suppose this happened on your wedding day!" (picture with fear, #36 speilvendt)
+- "Don't let athlete's foot 'lay you up'" (smerte + konsekvens)
+- "Are they being promoted right over your head?" (frykt + identitet, selvtest-spørsmål)
+- "Are we a nation of low-brows?" (provokasjon, selvtest)
+- "A wonderful two years trip at full pay, but only men with imagination can take it" (negativ kvalifisering, Byrd, #13)
+- "What everybody ought to know... about this stock and bond business" (Merrill Lynch, undervis i stedet for å selge, #16)
+- "Money-saving bargains from America's oldest diamond discount store" (spesifikk kredensial "oldest", #19)
+- "Former barber earns $8,000 in four months as a real estate specialist" (før/etter-identitet + tall + tid, #34)
+- "Free book tells you twelve secrets of better lawn care" (gratis + tall + hemmeligheter, #20 bullets-logikk)
+- "Greatest gold-mine of easy 'things to make' ever crammed into one big book" (superlativ + spesifisitet)
+- "$80,000 in prizes! Help us find the name for these new kitchens" (involvering, konkurranse)
+- "Now! Own Florida land this easy way... $10 down and $10 a month" (tilbudet ER headlinen, Get It Going)
+- "Take any three of these kitchen appliances for only $8.95 (valued up to $15.45)" (tilbud + verdianker)
+- "Save twenty cents off two cans of cranberry sauce, limited offer" (tilbud, konkret, knapphet)
+- "One place setting free for every three you buy!" (bonus = opplevd verdi, letter-151 tips 4)
+
+**Observasjon:** fra 92 og ut går listen fra idé-headlines til tilbuds-headlines. Når tilbudet er sterkt nok, er tilbudet headlinen. Ni av ti Stille-vinnere gjør det ("50 %").

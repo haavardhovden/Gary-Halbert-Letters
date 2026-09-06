@@ -88,7 +88,7 @@ Sitat å ha på veggen: *"Advertising is salesmanship multiplied. You can't mult
 - **Aldri et sted å stoppe.** Ikke i tekst, ikke i klipp. (#38)
 - **Atferd slår ord.** Hva folk kjøper, ikke hva de sier. (#30)
 - **Annonser som gjentas er bevis.** Ingen betaler for å gjenta en taper. (#31)
-- **Ekte kilder for alle påstander.** Ingen helse-, søvn- eller hudpåstand uten kilde. Aldri "antibakteriell" om bambus. Aldri "bedre luft inne enn ute" for Luftig.
+- **Ekte kilder for alle påstander.** Ingen helse-, søvn- eller hudpåstand uten kilde. "Antibakteriell" om bambus: Håvard har godkjent bruk (2026-09-06) fordi det står i Stilles egne dokumenter, men fakta #5 sier det ikke er dokumentert. Aldri "bedre luft inne enn ute" for Luftig.
 - **Skriv det ned, fysisk.** Ingenting lever bare i hodet. (Skoesken)
 - **Lær bare av spillere.** Folk som har satset egne penger. (letter-147)
 - **Strategi slår copy.** God copy redder ikke dårlig strategi. (#24)
