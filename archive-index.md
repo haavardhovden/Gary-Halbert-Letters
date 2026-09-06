@@ -152,7 +152,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Perry Marshall Interview Google AdWords ([letter-159.md](letters/letter-159.md))
 - [x] Are You Guilty Of Committing These 10 Stupid Things? ([letter-160.md](letters/letter-160.md))
 - [x] The Only Thing That Makes Any Positive Difference In Your Life! ([letter-161.md](letters/letter-161.md))
-- [ ] How To Deal With "Nightmare Clients"!
+- [x] How To Deal With "Nightmare Clients"! ([letter-162.md](letters/letter-162.md))
 - [ ] How To Get As Much Money As You Need To "Roll Out" Your Project And Get It Without Borrowing!
 - [ ] How To Get The Exact Name And Address Of Every Man, Woman, And Child Who Is Ever Likely To Become One Of Your Customers!
 - [ ] Grout Sponge!

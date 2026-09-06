@@ -536,6 +536,8 @@ Hver historie er et system som skulle løse et problem og skapte et nytt. Konklu
 
 ---
 
+**Utdypning (Nightmare Clients, letter-162):** Blodtype-dietten. Produktet krevde at kjøperen visste blodtypen sin. Folk tror de vet den, men er ikke sikre nok til å bruke penger uten å spørre legen først. Det steget, "sjekk noe før du kan bestille", drepte annonsen uansett copy. Kundens "løsning" var å selge en stikkepinne så folk kunne teste seg selv. Verre. Regel: alt kjøperen må finne ut, måle eller bekrefte FØR kjøpet er en ny jobb, og en ny jobb er et sted å stoppe. Sjekk i 2026: krever annonsen at leseren vet størrelsen på senga, madrassens tykkelse, hudtypen sin? Da må enten annonsen svare, eller produktet fjerne behovet.
+
 ### 46. Attraksjon må kombineres med tilnærming (Sex And Money, letter-140)
 
 **Kilde:** letter-140.md (det løse bildet i konvolutten, "$500,000 photo")
