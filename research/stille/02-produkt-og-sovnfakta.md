@@ -554,3 +554,24 @@ bevispunkter og "klokke-detaljer" — ikke som ferdig copy.
 8. "Sateng er ikke et materiale, det er en vevemåte: fire tråder over én. Derfor glansen." (nr. 15–16)
 9. "OEKO-TEX STANDARD 100: hver tråd testet for over 1 000 skadelige stoffer." (nr. 19 — sjekk sertifikat)
 10. "Kvinner mister mer søvn på varme netter enn menn." (nr. 29, 31)
+
+## H. Tillegg 2026-09-06: nattesvette og hetetokter (til hot sleeper-brief)
+
+### 46. 41 % av voksne i allmennpraksis har hatt nattesvette siste måned; flest i alderen 41–55
+- **Kilde:** Mold JW et al., "Prevalence of night sweats in primary care patients", J Fam Pract 2002 (n = 2 267). Oversikt: Mold JW et al., "Night Sweats: A Systematic Review", JABFM 2012 (prevalens 10–41 %, høyest 41–55 år).
+- **Vurdering:** **TRYGG** med attribusjon ("I en amerikansk studie av 2 267 pasienter..."). Nyttig fordi det normaliserer problemet og treffer aldersgruppen Stille konverterer best på.
+
+### 47. 26 % av dem med nattesvette må dusje og skifte sengetøy
+- **Kilde:** Samme studie (Mold 2002).
+- **Vurdering:** **TRYGG** med attribusjon. Dette er scenen: "skifter t-skjorte og laken klokka tre". Kundene sier det samme (U#2_A1: "måtte bytte t-skjorte").
+
+### 48. Hetetokter/nattesvette varer i median 7,4 år (SWAN, n = 1 449); starter de tidlig, 11,8 år
+- **Kilde:** Avis NE et al., "Duration of Menopausal Vasomotor Symptoms Over the Menopause Transition", JAMA Intern Med 2015.
+- **Vurdering:** **TRYGG** med attribusjon. Poeng for copy: dette er ikke en fase på noen måneder. Sengetøyet er en langvarig løsning, ikke et plaster.
+
+### 49. Norske tall: "hver tredje norske kvinne" plages av hetetokter; Hordaland-studien (n ≈ 2 300): plaget i snitt fire år
+- **Kilde:** forskning.no 2015 (omtale av norsk studie), NHI.no "Hetetoktene kan vare i mange år".
+- **Vurdering:** **FORBEHOLD.** Andelen varierer med definisjon (80 % opplever, ~33 % plages). Bruk "mange norske kvinner", ikke et tall, med mindre primærkilden sjekkes.
+
+### Regel for bruk i annonse
+Nattesvette har mange årsaker (overgangsalder, stress, medisiner, sykdom). Stille løser ikke årsaken. Stille kan bare påvirke *hvor klamt det blir* når det skjer (fakta #6, #26, #35). Skriv aldri "mot nattesvette". Skriv om det som skjer i senga når du svetter.
