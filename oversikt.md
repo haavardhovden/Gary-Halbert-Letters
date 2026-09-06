@@ -31,6 +31,7 @@ Sitat å ha på veggen: *"Advertising is salesmanship multiplied. You can't mult
 | Emosjonelle vendepunkter | Folk i overgang (nybakt forelder, skilt, ny jobb, kroppen endrer seg) er unormalt åpne. | #32 |
 | Attraksjon + tilnærming | Et bilde som stopper uten å selge har stjålet oppmerksomheten. Varm og tilgjengelig slår perfekt. | #46, letter-148 |
 | News = ukjent for leseren | Ikke det som er nytt. Det leseren ikke visste. Ligger i det bransjen tar for gitt. | #42 utdypning |
+| Prisen måler copyen | Hva leseren betaler er et mål på hvor mye tvil som er igjen. Svak copy tvinger fram lav pris. Test prishopp, ikke småjusteringer. | #53 |
 
 ---
 
@@ -100,7 +101,7 @@ Sitat å ha på veggen: *"Advertising is salesmanship multiplied. You can't mult
 
 | Verktøy | Fil | Hva |
 |---|---|---|
-| Mekanismer | `mechanisms.md` | Skoesken. 52 kort. |
+| Mekanismer | `mechanisms.md` | Skoesken. 53 kort. |
 | Headlines | `swipe/headlines.md` | Klassiske headlines til å modellere |
 | Fakta | `swipe/facts.md`, `research/stille/02-*.md` | Interessante, sanne fakta med kilder |
 | Bullets | `swipe/bullets.md` | Åpne loops-maler |

@@ -143,7 +143,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] I Have Approximately The Same Talent For Management That A Pig Has For Solving Geometry Problems! ([letter-150.md](letters/letter-150.md))
 - [x] I Didn't Have To Masturbate To Get My Heart Started This Morning! ([letter-151.md](letters/letter-151.md))
 - [x] Improve Your Response Without Changing A Word Of Your Copy! ([letter-152.md](letters/letter-152.md))
-- [ ] Price Is Relative!
+- [x] Price Is Relative! ([letter-153.md](letters/letter-153.md))
 - [ ] "Grabbers!"
 - [ ] The ABC's Of Protecting Your Customer List!
 - [ ] Little Blue Books!
