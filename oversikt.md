@@ -1,6 +1,6 @@
 # Oversikt: hva vi har lært av Gary Halbert
 
-Lettfordøyelig kart over `mechanisms.md` (54 mekanismer + rammeverk) og `books/the-boron-letters-2013.md`.
+Lettfordøyelig kart over `mechanisms.md` (55 mekanismer + rammeverk) og `books/the-boron-letters-2013.md`.
 Tallene i parentes peker på mekanismen i `mechanisms.md`. Dette dokumentet forklarer ikke, det viser vei.
 Oppdateres når nye mekanismer kommer til.
 
@@ -75,6 +75,7 @@ Sitat å ha på veggen: *"Advertising is salesmanship multiplied. You can't mult
 11. **Fem headline-tester.** (#6)
 12. **Send.** Første annonse skal ut og få ekte tall, ikke poleres. Læringen sitter i responsen. (#1 utdypning, #4)
 13. **Første test svarer på ett spørsmål:** har dette verdi i det hele tatt? Ikke optimaliser før ja. (#4)
+14. **Bredt for å finne, smalt for å selge.** Katalog/DPA/karusell er research, ikke profitt. Ta vinnerne ut og gi hver sin egen annonse. (#55)
 
 ---
 
@@ -102,7 +103,7 @@ Sitat å ha på veggen: *"Advertising is salesmanship multiplied. You can't mult
 
 | Verktøy | Fil | Hva |
 |---|---|---|
-| Mekanismer | `mechanisms.md` | Skoesken. 54 kort. |
+| Mekanismer | `mechanisms.md` | Skoesken. 55 kort. |
 | Headlines | `swipe/headlines.md` | Klassiske headlines til å modellere |
 | Fakta | `swipe/facts.md`, `research/stille/02-*.md` | Interessante, sanne fakta med kilder |
 | Bullets | `swipe/bullets.md` | Åpne loops-maler |

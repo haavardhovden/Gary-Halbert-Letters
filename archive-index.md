@@ -148,7 +148,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] The ABC's Of Protecting Your Customer List! ([letter-155.md](letters/letter-155.md))
 - [x] Little Blue Books! ([letter-156.md](letters/letter-156.md))
 - [x] Why You Must Avoid People Who Are Scared Shitless! ([letter-157.md](letters/letter-157.md))
-- [ ] What Every Catalog Mailer Does Wrong!
+- [x] What Every Catalog Mailer Does Wrong! ([letter-158.md](letters/letter-158.md))
 - [ ] Perry Marshall Interview Google AdWords
 - [ ] Are You Guilty Of Committing These 10 Stupid Things?
 - [ ] The Only Thing That Makes Any Positive Difference In Your Life!
