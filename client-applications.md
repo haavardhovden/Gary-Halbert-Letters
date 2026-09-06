@@ -338,3 +338,10 @@ Emosjonell motor: selvstendighet, mestring, litt skadefryd, spare penger, omsorg
 - **Sov naken:** presterer sterkt nå (Jonathans "Sov naken. Sov i bambus."). Iterasjonsbatch på denne.
 - **Overgangsalder:** godkjent som callout. Runde 2 i `research/stille/06-headlines-runde-2-overgangsalder.md`.
 - **Neste analyse:** hvorfor kjøper folk egentlig Stille? Tell grunner i Trustpilot-anmeldelser og kundesitater (04-dokumentet), ranger etter frekvens. Persona-dokumentet anslår overheating 25–35 % og hverdagsluksus 25–35 %, men tallet er skjevt mot fornøyde. Atferd slår ord (#30): sjekk også hvilke annonser som konverterte, ikke bare hva de skriver.
+
+## Stille: beste ikke-pris-headline (Håvard, 2026-09-06)
+"Husstøvmidd hater bambus ...men du kommer til å elske det." Static med stabel av sengetøy, tre bullets (holder midd og bakterier unna, pustende bambus, hypoallergen og antibakteriell).
+- **Hvorfor den virker (Halbert-lesning):** Ikke "How To". Det er en påstand om et faktum med en navngitt fiende, samme familie som "Why Men Crack" (#11): uventet synder, så mekanisme, produktet eier logikken. Lysten er å bli kvitt noe, ikke få noe (tap slår gevinst, #20, Little Blue Books: "break bad habits" slo "form good habits"). Derfor slår den "pustende bambus", som er et tema, ikke et løfte (#54).
+- **Awareness:** problembevisste (vet om midd/allergi). Ikke uvitende.
+- **Sykehus-test å kjøre (#54):** samme bilde, samme bullets, bytt bare rammen. How To: "Slik blir du kvitt husstøvmidd uten å vaske en eneste gang til". Reason-why: "Derfor sover allergikere bedre i bambus". Truth About: "Det ingen forteller deg om det som bor i puta di" (fisker lenger ut mot uvitende).
+- **Påstandsvarsel:** "holder bakterier unna" og "antibakteriell" er ikke dokumentert (fakta #5). Headlinen bærer seg selv på middene alene og trenger dem ikke.

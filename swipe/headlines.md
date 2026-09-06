@@ -80,3 +80,4 @@ Format: før → etter (salg). Det eneste som endret seg var ordene. (#54)
 - "How to Break Bad Habits" 29 000 vs "How to Form Good Habits" 20 000. Tap slår gevinst (#20).
 - "Care of Skin and Hair" 52 000 vs "Mouth and Teeth" 8 000. Det andre ser, slår det de ikke ser.
 **Halberts magic words (rammer):** How To / The Art Of / A Little Secret That / The Truth About / The Facts About / The History Of / The Story Of / The Key To.
+- "Florida Pro Gives Most Expensive Seminar In The History Of Golf!" med pre-head "Would You Be Willing To Pay $15,000 To Improve Your Golf Game?" — letter-157. Prisen er headlinen og kvalifiseringen: bare de irrasjonelle med penger ringer. Sted + person + superlativ + kategori. (#10 utdypning, #53)

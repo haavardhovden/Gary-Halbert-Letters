@@ -208,6 +208,9 @@ Største fordel i marketing = et publikum som allerede sulter etter produktet.
 Sult måles: **recency** (nylig kjøpt lignende), **frequency** (kjøper ofte), **unit-of-sale** (betaler mye). Recency viktigst.
 **Advarsel:** Liten test viser alltid de beste kundene på lista — forvent svakere tall ved skalering (rollout ≠ test-resultat).
 
+**Utdypning (Scared Shitless, letter-157, Jeff Paul via Halbert):** Sult er ikke nok alene. Jeff Pauls sjekkliste for et marked verdt å gå inn i, seks punkter: sultne, *irrasjonelle* (golfere spiller i regn og kjøper alt som lover færre slag), lidenskapelige, har penger, har hast, og er nåbare. Halberts tillegg: i nedgangstider velger du "Players With Money" med høy passion index, fordi de er de siste som slutter å bruke penger. Regnestykket fra SRDS er selve testen: antall × gjennomsnittlig kjøp = hvor mye markedet allerede har bevist at det betaler. Irrasjonalitet er punktet som er lett å glemme: et publikum som er rasjonelt om kategorien tåler ikke høy pris uansett copy (se #53).
+**Grense:** Dette er markedsvalg, ikke copy. Det hjelper ikke en klient som allerede har valgt marked, men det forklarer hvorfor samme copy virker i ett segment og dør i et annet.
+
 ### 11. “Why Men Crack” (Postum-annonsen)
 
 **Kilde:** ads/why-men-crack-postum.md, ads/why-men-crack-postum.pdf
