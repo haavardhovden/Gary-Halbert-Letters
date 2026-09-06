@@ -145,7 +145,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Improve Your Response Without Changing A Word Of Your Copy! ([letter-152.md](letters/letter-152.md))
 - [x] Price Is Relative! ([letter-153.md](letters/letter-153.md))
 - [x] "Grabbers!" ([letter-154.md](letters/letter-154.md))
-- [ ] The ABC's Of Protecting Your Customer List!
+- [x] The ABC's Of Protecting Your Customer List! ([letter-155.md](letters/letter-155.md))
 - [ ] Little Blue Books!
 - [ ] Why You Must Avoid People Who Are Scared Shitless!
 - [ ] What Every Catalog Mailer Does Wrong!
