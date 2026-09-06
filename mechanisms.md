@@ -660,7 +660,7 @@ Haldeman-Julius solgte 100 millioner små blå bøker på 1920-tallet. Alle kost
 
 ### 55. Bredt for å finne, smalt for å selge: katalogen er research, brevet er profitten (What Every Catalog Mailer Does Wrong, letter-158)
 
-**Kilde:** letter-158.md
+**Kilde:** letter-158.md (historien er ordrett den samme som Boron kap. 18, letter-094, og plakett-brevet er Boron kap. 21, letter-097. Det nye i letter-158 er konklusjonen.)
 
 Halberts egen katalog. 70 produkter, firefarge, glanset papir, søte bilder av ungene. Tapte penger. Han rangerte produktene etter salg: tre plaketter bar nesten alt, resten var "dead meat". Brosjyre med bare de tre: gikk i null. Så ett produkt, ett foto, ett personlig brev til hver kunde: millioner. Ed Mayers dom: alle som sender kataloger burde heller bygge én promotering rundt hvert toppprodukt. Halberts versjon er mildere og mer brukbar: katalogen skal ikke være profittsenteret. Den er et *informasjonsinnsamlingsverktøy*. Send 10 % av opplaget, se hva som selger, lag én pakke per vinner, send dem med tre ukers mellomrom, og slutt å betale for å annonsere taperne.
 **Hvorfor det virker:** Et bredt format kan ikke selge noe som helst godt, fordi det ikke kan argumentere. Det viser. Men det måler. Hvert produkt får samme plass og samme publikum, så salgstallene er en ren rangering av hva folk vil ha (samme logikk som Little Blue Books, #54). Det smale formatet kan argumentere, fordi det bare har én ting å si (#7, #49). Feilen er å bruke det brede formatet til å selge og det smale til ingenting. Rekkefølgen er: bredt for å finne, smalt for å selge.
