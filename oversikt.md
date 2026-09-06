@@ -1,6 +1,6 @@
 # Oversikt: hva vi har lært av Gary Halbert
 
-Lettfordøyelig kart over `mechanisms.md` (53 mekanismer + rammeverk) og `books/the-boron-letters-2013.md`.
+Lettfordøyelig kart over `mechanisms.md` (54 mekanismer + rammeverk) og `books/the-boron-letters-2013.md`.
 Tallene i parentes peker på mekanismen i `mechanisms.md`. Dette dokumentet forklarer ikke, det viser vei.
 Oppdateres når nye mekanismer kommer til.
 
@@ -44,6 +44,7 @@ Sitat å ha på veggen: *"Advertising is salesmanship multiplied. You can't mult
 | Big Idea | Den ene tingen om produktet som gjør resten unødvendig. Kommer av at to skrevne observasjoner kolliderer, ikke av å tenke hardt. | #7, #52 |
 | Headline | Byggeklosser: callout, nyhet, løfte + tall, spesifikk detalj, sted/gruppe, reason-why, negativ kvalifisering, sitat. Fem tester: sann? relevant? løfter ved første blikk? står alene? hvert ord nødvendig? Skriv 25, behold 3. | #6, `research/stille/05-headlines-runde-1.md` |
 | Si det du har å si | Hvis tilbudet er ordinært, gjør tilbudet bedre før du skriver. Tilbudet kan være headlinen. | Get It Going (letter-144), headlines 97–100 i swipe |
+| Tittelen er produktet | Kjøperen kjøper løftet på etiketten, ikke innholdet. Samme bok, ny tittel, 8x salg. Fra tema til løfte: How To, The Truth About, The Story Of. | #54, `swipe/headlines.md` |
 | Spesifisitet | Verifiserbar detalj slår påstand. "Klokka er det høyeste du hører" > "godt bygget". Tall gjør påstanden falsifiserbar. | #19, #26 |
 | Mekanismen synlig | Ikke "lekker aldri". "Pennen raper før den drikker." Vis hvordan, ikke bare at. | #11, headline 82 |
 | Bevis det som tviles på | Finn den ene setningen leseren mistenker er oppdiktet. Bevis den, ikke alt annet. | #44 |
@@ -101,7 +102,7 @@ Sitat å ha på veggen: *"Advertising is salesmanship multiplied. You can't mult
 
 | Verktøy | Fil | Hva |
 |---|---|---|
-| Mekanismer | `mechanisms.md` | Skoesken. 53 kort. |
+| Mekanismer | `mechanisms.md` | Skoesken. 54 kort. |
 | Headlines | `swipe/headlines.md` | Klassiske headlines til å modellere |
 | Fakta | `swipe/facts.md`, `research/stille/02-*.md` | Interessante, sanne fakta med kilder |
 | Bullets | `swipe/bullets.md` | Åpne loops-maler |

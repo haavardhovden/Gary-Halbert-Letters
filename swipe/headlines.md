@@ -68,3 +68,15 @@ Mønster i parentes. Bruk mønsteret, ikke ordene.
 - "One place setting free for every three you buy!" (bonus = opplevd verdi, letter-151 tips 4)
 
 **Observasjon:** fra 92 og ut går listen fra idé-headlines til tilbuds-headlines. Når tilbudet er sterkt nok, er tilbudet headlinen. Ni av ti Stille-vinnere gjør det ("50 %").
+
+## Tittel-sykehuset (letter-156, Haldeman-Julius): samme bok, ny tittel
+Format: før → etter (salg). Det eneste som endret seg var ordene. (#54)
+- "Fleece of Gold" → "The Quest for a Blonde Mistress" (6 000 → 50 000). Symbol → person.
+- "Pen, Pencil and Poison" → "The Story of a Notorious Criminal" (3x). Tittel → fortelling.
+- "Patent Medicine" → "The Truth About Patent Medicine" (3x). Kategori → avsløring.
+- "Art of Controversy" → "How to Argue Logically" (null → 30 000/år). Tema → evne.
+- "Essay on Conversation" → "How to Improve Your Conversation" (→ 77 000). Tema → løfte.
+- "Modern Aspect of Birth Control" 73 000 vs "Debate on Birth Control" 27 000. Hvordan slår hvorfor.
+- "How to Break Bad Habits" 29 000 vs "How to Form Good Habits" 20 000. Tap slår gevinst (#20).
+- "Care of Skin and Hair" 52 000 vs "Mouth and Teeth" 8 000. Det andre ser, slår det de ikke ser.
+**Halberts magic words (rammer):** How To / The Art Of / A Little Secret That / The Truth About / The Facts About / The History Of / The Story Of / The Key To.

@@ -146,7 +146,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Price Is Relative! ([letter-153.md](letters/letter-153.md))
 - [x] "Grabbers!" ([letter-154.md](letters/letter-154.md))
 - [x] The ABC's Of Protecting Your Customer List! ([letter-155.md](letters/letter-155.md))
-- [ ] Little Blue Books!
+- [x] Little Blue Books! ([letter-156.md](letters/letter-156.md))
 - [ ] Why You Must Avoid People Who Are Scared Shitless!
 - [ ] What Every Catalog Mailer Does Wrong!
 - [ ] Perry Marshall Interview Google AdWords
