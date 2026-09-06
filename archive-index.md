@@ -150,7 +150,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Why You Must Avoid People Who Are Scared Shitless! ([letter-157.md](letters/letter-157.md))
 - [x] What Every Catalog Mailer Does Wrong! ([letter-158.md](letters/letter-158.md))
 - [x] Perry Marshall Interview Google AdWords ([letter-159.md](letters/letter-159.md))
-- [ ] Are You Guilty Of Committing These 10 Stupid Things?
+- [x] Are You Guilty Of Committing These 10 Stupid Things? ([letter-160.md](letters/letter-160.md))
 - [ ] The Only Thing That Makes Any Positive Difference In Your Life!
 - [ ] How To Deal With "Nightmare Clients"!
 - [ ] How To Get As Much Money As You Need To "Roll Out" Your Project And Get It Without Borrowing!

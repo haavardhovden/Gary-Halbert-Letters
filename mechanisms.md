@@ -150,6 +150,9 @@ Første test av en NY idé skal bare svare på ett spørsmål: **har dette noen 
 Stable ALLE fordeler samtidig: hotteste publikum + lavest mulig pris + null betalingsfriksjon + sterkeste copy. Flopper den under disse forholdene = ideen er død, gå videre. Ikke test “maybes” på en middelmådig idé.
 **Steve Browns metafor:** grav mange grunne hull, ikke ett dypt.
 
+**Utdypning: etter vinneren (10 Stupid Things, letter-160).** To regler for det som skjer når du HAR en vinner. (1) *"You will tire of your successful campaigns long before your market does."* Du blir lei av annonsen lenge før publikum gjør det. Bytt aldri en vinner fordi teamet vil ha "noe nytt". Bytt når tallene sier det, ikke kalenderen. Og gi hele pitchen hver gang du betaler for oppmerksomhet. Ikke anta at folk husker fordelene fra sist; "reminder"-annonser uten argument er sløsing. (2) *Dumme tester.* Når vinneren går, bruk litt av overskuddet på tester som ikke gir mening: latterlig høy pris, latterlig lav, et publikum fra "left field", tredobbel garanti, en helt annen appell. Halberts eksempel: fullsidesannonser i småbyaviser med CPM ingen tåler ga 20 til 30 ganger kostnaden, fordi ingen andre annonserte der, så annonsen ble en begivenhet. Og jenta som ville sluttet å røyke for hudens skyld, ikke for lungene: den appellen fant ingen ved å tenke fornuftig.
+**2026-oversettelse:** "Creative fatigue" finnes, men den vanligste feilen er fortsatt Halberts: teamet er lei, ikke publikum. Se på CTR-trend og CPA per annonse før du skrur av. Og sett av en liten andel av budsjettet til det urimelige: et publikum ingen ville valgt, en pris som virker gal, en vinkel som ikke er "on brand".
+
 ### 5. “A-Pile / B-Pile” — Desperate Nerd From Ohio
 
 Alle sorterer post i to bunker: A-Pile (ser personlig ut, åpnes alltid) vs B-Pile (ser ut som reklame). Mål: kom i A-Pile OG hold inntrykket helt til budskapet er levert.
@@ -238,6 +241,8 @@ Ulemper FØRST i teksten (“it will cost you $10,000… discomfort… danger”
 
 Selg TILLATELSEN, ikke bare løsningen — omdefiner leserens skam (latskap) til fortrinn.
 Garanti som BEVISER, ikke bare beroliger: sjekken innløses ikke på 31 dager, og ved retur får kunden den UINNLØSTE sjekken tilbake — beviser at han ikke trengte pengene, altså at metoden virket.
+
+**Motbeviset (10 Stupid Things, letter-160):** Halberts egen slankebok-kampanje i Akron. Radiospot som hånte overvektige ("Bye Porky") og en fullside med headlinen "The World Would Be A Better Place Without Fat People". Byen snakket om det. Tre ordrer. Skam brukt MOT leseren er det motsatte av Karbo, og markedet svarte med null. Samme lærdom som #14 fra feil side: leseren kjøper fra den som gir tillatelse, ikke fra den som dømmer.
 
 ### 15. Sherwin Cody — “Do You Make These Mistakes In English?”
 
@@ -658,7 +663,7 @@ Haldeman-Julius solgte 100 millioner små blå bøker på 1920-tallet. Alle kost
 **Test:** Ta din svakeste annonse. Bytt bare headlinen, fra tema til løfte, med én av rammene over. Samme bilde, samme tekst, samme tilbud. Hvis den ikke løfter, var det ikke headlinen som var problemet. Hvis den løfter, vet du hva markedet ville ha, og det kan du bruke i alt annet.
 **2026-oversettelse:** Dette er hook-testen i paid social. Samme kreativ, fem første linjer eller fem første frames, resten identisk. Meta gjør "The Hospital" for deg hver dag hvis du setter opp testen riktig. Og produktnavn og kolleksjonsnavn i DTC er Little Blue Book-titler: "Bambus sengesett" er et tema, ikke et løfte.
 
-### 55. Bredt for å finne, smalt for å selge: katalogen er research, brevet er profitten (What Every Catalog Mailer Does Wrong, letter-158)
+### 55. [TAKTIKK, IKKE COPY] Bredt for å finne, smalt for å selge: katalogen er research, brevet er profitten (What Every Catalog Mailer Does Wrong, letter-158)
 
 **Kilde:** letter-158.md (historien er ordrett den samme som Boron kap. 18, letter-094, og plakett-brevet er Boron kap. 21, letter-097. Det nye i letter-158 er konklusjonen.)
 
