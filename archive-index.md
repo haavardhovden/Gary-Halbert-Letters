@@ -149,7 +149,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Little Blue Books! ([letter-156.md](letters/letter-156.md))
 - [x] Why You Must Avoid People Who Are Scared Shitless! ([letter-157.md](letters/letter-157.md))
 - [x] What Every Catalog Mailer Does Wrong! ([letter-158.md](letters/letter-158.md))
-- [ ] Perry Marshall Interview Google AdWords
+- [x] Perry Marshall Interview Google AdWords ([letter-159.md](letters/letter-159.md))
 - [ ] Are You Guilty Of Committing These 10 Stupid Things?
 - [ ] The Only Thing That Makes Any Positive Difference In Your Life!
 - [ ] How To Deal With "Nightmare Clients"!
