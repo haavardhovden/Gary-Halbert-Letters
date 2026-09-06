@@ -380,6 +380,8 @@ Annonser og DM-pakker som kjører igjen og igjen, måned etter måned, er det si
 **Hvorfor det er en annen mekanisme enn #30:** #30 sier stol på kundens kjøp, ikke kundens ord. Denne sier stol på *konkurrentens* gjentatte spend, det er en annen datakilde med samme logikk: atferd med penger bak slår alt som blir sagt. Den er også en annen ting enn swipe file-tenkningen (#2, verktøy 1): swipe file samler *godt skrevne* annonser, denne samler annonser som *beviselig kjører lenge*, uansett håndverk.
 **2026-oversettelse:** Meta Ads Library sin "startet"-dato og impresjonsrange er nøyaktig dette. En konkurrent-annonse som har vært aktiv i seks måneder er verdt mer som research enn ti annonser som ser bra ut og forsvant etter to uker. Se etter det som overlever, ikke det som imponerer.
 
+**Håvards dom (2026-09-06, etter letter-160 Stupid Thing #1):** "Se på andre, hva som allerede fungerer, hva andre gjør, og så vri det om til vår egen idé. Dette er kanskje nr 1 tips av ALT i HELE BREVENE." Halberts egen formulering: "concentrate on how to more effectively dramatize those sales appeals that have already been proven." Ikke ny appell, ny dramatisering av en bevist appell. Møbelbutikk-trikset: kjøp aviser fra andre byer, klipp ut alle møbelannonsene, finn den ene som kan kopieres hjem. I 2026: Ads Library i andre land og andre kategorier, ikke bare egne konkurrenter.
+
 ### 32. Emosjonelle vendepunkter som målgruppe (Boron Letters, kapittel 8)
 
 **Kilde:** letter-084.md
