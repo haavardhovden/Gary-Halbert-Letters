@@ -332,3 +332,9 @@ Emosjonell motor: selvstendighet, mestring, litt skadefryd, spare penger, omsorg
 
 **Håvards råidé (ordrett fra Codex-chatten):** "Gjør det selv." "Vis mannen at kvinner også kan gjøre slike ting." "Bare se for deg ansiktet hans når du har byttet ventilasjonsfilter helt selv." Pluss spare penger, slippe å tenke på det igjen, familien puster bedre luft. Hans viktigste egenrettelse etter første annonseforsøk: si veldig raskt at det handler om VENTILASJONSFILTER. En god emosjonell hook hjelper ikke hvis kategorien er uklar.
 **UGC-script etter hooken:** vis filteret, hvor det sitter, hvor få steg, mestringsreaksjonen, konkret produktfordel, CTA for riktig filter.
+
+## Stille: pockets (Håvard, 2026-09-06)
+- **Hundefolk:** kjøper fordi hår ikke setter seg like fast. Bambusviskose er glatt, bomull er "borrelås". Mekanismen synlig: fiberform (fakta #9: viskose taggete/glatt, bomull vridd). Headline-kandidat: "Hundehår setter seg fast i bomull. Ikke i dette."
+- **Sov naken:** presterer sterkt nå (Jonathans "Sov naken. Sov i bambus."). Iterasjonsbatch på denne.
+- **Overgangsalder:** godkjent som callout. Runde 2 i `research/stille/06-headlines-runde-2-overgangsalder.md`.
+- **Neste analyse:** hvorfor kjøper folk egentlig Stille? Tell grunner i Trustpilot-anmeldelser og kundesitater (04-dokumentet), ranger etter frekvens. Persona-dokumentet anslår overheating 25–35 % og hverdagsluksus 25–35 %, men tallet er skjevt mot fornøyde. Atferd slår ord (#30): sjekk også hvilke annonser som konverterte, ikke bare hva de skriver.
