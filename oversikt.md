@@ -1,6 +1,6 @@
 # Oversikt: hva vi har lært av Gary Halbert
 
-Lettfordøyelig kart over `mechanisms.md` (52 mekanismer + rammeverk) og `books/the-boron-letters-2013.md`.
+Lettfordøyelig kart over `mechanisms.md` (53 mekanismer + rammeverk) og `books/the-boron-letters-2013.md`.
 Tallene i parentes peker på mekanismen i `mechanisms.md`. Dette dokumentet forklarer ikke, det viser vei.
 Oppdateres når nye mekanismer kommer til.
 
