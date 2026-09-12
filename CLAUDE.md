@@ -38,6 +38,10 @@ steps each time:
      `letter-XXX.md`, if a matching title exists in the master list; otherwise leave it (the
      archive index is the *official* title list from thegaryhalbertletter.com — don't invent
      new entries in it for letters that aren't already named there).
+   - **Always end the chat reply with "Neste brev: …"** — the next `[ ]` title in
+     `archive-index.md` *after* the one just processed (same section order as the site). If a
+     series is in progress (e.g. Boron Letters), name the next chapter as well. Never skip this
+     line, even when the letter turned out to be a duplicate.
    - `mechanisms.md` — **only touch it when the letter contributes a genuinely new pattern**,
      not already captured (even loosely) by an existing entry. A weak or partial variant of a
      technique that's already in there is just `value: no` + a short reason in chat — don't
