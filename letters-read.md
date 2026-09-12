@@ -90,3 +90,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 085. [letter-085.md] — "Help! I'm trapped in a trailer and I can't get out!..."
 086. [letter-086.md] — "Let's talk about sex...."
 087. [letter-087.md] — "Let's all make some money!..."
+088. [letter-088.md] — "Some people who scuba dive are into photography.... Not me. No. What I'm into is... Wanton Slaughter!..."

@@ -404,6 +404,17 @@ Halberts to grep for å få opp C.O.D.-aksept (kunden betaler først når pakken
 
 ---
 
+### 36. Kjendisen selger ikke, han "credentialer" ("How To Get Movie And TV Stars")
+
+**Kilde:** letter-088.md
+
+Halberts påstand: ingen bytter fra Pepsi til Coke fordi Michael Jackson sier det, og ingen kjøpte Tova-kosmetikk for å ligne Ernest Borgnine. Men en gjenkjennelig person i en direkterespons-annonse løfter salget 15–20 % likevel. Grunnen er ikke overtalelse, men **innsigelse nr. 2**: nr. 1 er "ikke interessert", nr. 2 er "er dette ekte?". Et kjent ansikt svarer på nr. 2 uten å si et ord: en ekte person med et rykte å tape har satt navnet sitt på dette. I tillegg får du "reflected glory": alle credits (Dynasty, Vogue) kan nevnes i copyen som mer bevis. Praktisk konsekvens hos Halbert: du trenger ikke A-listen, bare *gjenkjennelighet*, og den er billig (de fleste skuespillere lever ikke av faget).
+**To detaljer verdt å huske:** (1) Et ansikt som er *for* vakkert stjeler fra budskapet. Legg det ved signaturen, ikke i brevhodet, så leseren får lest ferdig først. (2) Sexy bilder gir alltid oppmerksomhet og støter alltid noen. Det er en bevisst avveining, ikke en gratis gevinst.
+**Hvorfor det er en egen mekanisme:** "Innrømmer flaws" og #13 bygger troverdighet gjennom *innhold*. Dette bygger troverdighet gjennom *hvem som står bak*, uavhengig av hva som sies. Det er en annen kanal for det samme problemet.
+**2026-oversettelse:** Dette er logikken bak creator-whitelisting og "kjent ansikt i UGC": creatoren overbeviser ikke, hun gjør merket *ekte* for en fremmed i feeden. Følger direkte at mikro-creators med gjenkjennelighet i målgruppen kan gjøre samme jobb som en stor, og at ansiktet skal støtte hooken, ikke konkurrere med den.
+
+---
+
 ## MODERNE PARALLELL (Alex Cooper / Ad Crate — YouTube)
 
 Bekrefter ALT ovenfor i 2025-språk:

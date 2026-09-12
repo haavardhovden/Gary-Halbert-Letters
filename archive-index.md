@@ -189,7 +189,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Pound-For-Pound The Most Cost Effective Block Of Space! ([letter-085.md](letters/letter-085.md))
 - [x] How To Use 976 Numbers To Get People To Pay To Hear Your Sales Pitch! ([letter-086.md](letters/letter-086.md))
 - [x] How To Use Cheap Little Classified Ads To Make As Much As $10,000 Per Day! ([letter-087.md](letters/letter-087.md))
-- [ ] How To Get Movie And TV Stars To Help You Sell Your Products And Services!
+- [x] How To Get Movie And TV Stars To Help You Sell Your Products And Services! ([letter-088.md](letters/letter-088.md))
 
 ## Boron Letters
 
