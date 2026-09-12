@@ -31,6 +31,8 @@ steps each time:
    (zero-padded, next number after the highest existing file in `letters/`).
 3. **Assess its copywriting value.** Yes/no, plus the key techniques it demonstrates (or,
    if no: why not — e.g. pure logistics/admin content with no reusable mechanism).
+   **Always include a "Les eller skum" verdict** — read it in full, or skim it (and if skim,
+   which section is still worth a close read). Never leave this out.
 4. **Update the tracking files accordingly:**
    - `letters-read.md` — append an entry in the existing numbered format (file link + short
      opening-line excerpt).
