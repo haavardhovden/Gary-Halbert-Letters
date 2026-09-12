@@ -351,6 +351,17 @@ Stol ALDRI på hva folk SIER de foretrekker/kjøper — stol på hva de FAKTISK 
 
 ---
 
+### 31. Betal — men ikke til meg (veldedighets-prisen) ("Why Thoughtless Writing Is The Best Writing")
+
+**Kilde:** letter-055.md (Joe Polish-brevet + kupongen inni)
+
+Halbert nekter Joe å gi bort intervju-kassetten gratis: *"If you give it away free, people won't give it the value it deserves."* Løsningen er ikke å ta betalt selv, men å kreve en $20-donasjon til Phoenix Children's Hospital. Mottakeren betaler (så verdien holdes oppe), men pengene går et sted som gjør at kupongen fortsatt kan si **"YES! I want a FREE copy"** med troverdighet — selger dekker selv kopiering og porto, og sier det eksplisitt. Tre ting skjer samtidig: (1) friksjonen som gjør at folk faktisk lytter til kassetten, (2) null "han prøver bare å selge meg noe"-motstand fordi selger beviselig ikke tjener på det, (3) et 100 %-donasjons-alternativ i kupongen ("I expect nothing in return") som gjør hele tilbudet til et godhetsprosjekt, ikke et salg.
+**Hvorfor det er en egen mekanisme:** Alle andre prisgrep i dokumentet (#2 Deal Sheet, #26 kostnads-strip, #19 pris som kvalifisering) handler om å søte eller rettferdiggjøre en pris du selv får. Denne kobler pris fra inntekt: prisen finnes bare for å skape opplevd verdi og commitment hos mottakeren.
+**Halberts eget bevis i samme brev:** Han bruker grepet én gang til på egne abonnenter, med "Theresa Fund" (assistentens sykehusregninger) som mottaker — samme kassett, samme $20, ny grunn.
+**Når brukes:** Lead magnets / innholdsprodukter der "gratis" dreper opplevd verdi, men egen pris dreper tillit. Passer ikke fysiske produkter med reell COGS.
+
+---
+
 ## MODERNE PARALLELL (Alex Cooper / Ad Crate — YouTube)
 
 Bekrefter ALT ovenfor i 2025-språk:

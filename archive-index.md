@@ -183,7 +183,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [ ] How To Make Money With Your Personal Computer!
 - [ ] The Most Valuable Skill You Can Have In Today's World... If... You Want To Become Independently Wealthy!
 - [ ] Newsletter About Nothing!
-- [ ] Why "Thoughtless" Writing Is The Best Writing!
+- [x] Why "Thoughtless" Writing Is The Best Writing! ([letter-055.md](letters/letter-055.md))
 - [ ] How To Set Up An Immediately-Profitable Website!
 - [ ] How To Get Yourself Or Your Product Featured On Cable TV At No Cost Whatsoever!
 - [ ] I Bet Bill Gates Never Had A Good Piece Of Ass In His Life!
