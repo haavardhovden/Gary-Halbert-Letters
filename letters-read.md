@@ -88,3 +88,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 083. [letter-083.md] — "Over the last year or so, I have been influential in putting together 7 different 1/2 hour cable TV shows..."
 084. [letter-084.md] — "I bet Bill Gates never had a good piece of ass in his life...."
 085. [letter-085.md] — "Help! I'm trapped in a trailer and I can't get out!..."
+086. [letter-086.md] — "Let's talk about sex...."

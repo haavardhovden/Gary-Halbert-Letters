@@ -383,6 +383,16 @@ Halberts tommelregel for avisannonser: en vertikal halvside trekker rundt 70 % a
 
 ---
 
+### 34. Få folk til å betale for salgspitchen ("How To Use 976 Numbers")
+
+**Kilde:** letter-086.md (1987)
+
+Halberts idé: annonsen selger ikke produktet, den selger et $2-innspilt budskap ("Amazing Recorded Message Reveals How To Buy L.A. Real Estate At Dirt-Cheap Prices"). Innspillingen leverer et ekte, brukbart tips, og først på slutten kommer kontornummeret. Leadgen og kontantstrøm skjer i samme steg: den som ringer har betalt, kvalifisert seg og hørt pitchen frivillig. Halberts regel for at det skal virke: **lever hemmeligheten i det betalte budskapet.** Be dem aldri ringe et nytt nummer for å få det de allerede har betalt for. Da posisjonerer du deg som en som leverer, og de vil ha mer.
+**Hvorfor det er en egen mekanisme:** #31 handler om pris som verdisignal der pengene går til andre. Denne handler om at selve salgsbudskapet er produktet i første steg: prospektet betaler for å bli solgt til, og aksepterer det fordi budskapet har selvstendig verdi. Annonsen blir kort og billig (fem linjer), fordi den bare må selge nysgjerrighet for $2, ikke produktet.
+**2026-oversettelse:** Lavpris-tripwire, betalt nyhetsbrev eller $5-guide som topp av trakten. Annonsen selger guiden, guiden selger hovedproduktet. Fungerer bare hvis guiden er genuint god alene. Gjelder også gratisvarianten: en lead magnet som bare er en forkledd pitch gjør neste steg vanskeligere, ikke lettere.
+
+---
+
 ## MODERNE PARALLELL (Alex Cooper / Ad Crate — YouTube)
 
 Bekrefter ALT ovenfor i 2025-språk:

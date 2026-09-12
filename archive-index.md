@@ -188,7 +188,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] How To Get Yourself Or Your Product Featured On Cable TV At No Cost Whatsoever! ([letter-083.md](letters/letter-083.md))
 - [x] I Bet Bill Gates Never Had A Good Piece Of Ass In His Life! ([letter-084.md](letters/letter-084.md))
 - [x] Pound-For-Pound The Most Cost Effective Block Of Space! ([letter-085.md](letters/letter-085.md))
-- [ ] How To Use 976 Numbers To Get People To Pay To Hear Your Sales Pitch!
+- [x] How To Use 976 Numbers To Get People To Pay To Hear Your Sales Pitch! ([letter-086.md](letters/letter-086.md))
 - [ ] How To Get Movie And TV Stars To Help You Sell Your Products And Services!
 
 ## Boron Letters
