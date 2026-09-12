@@ -393,6 +393,17 @@ Halberts idé: annonsen selger ikke produktet, den selger et $2-innspilt budskap
 
 ---
 
+### 35. Drep angeren før pakken kommer ("How To Use Cheap Little Classified Ads")
+
+**Kilde:** letter-087.md (P.P.S.)
+
+Halberts to grep for å få opp C.O.D.-aksept (kunden betaler først når pakken kommer, og halvparten pleier å nekte): (1) ring og bekreft bestillingen, si at pakken er på vei, (2) send et kort før pakken med beskjed om når den kommer, hvor mye han skal ha klart, **og at han får noe ekstra i pakken som han ikke bestilte, uten kostnad.** Kjøpsangeren oppstår i gapet mellom impuls og levering. Kontakt i det gapet, pluss en annonsert overraskelse, gir kunden en grunn til å se frem til pakken i stedet for å angre på den.
+**Hvorfor det er en egen mekanisme:** #14 (Karbo) og #23 (30-day hold) er risikofjerning *før* kjøpet. Dette er arbeid *etter* kjøpet men *før* leveringen, for å hindre at kjøpet reverseres. Ingen annen entry dekker det vinduet.
+**2026-oversettelse:** Post-purchase-flow mellom ordre og levering (e-post/SMS): "pakken er sendt, og vi la ved X". Direkte relevant for DTC med retur- og kanselleringsrate. Den uannonserte bonusen i esken gjør mer nytte hvis den annonseres *før* pakken kommer enn hvis den bare ligger der.
+**Resten av brevet:** C.O.D.-regnestykket (619 % påslag tåler 50 % nekt, break-even ved 20 %) er #4-logikk om betalingsfriksjon anvendt på info-produkter. Rubrikkannonse-nettverket i 41 stater som "beste testmarked" er 1988-versjonen av det du gjør i Ads Manager hver uke. Ikke egne entries.
+
+---
+
 ## MODERNE PARALLELL (Alex Cooper / Ad Crate — YouTube)
 
 Bekrefter ALT ovenfor i 2025-språk:
