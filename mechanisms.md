@@ -372,6 +372,17 @@ Halberts sjekkliste for om et produkt kan bære et redaksjonelt salgsformat (30-
 
 ---
 
+### 33. Respons skalerer ikke lineært med flate ("Pound-For-Pound The Most Cost Effective Block Of Space")
+
+**Kilde:** letter-085.md
+
+Halberts tommelregel for avisannonser: en vertikal halvside trekker rundt 70 % av en helside, til halve prisen. En kvartside trekker *ikke* 25 % av helsiden, og heller ikke 50 % av halvsiden. Grunnen han oppgir for halvsiden: headlinen havner garantert over bretten. Unntaket er eksplisitt: har du en helside med genuint god copy, kjøp helsiden.
+**Hvorfor det er en egen mekanisme:** Det er en mediekjøps-regel, ikke en copyregel. Ingen annen entry sier noe om forholdet mellom flate/plassering og respons. Poenget er at kostnad og respons følger ulike kurver, så det finnes et "sweet spot"-format der du betaler for synlighet (headline over bretten), ikke for tomme kvadratcentimeter.
+**2026-oversettelse:** Samme logikk gjelder plassering og format i paid social: det avgjørende er om hooken er synlig før scroll/skip, ikke hvor lang annonsen er. Kortere format som sikrer hooken slår lengre format som begraver den. Men: har du innhold som bærer 60 sekunder, kjør 60 sekunder.
+**I samme brev:** Halberts fire-stegs "meat-and-potatoes"-oppskrift (headline fra 3x5-kort, bullets fra nugget notes + swipe file, åpning og close kopiert som mal fra hans egen annonse). Ikke egen entry, det er SKRIV DET NED-avsnittet og #2 i praksis.
+
+---
+
 ## MODERNE PARALLELL (Alex Cooper / Ad Crate — YouTube)
 
 Bekrefter ALT ovenfor i 2025-språk:
