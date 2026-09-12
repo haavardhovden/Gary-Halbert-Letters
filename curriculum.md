@@ -1,8 +1,16 @@
 # Curriculum
 
-The full 30-day plan. The Gary Halbert letters archive in this repo is step 1 (section 1).
-Sections 2–6 are later stages of the same curriculum — not acted on yet, kept here as
-reference for what's coming.
+The full 30-day plan. This file is also the progress tracker for sections 2–6: tick `[x]`
+as items are done. Section 1 (Halbert letters) tracks progress in `archive-index.md` and
+continues in parallel — remaining letters are still processed as before.
+
+Where things land:
+- Section 2 classic ads / sales letters → `ads/<slug>.md` (index in `ads/swipe-file.md`)
+- Section 3 modern paid social → `modern-ads/<brand>.md`
+- Section 4 books → `books/<slug>.md`
+- Sections 5–6 (follows, courses) → no files; notes worth keeping go straight into
+  `mechanisms.md` with a `Kilde:` line
+All mechanisms from every section go in the single `mechanisms.md`.
 
 ## 1. Direct Response Foundations
 
@@ -10,7 +18,7 @@ Start by reading ALL of Garry Halberts letters (skip the books he recommends and
 
 [https://thegaryhalbertletter.com/home/](https://thegaryhalbertletter.com/home/)
 
-## 2. Direct Response Foundations
+## 2. Direct Response Foundations — swipe file & classic copywriters
 
 - Sales Letters & Print Ads:
     - [ ]  [Check out MBBs video first](https://www.youtube.com/live/5Vjm-NIeq3o)

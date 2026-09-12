@@ -4,17 +4,36 @@ Standing instructions for working in this repo.
 
 ## curriculum.md
 
-`curriculum.md` (repo root) is the full 30-day plan. This repo's letters/mechanisms work is
-step 1 (section 1) of it. Sections 2–6 (Ogilvy/Caples/other copywriters, classic ads beyond
-the swipe-file canon, modern DTC ad study via Atria, books, follows/newsletters/courses) are
-later stages — **not started yet**. Don't act on them without being asked.
+`curriculum.md` (repo root) is the full 30-day plan **and the progress tracker for sections
+2–6** (tick `[x]` there as items are done). Section 1 (Halbert letters) is tracked in
+`archive-index.md` and continues in parallel with the later sections.
 
-Going forward, once later stages are underway: `mechanisms.md` is the single running
-knowledge base across *every* stage of the curriculum, not just the Halbert letters —
-techniques from classic ads, modern DTC ad study, and books all land in the same file,
-cross-referenced by source (the existing `Kilde:` convention extends naturally: a book gets
-`Kilde: <title>, ch. X` or similar instead of `letter-XXX.md`). Same numbered-entry format,
-same "new pattern only" bar, same rule about proposing Stille/Vidda-touching changes first.
+**Sections 2–6 are now active.** Where things land:
+- Section 2 classic ads / sales letters → `ads/<slug>.md` (+ `.pdf` if available), indexed in
+  `ads/swipe-file.md`
+- Section 3 modern paid social (Atria) → `modern-ads/<brand>.md`
+- Section 4 books → `books/<slug>.md` (chapter notes + key quotes, not verbatim chapters)
+- Sections 5–6 → no files; anything worth keeping goes straight into `mechanisms.md`
+
+`mechanisms.md` is the single running knowledge base across *every* section — techniques
+from classic ads, modern DTC ads and books all land in the same file, cross-referenced by
+source (`Kilde: ads/<slug>.md`, `Kilde: modern-ads/<brand>.md`, `Kilde: <book>, kap. X`).
+Same numbered-entry format, same "new pattern only" bar, same rule about proposing
+Stille/Vidda-touching changes first.
+
+## Processing pasted material from sections 2–4
+
+When the user pastes a classic ad, a sales letter, a modern ad, or a book chapter, treat it
+exactly like a pasted Halbert letter (same reply format, same mechanisms bar, same
+"Les eller skum" and "Neste"):
+- **Classic ad / sales letter:** save verbatim to `ads/<slug>.md`, add a row to
+  `ads/swipe-file.md`, tick the item in `curriculum.md` if it is listed there.
+- **Modern ad (Atria etc.):** append to `modern-ads/<brand>.md` (create if missing), tick
+  the brand in `curriculum.md` when the user says the brand is done.
+- **Book chapter:** append chapter notes + the quotes worth keeping to `books/<slug>.md`
+  (create from the table in `books/README.md`). Do not commit whole chapters verbatim.
+- **"Neste:"** for sections 2–6 = the next unticked item in `curriculum.md`, in order. When
+  a Halbert letter is processed, "Neste" still follows `archive-index.md`.
 
 ## Processing a pasted Gary Halbert letter
 
