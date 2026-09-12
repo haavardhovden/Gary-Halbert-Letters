@@ -362,6 +362,16 @@ Halbert nekter Joe å gi bort intervju-kassetten gratis: *"If you give it away f
 
 ---
 
+### 32. De tre S-ene — Star, Story, Solution (kvalifiseringstest for innholdsformat)
+
+**Kilde:** letter-083.md ("How To Get Yourself Or Your Product Featured On Cable TV")
+
+Halberts sjekkliste for om et produkt kan bære et redaksjonelt salgsformat (30-min "talkshow" på kabel-TV der reklamepausene selger produktet): **Star** (en autoritet på temaet, eller en kjendis med "marque value"), **Story** (noe som kan fortelles i intervjuform: "hvordan jeg gikk ned 100 kilo", "hvordan jeg kjøpte eiendom uten egenkapital"), **Solution** (produktet løser et konkret problem: fattigdom, overvekt, kjedsomhet). Mangler én, faller formatet sammen. Eksempelet hans: en bilforhandler som "bare vil selge flere biler" har ingen show. En som har lært å kjøpe beslaglagte "cocaine Cadillacs" billig, har det.
+**Hvorfor det er en egen mekanisme:** #7 (Big Idea) handler om den ene uvanlige tingen i selve budskapet. Dette er en test på om produktet i det hele tatt har råstoff til å være *innhold* og ikke bare annonse — dvs. om prinsipp 1 ("se ikke ut som reklame") er mulig for dette produktet i langformat. Det er en pre-flight-sjekk, ikke en skrivteknikk.
+**2026-oversettelse:** Samme tre spørsmål avgjør om et produkt tåler creator-/founder-led long-form (podcast-gjesting, YouTube-"dokumentar", advertorial): Har vi et ansikt med autoritet? Har vi en fortelling som kan intervjues frem? Løser det et problem folk vet de har? Mangler "Story", kjøp performance-annonser i stedet.
+
+---
+
 ## MODERNE PARALLELL (Alex Cooper / Ad Crate — YouTube)
 
 Bekrefter ALT ovenfor i 2025-språk:

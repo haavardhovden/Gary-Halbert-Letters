@@ -85,3 +85,4 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 080. [letter-080.md] — "The Boron Letters - Chapter 4 — It was very nice for all of you to come up yesterday and bring me a birthday cake...."
 081. [letter-081.md] — "The Boron Letters - Chapter 5 — How's my favorite youngest son? I'm sitting here waiting for the phone...."
 082. [letter-082.md] — "God has managed to surprise me again...."
+083. [letter-083.md] — "Over the last year or so, I have been influential in putting together 7 different 1/2 hour cable TV shows..."

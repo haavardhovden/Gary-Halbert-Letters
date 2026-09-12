@@ -185,7 +185,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [ ] Newsletter About Nothing!
 - [x] Why "Thoughtless" Writing Is The Best Writing! ([letter-055.md](letters/letter-055.md))
 - [x] How To Set Up An Immediately-Profitable Website! ([letter-082.md](letters/letter-082.md))
-- [ ] How To Get Yourself Or Your Product Featured On Cable TV At No Cost Whatsoever!
+- [x] How To Get Yourself Or Your Product Featured On Cable TV At No Cost Whatsoever! ([letter-083.md](letters/letter-083.md))
 - [ ] I Bet Bill Gates Never Had A Good Piece Of Ass In His Life!
 - [ ] Pound-For-Pound The Most Cost Effective Block Of Space!
 - [ ] How To Use 976 Numbers To Get People To Pay To Hear Your Sales Pitch!
