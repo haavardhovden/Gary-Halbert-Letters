@@ -13,7 +13,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Let's Do The Twist! ([letter-015.md](letters/letter-015.md))
 - [x] Why You Must Eliminate The "Human Deadwood" From Your Life! ([letter-017.md](letters/letter-017.md))
 - [x] Gary Halbert's Famous Personal Ad ([letter-002.md](letters/letter-002.md))
-- [x] The Secrets of The Water Ad! ([letter-058.md](letters/letter-058.md))
+- [ ] The Secrets of The Water Ad! (uavklart: nettsidens side med dette navnet kan være en annen tekst enn letter-058, som er "More Secrets")
 - [x] How To Write Killer Headlines! ([letter-010.md](letters/letter-010.md))
 - [x] Separating World-Class Copywriters From Lesser Brethren! ([letter-012.md](letters/letter-012.md))
 - [x] Gary Halbert's Unfinished Business ([letter-013.md](letters/letter-013.md))
@@ -63,7 +63,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [ ] Fair Maiden's Writing
 - [x] Believe It Or Not... Here's Another Gift From Gary Halbert For Internet Marketers! ([letter-056.md](letters/letter-056.md))
 - [x] Gary Halbert's Present For Internet Marketers! ([letter-057.md](letters/letter-057.md))
-- [ ] More Secrets Of The Water Ad!
+- [x] More Secrets Of The Water Ad! ([letter-058.md](letters/letter-058.md))
 - [ ] A Mysterious Chunk Of Metal That Can Triple Your Online Profits
 - [ ] A Very Important Newsletter!
 - [ ] That's White Mail!
