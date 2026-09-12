@@ -6,7 +6,7 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 001. [letter-001.md] — "Every once in a while, someone comes to me and says something like this: "Gary, I've got to learn ho..."
 002. [letter-002.md] — "Why Gary Halbert’s Personal Ad Makes For Such a Unique & Powerful Copy Lesson..."
 003. [letter-003.md] — "Every once in a while, someone comes to me and says something like this: "Gary, I've got to learn ho..."
-004. [letter-004.md] — "Before I kind of get really into the analysis, you need to understand the evolution of copy. The maj..."
+004. [letter-004.md] — (ikke Halbert: MBB-videotranskripsjon, full versjon i ads/mbb-breaking-down-og-sales-letters.md) "Before I kind of get really into the analysis, you need to understand the evolution of copy. The maj..."
 005. [letter-005.md] — "Every once in a while, someone comes to me and says something like this: "Gary, I've got to learn ho..."
 006. [letter-006.md] — "You are about to read eight pages of information that can save you and/or your direct-marketing clie..."
 007. [letter-007.md] — ""There I Was At 15,000..."

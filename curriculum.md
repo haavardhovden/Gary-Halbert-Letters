@@ -21,7 +21,7 @@ Start by reading ALL of Garry Halberts letters (skip the books he recommends and
 ## 2. Direct Response Foundations — swipe file & classic copywriters
 
 - Sales Letters & Print Ads:
-    - [ ]  [Check out MBBs video first](https://www.youtube.com/live/5Vjm-NIeq3o)
+    - [x]  [Check out MBBs video first](https://www.youtube.com/live/5Vjm-NIeq3o)
     - [ ]  [David Ogilvy](https://swiped.co/person/david-ogilvy/)
     - [ ]  [Caples](https://swiped.co/person/john-caples/)
     - [ ]  [Garry halbert](https://swiped.co/) (search for it like below)
