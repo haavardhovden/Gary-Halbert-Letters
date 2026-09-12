@@ -29,7 +29,13 @@ steps each time:
    actual failure mode.
 2. **Save it verbatim.** Write the pasted text as-is to the next `letters/letter-XXX.md`
    (zero-padded, next number after the highest existing file in `letters/`).
-3. **Assess its copywriting value.** Yes/no, plus the key techniques it demonstrates (or,
+3. **Reply in this fixed format, every time:**
+   - **Oppsummering** — what the letter says, neutrally, no interpretation (3–6 sentences).
+   - **Verdi: ja/nei** — one line of reason.
+   - **Mekanisme: lagt til (#N) / ikke lagt til** — one line of reason.
+   - **Les eller skum** — see below.
+   - **Neste:** — see step 4.
+   Details on the assessment: **Assess its copywriting value.** Yes/no, plus the key techniques it demonstrates (or,
    if no: why not — e.g. pure logistics/admin content with no reusable mechanism).
    **Always include a "Les eller skum" verdict** — read it in full, or skim it (and if skim,
    which section is still worth a close read). Never leave this out.
