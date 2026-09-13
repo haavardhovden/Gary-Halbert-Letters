@@ -60,7 +60,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Go Ask Alice ([letter-053.md](letters/letter-053.md))
 - [ ] I Bid Thee Farewell
 - [x] Enlightening And Extremely Time Sensitive! ([letter-054.md](letters/letter-054.md))
-- [ ] Fair Maiden's Writing
+- [x] Fair Maiden's Writing ([letter-054.md](letters/letter-054.md)) (teksten "lived a fair maiden who worked for an ogre copywriter" står inne i Enlightening And Extremely Time Sensitive)
 - [x] Believe It Or Not... Here's Another Gift From Gary Halbert For Internet Marketers! ([letter-203.md](letters/letter-203.md))
 - [x] Gary Halbert's Present For Internet Marketers! ([letter-056.md](letters/letter-056.md))
 - [x] More Secrets Of The Water Ad! ([letter-058.md](letters/letter-058.md))
