@@ -54,7 +54,7 @@ Primærtekst på 90 ord: alle sju, en setning hver. Static: 1 og 2 i headline, 3
 
 - Ingen stoppested. Korte setninger, enkle ord, overganger, spørsmål jeg svarer på selv. Klipp aldri der leseren kan gå.
 - Spesifikt slår generelt. Tall, sted, tid, navn. Klokka i Rolls-Royce.
-- Mekanismen må kunne tegnes. Ikke "temperaturregulerende". "Bomull suger opp svetten og holder på den. Bambus leder den bort."
+- Mekanismen må kunne tegnes. Ikke "temperaturregulerende". Men tegnbar er ikke det samme som sann: "bomull holder på svetten, bambus slipper den ut" er fiber-sannhet, ikke stoff-sannhet (Stille fakta #7). Sjekk Fact Sheet før mekanismen går i en annonse.
 - Et faktum kan la leseren trekke konklusjonen selv. Da trenger jeg ikke skrive fordelen. Men konklusjonen må komme på ett sekund.
 - Kundens språk, ikke briefens. "Laken", ikke "sengetøyprodukt".
 - Energi under kontroll. Ingen superlativer. Ikke "vi"-fokus.

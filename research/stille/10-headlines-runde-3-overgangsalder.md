@@ -12,7 +12,7 @@ truth bomb). Runde 1 og 2 ligger i `05-` og `06-`. Dette er runden som bygger p�
 - 8 av 10 får hetetokter (rad 1.1). Ca. 1 av 3 er mye plaget (1.3).
 - Helsenorge, ordrett-nær: nattesvette gjør at "noen må skifte sengetøy" (1.7). Vårt problem, i nøytral kilde.
 - Hetetokter varer i median 7,4 år (1.5).
-- Produktmekanisme (fakta #6/#9): bomull suger opp og holder på fukt, bambusviskose leder den bort. Fiberen er glatt.
+- Produktmekanisme, NB: fakta #6 (fiberen binder mer fukt enn bomull) er sant på fibernivå. Fakta #7 sier ferdig stoff viser INGEN signifikant forskjell mot bomull i fukt/termisk komfort. Trygt: "kjølig mot huden når du legger deg", "glatt overflate", "fiberen binder mer fukt enn bomull". Ikke trygt som absolutt: "bomull holder på svetten, bambus slipper den ut", "puster bedre", "temperaturregulerende". Bruk kundesitater for stoff-påstander.
 
 **Regler som gjelder her**
 - Markedet går *mot* hormoner. HRT er ikke fienden. Fienden er det våte lakenet klokka tre. "Uten hormoner" er callout
@@ -131,7 +131,7 @@ Avslutning: "Prøv i 30 netter" (bekreft at åpent kjøp gjelder etter bruk og v
 ## Test først (fem, én per hook-type)
 1. A1 truth bomb
 2. B2 problem, kortest
-3. C1 mekanisme
+3. C1 mekanisme (omformuler etter fakta #7: "Fiberen binder mer fukt enn bomull. Overflaten er glatt. Tørt mot huden.")
 4. D2 callout uten fiende
 5. H2 detalj
 
