@@ -12,8 +12,8 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] The Big Idea ([letter-011.md](letters/letter-011.md))
 - [x] Let's Do The Twist! ([letter-015.md](letters/letter-015.md))
 - [x] Why You Must Eliminate The "Human Deadwood" From Your Life! ([letter-017.md](letters/letter-017.md))
-- [x] Gary Halbert's Famous Personal Ad ([letter-002.md](letters/letter-002.md))
-- [ ] The Secrets of The Water Ad!
+- [x] Gary Halbert's Famous Personal Ad ([letter-198.md](letters/letter-198.md)) (Kevins side med PDF-lenke; analysen av annonsen er letter-002 / letter-019)
+- [x] The Secrets of The Water Ad! ([letter-009.md](letters/letter-009.md)) (nettsiden viser selve annonsen; letter-036 er duplikat)
 - [x] How To Write Killer Headlines! ([letter-010.md](letters/letter-010.md))
 - [x] Separating World-Class Copywriters From Lesser Brethren! ([letter-012.md](letters/letter-012.md))
 - [x] Gary Halbert's Unfinished Business ([letter-013.md](letters/letter-013.md))
@@ -23,7 +23,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [ ] The Wisdom & Wit of Gary Halbert
 - [x] The Few Products From Others That Get... The Halbert Seal of Approval ([letter-022.md](letters/letter-022.md))
 - [x] "An Open Letter From Kevin Halbert To Anyone Who Wants Or Needs To Hire A Great Copywriter" ([letter-023.md](letters/letter-023.md))
-- [ ] Rolls Royce Letter. Can You Guess
+- [x] Rolls Royce Letter. Can You Guess ([letter-037.md](letters/letter-037.md)) (samme side som "Why I Am The Best Copywriter Alive")
 - [x] Rolls Royce Letter Revealed ([letter-024.md](letters/letter-024.md))
 - [x] 20 Clicks ([letter-025.md](letters/letter-025.md))
 - [x] Gary Halbert's Secrets Revealed ([letter-026.md](letters/letter-026.md))
@@ -31,7 +31,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] How You Should Start Everyday For The Rest Of Your Life! ([letter-027.md](letters/letter-027.md))
 - [x] My Most Important Newsletter ([letter-028.md](letters/letter-028.md))
 - [x] It Was A Veritable Orgy Of Ideas! ([letter-029.md](letters/letter-029.md))
-- [ ] Something Worth Thinking About
+- [x] Something Worth Thinking About ([letter-199.md](letters/letter-199.md))
 - [x] Great News for Fans of The Gary Halbert Letter ([letter-030.md](letters/letter-030.md))
 - [x] Giving It Your Best Shot On Your Very First Test! ([letter-031.md](letters/letter-031.md))
 - [x] The Amazing Direct Mail Secret Of A Desperate Nerd From Ohio! ([letter-032.md](letters/letter-032.md))
@@ -44,56 +44,56 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Guru Gary's Guide To Things To Think About When Times Are Tough! ([letter-040.md](letters/letter-040.md))
 - [x] Boxes Of Nuggets! ([letter-041.md](letters/letter-041.md))
 - [x] 12-Month Millionaire ([letter-042.md](letters/letter-042.md))
-- [ ] A Special Treat For Readers Of The Gary Halbert Letter
+- [x] A Special Treat For Readers Of The Gary Halbert Letter ([letter-200.md](letters/letter-200.md))
 - [x] Meditation For Miserable People Who Want To Stay That Way! ([letter-043.md](letters/letter-043.md))
 - [x] AIDA! ([letter-044.md](letters/letter-044.md))
 - [x] How To Write Better Copy, Faster! And... How To Write Copy Like Gary Halbert! ([letter-045.md](letters/letter-045.md))
 - [x] How To Mail Up To 100,000 Letters Per Week At No Cost Whatsoever! (Not Even Postage) ([letter-046.md](letters/letter-046.md))
-- [ ] Big Announcement and FREE Audio from Gary's 87' Brainstorm Seminar
-- [ ] Happy Birthday Pop (by Bond Halbert)
+- [x] Big Announcement and FREE Audio from Gary's 87' Brainstorm Seminar ([letter-201.md](letters/letter-201.md))
+- [x] Happy Birthday Pop (by Bond Halbert) ([letter-202.md](letters/letter-202.md))
 - [x] Monster Website Profits ([letter-047.md](letters/letter-047.md))
 - [x] Mindset ([letter-048.md](letters/letter-048.md))
-- [ ] Modesty Personified
-- [x] Secrets of The 700 Million Dollar Man ([letter-049.md](letters/letter-049.md))
+- [x] Modesty Personified ([letter-049.md](letters/letter-049.md)) (samme tekst som letter-107, An Open Letter To Anyone So Insane)
+- [x] Secrets of The 700 Million Dollar Man ([letter-050.md](letters/letter-050.md))
 - [x] Marketing From Outer Space ([letter-051.md](letters/letter-051.md))
 - [x] Jam Packed ([letter-052.md](letters/letter-052.md))
 - [x] Go Ask Alice ([letter-053.md](letters/letter-053.md))
 - [ ] I Bid Thee Farewell
 - [x] Enlightening And Extremely Time Sensitive! ([letter-054.md](letters/letter-054.md))
 - [ ] Fair Maiden's Writing
-- [x] Believe It Or Not... Here's Another Gift From Gary Halbert For Internet Marketers! ([letter-056.md](letters/letter-056.md))
-- [x] Gary Halbert's Present For Internet Marketers! ([letter-057.md](letters/letter-057.md))
+- [x] Believe It Or Not... Here's Another Gift From Gary Halbert For Internet Marketers! ([letter-203.md](letters/letter-203.md))
+- [x] Gary Halbert's Present For Internet Marketers! ([letter-056.md](letters/letter-056.md))
 - [x] More Secrets Of The Water Ad! ([letter-058.md](letters/letter-058.md))
-- [ ] A Mysterious Chunk Of Metal That Can Triple Your Online Profits
-- [ ] A Very Important Newsletter!
-- [ ] That's White Mail!
-- [ ] That's White Mail II
+- [x] A Mysterious Chunk Of Metal That Can Triple Your Online Profits ([letter-057.md](letters/letter-057.md))
+- [x] A Very Important Newsletter! ([letter-204.md](letters/letter-204.md))
+- [skip] That's White Mail! (nettsiden har bare et bilde, ingen tekst)
+- [skip] That's White Mail II (nettsiden har bare et bilde, ingen tekst)
 - [x] How To Cash In Big By Using Contests And Sweepstakes To Hype Your Promotions! ([letter-059.md](letters/letter-059.md))
 - [x] A Sad Day In Direct Response Marketing ([letter-060.md](letters/letter-060.md))
-- [ ] Happy To Be Alive!
+- [x] Happy To Be Alive! ([letter-205.md](letters/letter-205.md))
 - [x] I Told You So! ([letter-061.md](letters/letter-061.md))
 - [x] The BIG Website Profit Making Secret ([letter-062.md](letters/letter-062.md))
 - [x] Operation Moneysuck! ([letter-063.md](letters/letter-063.md))
 - [x] Sewage Soup! ([letter-064.md](letters/letter-064.md))
-- [ ] Cajun Country
+- [x] Cajun Country ([letter-206.md](letters/letter-206.md))
 - [ ] MASH
-- [ ] Katrina Relief From Allen
+- [x] Katrina Relief From Allen ([letter-207.md](letters/letter-207.md))
 - [x] Trying To Reason With Hurricane Season! ([letter-065.md](letters/letter-065.md))
-- [ ] One Hundred Million Dollars Per Year!
+- [x] One Hundred Million Dollars Per Year! ([letter-208.md](letters/letter-208.md))
 - [x] An Insane Idea? ([letter-066.md](letters/letter-066.md))
 - [x] Praise The Lord! ([letter-068.md](letters/letter-068.md))
 - [x] Answer To "Can You Guess?" ([letter-071.md](letters/letter-071.md))
 - [x] Answer To "Can You Guess Part II?" ([letter-069.md](letters/letter-069.md))
 - [x] Answer To "Can You Guess Part III?" ([letter-070.md](letters/letter-070.md))
-- [ ] An Example Of Mark Joyner's Genius Viral Marketing Techniques
+- [skip] An Example Of Mark Joyner's Genius Viral Marketing Techniques (siden er 404 på nettstedet)
 - [x] The Most Important Thing You Need To Know To Make Website Profits ([letter-072.md](letters/letter-072.md))
 - [x] Neurological Imprinting! ([letter-073.md](letters/letter-073.md))
 - [x] My Newest "Killer Idea"! ([letter-074.md](letters/letter-074.md))
 - [x] Greatest Marketing Breakthrough Comes Out Of The Closet! ([letter-075.md](letters/letter-075.md))
 - [x] Part II (Greatest Marketing Breakthrough) ([letter-076.md](letters/letter-076.md)) (NB: teksten er del to av "Last Newsletter", ikke av Greatest Marketing Breakthrough)
 - [x] Gary Halbert's Last Newsletter, Part I ([letter-077.md](letters/letter-077.md))
-- [ ] Free Gold From Gary
-- [ ] More Free Gold From Gary
+- [x] Free Gold From Gary ([letter-102.md](letters/letter-102.md))
+- [x] More Free Gold From Gary ([letter-103.md](letters/letter-103.md))
 - [x] Two Garys Trying To Make Your Holidays Merry ([letter-104.md](letters/letter-104.md))
 - [x] When The Sun Comes Up... You Better Be Running! ([letter-105.md](letters/letter-105.md))
 - [x] Gary Halbert's New Free Teleseminar ([letter-106.md](letters/letter-106.md))
@@ -127,7 +127,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Memorial Videos Posted ([letter-134.md](letters/letter-134.md))
 - [x] I Deserve A Black Belt In Self Pity! ([letter-135.md](letters/letter-135.md))
 - [x] Disaster Insurance! ([letter-137.md](letters/letter-137.md))
-- [ ] Private Details About The Life Of Gary Halbert! (Håvard leste bilannonse-brevet under denne tittelen 5. sept; teksten er lagret som letter-138 under det offisielle navnet)
+- [x] Private Details About The Life Of Gary Halbert! ([letter-138.md](letters/letter-138.md)) (nettsidens tittel: "Private Details About The Life Of Gary Halbert! What's Good About The Best Of Them", samme side som What's Good About The Best Of Them)
 - [x] What's Good About The Best Of Them! ([letter-138.md](letters/letter-138.md))
 - [x] Please Unload Weapons And Remove Ski Masks! ([letter-139.md](letters/letter-139.md))
 - [x] Sex And Money! ([letter-140.md](letters/letter-140.md))
