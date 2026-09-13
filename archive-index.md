@@ -19,15 +19,15 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Gary Halbert's Unfinished Business ([letter-013.md](letters/letter-013.md))
 - [x] The Dark Side Of Success! ([letter-136.md](letters/letter-136.md))
 - [x] A "Fighter Pilot" Attitude! ([letter-018.md](letters/letter-018.md))
-- [ ] Missing Gary Halbert Swipe File Resurfaces After More Than A Decade!?
-- [ ] The Wisdom & Wit of Gary Halbert
+- [x] Missing Gary Halbert Swipe File Resurfaces After More Than A Decade!? ([letter-021.md](letters/letter-021.md)) (salgsbrev for seminar-tapene, "How To Make 100% Certain You Make An Enormous Amount Of Serious Money In 2005")
+- [x] The Wisdom & Wit of Gary Halbert ([letter-209.md](letters/letter-209.md)) (salgsside på halbertising.com)
 - [x] The Few Products From Others That Get... The Halbert Seal of Approval ([letter-022.md](letters/letter-022.md))
 - [x] "An Open Letter From Kevin Halbert To Anyone Who Wants Or Needs To Hire A Great Copywriter" ([letter-023.md](letters/letter-023.md))
 - [x] Rolls Royce Letter. Can You Guess ([letter-037.md](letters/letter-037.md)) (samme side som "Why I Am The Best Copywriter Alive")
 - [x] Rolls Royce Letter Revealed ([letter-024.md](letters/letter-024.md))
 - [x] 20 Clicks ([letter-025.md](letters/letter-025.md))
 - [x] Gary Halbert's Secrets Revealed ([letter-026.md](letters/letter-026.md))
-- [ ] The Amazing Secret Of A Marketing Genius Who Is Afraid To Fly
+- [x] The Amazing Secret Of A Marketing Genius Who Is Afraid To Fly ([letter-210.md](letters/letter-210.md)) (salgsside på halbertising.com, Bond om Jay Abraham-annonsen)
 - [x] How You Should Start Everyday For The Rest Of Your Life! ([letter-027.md](letters/letter-027.md))
 - [x] My Most Important Newsletter ([letter-028.md](letters/letter-028.md))
 - [x] It Was A Veritable Orgy Of Ideas! ([letter-029.md](letters/letter-029.md))
@@ -58,7 +58,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Marketing From Outer Space ([letter-051.md](letters/letter-051.md))
 - [x] Jam Packed ([letter-052.md](letters/letter-052.md))
 - [x] Go Ask Alice ([letter-053.md](letters/letter-053.md))
-- [ ] I Bid Thee Farewell
+- [x] I Bid Thee Farewell ([letter-211.md](letters/letter-211.md))
 - [x] Enlightening And Extremely Time Sensitive! ([letter-054.md](letters/letter-054.md))
 - [x] Fair Maiden's Writing ([letter-054.md](letters/letter-054.md)) (teksten "lived a fair maiden who worked for an ogre copywriter" står inne i Enlightening And Extremely Time Sensitive)
 - [x] Believe It Or Not... Here's Another Gift From Gary Halbert For Internet Marketers! ([letter-203.md](letters/letter-203.md))
@@ -76,7 +76,7 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Operation Moneysuck! ([letter-063.md](letters/letter-063.md))
 - [x] Sewage Soup! ([letter-064.md](letters/letter-064.md))
 - [x] Cajun Country ([letter-206.md](letters/letter-206.md))
-- [ ] MASH
+- [skip] MASH (lenken på nettsiden er død)
 - [x] Katrina Relief From Allen ([letter-207.md](letters/letter-207.md))
 - [x] Trying To Reason With Hurricane Season! ([letter-065.md](letters/letter-065.md))
 - [x] One Hundred Million Dollars Per Year! ([letter-208.md](letters/letter-208.md))

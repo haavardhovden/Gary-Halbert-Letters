@@ -23,7 +23,7 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 018. [letter-018.md] — "No. Today you are going to begin the process of learning how to write "killer" copy! Copy that drags..."
 019. [letter-019.md] — "In The Land Of The Blind,..." (samme stykke som letter-002, Famous Personal Ad, lengre versjon)
 020. [letter-020.md] — "Halberts are notorious for letting unfinished business pile up until it is forgotten but I for one a..." (duplikat av letter-013, Unfinished Business)
-021. [letter-021.md] — "Don't waste your time reading this if you already have so much money..." (tittel uviss: "How To Make 100% Certain You Make An Enormous Amount Of Serious Money In 2005", okt 2004, seminar-tapes)
+021. [letter-021.md] — "Don't waste your time reading this if you already have so much money..." (= "Missing Gary Halbert Swipe File Resurfaces After More Than A Decade!?", okt 2004: salgsbrev for seminar-tapene, "How To Make 100% Certain You Make An Enormous Amount Of Serious Money In 2005")
 022. [letter-022.md] — "One of the most common questions Kevin I get is, "what's the best course for learning how to write r..."
 023. [letter-023.md] — "“An Open Letter From Kevin Halbert To Anyone..."
 024. [letter-024.md] — "Herein lies the answer to the mysterious Rolls Royce letter...."
@@ -214,3 +214,6 @@ Referanse: `books/the-boron-letters-2013.md` — hele boka (Bond Halbert Publish
 206. [letter-206.md] — "Cajun Country — (sep 2005: leserbrev om ikke å gjenoppbygge New Orleans; ikke marketing) — Here's an interesting letter I received from one of my newsletter subscribers regarding the aftermath of Hurricane Katrina..."
 207. [letter-207.md] — "Katrina Relief From Allen — (sep 2005: leserforslag om å huse Katrina-ofre på nedlagte militærbaser; ikke marketing) — Here's a suggestion one of my newsletter subscribers wrote to me..."
 208. [letter-208.md] — "One Hundred Million Dollars Per Year! — (aug 2005: promo for Agora-seminar; "lær av noen som walks the walk", "vi må høre noe 17 ganger før vi eier det") — Have you ever noticed that sometimes I recommend the services and/or product of other people..."
+209. [letter-209.md] — "The Wisdom & Wit of Gary Halbert — (salgsside på halbertising.com, bare en punktliste og pris) — An exclusive inside look at one of Gary Halbert's $7,000.00 marketing seminars..."
+210. [letter-210.md] — "The Amazing Secret Of A Marketing Genius Who Is Afraid To Fly — (Bond Halberts salgsside for Jay Abraham-annonsens breakdown, 2012) — I'm Bond Halbert, the son of Gary C. Halbert..."
+211. [letter-211.md] — "I Bid Thee Farewell — (Theresa, 2005: avskjed etter 17 år; avslører at hun skrev Enlightening And Extremely Time Sensitive) — This is a letter from Gary's #1 Trusty Assistant Theresa...."
