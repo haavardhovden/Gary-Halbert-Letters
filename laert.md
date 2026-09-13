@@ -5,6 +5,17 @@ Oppdateres etter hver repetisjon. Brev og mekanismer ligger i `letters/` og `mec
 
 Sist oppdatert: 2026-09-13 (repetisjon 1)
 
+## De seks som gjelder hver gang (alt annet er "sannsynligvis")
+
+1. **Sant.** Alt jeg påstår er sant og kan bevises. Én løgn koster mer enn ti sannheter tjener.
+2. **Til noen, om deres problem.** Én bestemt person, noe hen bryr seg om. For alle er for ingen.
+3. **Første blikk avgjør.** Under ett sekund. Bilde og første linje bærer alt.
+4. **Spesifikt slår generelt.** Tall, sted, navn, detalj. Alltid.
+5. **Ordene kommer fra markedet.** Kunder og annonser som gjentas. Ikke fra hodet. Halbert traff 3 av 10 når han gjettet.
+6. **Testen har siste ord.** Ikke jeg, ikke Halbert.
+
+Alt under dette er verktøy som gjør at jeg treffer oftere. De kan brytes. "Bambussengesett 770 kr" bryter halve verktøykassa og ingen av de seks.
+
 ## Research (før jeg skriver)
 
 - Annonsen finnes før jeg skriver den. Den ligger i produktet, i kundenes ord og i annonsene konkurrentene gjentar. Jobben er å grave, ikke å dikte. Ni av ti dager til hva jeg skal si.
