@@ -227,6 +227,19 @@ overgangsalderen (ikke behandling av den).
 Må være sant før kjøring: at kvinner i overgangsalderen faktisk kjøper Stille (sjekk anmeldelser/kundedata), og at
 teksten aldri påstår effekt på hetetoktene. Sengetøyet holder senga kjølig, ikke mer.
 
+**Runde 2, korte (Håvard så flere konkurrenter si "perfekt for overgangsalderen", så påstanden er brukt opp;
+vinn på hvordan eller på spesifisitet):**
+Problem: "Våkner du klam klokka tre?" / "Nattesvette? Lakenet er halve problemet." / "Bytter du laken midt på natta?" /
+"Hetetokter om natta. Bomull gjør det verre."
+Mekanisme: "Bomull holder på svetten. Bambus slipper den ut." / "Derfor våkner du klam i bomullslaken." /
+"Tørt laken klokka tre. Det er hele forskjellen." / "Kroppen svetter. Lakenet trenger ikke lagre det."
+Callout + utelukkelse: "Overgangsalder, uten hormoner: sov tørt likevel." / "Hormoner eller ikke. Lakenet blir tørt." /
+"Over 50 og våken klokka tre? Les dette."
+Rolls-Royce-detalj: "Det eneste som er varmt i senga klokka tre, er du." / "Hun bytter ikke laken om natta lenger. Hun byttet laken."
+Lånt bevis: "Helsenorge: 'må skifte sengetøy'. Vi har et som tåler det." / "8 av 10 får hetetokter. Bare lakenet kan du bytte."
+Test først: "Bytter du laken midt på natta?", "Bomull holder på svetten. Bambus slipper den ut.", "Hormoner eller ikke.
+Lakenet blir tørt.", "Hun bytter ikke laken om natta lenger. Hun byttet laken." Bomull-skylden: sjekk at Stille vil stå i det.
+
 ### Konklusjoner / regler etablert for Stille spesifikt
 
 - Kreative vinkler = kald trafikk-hooks; ren pris-annonse = varm trafikk-closer (MIDT, msg 463).
