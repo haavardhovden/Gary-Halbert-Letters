@@ -211,6 +211,22 @@ Vurdering (Claude, Halbert-stil):
   Lakenet gjør det."
 
 
+#### 2026-09-13 — Overgangsalder, "Facelift In A Jar"-strukturen (Håvards idé under gjenlesing)
+
+Halberts headline "The Amazing Facelift In A Jar Used By Hollywood Stars Who Don't Want Plastic Surgery!" =
+[nyhet] [produkt løftet til større kategori] [brukt av gruppe leseren vil ligne] [som ikke vil ha det skumle alternativet].
+Stille-oversettelse: fienden er HRT, gruppen er ekte kunder i overgangsalderen, kategorien er søvn gjennom
+overgangsalderen (ikke behandling av den).
+
+1. "Det kjølige sengetøyet kvinner i overgangsalderen bytter til når de ikke vil starte på HRT" (nærmest originalen, test først)
+2. "Nattsvette i overgangsalderen? Dette gjør tusenvis av norske kvinner før de går på hormoner" (tallet må være ekte)
+3. "Overgangsalder uten hormoner: sengetøyet som holder deg tørr klokka tre om natta" (ser minst ut som reklame, test først)
+4. "Den 'kjølige natta i en pose' kvinner i overgangsalderen velger i stedet for HRT" (for tett kopi, tatt med som kontrast)
+5. "Trikset kvinner over 50 bruker mot svette netter (uten en eneste tablett)"
+
+Må være sant før kjøring: at kvinner i overgangsalderen faktisk kjøper Stille (sjekk anmeldelser/kundedata), og at
+teksten aldri påstår effekt på hetetoktene. Sengetøyet holder senga kjølig, ikke mer.
+
 ### Konklusjoner / regler etablert for Stille spesifikt
 
 - Kreative vinkler = kald trafikk-hooks; ren pris-annonse = varm trafikk-closer (MIDT, msg 463).
