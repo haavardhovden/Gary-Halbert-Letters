@@ -302,6 +302,12 @@ Vurdering (Claude, Halbert-stil):
 
 ---
 
+### Research
+
+- `research/vidda-camper-the-suck.md` — Halberts "The Suck" (letter-171) gjort på Vidda Camper:
+  90 nummererte nugget-notater fra tester, forum, forhandlere. Rått, med [SJEKK]-merker.
+  Håvard vurderte det som for sortert (faktaark, ikke Suck). Ligger som sjekkliste.
+
 ## Feil å dobbeltsjekke (Claude tok feil i samtalen, senere korrigert)
 
 - Claude blandet Vidda-teltvinkelen inn i en Stille-kontekst midtveis (SENT, msg 716–719) —

@@ -34,3 +34,12 @@ No gaps remain — all 9 ads now have a numbered `mechanisms.md` entry with an e
 `mechanisms.md`, these entries are drafts: if a re-read of the ad suggests the assigned
 entry undersells, overgeneralizes, or misses the actual mechanism, that's a candidate for
 revision like any other entry.
+
+
+---
+
+## Studier (seksjon 2, ikke annonser)
+
+| Kilde | Fil | mechanisms.md |
+|-------|-----|---------------|
+| MBB: "Breaking Down OG Sales Letters That Printed Money" (YouTube live) | `mbb-breaking-down-og-sales-letters.md` | **#62** (helten må være som leseren, men verre + emosjonelt delta). Resten er dekket: sofistikeringsstigen (SOPHISTICATION), "ditt navn" (#17), bullets (#8/#20), kvalifisering (SEGMENTERING). |

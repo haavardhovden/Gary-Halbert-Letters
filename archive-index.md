@@ -6,91 +6,91 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 
 ## Newsletters
 
-- [ ] A Starving Crowd (AKA The One Advantage)
-- [ ] Hands On Experience For A Basic Education In Advertising Principles!
-- [ ] Do It By The Numbers!
+- [x] A Starving Crowd (AKA The One Advantage) ([letter-006.md](letters/letter-006.md))
+- [x] Hands On Experience For A Basic Education In Advertising Principles! ([letter-001.md](letters/letter-001.md))
+- [x] Do It By The Numbers! ([letter-007.md](letters/letter-007.md))
 - [x] The Big Idea ([letter-011.md](letters/letter-011.md))
-- [ ] Let's Do The Twist!
-- [ ] Why You Must Eliminate The "Human Deadwood" From Your Life!
-- [ ] Gary Halbert's Famous Personal Ad
+- [x] Let's Do The Twist! ([letter-015.md](letters/letter-015.md))
+- [x] Why You Must Eliminate The "Human Deadwood" From Your Life! ([letter-017.md](letters/letter-017.md))
+- [x] Gary Halbert's Famous Personal Ad ([letter-002.md](letters/letter-002.md))
 - [ ] The Secrets of The Water Ad!
 - [x] How To Write Killer Headlines! ([letter-010.md](letters/letter-010.md))
-- [ ] Separating World-Class Copywriters From Lesser Brethren!
-- [ ] Gary Halbert's Unfinished Business
+- [x] Separating World-Class Copywriters From Lesser Brethren! ([letter-012.md](letters/letter-012.md))
+- [x] Gary Halbert's Unfinished Business ([letter-013.md](letters/letter-013.md))
 - [x] The Dark Side Of Success! ([letter-136.md](letters/letter-136.md))
-- [ ] A "Fighter Pilot" Attitude!
+- [x] A "Fighter Pilot" Attitude! ([letter-018.md](letters/letter-018.md))
 - [ ] Missing Gary Halbert Swipe File Resurfaces After More Than A Decade!?
 - [ ] The Wisdom & Wit of Gary Halbert
-- [ ] The Few Products From Others That Get... The Halbert Seal of Approval
-- [ ] "An Open Letter From Kevin Halbert To Anyone Who Wants Or Needs To Hire A Great Copywriter"
+- [x] The Few Products From Others That Get... The Halbert Seal of Approval ([letter-022.md](letters/letter-022.md))
+- [x] "An Open Letter From Kevin Halbert To Anyone Who Wants Or Needs To Hire A Great Copywriter" ([letter-023.md](letters/letter-023.md))
 - [ ] Rolls Royce Letter. Can You Guess
-- [ ] Rolls Royce Letter Revealed
-- [ ] 20 Clicks
-- [ ] Gary Halbert's Secrets Revealed
+- [x] Rolls Royce Letter Revealed ([letter-024.md](letters/letter-024.md))
+- [x] 20 Clicks ([letter-025.md](letters/letter-025.md))
+- [x] Gary Halbert's Secrets Revealed ([letter-026.md](letters/letter-026.md))
 - [ ] The Amazing Secret Of A Marketing Genius Who Is Afraid To Fly
-- [ ] How You Should Start Everyday For The Rest Of Your Life!
-- [ ] My Most Important Newsletter
+- [x] How You Should Start Everyday For The Rest Of Your Life! ([letter-027.md](letters/letter-027.md))
+- [x] My Most Important Newsletter ([letter-028.md](letters/letter-028.md))
 - [x] It Was A Veritable Orgy Of Ideas! ([letter-029.md](letters/letter-029.md))
 - [ ] Something Worth Thinking About
-- [ ] Great News for Fans of The Gary Halbert Letter
-- [ ] Giving It Your Best Shot On Your Very First Test!
-- [ ] The Amazing Direct Mail Secret Of A Desperate Nerd From Ohio!
-- [ ] John Reese The 500 Pound Gorilla
-- [ ] The Difference Between Winners and Losers
-- [ ] Water!
-- [ ] Why I Am The Best Copywriter Alive (I'm Even Better Than The Ones Who Are Dead)!
-- [ ] Channeling The Head Shitweasel (by John Carlton)
-- [ ] How To Make Your Ad In The Yellow Pages Pull In 400% More Business Than It Does Now - At No Extra Charge!
-- [ ] Guru Gary's Guide To Things To Think About When Times Are Tough!
-- [ ] Boxes Of Nuggets!
-- [ ] 12-Month Millionaire
+- [x] Great News for Fans of The Gary Halbert Letter ([letter-030.md](letters/letter-030.md))
+- [x] Giving It Your Best Shot On Your Very First Test! ([letter-031.md](letters/letter-031.md))
+- [x] The Amazing Direct Mail Secret Of A Desperate Nerd From Ohio! ([letter-032.md](letters/letter-032.md))
+- [x] John Reese The 500 Pound Gorilla ([letter-034.md](letters/letter-034.md))
+- [x] The Difference Between Winners and Losers ([letter-035.md](letters/letter-035.md))
+- [x] Water! ([letter-009.md](letters/letter-009.md))
+- [x] Why I Am The Best Copywriter Alive (I'm Even Better Than The Ones Who Are Dead)! ([letter-037.md](letters/letter-037.md))
+- [x] Channeling The Head Shitweasel (by John Carlton) ([letter-038.md](letters/letter-038.md))
+- [x] How To Make Your Ad In The Yellow Pages Pull In 400% More Business Than It Does Now - At No Extra Charge! ([letter-039.md](letters/letter-039.md))
+- [x] Guru Gary's Guide To Things To Think About When Times Are Tough! ([letter-040.md](letters/letter-040.md))
+- [x] Boxes Of Nuggets! ([letter-041.md](letters/letter-041.md))
+- [x] 12-Month Millionaire ([letter-042.md](letters/letter-042.md))
 - [ ] A Special Treat For Readers Of The Gary Halbert Letter
-- [ ] Meditation For Miserable People Who Want To Stay That Way!
-- [ ] AIDA!
-- [ ] How To Write Better Copy, Faster! And... How To Write Copy Like Gary Halbert!
-- [ ] How To Mail Up To 100,000 Letters Per Week At No Cost Whatsoever! (Not Even Postage)
+- [x] Meditation For Miserable People Who Want To Stay That Way! ([letter-043.md](letters/letter-043.md))
+- [x] AIDA! ([letter-044.md](letters/letter-044.md))
+- [x] How To Write Better Copy, Faster! And... How To Write Copy Like Gary Halbert! ([letter-045.md](letters/letter-045.md))
+- [x] How To Mail Up To 100,000 Letters Per Week At No Cost Whatsoever! (Not Even Postage) ([letter-046.md](letters/letter-046.md))
 - [ ] Big Announcement and FREE Audio from Gary's 87' Brainstorm Seminar
 - [ ] Happy Birthday Pop (by Bond Halbert)
-- [ ] Monster Website Profits
-- [ ] Mindset
+- [x] Monster Website Profits ([letter-047.md](letters/letter-047.md))
+- [x] Mindset ([letter-048.md](letters/letter-048.md))
 - [ ] Modesty Personified
-- [ ] Secrets of The 700 Million Dollar Man
-- [ ] Marketing From Outer Space
-- [ ] Jam Packed
-- [ ] Go Ask Alice
+- [x] Secrets of The 700 Million Dollar Man ([letter-049.md](letters/letter-049.md))
+- [x] Marketing From Outer Space ([letter-051.md](letters/letter-051.md))
+- [x] Jam Packed ([letter-052.md](letters/letter-052.md))
+- [x] Go Ask Alice ([letter-053.md](letters/letter-053.md))
 - [ ] I Bid Thee Farewell
-- [ ] Enlightening And Extremely Time Sensitive!
+- [x] Enlightening And Extremely Time Sensitive! ([letter-054.md](letters/letter-054.md))
 - [ ] Fair Maiden's Writing
-- [ ] Believe It Or Not... Here's Another Gift From Gary Halbert For Internet Marketers!
-- [ ] Gary Halbert's Present For Internet Marketers!
-- [ ] More Secrets Of The Water Ad!
+- [x] Believe It Or Not... Here's Another Gift From Gary Halbert For Internet Marketers! ([letter-056.md](letters/letter-056.md))
+- [x] Gary Halbert's Present For Internet Marketers! ([letter-057.md](letters/letter-057.md))
+- [x] More Secrets Of The Water Ad! ([letter-058.md](letters/letter-058.md))
 - [ ] A Mysterious Chunk Of Metal That Can Triple Your Online Profits
 - [ ] A Very Important Newsletter!
 - [ ] That's White Mail!
 - [ ] That's White Mail II
-- [ ] How To Cash In Big By Using Contests And Sweepstakes To Hype Your Promotions!
-- [ ] A Sad Day In Direct Response Marketing
+- [x] How To Cash In Big By Using Contests And Sweepstakes To Hype Your Promotions! ([letter-059.md](letters/letter-059.md))
+- [x] A Sad Day In Direct Response Marketing ([letter-060.md](letters/letter-060.md))
 - [ ] Happy To Be Alive!
-- [ ] I Told You So!
+- [x] I Told You So! ([letter-061.md](letters/letter-061.md))
 - [x] The BIG Website Profit Making Secret ([letter-062.md](letters/letter-062.md))
-- [ ] Operation Moneysuck!
-- [ ] Sewage Soup!
+- [x] Operation Moneysuck! ([letter-063.md](letters/letter-063.md))
+- [x] Sewage Soup! ([letter-064.md](letters/letter-064.md))
 - [ ] Cajun Country
 - [ ] MASH
 - [ ] Katrina Relief From Allen
-- [ ] Trying To Reason With Hurricane Season!
+- [x] Trying To Reason With Hurricane Season! ([letter-065.md](letters/letter-065.md))
 - [ ] One Hundred Million Dollars Per Year!
-- [ ] An Insane Idea?
-- [ ] Praise The Lord!
-- [ ] Answer To "Can You Guess?"
-- [ ] Answer To "Can You Guess Part II?"
-- [ ] Answer To "Can You Guess Part III?"
+- [x] An Insane Idea? ([letter-066.md](letters/letter-066.md))
+- [x] Praise The Lord! ([letter-068.md](letters/letter-068.md))
+- [x] Answer To "Can You Guess?" ([letter-071.md](letters/letter-071.md))
+- [x] Answer To "Can You Guess Part II?" ([letter-069.md](letters/letter-069.md))
+- [x] Answer To "Can You Guess Part III?" ([letter-070.md](letters/letter-070.md))
 - [ ] An Example Of Mark Joyner's Genius Viral Marketing Techniques
-- [ ] The Most Important Thing You Need To Know To Make Website Profits
+- [x] The Most Important Thing You Need To Know To Make Website Profits ([letter-072.md](letters/letter-072.md))
 - [x] Neurological Imprinting! ([letter-073.md](letters/letter-073.md))
 - [x] My Newest "Killer Idea"! ([letter-074.md](letters/letter-074.md))
 - [x] Greatest Marketing Breakthrough Comes Out Of The Closet! ([letter-075.md](letters/letter-075.md))
-- [ ] Part II (Greatest Marketing Breakthrough)
+- [x] Part II (Greatest Marketing Breakthrough) ([letter-076.md](letters/letter-076.md))
 - [x] Gary Halbert's Last Newsletter, Part I ([letter-077.md](letters/letter-077.md))
 - [ ] Free Gold From Gary
 - [ ] More Free Gold From Gary
@@ -153,43 +153,43 @@ Status legend: [ ] = not read yet · [x] = read (link to letter-XXX.md) · [skip
 - [x] Are You Guilty Of Committing These 10 Stupid Things? ([letter-160.md](letters/letter-160.md))
 - [x] The Only Thing That Makes Any Positive Difference In Your Life! ([letter-161.md](letters/letter-161.md))
 - [x] How To Deal With "Nightmare Clients"! ([letter-162.md](letters/letter-162.md))
-- [ ] How To Get As Much Money As You Need To "Roll Out" Your Project And Get It Without Borrowing!
-- [ ] How To Get The Exact Name And Address Of Every Man, Woman, And Child Who Is Ever Likely To Become One Of Your Customers!
-- [ ] Grout Sponge!
-- [ ] Warning: This Is NOT A Newsletter!
-- [ ] All Post Offices Are NOT Created Equal!
-- [ ] How To Live To Be 110... And... Still Remember Where You Left Your Car Keys!
-- [ ] The World Is Your Urinal!
-- [ ] How To Make More Money From A Website Than Any Sane Person Can Possibly Spend!
-- [ ] Financial Sodomy Inc.!
-- [ ] "The Suck"!
-- [ ] How To "Sweeten" Your Profits!
-- [ ] A Few Marketing Secrets Never Before Revealed!
-- [ ] 27 "Pearls-Of-Wisdom" That Will Help You Make A Fortune!
-- [ ] Another Issue About... Where The Money Is... And... How To Get It!
-- [ ] How To Use Cheap Little Classified Ads To Make As Much As $10,000 Per Day!
-- [ ] Where The Money Is... And... How To Get It!
-- [ ] Remember Y2K? I Sure Do... And... How I Was Wrong About It!
-- [ ] How To Make Your Advertising 750% More Profitable!
-- [ ] The Two Most Important Direct Marketing Success Secrets In The World!
-- [ ] Why Multi-Level Marketing Sucks!
-- [ ] The Halbert Index!
-- [ ] How To Use Interesting Facts In Your Sales Messages To Sky Rocket Response!
-- [ ] Little "Automatic" Telephone Calls That Will Triple Your Sales!
-- [ ] Why The Best Way To Promote A Website Is Not The Internet!
-- [ ] How To Get A Product To Sell If You Don't Have One Already... And... How To Get It For Nothing!
-- [ ] How To Make God Laugh... And... The World's Most Perfect Stock Trading System!
-- [ ] More Stock Trading Secrets!
-- [ ] How To Make Money With Your Personal Computer!
-- [ ] The Most Valuable Skill You Can Have In Today's World... If... You Want To Become Independently Wealthy!
-- [ ] Newsletter About Nothing!
-- [ ] Why "Thoughtless" Writing Is The Best Writing!
-- [ ] How To Set Up An Immediately-Profitable Website!
-- [ ] How To Get Yourself Or Your Product Featured On Cable TV At No Cost Whatsoever!
-- [ ] I Bet Bill Gates Never Had A Good Piece Of Ass In His Life!
-- [ ] Pound-For-Pound The Most Cost Effective Block Of Space!
-- [ ] How To Use 976 Numbers To Get People To Pay To Hear Your Sales Pitch!
-- [ ] How To Get Movie And TV Stars To Help You Sell Your Products And Services!
+- [x] How To Get As Much Money As You Need To "Roll Out" Your Project And Get It Without Borrowing! ([letter-150.md](letters/letter-150.md)) (samme tekst som Section #3 i letter-150)
+- [x] How To Get The Exact Name And Address Of Every Man, Woman, And Child Who Is Ever Likely To Become One Of Your Customers! ([letter-163.md](letters/letter-163.md))
+- [x] Grout Sponge! ([letter-164.md](letters/letter-164.md))
+- [x] Warning: This Is NOT A Newsletter! ([letter-165.md](letters/letter-165.md))
+- [x] All Post Offices Are NOT Created Equal! ([letter-166.md](letters/letter-166.md))
+- [x] How To Live To Be 110... And... Still Remember Where You Left Your Car Keys! ([letter-167.md](letters/letter-167.md))
+- [x] The World Is Your Urinal! ([letter-168.md](letters/letter-168.md))
+- [x] How To Make More Money From A Website Than Any Sane Person Can Possibly Spend! ([letter-169.md](letters/letter-169.md))
+- [x] Financial Sodomy Inc.! ([letter-170.md](letters/letter-170.md))
+- [x] "The Suck"! ([letter-171.md](letters/letter-171.md))
+- [x] How To "Sweeten" Your Profits! ([letter-172.md](letters/letter-172.md))
+- [x] A Few Marketing Secrets Never Before Revealed! ([letter-173.md](letters/letter-173.md))
+- [x] 27 "Pearls-Of-Wisdom" That Will Help You Make A Fortune! ([letter-174.md](letters/letter-174.md))
+- [x] Another Issue About... Where The Money Is... And... How To Get It! ([letter-175.md](letters/letter-175.md))
+- [x] How To Use Cheap Little Classified Ads To Make As Much As $10,000 Per Day! ([letter-176.md](letters/letter-176.md))
+- [x] Where The Money Is... And... How To Get It! ([letter-177.md](letters/letter-177.md))
+- [x] Remember Y2K? I Sure Do... And... How I Was Wrong About It! ([letter-178.md](letters/letter-178.md))
+- [x] How To Make Your Advertising 750% More Profitable! ([letter-179.md](letters/letter-179.md))
+- [x] The Two Most Important Direct Marketing Success Secrets In The World! ([letter-180.md](letters/letter-180.md))
+- [x] Why Multi-Level Marketing Sucks! ([letter-181.md](letters/letter-181.md))
+- [x] The Halbert Index! ([letter-182.md](letters/letter-182.md))
+- [x] How To Use Interesting Facts In Your Sales Messages To Sky Rocket Response! ([letter-183.md](letters/letter-183.md))
+- [x] Little "Automatic" Telephone Calls That Will Triple Your Sales! ([letter-184.md](letters/letter-184.md))
+- [x] Why The Best Way To Promote A Website Is Not The Internet! ([letter-185.md](letters/letter-185.md))
+- [x] How To Get A Product To Sell If You Don't Have One Already... And... How To Get It For Nothing! ([letter-186.md](letters/letter-186.md))
+- [x] How To Make God Laugh... And... The World's Most Perfect Stock Trading System! ([letter-187.md](letters/letter-187.md))
+- [x] More Stock Trading Secrets! ([letter-188.md](letters/letter-188.md))
+- [x] How To Make Money With Your Personal Computer! ([letter-189.md](letters/letter-189.md))
+- [x] The Most Valuable Skill You Can Have In Today's World... If... You Want To Become Independently Wealthy! ([letter-190.md](letters/letter-190.md))
+- [x] Newsletter About Nothing! ([letter-191.md](letters/letter-191.md))
+- [x] Why "Thoughtless" Writing Is The Best Writing! ([letter-055.md](letters/letter-055.md))
+- [x] How To Set Up An Immediately-Profitable Website! ([letter-192.md](letters/letter-192.md))
+- [x] How To Get Yourself Or Your Product Featured On Cable TV At No Cost Whatsoever! ([letter-193.md](letters/letter-193.md))
+- [x] I Bet Bill Gates Never Had A Good Piece Of Ass In His Life! ([letter-194.md](letters/letter-194.md))
+- [x] Pound-For-Pound The Most Cost Effective Block Of Space! ([letter-195.md](letters/letter-195.md))
+- [x] How To Use 976 Numbers To Get People To Pay To Hear Your Sales Pitch! ([letter-196.md](letters/letter-196.md))
+- [x] How To Get Movie And TV Stars To Help You Sell Your Products And Services! ([letter-197.md](letters/letter-197.md))
 
 ## Boron Letters
 

@@ -1,6 +1,6 @@
 # Oversikt: hva vi har lært av Gary Halbert
 
-Lettfordøyelig kart over `mechanisms.md` (55 mekanismer + rammeverk) og `books/the-boron-letters-2013.md`.
+Lettfordøyelig kart over `mechanisms.md` (73 mekanismer + rammeverk) og `books/the-boron-letters-2013.md`.
 Tallene i parentes peker på mekanismen i `mechanisms.md`. Dette dokumentet forklarer ikke, det viser vei.
 Oppdateres når nye mekanismer kommer til.
 
@@ -103,7 +103,7 @@ Sitat å ha på veggen: *"Advertising is salesmanship multiplied. You can't mult
 
 | Verktøy | Fil | Hva |
 |---|---|---|
-| Mekanismer | `mechanisms.md` | Skoesken. 55 kort. |
+| Mekanismer | `mechanisms.md` | Skoesken. 73 kort. |
 | Headlines | `swipe/headlines.md` | Klassiske headlines til å modellere |
 | Fakta | `swipe/facts.md`, `research/stille/02-*.md` | Interessante, sanne fakta med kilder |
 | Bullets | `swipe/bullets.md` | Åpne loops-maler |
@@ -124,3 +124,30 @@ Sitat å ha på veggen: *"Advertising is salesmanship multiplied. You can't mult
 - Headline i anførselstegn: Ogilvy sier +38 % recall. (letter-151)
 - Foto av avsender, ekte telefonnummer. (letter-152)
 - Grabber: fysisk objekt som kjøper neste steg. (#33)
+
+---
+
+## 7. Lagt til ved sammenslåingen 13. sept (#56–#73, fra to parallelle chatter)
+
+Ikke sortert inn i tabellene over ennå. Én linje hver, nummeret peker til `mechanisms.md`.
+
+| Mekanisme | Én setning | Hvor |
+|---|---|---|
+| Betal, men ikke til meg | Pris som verdisignal der pengene går til veldedighet. Terskelen heves med vilje. | #56 |
+| Star, Story, Solution | Kvalifiseringstest for om noe egner seg som innhold/omtale. | #57 |
+| Respons skalerer ikke med flate | Halv side gir mer enn halvparten av helsidens respons. | #58 |
+| Betal for pitchen | Prospektet betaler for å bli solgt til (976-nummer). | #59 |
+| Drep angeren før pakken kommer | Kontakt mellom kjøp og levering hindrer refusjon. | #60 |
+| Kjendisen credentialer | Kjendisen selger ikke, hen gjør avsenderen troverdig. | #61 |
+| Helten må være som leseren, men verre | Avsenderens posisjon under leseren, og tempoet i svinget opp. | #62 |
+| Forkunnskaps-friksjon | Usikkerhet om "gjelder dette meg" dreper salget før prisen gjør det. | #63 |
+| Insider-avhopperen | Troverdighet fra lojalitetsbrudd: "jeg jobbet der, og her er sannheten". | #64 |
+| Stick letter | Brevet som går ut før produktet lander: bekreft, gjenta bonusene, åpne back-end. | #65 |
+| Bestikkelses-stabelen | Bonusene er større enn produktet, og kunden beholder dem uansett. | #66 |
+| Forsinkelsen som forsprang | En leveringsglipp brukt som anledning til å selge på nytt. | #67 |
+| Betinget dobbel-pengene-tilbake | Garantien som filtrerer: større løfte, knyttet til at kunden faktisk prøvde. | #68 |
+| Bonding-sekvensen | Uventede gaver timet mot angrevinduet. Sekvens, ikke ett brev. | #69 |
+| To-stegs-annonsen | Annonsen selger bare neste steg. Formatet er for lite til å selge produktet. | #70 |
+| An Ad For Your Ad | Flere inngangspunkter i samme annonse; halve publikummet ser bare nederste halvdel. | #71 |
+| Appell-test med titler | Test 50 headlines før du lager ett produkt. | #72 |
+| Den nest beste hemmeligheten | Gi bort en komplett metode gratis, og rangér det du selger over den. | #73 |

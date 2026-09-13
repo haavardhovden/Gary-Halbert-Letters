@@ -4,17 +4,36 @@ Standing instructions for working in this repo.
 
 ## curriculum.md
 
-`curriculum.md` (repo root) is the full 30-day plan. This repo's letters/mechanisms work is
-step 1 (section 1) of it. Sections 2–6 (Ogilvy/Caples/other copywriters, classic ads beyond
-the swipe-file canon, modern DTC ad study via Atria, books, follows/newsletters/courses) are
-later stages — **not started yet**. Don't act on them without being asked.
+`curriculum.md` (repo root) is the full 30-day plan **and the progress tracker for sections
+2–6** (tick `[x]` there as items are done). Section 1 (Halbert letters) is tracked in
+`archive-index.md` and continues in parallel with the later sections.
 
-Going forward, once later stages are underway: `mechanisms.md` is the single running
-knowledge base across *every* stage of the curriculum, not just the Halbert letters —
-techniques from classic ads, modern DTC ad study, and books all land in the same file,
-cross-referenced by source (the existing `Kilde:` convention extends naturally: a book gets
-`Kilde: <title>, ch. X` or similar instead of `letter-XXX.md`). Same numbered-entry format,
-same "new pattern only" bar, same rule about proposing Stille/Vidda-touching changes first.
+**Sections 2–6 are now active.** Where things land:
+- Section 2 classic ads / sales letters → `ads/<slug>.md` (+ `.pdf` if available), indexed in
+  `ads/swipe-file.md`
+- Section 3 modern paid social (Atria) → `modern-ads/<brand>.md`
+- Section 4 books → `books/<slug>.md` (chapter notes + key quotes, not verbatim chapters)
+- Sections 5–6 → no files; anything worth keeping goes straight into `mechanisms.md`
+
+`mechanisms.md` is the single running knowledge base across *every* section — techniques
+from classic ads, modern DTC ads and books all land in the same file, cross-referenced by
+source (`Kilde: ads/<slug>.md`, `Kilde: modern-ads/<brand>.md`, `Kilde: <book>, kap. X`).
+Same numbered-entry format, same "new pattern only" bar, same rule about proposing
+Stille/Vidda-touching changes first.
+
+## Processing pasted material from sections 2–4
+
+When the user pastes a classic ad, a sales letter, a modern ad, or a book chapter, treat it
+exactly like a pasted Halbert letter (same reply format, same mechanisms bar, same
+"Les eller skum" and "Neste"):
+- **Classic ad / sales letter:** save verbatim to `ads/<slug>.md`, add a row to
+  `ads/swipe-file.md`, tick the item in `curriculum.md` if it is listed there.
+- **Modern ad (Atria etc.):** append to `modern-ads/<brand>.md` (create if missing), tick
+  the brand in `curriculum.md` when the user says the brand is done.
+- **Book chapter:** append chapter notes + the quotes worth keeping to `books/<slug>.md`
+  (create from the table in `books/README.md`). Do not commit whole chapters verbatim.
+- **"Neste:"** for sections 2–6 = the next unticked item in `curriculum.md`, in order. When
+  a Halbert letter is processed, "Neste" still follows `archive-index.md`.
 
 ## Processing a pasted Gary Halbert letter
 
@@ -29,8 +48,16 @@ steps each time:
    actual failure mode.
 2. **Save it verbatim.** Write the pasted text as-is to the next `letters/letter-XXX.md`
    (zero-padded, next number after the highest existing file in `letters/`).
-3. **Assess its copywriting value.** Yes/no, plus the key techniques it demonstrates (or,
+3. **Reply in this fixed format, every time:**
+   - **Oppsummering** — what the letter says, neutrally, no interpretation (3–6 sentences).
+   - **Verdi: ja/nei** — one line of reason.
+   - **Mekanisme: lagt til (#N) / ikke lagt til** — one line of reason.
+   - **Les eller skum** — see below.
+   - **Neste:** — see step 4.
+   Details on the assessment: **Assess its copywriting value.** Yes/no, plus the key techniques it demonstrates (or,
    if no: why not — e.g. pure logistics/admin content with no reusable mechanism).
+   **Always include a "Les eller skum" verdict** — read it in full, or skim it (and if skim,
+   which section is still worth a close read). Never leave this out.
 4. **Update the tracking files accordingly:**
    - `letters-read.md` — append an entry in the existing numbered format (file link + short
      opening-line excerpt).
@@ -38,6 +65,10 @@ steps each time:
      `letter-XXX.md`, if a matching title exists in the master list; otherwise leave it (the
      archive index is the *official* title list from thegaryhalbertletter.com — don't invent
      new entries in it for letters that aren't already named there).
+   - **Always end the chat reply with "Neste brev: …"** — the next `[ ]` title in
+     `archive-index.md` *after* the one just processed (same section order as the site). If a
+     series is in progress (e.g. Boron Letters), name the next chapter as well. Never skip this
+     line, even when the letter turned out to be a duplicate.
    - `mechanisms.md` — **only touch it when the letter contributes a genuinely new pattern**,
      not already captured (even loosely) by an existing entry. A weak or partial variant of a
      technique that's already in there is just `value: no` + a short reason in chat — don't
