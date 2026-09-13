@@ -24,6 +24,51 @@ truth bomb). Runde 1 og 2 ligger i `05-` og `06-`. Dette er runden som bygger p�
 - Hook-karakter: klarhet, relevans, nyhet, spesifisitet, troverdighet. To av dem gjort godt holder.
 - Det siste hun leser er ikke en vits. Én tydelig avslutning.
 
+## Rå fakta om hormonbehandling (Håvards research 13. sep, Google AI-modus, ikke primærkilder)
+
+Status per punkt: TRYGG = bekreftet i navngitt kilde. FORBEHOLD = journalistisk gjengivelse. SJEKK = tall uten funnet primærkilde.
+
+**Hvor mange**
+- Nesten 200 000 kvinner i Norge brukte systemisk hormonbehandling i eller etter overgangsalderen i 2025. Tilsvarer omtrent åtte hele årskull kvinner. TRYGG.
+  Aftenposten: https://www.aftenposten.no/norge/i/XMbnrx/bruken-av-hormonbehandling-er-mer-enn-doblet-siden-2021
+  VG: https://www.vg.no/nyheter/i/m0Kq34/hormonbehandling-hormonbehandling-er-ikke-uten-risiko
+- Rundt 200 000 kvinner over 35 år bruker slik behandling årlig. TRYGG (samme kilder).
+- Bruken av systemisk hormonbehandling er mer enn doblet siden 2021. TRYGG (FHI via Aftenposten).
+- Apotekene leverte 32 % flere døgndoser (DDD) av reseptpliktig hormontilskudd i 2025 enn 2024. TRYGG.
+  Apotekforeningen (25. feb 2026): https://www.apotek.no/bruken-av-hormontilsudd-i-overgangsalderen-%C3%B8ker-kraftig
+- Fra 2001 til 2021 falt salget av legemidler til hormonterapi med 67 % (etter helserisiko-debatten), før det snudde. FORBEHOLD.
+  NRK: https://www.nrk.no/tromsogfinnmark/leger-kvier-seg-fortsatt-for-a-gi-ostrogen-til-kvinner-i-overgangsalder-1.16212108
+  Dagbladet (meninger): https://www.dagbladet.no/meninger/brems-litt/84523246
+- Bunnpunktet var 4 % av kvinner over 35. FORBEHOLD.
+  forskning.no (9. mars 2026): https://www.forskning.no/hormoner-kvinnehelse-overgangsalder/hormoner-i-overgangsalderen-det-er-godt-a-fa-dette-bekreftet-i-en-stor-og-solid-studie/2629957
+
+**Hvor mange prosent**
+- De ~200 000 utgjør omtrent 13–15 % av alle norske kvinner over 35. SJEKK (AI-regnestykke, ikke funnet i kilde).
+- Kvinner 50–59: "anslås" 30–35 % bruker hormontilskudd. SJEKK, ikke bruk før tallet finnes hos FHI/Legemiddelregisteret.
+- NB: `03-segmentfakta.md` rad 1.12 har 295 000 for 2024. Det tallet inkluderer lokal (vaginal) behandling. 200 000 er systemisk. Ikke bland.
+
+**Største problemene kvinnene merker**
+- Hetetokter og nattesvette er det mest uttalte problemet. Plutselige, intense anfall av varme. TRYGG.
+  UiO: https://www.med.uio.no/om/aktuelt/blogg/2024/hva-er-overgangsalderen.html
+  Volvat: https://www.volvat.no/tjenester/overgangsalder/hormonbehandling-hrt/
+  Helsenorge: https://www.helsenorge.no/kvinnehelse/overgangsalder/symptomer/
+- Omtrent 3 av 4 kvinner opplever et bredt spekter av plager. FORBEHOLD (Volvat: https://www.volvat.no/aktuelt/34-tegn-pa-overgangsalder/).
+- **Søvnløshet: kraftig nattesvette gjør at mange våkner flere ganger hver natt og må bytte sengetøy eller klær. Kronisk søvnmangel.** TRYGG (Helsenorge, Volvat). ← vårt problem, i nøytral kilde.
+- Psykiske plager: humørsvingninger, angst, nedstemthet, hjernetåke, energimangel. TRYGG (NHI: https://nhi.no/sykdommer/kvinne/menstruasjonsproblemer/lavt-ostrogen).
+- Underlivsplager: tørre slimhinner, svie, urinveisinfeksjoner, smertefulle samleier. TRYGG (Apotek 1, Helsenorge). Ikke relevant for oss.
+- Muskel- og leddsmerter: verkende ledd og stivhet. TRYGG (Aleris: https://www.aleris.no/gynekolog/overgangsalder/hormonbehandling-i-overgangsalder/).
+
+**Hvorfor de velger hormonbehandling**
+1. Gjenopprette livskvalitet: hormonbehandling er den mest effektive metoden mot hetetokter og nattesvette. Søvn og energi tilbake. TRYGG (Helsenorge: https://www.helsenorge.no/kvinnehelse/overgangsalder/hormonbehandling/).
+2. Beskytte helsen på sikt: østrogenmangel øker risiko for benskjørhet og hjerte-/karsykdom. TRYGG (NHI, Helsenorge).
+3. Nye og tryggere alternativer: bioidentiske hormoner, ny forskning nyanserer gammel frykt for bivirkninger, leger og kvinner mer positive. FORBEHOLD (NHI: https://nhi.no/sykdommer/kvinne/hormonbehandling/overgangsalderen-medikamentene ; Gynkreftforeningen: https://www.gynkreftforeningen.no/om-oss/nyhetsarkiv/hormonbehandling-hva-er-viktig-a-tenke-pa-og-er-det-trygt).
+
+**Hva dette betyr for copyen (gjentatt fra strateginotatet)**
+- Kvinnene velger HRT fordi den *virker* mot nattesvette. Et laken konkurrerer ikke med det, og skal ikke late som.
+- De 200 000 på HRT er kunder: behandlingen tar uker, fjerner ikke alt, og mange svetter fortsatt.
+- De som ikke vil eller kan (blodpropp-/kreftrisiko, venter på time, usikre) er callout-gruppen for "uten hormoner"-vinkelen.
+- Setningen "må bytte sengetøy eller klær" fra Helsenorge/Volvat er steg 1 og 2 i skjelettet, ferdig skrevet av en nøytral kilde.
+
 ## Headlines, sortert etter hook-type
 
 ### A. Truth bomb (innrøm det produktet ikke gjør, så det det gjør blir trodd)
