@@ -5,9 +5,9 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 
 001. [letter-001.md] — "Every once in a while, someone comes to me and says something like this: "Gary, I've got to learn ho..."
 002. [letter-002.md] — "Why Gary Halbert’s Personal Ad Makes For Such a Unique & Powerful Copy Lesson..."
-003. [letter-003.md] — "Every once in a while, someone comes to me and says something like this: "Gary, I've got to learn ho..."
-004. [letter-004.md] — "Before I kind of get really into the analysis, you need to understand the evolution of copy. The maj..."
-005. [letter-005.md] — "Every once in a while, someone comes to me and says something like this: "Gary, I've got to learn ho..."
+003. [letter-003.md] — "Every once in a while, someone comes to me and says something like this: "Gary, I've got to learn ho..." (duplikat av letter-001, Hands On Experience)
+004. [letter-004.md] — "Before I kind of get really into the analysis, you need to understand the evolution of copy. The maj..." (ikke Halbert: komprimert MBB-video, se ads/mbb-breaking-down-og-sales-letters.md)
+005. [letter-005.md] — "Every once in a while, someone comes to me and says something like this: "Gary, I've got to learn ho..." (duplikat av letter-001, Hands On Experience)
 006. [letter-006.md] — "You are about to read eight pages of information that can save you and/or your direct-marketing clie..."
 007. [letter-007.md] — ""There I Was At 15,000..."
 008. [letter-008.md] — "The Boron Letters - Chapter 1..."
@@ -16,14 +16,14 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 011. [letter-011.md] — "Not only am I caught up, I am actually sitting here in Room 436 of the Doubletree Inn starting to wr..."
 012. [letter-012.md] — "Let's hustle our bustles! We've got a brand new year stretching out before us and, if we get moving ..."
 013. [letter-013.md] — "Halberts are notorious for letting unfinished business pile up until it is forgotten but I for one a..."
-014. [letter-014.md] — "The New Bankrutpcy Marketing Teleseminar already took place on May 9, 2006 and was a huge success.  ..."
+014. [letter-014.md] — "The New Bankrutpcy Marketing Teleseminar already took place on May 9, 2006 and was a huge success.  ..." (ikke Halbert: bankruptcy-teleseminar, admin)
 015. [letter-015.md] — "You know, I've been writing this newsletter since 1986 and I've written a number of issues on how to..."
-016. [letter-016.md] — "This is really true. It’s not an opening statement I’m using for shock value. No. It’s not a joke ei..."
+016. [letter-016.md] — "This is really true. It’s not an opening statement I’m using for shock value. No. It’s not a joke ei..." (duplikat av letter-136, The Dark Side Of Success)
 017. [letter-017.md] — "I've got a good set-up for writing now...."
 018. [letter-018.md] — "No. Today you are going to begin the process of learning how to write "killer" copy! Copy that drags..."
-019. [letter-019.md] — "In The Land Of The Blind,..."
-020. [letter-020.md] — "Halberts are notorious for letting unfinished business pile up until it is forgotten but I for one a..."
-021. [letter-021.md] — "Don't waste your time reading this if you already have so much money..."
+019. [letter-019.md] — "In The Land Of The Blind,..." (samme stykke som letter-002, Famous Personal Ad, lengre versjon)
+020. [letter-020.md] — "Halberts are notorious for letting unfinished business pile up until it is forgotten but I for one a..." (duplikat av letter-013, Unfinished Business)
+021. [letter-021.md] — "Don't waste your time reading this if you already have so much money..." (tittel uviss: "How To Make 100% Certain You Make An Enormous Amount Of Serious Money In 2005", okt 2004, seminar-tapes)
 022. [letter-022.md] — "One of the most common questions Kevin I get is, "what's the best course for learning how to write r..."
 023. [letter-023.md] — "“An Open Letter From Kevin Halbert To Anyone..."
 024. [letter-024.md] — "Herein lies the answer to the mysterious Rolls Royce letter...."
@@ -35,10 +35,10 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 030. [letter-030.md] — "For all of you who have felt the loss of Gary Halbert's colorful and inspirational newsletter, I hav..."
 031. [letter-031.md] — "Hey, you remember last month how I revealed to you how I was offering five free reports as a "bribe"..."
 032. [letter-032.md] — "Do you remember receiving a letter from me with a dollar bill attached to it a couple of weeks ago?..."
-033. [letter-033.md] — "[00:00](https://youtu.be/SmNpVtfIRHw?t=0)(https://youtu.be/SmNpVtfIRHw?t=0) Today I'm going to show ..."
+033. [letter-033.md] — "[00:00](https://youtu.be/SmNpVtfIRHw?t=0)(https://youtu.be/SmNpVtfIRHw?t=0) Today I'm going to show ..." (ikke Halbert: YouTube-transkripsjon om statiske annonser)
 034. [letter-034.md] — "I just came back from attending John Reese's seminar on Internet marketing...."
 035. [letter-035.md] — "It's almost here. The new year stretches before us like 365 blank pages of a personal diary...."
-036. [letter-036.md] — "This entire newsletter is going to consist of an ad I wrote for a client some time ago. I think read..."
+036. [letter-036.md] — "This entire newsletter is going to consist of an ad I wrote for a client some time ago. I think read..." (duplikat av letter-009, Water!)
 037. [letter-037.md] — "Last month I promised this month I would teach you the real art of writing copy...."
 038. [letter-038.md] — "Here's something I'm almost certain that Gary never wrote aboutï¿½..."
 039. [letter-039.md] — "Whenever someone opens the yellow pages, there are two things you can count on:..."
@@ -52,7 +52,7 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 047. [letter-047.md] — "Last Saturday the 23rd of August, my assistant Teresa got her daughter married off to a nice young m..."
 048. [letter-048.md] — "This issue is for entertainment purposes only. The tactics mentioned in this newsletter are no longe..."
 049. [letter-049.md] — "I believe I am the best copywriter who ever lived...."
-050. [letter-050.md] — "I work out now with a trainer...."
+050. [letter-050.md] — "I work out now with a trainer...." (tittel uviss: John Carlton-gjestebrev som selger Kick-Ass Copywriting Secrets)
 051. [letter-051.md] — "Can you think creatively?..."
 052. [letter-052.md] — "We live in a jam-packed world...."
 053. [letter-053.md] — "The first part of this newsletter is very painful for me to write...."
@@ -69,7 +69,7 @@ NB: inkluderer også noen ikke-Halbert-tekster (Kevin Halbert, John Carlton, vid
 064. [letter-064.md] — "I want to thank all of you who replied to the message on this website which was posted yesterday (Se..."
 065. [letter-065.md] — "It seems to me it would be almost sacrilegious to write about anything in this issue other than the ..."
 066. [letter-066.md] — "I have an idea that's probably insane...."
-067. [letter-067.md] — "OK truth seekers. Let's see if I can bring this sucker home...."
+067. [letter-067.md] — "OK truth seekers. Let's see if I can bring this sucker home...." (duplikat av letter-042, 12-Month Millionaire)
 068. [letter-068.md] — "First, I would like to respond to all of you who have so generously given marketing materials to Cat..."
 069. [letter-069.md] — "In this newsletter, we are going to talk about what makes "Can You Guess Part II?" ("A Valentine For..."
 070. [letter-070.md] — "In this letter, I'm going to give you the "STAND OUT" reason my personal ad featured in "Can You Gue..."
