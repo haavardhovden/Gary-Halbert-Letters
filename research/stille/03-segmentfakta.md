@@ -35,11 +35,24 @@ eller regulatorisk risiko.
 | 1.12 | «Antall kvinner over 40 som fikk hormonbehandling (MHT) økte fra ca. 198 000 i 2019 til 295 000 i 2024 — systemisk behandling nesten doblet.» | Legemiddelregisteret (FHI) | NHI: https://nhi.no/for-helsepersonell/nytt-om-legemidler/hormonbehandling ; DMP kunnskapsgrunnlag (31.10.2025): https://www.dmp.no/globalassets/documents/offentlig-finansiering-og-pris/metodevurderinger/h/hormonbehandling-ved-overgangsalder---kunnskapsgrunnlag.pdf | TRYGG (bruk som «flere søker hjelp» — ikke som anbefaling for/mot HRT) |
 | 1.13 | Norden: «97 % av danske kvinner 45–59 opplever gener i overgangsalderen» (KISO-studien, KU, >153 000 kvinner, 2025); «ca. 75 % opplever hetetokter» (sundhed.dk) | 97 % / 75 % | https://nexs.ku.dk/nyheder/2025-nyheder/97-procent-af-kvinder-i-danmark-oplever-gener-i-overgangsalderen/ ; https://www.sundhed.dk/borger/patienthaandbogen/kvindesygdomme/sygdomme/hormonbehandling/overgangsalderen/ | FORBEHOLD (97 % gjelder *alle* gener, ikke bare hetetokter) |
 | 1.14 | «16 % lever med hetetokter resten av livet» | 16 % | Sana Pharma (kosttilskudd-produsent) | IKKE BRUK (kommersiell kilde, ikke funnet i fagkilde) |
+| 1.15 | «I 2025 brukte nesten 200 000 kvinner i Norge systemisk hormonbehandling i eller etter overgangsalderen. Det tilsvarer omtrent åtte hele årskull kvinner.» | ~200 000 (systemisk, 2025). NB: 1.12 sitt 295 000 inkluderer lokal behandling. Ikke bland tallene. | FHI via Aftenposten: https://www.aftenposten.no/norge/i/XMbnrx/bruken-av-hormonbehandling-er-mer-enn-doblet-siden-2021 ; VG: https://www.vg.no/nyheter/i/m0Kq34/hormonbehandling-hormonbehandling-er-ikke-uten-risiko | TRYGG (sjekk ordlyd mot artikkel før sitat) |
+| 1.16 | «Bruken av hormonbehandling i overgangsalderen er mer enn doblet siden 2021.» | Doblet 2021–2025; apotek leverte 32 % flere døgndoser i 2025 enn 2024 | Aftenposten (1.15-URL); Apotekforeningen: https://www.apotek.no/bruken-av-hormontilsudd-i-overgangsalderen-%C3%B8ker-kraftig | TRYGG |
+| 1.17 | «Så sent som for få år siden brukte bare 4 % av kvinner over 35 hormonbehandling.» | 4 % på bunnpunktet (etter 67 % fall 2001–2021) | forskning.no (mars 2026): https://www.forskning.no/hormoner-kvinnehelse-overgangsalder/hormoner-i-overgangsalderen-det-er-godt-a-fa-dette-bekreftet-i-en-stor-og-solid-studie/2629957 ; NRK: https://www.nrk.no/tromsogfinnmark/leger-kvier-seg-fortsatt-for-a-gi-ostrogen-til-kvinner-i-overgangsalder-1.16212108 | FORBEHOLD (journalistisk gjengivelse) |
+| 1.18 | «Nærmere 30–35 % av kvinner 50–59 bruker hormontilskudd.» | 30–35 % | Google AI-svar 13.09.2026, ingen primærkilde funnet | IKKE BRUK før tallet er funnet hos FHI/Legemiddelregisteret |
 
 **Strategnotat:** Segmentet er stort (8/10 får hetetokter, ~1/3 mye plaget), varer i år, og
 nattesvette er eksplisitt beskrevet av Helsenorge som «må skifte sengetøy». Vinkelen er
 *komfort/mindre klam natt*, aldri «lindrer hetetokter» (medisinsk påstand). Trygg ramme: «Du kan
 ikke skru av termostaten. Men du kan velge hva du ligger i.»
+
+**Strateginotat 2026-09-13 (HRT-tallene og "som ikke vil ha HRT"-vinkelen):** Markedet går mot hormoner: doblet
+på fire år, leger mer positive. "Kvinner som ikke vil ha HRT" er derfor en krympende gruppe, ikke Hollywood-stjerner
+som unngår kniven. To konsekvenser: (1) HRT skal ikke være fienden i copyen. De 200 000 som bruker det svetter også
+(hormoner tar uker, fjerner ikke alt), og de er kunder. Fienden er det våte lakenet klokka tre, med og uten resept.
+(2) "Uten HRT" kan brukes som callout til dem som venter eller ikke kan (medisinsk risiko), aldri som argument mot
+behandling. Test nøytral variant mot uten-HRT-varianten: "Nattesvette i overgangsalderen? Uansett om du går på hormoner
+eller ikke, er dette lakenet tørt om morgenen." Headline-kandidatene ligger i client-applications.md (13. sep).
+
 
 ---
 
