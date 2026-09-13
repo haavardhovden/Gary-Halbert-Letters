@@ -240,6 +240,17 @@ Lånt bevis: "Helsenorge: 'må skifte sengetøy'. Vi har et som tåler det." / "
 Test først: "Bytter du laken midt på natta?", "Bomull holder på svetten. Bambus slipper den ut.", "Hormoner eller ikke.
 Lakenet blir tørt.", "Hun bytter ikke laken om natta lenger. Hun byttet laken." Bomull-skylden: sjekk at Stille vil stå i det.
 
+**Runde 3, "killer headline" (Halbert + 2026-creative-videoen: hook = løfte om relevans, problem slår callout,
+teksten er targetingen, truth bomb-hook):**
+Hoved: "Dette lakenet stopper ikke hetetoktene. Men klokka tre om natta er det fortsatt tørt."
+Linje under (targeting-ord + mekanisme): "Nattesvette i overgangsalderen, med eller uten hormoner: bomull holder på
+svetten, bambus leder den bort fra huden." Sanselinje i steg 5: "Glatt og kjølig mot bar hud, ikke klamt."
+Mot-test A (problem-agitasjon): "Våkner du klissvåt klokka tre? Det er ikke bare hormonene. Det er lakenet også."
+Mot-test B (spesifikt bevis, bare hvis tallet og "alle" er sant): "[X] kvinner over 50 har byttet til dette lakenet.
+Ingen av dem fikk færre hetetokter. Alle våkner tørre."
+Hvorfor hoved: sann uten helsepåstand, innrømmelsen gjør neste setning trodd (damaging admission), problemet i hennes
+ord uten callout, klokka tre som Rolls-Royce-detalj, "tørt" lar henne trekke "kjølig/pustende" selv, HRT er ikke fienden.
+
 ### Konklusjoner / regler etablert for Stille spesifikt
 
 - Kreative vinkler = kald trafikk-hooks; ren pris-annonse = varm trafikk-closer (MIDT, msg 463).
