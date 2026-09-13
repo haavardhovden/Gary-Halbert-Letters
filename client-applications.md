@@ -251,6 +251,20 @@ Ingen av dem fikk færre hetetokter. Alle våkner tørre."
 Hvorfor hoved: sann uten helsepåstand, innrømmelsen gjør neste setning trodd (damaging admission), problemet i hennes
 ord uten callout, klokka tre som Rolls-Royce-detalj, "tørt" lar henne trekke "kjølig/pustende" selv, HRT er ikke fienden.
 
+#### 2026-09-13 — "Kaldere enn eksen din", iterasjonsbatch (Håvards QA-liste A1/B2/C3)
+
+Hooken er bevist (vits med produktløftet inne i vitsen, snø/blåbær-bildet gjør "kaldt" uten ord). Vurdering:
+- Linja under er tema, ikke mekanisme ("regulerer temperaturen og holder deg kjølig") = det alle sier. Steg 3 er tomt.
+- USP-listen (kjølig/pustende/temperaturregulerende) er tre ord for samme ting, ingen kan tegnes.
+- CTA "ikke ta tilbake eksen, bytt til bambus" er vits nr. 2, ingen instruks. Behold som sekundærlinje under en ekte CTA.
+- "70 000+ sengesett solgt" er beste bevis, bare i B2. Inn i alle.
+- Targeting-ord (videoen: teksten er targetingen): bare B2 har "sover varmt". A1/C3 har ingen problemord.
+Anbefalt batch, hold hooken fast og bytt én variabel per annonse:
+- A1 mekanisme: "Bomull holder på svetten. Bambus slipper den ut. Derfor er senga kald klokka tre også." CTA "Se sengesettene".
+- B2 bevis: "70 000 nordmenn som sover varmt har byttet. Bambus leder svetten bort fra huden i stedet for å lagre den." CTA "Prøv i 30 netter".
+- C3 visuelt (kvinne i senga): "Sover du varmt? Bambus puster, bomull gjør det ikke. Du våkner tørr."
+Headline-variant ved siden av: "Kaldere enn eksen din. Og den holder seg sånn hele natta."
+
 ### Konklusjoner / regler etablert for Stille spesifikt
 
 - Kreative vinkler = kald trafikk-hooks; ren pris-annonse = varm trafikk-closer (MIDT, msg 463).
