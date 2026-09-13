@@ -812,15 +812,7 @@ Halberts to regler for helsides avisannonser. (1) Posisjon: folk leser ikke hele
 **Hvorfor det er en annen mekanisme enn #6 (headlines) og #16 (advertorial):** #6 er hvordan du skriver den ene headlinen. Denne handler om at annonsen har flere inngangspunkter, og at hvert av dem må bære hele salget alene.
 **Når brukes:** Paid social er samme problem. Mange ser annonsen uten lyd, midt i scrollen, eller fra bilde nummer tre i en carousel. Hvert sekund i video og hver frame i static er "nederste halvdel av avisen": den må ha sin egen krok, ikke lene seg på at åpningen ble sett. Test: dekk til headlinen/første tre sekunder. Selger resten fortsatt?
 
-### 72. Appell-test med titler — test 50 headlines før du lager ett produkt
-
-**Kilde:** letter-180.md
-
-Robert Allen hadde 50 rapporter på idéstadiet. I stedet for å skrive dem, skrev han 50 titler (headlines) og testet hvilke kundene ville ha mest. Vinnerne ble produkter, taperne ble aldri laget. Premisset er Schwartz: copy skaper ikke begjær, den kanaliserer det som allerede finnes. Begjæret er tidløst (gå ned i vekt, tjene mer), men *løsningen* folk tror på skifter (amfetamin, proteindrikk, "diettplaster"). En tittel er den billigste måten å teste hvilken løsning markedet tror på akkurat nå. Halbert la testen ut som konkurranse for leserne, som en påminnelse om "more testing, less assuming."
-**Hvorfor det er en annen mekanisme enn #4 (best shot first test) og #6 (headlines):** #4 er hvordan du tester én ferdig promo. #6 er hvordan du skriver en headline. Denne bruker headlines som *forskningsverktøy* før noe er bygget.
-**Når brukes:** Før batch: kjør 10 til 20 hooks som statics med lav budsjett og se hvilke løfter markedet klikker på, før du investerer i video og landingsside. Samme logikk for produktutvikling: test tittelen på bonusen før du lager bonusen (jf. #66).
-
-### 73. "Den nest beste hemmeligheten" — gi bort en komplett metode gratis, og rangér det du selger over den
+### 72. "Den nest beste hemmeligheten" — gi bort en komplett metode gratis, og rangér det du selger over den
 
 **Kilde:** letter-190.md
 

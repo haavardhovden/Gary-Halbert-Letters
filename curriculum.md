@@ -18,20 +18,10 @@ Start by reading ALL of Garry Halberts letters (skip the books he recommends and
 
 [https://thegaryhalbertletter.com/home/](https://thegaryhalbertletter.com/home/)
 
-## 1b. Etter brevene: repetisjon (forslag, ikke avtalt i detalj)
+## 1b. Etter brevene
 
-Gjøres når archive-index.md er tom for uleste brev, før eller parallelt med seksjon 2.
-
-- [ ]  **Re-read de 8–10 brevene som ga flest mekanismer.** Ikke alle 88. Kandidater: Hands On
-      Experience (001), A-Pile/B-Pile (Desperate Nerd), Killer Headlines, The Big Idea,
-      Fact Sheet/Benefit List, More Secrets Of The Water Ad (058), Coat of Arms, Boron ch. 1–5.
-      Mål: sjekke om mechanisms.md-entryen faktisk stemmer med brevet, og rette der den ikke gjør det.
-- [ ]  **Gå gjennom mechanisms.md fra topp til bunn én gang**, og stryk eller slå sammen entries
-      som viser seg å være samme mekanisme med ulike navn.
-- [ ]  **Bygg verktøyene** fra "PRAKTISKE VERKTØY Å BYGGE" nederst i mechanisms.md: Fact Sheet-,
-      Benefit List- og Deal Sheet-mal per konto. Swipe file finnes allerede (`ads/`).
-- [ ]  **Test:** velg én Stille- eller Vidda-batch og skriv rationale kun med henvisning til
-      entry-numre i mechanisms.md. Der du mangler et nummer å peke på, mangler dokumentet noe.
+Planen for det som skjer når arkivet er ferdig lest står i `plan-etter-halbert.md`
+(avtalt, "HUSK DENNE"). Ikke dupliser den her.
 
 ## 2. Direct Response Foundations — swipe file & classic copywriters
 

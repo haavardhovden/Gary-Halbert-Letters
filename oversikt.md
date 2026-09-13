@@ -1,6 +1,6 @@
 # Oversikt: hva vi har lært av Gary Halbert
 
-Lettfordøyelig kart over `mechanisms.md` (73 mekanismer + rammeverk) og `books/the-boron-letters-2013.md`.
+Lettfordøyelig kart over `mechanisms.md` (72 mekanismer + rammeverk) og `books/the-boron-letters-2013.md`.
 Tallene i parentes peker på mekanismen i `mechanisms.md`. Dette dokumentet forklarer ikke, det viser vei.
 Oppdateres når nye mekanismer kommer til.
 
@@ -103,7 +103,7 @@ Sitat å ha på veggen: *"Advertising is salesmanship multiplied. You can't mult
 
 | Verktøy | Fil | Hva |
 |---|---|---|
-| Mekanismer | `mechanisms.md` | Skoesken. 73 kort. |
+| Mekanismer | `mechanisms.md` | Skoesken. 72 kort. |
 | Headlines | `swipe/headlines.md` | Klassiske headlines til å modellere |
 | Fakta | `swipe/facts.md`, `research/stille/02-*.md` | Interessante, sanne fakta med kilder |
 | Bullets | `swipe/bullets.md` | Åpne loops-maler |
@@ -127,7 +127,7 @@ Sitat å ha på veggen: *"Advertising is salesmanship multiplied. You can't mult
 
 ---
 
-## 7. Lagt til ved sammenslåingen 13. sept (#56–#73, fra to parallelle chatter)
+## 7. Lagt til ved sammenslåingen 13. sept (#56–#72, fra to parallelle chatter)
 
 Ikke sortert inn i tabellene over ennå. Én linje hver, nummeret peker til `mechanisms.md`.
 
@@ -149,5 +149,4 @@ Ikke sortert inn i tabellene over ennå. Én linje hver, nummeret peker til `mec
 | Bonding-sekvensen | Uventede gaver timet mot angrevinduet. Sekvens, ikke ett brev. | #69 |
 | To-stegs-annonsen | Annonsen selger bare neste steg. Formatet er for lite til å selge produktet. | #70 |
 | An Ad For Your Ad | Flere inngangspunkter i samme annonse; halve publikummet ser bare nederste halvdel. | #71 |
-| Appell-test med titler | Test 50 headlines før du lager ett produkt. | #72 |
-| Den nest beste hemmeligheten | Gi bort en komplett metode gratis, og rangér det du selger over den. | #73 |
+| Den nest beste hemmeligheten | Gi bort en komplett metode gratis, og rangér det du selger over den. | #72 |
