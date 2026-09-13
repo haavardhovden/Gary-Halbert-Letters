@@ -12,6 +12,28 @@ Where things land:
   `mechanisms.md` with a `Kilde:` line
 All mechanisms from every section go in the single `mechanisms.md`.
 
+## 10-dagersplan for seksjon 2–5 (satt 13. sep 2026, start 14. sep)
+
+Halbert-arkivet er ferdig (211 brev, 72 mekanismer). Resten av curriculumet på ti dager.
+Bok om formiddagen, swipes/Atria ved siden av. Håvard laster opp kapitler og annonser som filer.
+
+| Dag | Bok | Ved siden av |
+|---|---|---|
+| 1 | Scientific Advertising (Hopkins), hele | Ogilvy-swipes, Rolls-Royce-breakdown. Abonner på seksjon 5. |
+| 2 | Hopkins runde 2, kapitlene som traff | Caples-swipes, Coat of Arms-breakdown. Repetisjon av Halbert (laert.md). |
+| 3 | Breakthrough Advertising kap. 1–4 (awareness, sophistication) | WSJ "two young men", Halbert-swipes |
+| 4 | Schwartz kap. 5–9 (headline-mekanikk) | Atria: Dr Squatch, Ovira, True Classic, Oats Overnight |
+| 5 | Schwartz resten, skum | Atria: Prose, O Positiv, Kizik, Lumin |
+| 6 | Ogilvy on Advertising | Atria: Norse Organics, Gruns, Kind Patches, Happy Mammoth |
+| 7 | Ca$hvertising | Bencivenga, Kennedy |
+| 8 | Very Good Copy, skum | Sugarman, Makepeace. Atria: Blissy, Hi-Smile, Hollow Socks, Dore & Rose |
+| 9 | Bernbach, skum | Harmon Brothers, Harry Dry. Atria: resten |
+| 10 | Ingen bok. Repetisjon av alt, laert.md, én Stille-annonse etter hele pensumet | Gjenstående Atria |
+
+Filer: bøker → `books/<slug>.md` (notater, ikke kapitler). Swipes/klassikere → `ads/<slug>.md` + rad i
+`ads/swipe-file.md`. Atria → `modern-ads/<brand>.md`. Nye mekanismer → `mechanisms.md`. Det som endrer
+hvordan Håvard skriver → `laert.md`. Seksjon 6 (kurs) er utenfor de 30 dagene.
+
 ## 1. Direct Response Foundations
 
 Start by reading ALL of Garry Halberts letters (skip the books he recommends and the hand writing):
