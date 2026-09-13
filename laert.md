@@ -35,6 +35,21 @@ Alt under dette er verktøy som gjør at jeg treffer oftere. De kan brytes. "Bam
 - Hooken er problemet, ikke produktet. "Varmen kan gjøre eksemen verre" stopper scrollen. "Prøv kjølende sengetøy" gjør det ikke.
 - Callout pluss problem pluss utelukkelse er sterkest: "Overgangsalder, dårlig søvn, uten HRT?"
 
+## Skjelettet (Halberts sju steg, letter-001)
+
+Hver annonse, uansett format. CSI = Central Selling Idea = den ene ideen, i headlinen.
+
+1. Si noe som får oppmerksomhet. Hook, problemet, ikke produktet.
+2. Fortell hvorfor de bør bry seg. Utdyp CSI, ikke introduser noe nytt.
+3. Fortell hvorfor de skal tro deg. Mekanisme og reason-why.
+4. Bevis det. Den ene tingen leseren tviler på.
+5. List opp fordelene. Kundens ord. Tre sterke, forklarlige, bevisbare.
+6. Fortell nøyaktig hvordan de bestiller.
+7. Be dem gjøre det nå, med grunn.
+
+Rekkefølgen 3 før 4 er poenget: hvorfor det virker, så bevis for at det virker. Bevis uten mekanisme lander på ingenting.
+Primærtekst på 90 ord: alle sju, en setning hver. Static: 1 og 2 i headline, 3 eller 4 i én linje, 6 i knappen. Resten gjør bildet eller landingssiden.
+
 ## Tekst
 
 - Ingen stoppested. Korte setninger, enkle ord, overganger, spørsmål jeg svarer på selv. Klipp aldri der leseren kan gå.
