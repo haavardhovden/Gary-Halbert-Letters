@@ -35,7 +35,7 @@ Kort sagt: list opp alt du får, med tall, og hold én ting tilbake.
 
 ## Vurdering
 
-- **Les:** les. Boka står i curriculum seksjon 4, og annonsen er innholdsfortegnelsen.
+- **Les:** les. Boka er ikke i curriculumet (der står Ogilvy on Advertising fra 1983, som dekker mye av det samme). Annonsen er innholdsfortegnelsen.
 - **Oppsummering:** Bokannonse for Confessions of an Advertising Man. Headline med fotnote, lead om Ogilvy, fire målgrupper, hans historie, rundt 40 kulepunkter om hva boka inneholder, anmeldersitater, kupong med ti dagers gratis prøve.
 - **Verdi:** ja. Kulepunkt-lista med tall er malen for å selge noe med mye innhold (bok, kurs, produkt med mange fordeler).
 - **Mekanisme:** #19 spesifisitet, fascinations/kulepunkter med tall, #68 garanti, tilbakeholdt hemmelighet som nysgjerrighetsgrep. Ingen ny.
