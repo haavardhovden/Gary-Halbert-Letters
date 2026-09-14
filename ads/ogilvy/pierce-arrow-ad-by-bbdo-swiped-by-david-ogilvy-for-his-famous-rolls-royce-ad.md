@@ -40,6 +40,12 @@ Headline-type: spesifikk detalj. Én sanselig, konkret observasjon som lar leser
 
 Bevissthetsgrad: produktbevisst. Merket er kjent, annonsen gir én grunn til å tro på kvaliteten. Prisen står åpent og kvalifiserer.
 
+## Strategi og psykologi
+
+1933: "The only sound one can hear is the ticking of the electric clock." Pen setning, ingen fart, ingen bevis. 1958: samme klokke, pluss "at 60 miles an hour" og 18 punkter under. Farten gjør setningen sjekkbar. "Loudest noise" i stedet for "only sound" innrømmer at det finnes lyd, og innrømmelsen gjør resten trodd.
+Ogilvy stjal ikke setningen, han stjal ideen og la til det som manglet: spesifisitet og bevis.
+Lærdom: når du finner en god setning i en gammel annonse, spør hva som mangler for at den kan sjekkes. Legg til tallet og beviset. Stille: "Kaldere enn eksen din" er Pierce-Arrow-nivå. Med en måling blir den Rolls.
+
 ## Vurdering
 
 - **Les:** les. Den er på 60 ord. Poenget er å se headlinen ved siden av Ogilvys versjon.
