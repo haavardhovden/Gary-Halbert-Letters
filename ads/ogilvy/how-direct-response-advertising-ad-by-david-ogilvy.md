@@ -179,6 +179,18 @@ Headline-type: løfte. Bevissthetsgrad: løsningsbevisst (leseren kjenner til di
 
 Kort sagt: mål alt, test løftet først, og gjør closingen like viktig som hooken.
 
+## Ogilvys copyregler i denne annonsen (gjelder hver gang)
+
+1. **Vær spesifikk.** Tall, fakta, navn. "Glittering generalities turn readers off." Vage ord slår av leseren.
+2. **Lang copy er lov, lat copy er ikke.** Lang vinner bare når hver setning bærer et faktum.
+3. **Løftet først.** Rangér løftene før du skriver annonsen. Feil løfte kan ikke reddes av god tekst.
+4. **Rammen rundt tilbudet er copy.** Samme pris, ny grunn ("Amerikas ledende frøforedler", gratis katalog) ga dobbelt respons.
+5. **Vis, ikke påstå.** Demonstrasjon slår beskrivelse. Ord kan bare påstå.
+6. **Involver leseren.** Spørsmål hen må svare på selv ("kan du se de 7 feilene?") slo direkte callout.
+7. **Closingen er en egen jobb.** Si hva de skal gjøre, nå. De som tenker "senere" gjør det aldri.
+8. **Test dogmer, lag ingen nye.** Billig slo dyrt, brev slo brosjyre. Regelen er: test.
+9. **Gjør det du sier.** Annonsen om kuponger slutter med kupong.
+
 ## Vurdering
 
 - **Les:** delvis. Les punkt 8 til 13 og 17 nøye. Resten er 1970-talls logistikk (lister, merge-purge, plassering i magasin).
