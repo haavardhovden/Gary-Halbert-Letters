@@ -164,6 +164,21 @@ Fem små innfelte elementer i en firespalters tekstside: en present value-formel
 
 Headline-type: løfte. Bevissthetsgrad: løsningsbevisst (leseren kjenner til direct response, men bruker det ikke selv; subheaden fanger også de uvitende).
 
+## Value og key takeaways
+
+**Value:** Paid social er direct response. Alt Ogilvy lærte av en halv milliard kuponger gjelder for hver batch: test løftet før du lager annonsen, spesifikt slår generelt, tilbudets ramme kan doble responsen, og closingen avgjør om lysten blir til handling.
+
+1. **Test løftene før media (17).** Åtte løfter, beste var tre ganger sterkere enn dårligste. Det er hook-testing med statics før video.
+2. **Rammen rundt tilbudet doblet responsen (10).** Samme produkt, samme pris. Fra "$1" i headline til "gratis katalog fra Amerikas ledende frøforedler". 112 prosent opp. Test hva tilbudet betyr, ikke bare hvordan det ser ut.
+3. **Quiz slo callout med 250 prosent (12).** "Can you spot these 7 common decorating sins?" mot "To every woman who would like a career". Leseren tester seg selv og er i annonsen før hen vet det.
+4. **Lang copy vinner når den er spesifikk (9).** "Glittering generalities turn readers off." Lang og lat taper. Lang og full av tall vinner.
+5. **Bevis med demonstrasjon, ikke ord (11).** Cessna la ved en plate med motorlyden mot en blender. "Words alone could only have made a claim."
+6. **Closingen (13).** Under en tredjedel av dem som skulle sende kupongen gjorde det. Lysten dør når siden blas. Alt i annonsen skal få dem til å trykke nå.
+7. **Utfordre dogmer (8).** Billig brev slo dyrt brev. Brev slo brosjyre. Ikke som ny regel, men fordi det lønner seg å teste.
+8. **Annonsen gjør det den sier.** Kupong nederst, quiz i teksten, tall overalt. Den beviser seg selv.
+
+Kort sagt: mål alt, test løftet først, og gjør closingen like viktig som hooken.
+
 ## Vurdering
 
 - **Les:** delvis. Les punkt 8 til 13 og 17 nøye. Resten er 1970-talls logistikk (lister, merge-purge, plassering i magasin).
