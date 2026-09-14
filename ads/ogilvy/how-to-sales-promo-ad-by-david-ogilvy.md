@@ -142,6 +142,19 @@ Fire innfelte bevis: to Sine-Off-annonser (synlig vs. begravd tilbud), Dove-kupo
 
 Headline-type: løfte (How-To). Bevissthetsgrad: løsningsbevisst (leseren driver allerede med promo, men lekker penger).
 
+## Enkelt forklart
+
+Dette er ikke en annonse for et produkt. Det er Ogilvy & Mather som selger seg selv til markedssjefer i dagligvare. "Sales promotion" er alt som ikke er vanlig reklame: gratisprøver, rabattkuponger, prisavslag, konkurranser, gaver på pakken. Annonsen sier: vi har brukt 1,5 milliarder på dette og målt alt, her er 23 ting vi vet. Ring oss.
+
+**Value for paid social:** det meste er dagligvare-logistikk fra 1970 og kan hoppes over. Fire ting gjelder fortsatt:
+
+1. **Ikke gjem tilbudet (3).** Synlig tilbud slo skjult tilbud 25 ganger. Tilbud i headline eller på bildet, ikke i tredje setning.
+2. **Rett frem slår søtt (12).** "Save 7¢" slo "Ah, cut it out!". Når du selger på pris: si prisen. Ingen ordspill.
+3. **Rabatten må være stor nok til å hente nye (14).** Under 7 prosent når du bare dine egne kunder. Små rabatter er en gave til folk som ville kjøpt uansett.
+4. **Det ufullstendige settet (23).** En boks med én biffkniv og tre tomme plasser er umulig å la ligge. Folk vil fullføre. Ett putetrekk av fire i bildet.
+
+Kort sagt: vis tilbudet, si det rett ut, og gjør det stort nok til å hente nye.
+
 ## Vurdering
 
 - **Les:** skum. Les punkt 3, 5, 9, 12, 20, 21 og "Gestalt"-avsnittet nøye. Resten er dagligvare-logistikk fra 1970-tallet.
