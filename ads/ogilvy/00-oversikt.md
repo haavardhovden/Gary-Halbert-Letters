@@ -1,6 +1,6 @@
 # Ogilvy-swipene: oversikt (14. sep 2026)
 
-25 av 31 analysert. Droppet etter Håvards beskjed: Guinness Guide to Oysters, Trumpeter Swans (creative job posting), Confessions-annonsen, How to create financial advertising, How to launch new products. PDF-ene ligger i `src/`. Rolls-Royce 60 mph ligger i `ads/rolls-royce-60-mph-ogilvy.md`.
+26 av 31 analysert. Droppet etter Håvards beskjed: Trumpeter Swans (creative job posting), Confessions-annonsen, How to create financial advertising, How to launch new products. PDF-ene ligger i `src/`. Rolls-Royce 60 mph ligger i `ads/rolls-royce-60-mph-ogilvy.md`.
 
 Rekkefølge for gjennomgang (nettsidens): `src/swiped-urls-in-site-order.txt`. Nr. 1 er Hathaway "Yale Story".
 
@@ -11,6 +11,7 @@ Rekkefølge for gjennomgang (nettsidens): `src/swiped-urls-in-site-order.txt`. N
 | [A guide to Rolls-Royce comforts and graces](a-guide-to-rolls-royce-comforts-and-graces-ad-by-david-ogilvy.md) | skum | ja, for formatet | nei |
 | [Darling, I'm having the most extraordinary experience (Dove,](dove-darling-ad-by-david-ogilvy.md) | skum | ja | nei |
 | [You can adjust the shock absorbers to the changing road by f](flick-a-switch-rolls-royce-ad-from-david-ogilvy.md) | skum | ja, mest som par med "A guide" | nei |
+| [The Guinness Guide to Oysters](guinness-guide-to-oysters-by-david-ogilvy.md) | skum | ja, for formatet | nei |
 | [Ellerton Jetté owns 279 Hathaway Shirts](hathaway-shirt-ellerton-jette-ad-by-david-ogilvy.md) | les | ja | nei |
 | [How three trunks of India Madras started Yale University](hathaway-shirt-yale-story-ad-by-david-ogilvy.md) | delvis | ja | ja — Feilen som ekthetsbevis: ta produktets svakhet (det falmer, mønsteret er uj |
 | [How direct response advertising can increase your sales and ](how-direct-response-advertising-ad-by-david-ogilvy.md) | delvis | ja | nei |
