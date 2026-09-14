@@ -9,7 +9,7 @@ Rekkefølge for gjennomgang (nettsidens): `src/swiped-urls-in-site-order.txt`. N
 | [$13,550. What makes Rolls-Royce the best car in the world?](13-550-rolls-royce-ad-by-david-ogilvy.md) | les | ja | nei |
 | ["At 60 miles an hour the loudest noise in this new Land-Rove](60-miles-an-hour-land-rover-ad-by-howard-gossage.md) | les | ja | ja, med forbehold |
 | [A guide to Rolls-Royce comforts and graces](a-guide-to-rolls-royce-comforts-and-graces-ad-by-david-ogilvy.md) | skum | ja, for formatet | nei |
-| [Wanted: Trumpeter Swans (stillingsannonse)](creative-job-posting-by-david-ogilvy.md) | skum | ja, men smalt | nei |
+| [Wanted: Trumpeter Swans (stillingsannonse)](creative-job-posting-by-david-ogilvy.md) | les | ja | nei |
 | [Darling, I'm having the most extraordinary experience (Dove,](dove-darling-ad-by-david-ogilvy.md) | skum | ja | nei |
 | [You can adjust the shock absorbers to the changing road by f](flick-a-switch-rolls-royce-ad-from-david-ogilvy.md) | skum | ja, mest som par med "A guide" | nei |
 | [The Guinness Guide to Oysters](guinness-guide-to-oysters-by-david-ogilvy.md) | skum | ja, for formatet | nei |
