@@ -92,6 +92,12 @@ Headline-type: sitat/spesifikk detalj i historieform. Mal: [kjent person] + [hen
 
 Bevissthetsgrad: produktbevisst.
 
+## Strategi og psykologi
+
+Strategi: samme mal som 1964, tre år tidligere, med lange tekster. I 1961 måtte historien fortelles, ingen visste hva "It still works" betydde. I 1964 holdt navn og årstall. Malen ble kortere etter hvert som publikum ble varmere.
+Psykologi: kjendisen daterer, han anbefaler ikke. 1951, Pulitzer 1955, lighteren står på hele tidslinja. "Anything but rare" gjør historien til regel i stedet for unntak. Bildet av uferdig Rose Bowl daterer like mye som teksten.
+Lærdom: en serie starter lang og blir kort. Ikke kutt teksten før publikum kjenner løftet, ikke behold den etterpå. → #74.
+
 ## Vurdering
 
 - **Les:** delvis. Les Ernie Pyle-teksten i sin helhet, den er en komplett historie på under 150 ord. Skum de to andre.

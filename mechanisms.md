@@ -831,3 +831,14 @@ India Madras er håndvevd og farget med plantefarger som ikke er fargeekte. Skjo
 **Test:** Ta den vanligste klagen i reviews. Spør: er dette en bivirkning av det kundene kjøper oss for? Hvis ja, skriv headlinen som garanterer den.
 **2026-oversettelse:** Reviews med tre stjerner er råmaterialet. "Blir mykere og mattere for hver vask" er en klage i én review og et ekthetsbevis i neste, avhengig av hvem som skriver setningen først. For Stille: viskose fra bambus mister litt glans i vask. Polyester-blandinger gjør det ikke. Det er en mulig "garantert å bli mattere"-vinkel, hvis Fact Sheet bekrefter at det er fibersannhet.
 
+### 74. Serie-malen: fast setning, fast bilde, ny sann historie hver gang, og teksten krymper med publikum (Zippo "It still works", Ogilvy & Mather 1961–1964)
+
+**Kilde:** ads/ogilvy/zippo-it-still-works-ad-compilation-1961-by-ogilvy-mather.md og -1964- (curriculum seksjon 2)
+
+Tre annonser i 1961, tre i 1964, samme skjelett: tent Zippo i en hånd, bildetekst i versaler, en sann historie med navn og årstall i headlinen, så de samme fire ordene ("It still works today"), så garantien i parentes. I 1961 har hver annonse tre spalter tekst som forklarer historien og gjentar at gamle Zippoer "are anything but rare". I 1964 er teksten borte. Headline og garanti holder.
+**Hvorfor det virker:** Historien beviser, løftet konkluderer, og leseren gjør regnestykket selv (1932 → 31 år). Fordi løftet aldri endres, bygger hver annonse på den forrige. Fordi historien alltid er ny, slites ikke kampanjen. Og fordi publikum lærer løftet, kan teksten kuttes uten at salget faller: første runde forklarer, senere runder gjentar.
+**Hvorfor det er en annen mekanisme enn #31 og #19:** #31 sier at en annonse som gjentas er bevis på at den virker. #19 er spesifisitet i én annonse. Denne er et produksjonssystem: én struktur som gir tjue annonser uten ny idé, og en regel for når teksten skal krympe.
+**Grense:** Krever ekte historier med navn og årstall som tåler sjekk. Og løftet må være ett og enkelt. "It still works" er fire ord. "Kvalitet du kan stole på" er ikke en serie-setning.
+**Test:** Skriv setningen din på fire ord. Finn tre ekte kunder med årstall. Lag tre statics med samme oppsett. Hvis den tredje gir like mye som den første, har du en serie.
+**2026-oversettelse:** Dette er kundehistorie-serien i paid social: samme ramme, samme siste linje, ny kunde hver uke. Meta ser dem som ulike annonser (ny historie, ny person), men publikum lærer løftet. Stille: "[Navn] i [by] kjøpte dette settet i [år]. Hun sover fortsatt i det." Første runde med tre linjer om hvorfor, tiende runde bare setningen.
+
