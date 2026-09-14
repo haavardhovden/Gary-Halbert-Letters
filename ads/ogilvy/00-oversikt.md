@@ -1,6 +1,6 @@
 # Ogilvy-swipene: oversikt (14. sep 2026)
 
-28 av 31 analysert. Droppet etter Håvards beskjed: How to create financial advertising, How to launch new products. PDF-ene ligger i `src/`. Rolls-Royce 60 mph ligger i `ads/rolls-royce-60-mph-ogilvy.md`.
+29 av 31 analysert. Droppet etter Håvards beskjed: How to launch new products. PDF-ene ligger i `src/`. Rolls-Royce 60 mph ligger i `ads/rolls-royce-60-mph-ogilvy.md`.
 
 Rekkefølge for gjennomgang (nettsidens): `src/swiped-urls-in-site-order.txt`. Nr. 1 er Hathaway "Yale Story".
 
@@ -20,6 +20,7 @@ Rekkefølge for gjennomgang (nettsidens): `src/swiped-urls-in-site-order.txt`. N
 | [How much should you spend on advertising?](how-should-you-spend-ad-by-david-ogilvy.md) | skum | nei | nei |
 | [How to advertise travel](how-to-advertise-travel-ad-by-david-ogilvy.md) | delvis | ja | ja — Innvendingen som posisjonering: research avdekker den ene grunnen folk ikke |
 | [How to create advertising that sells](how-to-create-advertising-that-sells-ad-by-david-ogilvy.md) | les | ja | ja — Selvbevisende annonse: annonsen demonstrerer sin egen påstand i det leseren |
+| [How to create financial advertising that sells](how-to-financial-advertising-ad-by-david-ogilvy.md) | delvis | ja | nei |
 | [How to create industrial advertising that sells](how-to-create-industrial-advertising-ad-by-david-ogilvy.md) | delvis | ja | nei |
 | [How to make successful television commercials](how-to-make-successful-commercials-ad-by-david-ogilvy.md) | delvis | ja | ja — Tvileren og troende (dialog med konflikt): salgsargumentet legges i munnen  |
 | [How to run an advertising agency](how-to-run-an-ad-agency-ad-by-david-ogilvy.md) | skum | nei for copy | nei |
