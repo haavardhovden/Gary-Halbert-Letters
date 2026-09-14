@@ -265,6 +265,28 @@ Anbefalt batch, hold hooken fast og bytt én variabel per annonse:
 - C3 visuelt (kvinne i senga): "Sover du varmt? Bambus puster, bomull gjør det ikke. Du våkner tørr."
 Headline-variant ved siden av: "Kaldere enn eksen din. Og den holder seg sånn hele natta."
 
+#### 2026-09-14 — S#79 Eksem: resultater og regler (full gjennomgang i research/stille/12-s79-eksem-batch.md)
+
+Fire statics, problem-aware, persona eksem/foreldre til barn med eksem. Godkjent av Jonathan med 1 runde (brief), 0 på produksjon.
+Kjørte 2 dager, 3 522 kr, 37 ATC, 3 kjøp, ROAS 1,81. Skrudd av før konklusjon.
+- C3 (påstands-headline "Varmen kan gjøre eksemet verre" + ekte produktfoto) best: ROAS 3,22. Bekrefter "hooken er problemet".
+- A1 (rent produktbilde + testimonial) svakest: ROAS 1,02. Blått sengetøy uten mekanisme i headline.
+- D4 (split-screen dag/natt) og B2 (barn-testimonial) fikk under 250 kr, ikke lesbare.
+- Retest anbefalt med stoppregel (1 000 kr per annonse eller 3 dager). Presedens: Danmark og hundehår var svake dag 1–2.
+Regler fra Jonathan (S#79):
+- Nevn alltid mekanismen (bambus), også i testimonial-headlines.
+- USP-er skal si noe headlinen ikke sa.
+- CTA må passe i knappen og tilføre noe.
+- Kort tekst under headline, eller visualiser (split-screen, USP-er).
+- Underlinje/CTA: "… i bambus", ikke "bambussengetøy". Standard nå.
+- Reviews: lett grammatikk-retting ok, rekkefølge kan byttes, ordene er kundens. Én–to emoji ok.
+- Eksport 1080×1920. Kontrast for mødre 40–50 på mobil. "For rent" bilde = AI-look, send tilbake.
+- Inspo-lenker: bildeadresse fra kilden, ikke Notion.
+- Sjekklisten kjøres i egen økt, ikke rett etter skriving. Brief gjennom Claude før Jonathan.
+- Referanse til Felix: rå skisse/inspo + kort Loom. Ikke generer selv.
+Jonathans iterasjons-SOP: én endring per variant, original fortsetter. Bredde først (~3 varianter, ulike elementer), så dybde
+på vinneren. Loud levers (format, vehicle) for nytt territorium, quiet levers (copy, CTA) for finjustering. ~3 varianter per batch.
+
 ### Konklusjoner / regler etablert for Stille spesifikt
 
 - Kreative vinkler = kald trafikk-hooks; ren pris-annonse = varm trafikk-closer (MIDT, msg 463).
