@@ -49,6 +49,18 @@ Headline-type: kuriositet / historie. "The amazing story of ..." er en klassisk 
 
 Bevissthetsgrad: produktbevisst. Zippo er kjent, annonsen gir én ny grunn til å tro på holdbarheten.
 
+## Value og key takeaways
+
+**Value:** Én sann, ekstrem kundehistorie beviser mer enn ti påstander. Historien er annonsen.
+
+1. Finn den villeste sanne historien om produktet. Bruk den alene.
+2. La en person med jobbtittel fortelle den. Ikke "fornøyd kunde".
+3. Bildet viser historien bokstavelig. Ingen forklaring nødvendig.
+4. Bind humoren til løftet med én setning: "i butikk eller i en fisk, samme garanti".
+5. Historien svarer på den ene tvilen: virker den når det gjelder?
+
+Kort sagt: ikke si at den tåler alt. Vis én gang den gjorde det.
+
 ## Vurdering
 
 - **Les:** les. Kort, komplett, og hvert avsnitt har en jobb.
