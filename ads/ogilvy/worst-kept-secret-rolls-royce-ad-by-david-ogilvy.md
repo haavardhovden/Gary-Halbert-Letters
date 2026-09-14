@@ -86,6 +86,14 @@ Magasin: Silver Cloud II i forgrunnen og Bentley S-2 bak, på brostein foran sko
 Headline-type: nyhet, med en kuriositets-vri ("worst-kept secret") og understreket spesifikk detalj.
 Bevissthetsgrad: produktbevisst. Skrevet til folk som kjenner Rolls og har hørt ryktet om ny motor.
 
+## Strategien (kampanjenivå: hvorfor denne annonsen finnes)
+
+1. Kampanjen trengte en ny grunn til å bli lest. "60 mph" hadde gått i årevis. Ny motor = ekte nyhet, samme bil, samme bevis. Ny headline på gammel kropp. Iterasjon på en vinner, ikke ny kampanje.
+2. Nyhet er den sterkeste headline-typen, men nyheten var kjent. Løsning: bruk den likevel, og vær ærlig om at den er kjent.
+3. Målet var å holde salget oppe i modellskiftet, når folk ellers venter eller frykter barnesykdommer. Derfor "no guinea pigs" og "top speed on your first day".
+4. Bentley i samme annonse: halv kostnad per merke, og et alternativ for den som synes Rolls er for mye.
+Mønster: når du har en vinner og noe nytt skjer med produktet, ikke lag ny annonse. Sett nyheten som ny headline på vinneren.
+
 ## Strategien bak (kundepsykologi, overordnet)
 
 Nyhets-annonse, men en ny motor er et problem for leseren, ikke bare en nyhet. Han tenker to ting: "kjøper jeg nå, er jeg forsøkskanin", og "kjøper jeg ikke, sitter jeg med den gamle". Begge stopper kjøpet. Annonsen tar bort begge.
