@@ -53,12 +53,29 @@ Annonse 1: en gråhåret mann med sort øyelapp, hvit skjorte og slips står med
 Headline-type: annonse 1 er en ren callout/etikett (navngir helten i bildet, ingen løfte). Annonse 2 er kuriositet/spesifikk detalj ("$2,000 Purdey") som ikke handler om produktet i det hele tatt.
 Bevissthetsgrad: problembevisst (mannen vet at dress pluss billig skjorte ser feil ut, kjenner ikke nødvendigvis Hathaway).
 
+## Strategi og psykologi (key takeaways)
+
+**Hvorfor annonsen finnes.** Hathaway var en liten fabrikk i Maine med 30 000 dollar i budsjett. Arrow, konkurrenten, brukte 2 millioner. Ogilvy kunne ikke vinne på volum. Da må én annonse gjøre jobben til hundre. Den må bli snakket om. Derfor øyelappen: den er ikke pynt, den er distribusjon. Folk klipte annonsen ut og spurte hverandre hvem mannen var. Gratis rekkevidde for et merke som ikke hadde råd til å kjøpe den.
+
+**Psykologien, punkt for punkt.**
+
+1. **Øyelappen stiller et spørsmål teksten aldri svarer på.** Hjernen tåler ikke et åpent spørsmål. Den leser videre for å lukke det. Ogilvy visste at et bilde alle forstår på ett sekund også er glemt på ett sekund. Et bilde du ikke forstår, ser du på i tre.
+2. **Han sa "ridiculous to buy good suits and then spoil the whole effect" fordi** leseren allerede eier dressen. Han angriper ikke skjorta leseren har, han angriper feilen leseren gjør. Feilen kjennes personlig, skjorta gjør det ikke. Skam er en bedre selger enn lyst når kunden allerede har brukt penger.
+3. **Han listet stedsnavn (Auchterarder, St. Vincent, Manchester) fordi** ingen kan sjekke dem, men alle tror på dem. Et stedsnavn låter som en faktura. "Kvalitetsstoff" låter som en annonse.
+4. **"Man and boy, for one hundred and fourteen years"** er samme grep som klokka i Rolls-Royce. Et tall leseren ikke kan krangle med, som sier "vi har gjort dette lenge nok til å ikke jukse".
+5. **Geværet til $2 000 i annonse 2 fordi** skjorta koster $15.95 og må låne pris. Leseren ser mannen som eier et Purdey. Da er skjorta hans også et valg fra en som har råd til bedre. Produktet får klasse fra tingen ved siden av, ikke fra egne påstander.
+6. **Samme mann i hver annonse fordi** gjenkjennelse er billigere enn oppmerksomhet. Etter tre annonser trenger han ikke stoppe leseren. Leseren stopper selv: "der er han igjen".
+
+**Hvordan visste han det?** Ikke fra research på øyelappen, den var innfall på vei til fotografen (kjøpt for 1,50 dollar). Men bakgrunnen var research: han hadde lest at bilder med "story appeal" (Harold Rudolph, 1940-tallet) fikk flere lesere. Han hadde regelen før han hadde ideen. Ideen kom fordi regelen sa hva han skulle lete etter.
+
+**Til Stille.** Hooken kan være noe i bildet som ikke stemmer, ikke bare en headline. Et laken på en stol ute i snøen. En kvinne som sover med vinduet åpent i januar. Bildet stiller spørsmålet, teksten svarer med produktet. Og "du kjøpte en madrass til 20 000 og sover i laken til 199" er Hathaway-åpningen ordrett: angrip feilen, ikke produktet de har.
+
 ## Vurdering
 
 - **Les:** delvis. Les første avsnitt (problemformuleringen) og stofflista i annonse 1. Skum resten. Annonse 2: les headline og subhead, skum brødteksten.
 - **Oppsummering:** To annonser med samme mann og samme øyelapp. Den første argumenterer for at en billig skjorte ødelegger en dyr dress, lister hvordan Hathaway-skjorta er klippet og hvor stoffene kommer fra, og ber leseren sende et kort for nærmeste butikk. Den andre bruker et dyrt gevær som headline og selger en Sea Island-skjorte til $15.95 på fiberlengde og opprinnelse.
 - **Verdi:** ja. Viser at det som stopper scrollen ikke trenger å ha noe med produktet å gjøre, så lenge det henger sammen med personen som bruker det. Det er ren paid social-logikk: bildet kjøper sekundet, teksten selger.
-- **Mekanisme:** #19 spesifisitet (stoffopphav, "three times longer"), #39 første blikk avgjør (bildet bærer alt), #61 credentialing (annonse 2: geværet til $2,000 gir skjorta til $15.95 prisklasse ved lån, samme logikk som kjendisen som ikke selger men "credentialer"). Kandidat til ny mekanisme: ja — Det uforklarte elementet: et detalj i bildet som skaper et spørsmål copyen aldri svarer på (øyelappen), og som gjentas til det blir kjennemerke. #33 handler om et fysisk objekt i konvolutten som kjøper oppmerksomhet, og #39 om at bildet avgjør. Ingen entry dekker at grabberen bevisst forblir uforklart, at spenningen aldri løses, og at samme uløste spørsmål kan bæres gjennom en hel kampanje som brand asset.
+- **Mekanisme:** #19 spesifisitet (stoffopphav, "three times longer"), #39 første blikk avgjør (bildet bærer alt), #61 credentialing (annonse 2: geværet til $2,000 gir skjorta til $15.95 prisklasse ved lån, samme logikk som kjendisen som ikke selger men "credentialer"). Kandidat til ny mekanisme: vurdert, ikke lagt til. Øyelappen er #39 (bildet bærer første blikk) pluss #74 serie-malen (ett fast element bæres gjennom kampanjen). Det som er eget er at grabberen aldri forklares, men det er en variant, ikke et nytt mønster. Opprinnelig notat: Det uforklarte elementet: et detalj i bildet som skaper et spørsmål copyen aldri svarer på (øyelappen), og som gjentas til det blir kjennemerke. #33 handler om et fysisk objekt i konvolutten som kjøper oppmerksomhet, og #39 om at bildet avgjør. Ingen entry dekker at grabberen bevisst forblir uforklart, at spenningen aldri løses, og at samme uløste spørsmål kan bæres gjennom en hel kampanje som brand asset.
 - **Stjel:**
   1. Sett én ulogisk detalj i statics-bildet som ikke forklares i teksten. Ikke en gimmick, men noe som får leseren til å spørre "hvorfor". Behold den i hele kampanjen.
   2. Åpne med det leseren allerede gjør feil: "dyr dress, billig skjorte". Problemet er hooken, produktet er svaret. Passer Stille: "Du kjøpte en madrass til 20 000 og sover i laken til 199."
