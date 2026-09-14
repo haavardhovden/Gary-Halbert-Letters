@@ -27,6 +27,13 @@ Ellerton Jetté, Hathaways eier, sitter i sitt eget bibliotek i rutete, farget s
 Headline-type: spesifikk detalj (tall pluss navn). Ingen løfte i headline, løftet kommer i brødteksten.
 Bevissthetsgrad: uvitende til problembevisst. Leseren har ikke tenkt at hvit skjorte er et problem. Annonsen skaper problemet.
 
+## Strategien bak (han sa det fordi)
+
+- Angrep hvit skjorte, fordi Hathaway ikke kunne vinne på hvite. Alle laget dem. Fortrinnet lå i fargede, men ingen hadde et problem med hvit. Så annonsen lager problemet, og velger et leseren kan sjekke selv samme dag: kragen klokka tre.
+- Unnskyldte i samme setning, fordi leseren har den hvite skjorta på seg nå. Angrep uten avvæpning gjør leseren til fiende. "115 år med hvite skjorter" sier: vi er ikke imot deg, vi er over det.
+- Eierens 279 skjorter, fordi et tall fra en navngitt person ikke kan avvises som reklame, og fordi det viser en mann som bryr seg absurd mye om skjorter.
+- "Only the most distinguished stores", fordi Hathaway faktisk var i få butikker. Svakheten ble status.
+
 ## Vurdering
 
 - **Les:** les. Kort, og hele argumentasjonsrekka er verdt å se: skap problemet, avvæpn, tilby.

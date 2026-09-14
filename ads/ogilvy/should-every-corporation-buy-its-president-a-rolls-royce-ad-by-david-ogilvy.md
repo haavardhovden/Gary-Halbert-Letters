@@ -81,6 +81,15 @@ Silver Cloud II parkert foran et moderne kontorbygg med glassfasade, en mann i d
 Headline-type: spørsmål, med innebygd kvalifisering (corporation, president).
 Bevissthetsgrad: produktbevisst. Alle vet hva en Rolls er. Annonsen bytter hvem som skal betale og hvorfor.
 
+## Strategien bak (han sa det fordi)
+
+- Skrev til styret, ikke til sjefen, fordi mannen som vil ha en Rolls ikke kan si det høyt. Annonsen gir ham argumentene han kan legge på bordet uten å virke grådig. Finn den som vil ha produktet, skriv til den som må godkjenne det.
+- "Prudent investment" først, fordi lysten allerede er der. Jobben er å fjerne skam, ikke skape lyst. "Rank is entitled to its rewards" er tillatelse.
+- "Least exhibitionistic", fordi innvendingen i et styrerom ikke er prisen, det er hva folk vil si. Han svarte på den ingen tør stille.
+- Bentley nederst, fordi noen leser til slutten og fortsatt sier "for mye". Et ja-alternativ i stedet for et nei.
+
+Mønster på tvers av de tre første: Ogilvy skriver til to ting samtidig. Det leseren vil, og det leseren må kunne forsvare. Lysten er der. Annonsen leverer forsvaret.
+
 ## Vurdering
 
 - **Les:** delvis. Les headline, subhead og de tre første mellomtitlene. Skum resten, mye er gjenbruk fra de andre Rolls-annonsene.

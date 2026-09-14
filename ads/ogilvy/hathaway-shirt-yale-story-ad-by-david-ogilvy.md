@@ -75,6 +75,13 @@ Hathaway-mannen (Baron Wrangell) med øyelapp og tropehjelm i rutete Madras-skjo
 Headline-type: kuriositet/interessant fakta (annonse 1), spesifikk detalj/påstand (annonse 2).
 Bevissthetsgrad: løsningsbevisst (leseren vet hva Madras er, andre skjortemakere selger det også; annonsen skiller ekte fra kopi).
 
+## Strategien bak (han sa det fordi)
+
+- Yale-historien først, fordi New Yorker-leseren leter etter noe interessant, ikke etter skjorter. Annonsen konkurrerer med artiklene, ikke med andre annonser.
+- Garanterte falmingen, fordi kunden ville oppdage den i første vask uansett. Si det først og ei det. Så blir falming det du sjekker for å avsløre konkurrentene. Kvalifikasjonskriteriet for kategorien flyttes til det bare Hathaway vil innrømme (#73).
+- Mønstrene gjentas ikke "fordi hyttene er små", fordi en påstand med en grunn som er for rar til å dikte opp, leses som fakta.
+- "Handy Dictionary" nederst, fordi de fleste ikke skal kjøpe skjorte denne uka. To utganger: kjøp, eller bli kunde senere.
+
 ## Vurdering
 
 - **Les:** delvis. Les subhead og avsnittet "Guaranteed to fade". Skum Yale-historien og fargerammen.
