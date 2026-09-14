@@ -95,6 +95,16 @@ Ogilvy & Mather
 
 Headline-type: spørsmål. Bevissthetsgrad: problembevisst (alle vet budsjettet er gjetning, få vet det finnes et verktøy).
 
+## Value og key takeaways
+
+**Value:** Lite for copy. Annonsen selger en regnemodell til markedssjefer. Men den viser én ting: mer penger i annonser gir ikke alltid mer profitt. Det er verdt å vite når du skal si "vi bør bruke mindre" til en kunde.
+
+1. "Vi anbefalte dem å ikke annonsere i det hele tatt." Å råde mot egen interesse gir tillit. Bruk det.
+2. Spørsmål i headlinen som leseren allerede stiller seg selv. Svaret er bare hos oss.
+3. Hvert punkt har et tall. Kutt 3 millioner, profitt opp. Det er sånn du selger analyse.
+
+Kort sagt: skum. Ta med tillitsgrepet, la resten ligge.
+
 ## Vurdering
 
 - **Les:** skum. Les avsnittet "So we advised them not to advertise at all" og grafteksten.
