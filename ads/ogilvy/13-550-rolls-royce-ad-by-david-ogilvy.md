@@ -81,6 +81,20 @@ Silver Cloud i en innkjørsel foran en villa. En kvinne i genser vasker hjulet m
 Headline-type: spesifikk detalj (prisen) pluss spørsmål pluss sitat. Tre typer stablet.
 Bevissthetsgrad: produktbevisst.
 
+## Strategien (kampanjenivå)
+
+Samme bil, samme 18 punkter som "60 mph". Bare toppen er byttet: prisen, stor og alene. Ogilvy testet inngangen (klokka mot prisen) og holdt kroppen fast. Én endring per variant, i 1959.
+
+## Psykologien (hvorfor prisen først)
+
+Leseren vet at en Rolls er dyr, men ikke hvor dyr. Spørsmålet ligger i bakhodet og stjeler oppmerksomhet fra alt annet. Ogilvy svarer før han spør:
+1. Spørsmålet er borte. De 18 punktene leses uten støy.
+2. De som ikke har råd, slutter å lese. Ikke tap, de skulle aldri kjøpe.
+3. De som har råd, er litt lettet. Alt etterpå leses som "og alt dette får jeg for det".
+Headlinen rett under prisen ("no magic, merely patient attention to detail") dreper tanken prisen nettopp satte: "det er bare navnet du betaler for". Så 18 bevis på arbeid.
+Nummerert liste fordi en liste ser ut som fakta, ikke reklame, og fordi vekten av 18 punkter kjennes uten å telles.
+Lærdom: når prisen er det leseren egentlig lurer på, si den først. Sett setningen som dreper "det er bare navnet" rett under. Stille: "1 490 kr for sengetøy. Her er hva du får for det."
+
 ## Vurdering
 
 - **Les:** les. Dette er den nummererte varianten av annonsen bak #19 (den versjonen i repoet har "At 60 miles an hour" som headline). Kort nok til å lese hele, og strukturen er malen.
