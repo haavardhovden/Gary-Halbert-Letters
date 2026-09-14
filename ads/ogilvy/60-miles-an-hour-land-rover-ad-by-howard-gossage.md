@@ -50,6 +50,12 @@ Headline-type: sitat / parodi. Teknisk sett en spesifikk detalj, men effekten ko
 
 Bevissthetsgrad: løsningsbevisst. Leseren vet hva en Land-Rover er for, annonsen posisjonerer den mot luksusbilen.
 
+## Verdi, kort
+
+Parodi som posisjonerer. Ogilvys mest kjente setning med ett ord byttet. Alle kjente originalen, så alle skjønte vitsen på ett sekund: vi er det motsatte av Rolls. Land Rover kunne ikke vinne på stillhet, så stillhet ble noe man ikke vil ha (Steinbeck: "I don't know a driver who doesn't want to hear his engine"). Svakhet som fortrinn, samme grep som #73. Formen er lånt (nummererte punkter, "eminent enthusiast"), så leseren kjenner malen og ler.
+Lærdom: når alle i kategorien bruker samme mal, bruk malen mot dem. Krever at originalen er kjent nok til at vitsen ses.
+Mekanisme: ikke ny entry. #73 pluss lånt form.
+
 ## Vurdering
 
 - **Les:** les. Kort, og hvert nummererte punkt gjør noe med Ogilvy-formatet.
