@@ -80,6 +80,12 @@ Headline-type: reason-why / kvalifisering. Den svarer på den ene innvendingen s
 
 Bevissthetsgrad: produktbevisst. Leseren vet hva en Rolls-Royce er. Annonsen fjerner grunnen til at han ikke har kjøpt.
 
+## Strategi og psykologi
+
+Strategi: samme 18 punkter, ny headline. Denne gangen er headlinen et nei til en tanke: "Rolls er en bil med sjåfør." Amerikanske kjøpere så for seg baksetet, og det stoppet salg mer enn prisen. Headlinen flytter dem til førersetet.
+Psykologi: innvendingen er flau og sies aldri høyt ("jeg er ikke en sjåfør-type"). Ogilvy svarer uten å gjenta den. Ikke "mange tror man trenger sjåfør, men". Bare "No chauffeur required." Subheaden gir tre grunner rett etter. "Owner-driven" er også identitet: tillatelse til å eie en Rolls og fortsatt være vanlig.
+Lærdom: finn innvendingen kundene ikke sier fordi den er flau. Svar i headlinen, som et faktum, uten å gjenta den. Stille: "for folk med mer penger enn meg" / "influencer-greie" → én setning som gjør det vanlig.
+
 ## Vurdering
 
 - **Les:** delvis. Les headline, subhead, punkt 5, 10 og 17, og prissetningen. Resten er samme grep gjentatt.
