@@ -49,6 +49,16 @@ Silver Cloud II på et skipsdekk eller en kai, under enorme seil eller presennin
 Headline-type: kuriositet (fremmedord) pluss spesifikk detalj (pris) pluss påstand ("bargain").
 Bevissthetsgrad: produktbevisst. Publikummet kjenner bilen, innvendingen er prisen, og headline går rett på den.
 
+## Strategi og psykologi
+
+Strategi: alle de andre Rolls-annonsene forsvarer prisen. Denne sier den er for lav, og lar Road & Track si det ("wonder why the price isn't much higher"). Tredjepart sier det du ikke kan si om deg selv.
+Psykologi:
+- "Trifles" i headlinen: han kaller egne bevis for småting. Leseren har hørt store ord før. Små ting er troverdige.
+- 800 000 tistler fra Somerset: en detalj ingen trenger å vite. Det er poenget. En unødvendig detalj sier at ingen detalj ble hoppet over.
+- Inspektører med musikerører, fem lyder med navn, og grunnen etterpå: "noise may mean wear". Stillhet som bevis på at ingenting sliter.
+- "Women handle the car with ease": målet er mannen som er redd bilen er tung. Sagt uten å si "du klarer det".
+Lærdom: når du ikke kan senke prisen, bevis at den er for lav, og la noen andre si det. Tre små, rare detaljer gjør prisen til bevis på arbeid. Stille: finn tistelen deres, én produksjonsdetalj ingen ville nevnt.
+
 ## Vurdering
 
 - **Les:** les. Kortest av de nummererte Rolls-annonsene, og hvert punkt er en egen liten bevisenhet. Punkt 1, 3 og 5 er de beste.
