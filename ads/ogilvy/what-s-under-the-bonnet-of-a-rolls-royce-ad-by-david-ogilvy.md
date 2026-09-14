@@ -161,6 +161,22 @@ Silver Cloud i profil over headline, i Chicago-versjonen som strektegnet/retusje
 Headline-type: spørsmål pluss kuriositet. Subheaden gjør løfte- og spesifisitetsjobben.
 Bevissthetsgrad: produktbevisst. Skrevet for folk som kjenner merket og lurer på om det er verdt pengene.
 
+## Strategien bak (kundepsykologi)
+
+Leseren har råd og lyst. Han er redd for tre ting: å betale for et navn, å se ut som en som skryter, og å stå uten service. Annonsen skaper ikke lyst. Den fjerner de tre fryktene, i rekkefølge.
+
+- "There is really no magic about it": første setning fra ingeniøren, fordi leseren mistenker at prisen er et navn. Resten av annonsen er bevis for den ene setningen.
+- Kokosnøttskall og havreskall: detaljer for rare til å dikte opp. Hjernen leser dem som fakta, og troen smitter over på bilen.
+- "One engine in twenty is stripped down": leseren kan ikke vurdere en motor, men alle kan vurdere om noen er nøye. Prosessen er beviset.
+- Åtte huder = 128 par sko: tallet oversatt til noe leseren ser for seg. Underhusets lær: lånt status, leseren gjør sammenligningen selv. Serienummer på hudene: din bil, før den er bygget.
+- Churchill-historien fra Milano: svar på "hva vil folk tenke", sagt av en fremmed. Ikke skryt når noen andre sier det.
+- "Some people hesitate ... misgivings about service": innvendingen sagt høyt før leseren sier den, drept med gribbe-historien fra Texas. Én historie slår ti løfter.
+- "Before you decide that this is more than you can afford": setningen leseren tenker akkurat der, fulgt av fem svar. Han fjerner ikke prisen. Han gir lov til å betale den.
+- Punkt 1 i prislista ("an increasing number of corporations are buying") er frøet til hele styre-annonsen. Én linje testet først, så en hel annonse. Det er slik han "visste".
+- Bentley sist: for den som fortsatt er flau. Ingen går tomhendt.
+
+Overføring: når leseren allerede vil ha produktet, skriv lista over det hen er redd for, og svar på én om gangen. Stille til 1 500 kr: er det bare et navn på polyester, er det pinlig dyrt for sengetøy, og tåler det vask.
+
 ## Vurdering
 
 - **Les:** delvis. Les subhead, "How they test your car", "The loudest noise comes from the electric clock" og "How expensive is a Rolls-Royce?". Skum resten. Det er langversjonen av #19-annonsen, samme materiale i prosaform.
