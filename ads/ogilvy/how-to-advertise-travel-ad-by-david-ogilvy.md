@@ -128,12 +128,26 @@ Fire innfelte eksempelannonser: KLM "Welcome Surprise", Cunard "Sail home free",
 
 Headline-type: løfte (How-To). Bevissthetsgrad: problembevisst (reisemarkedsførere som drukner i 25 sider reiseannonser hver søndag).
 
+## Value og key takeaways
+
+**Value:** Amsterdam-casen. Research fant den ene grunnen folk ikke reiste dit: "ingenting å gjøre". Hele kampanjen ble svaret: "Surprising Amsterdam". Fra ingenting til fjerde mest besøkte by i Europa på to år. Posisjonen er svaret på innvendingen, ikke det du er stolt av.
+
+1. Spør ikke-kjøperne hvorfor de ikke kjøpte. Den vanligste grunnen er posisjonen din.
+2. Fakta slår fine ord når kjøpet er stort. Priser, tall, sammenligninger.
+3. Skriv for å fjerne uro. Folk vil, men de er redde for noe. Finn hva.
+4. Vis de innfødte, ikke turistene. Folk i bruk, ikke produktet på hvit bakgrunn.
+5. Kupongen øverst tredoblet responsen. Knappen skal ikke gjemmes.
+6. "Free" virker fortsatt. Ikke vær for fin til å bruke det.
+7. Gjenta vinneren, men bytt headline når den slutter å stoppe.
+
+Kort sagt: finn innvendingen, gjør svaret til kampanjen.
+
 ## Vurdering
 
 - **Les:** delvis. Les innledningen (Amsterdam-posisjoneringen), punkt 2, 5, 9, 10, 16 og 18. Resten er kopier av punkter fra "How to create advertising that sells".
 - **Oppsummering:** Ogilvy & Mather gir 22 regler for reiseannonsering, innledet med Amsterdam-casen der research fant en innvending ("ingenting å gjøre") og posisjoneringen svarte på den. Reglene dekker copy, kuponger, layout, TV og direktepost, med KLM, AmEx og Cunard som eksempler.
 - **Verdi:** ja. Amsterdam-casen er den reneste demonstrasjonen i hele serien av "finn innvendingen i research, gjør svaret til posisjoneringen". Punkt 5 (copy skal fjerne uro) og 16 (fotografer de innfødte, ikke turistene) er direkte overførbare til bildevalg og primærtekst.
-- **Mekanisme:** eksempel på #30 (student of markets: research fant hva folk faktisk vil se, ikke hva byrået trodde), #44 (bevis den påstanden som tviles på: "What will your trip to Europe really cost this summer?"), #31 (repeat your winners, med kvalifiseringen om at headlinen slites), #43 (kupongen øverst: fjern alt mellom lysten og ordren), #36 ("picture with pleasure": lyd og bilde som forhåndsopplevelse). Kandidat til ny mekanisme: ja — Innvendingen som posisjonering: research avdekker den ene grunnen folk ikke kjøper ("Amsterdam mangler ting å gjøre"), og hele kampanjen bygges som et direkte svar på den ("Surprising Amsterdam"). Dette er ikke bevis for en påstand (#44) og ikke paradigmeskifte i copyen (#41); det er valget av selve posisjonen ut fra den største innvendingen. Ingen eksisterende entry beskriver innvendingen som utgangspunkt for CSI.
+- **Mekanisme:** eksempel på #30 (student of markets: research fant hva folk faktisk vil se, ikke hva byrået trodde), #44 (bevis den påstanden som tviles på: "What will your trip to Europe really cost this summer?"), #31 (repeat your winners, med kvalifiseringen om at headlinen slites), #43 (kupongen øverst: fjern alt mellom lysten og ordren), #36 ("picture with pleasure": lyd og bilde som forhåndsopplevelse). Ny mekanisme: lagt til som #75. Innvendingen som posisjonering: research avdekker den ene grunnen folk ikke kjøper ("Amsterdam mangler ting å gjøre"), og hele kampanjen bygges som et direkte svar på den ("Surprising Amsterdam"). Dette er ikke bevis for en påstand (#44) og ikke paradigmeskifte i copyen (#41); det er valget av selve posisjonen ut fra den største innvendingen. Ingen eksisterende entry beskriver innvendingen som utgangspunkt for CSI.
 - **Stjel:**
   1. Kjør en runde med "hvorfor kjøpte du ikke?" på ikke-kjøpere. Den vanligste innvendingen er kampanjens posisjon, ikke et FAQ-punkt.
   2. Vis kunden i bruk, ikke "kunden som ser på produktet". For Vidda: folk som faktisk sitter ved bålet, ikke stolen på hvit bakgrunn.

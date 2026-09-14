@@ -1,6 +1,6 @@
 # Oversikt: hva vi har lært av Gary Halbert
 
-Lettfordøyelig kart over `mechanisms.md` (74 mekanismer + rammeverk) og `books/the-boron-letters-2013.md`.
+Lettfordøyelig kart over `mechanisms.md` (75 mekanismer + rammeverk) og `books/the-boron-letters-2013.md`.
 Tallene i parentes peker på mekanismen i `mechanisms.md`. Dette dokumentet forklarer ikke, det viser vei.
 Oppdateres når nye mekanismer kommer til.
 
@@ -103,7 +103,7 @@ Sitat å ha på veggen: *"Advertising is salesmanship multiplied. You can't mult
 
 | Verktøy | Fil | Hva |
 |---|---|---|
-| Mekanismer | `mechanisms.md` | Skoesken. 74 kort. |
+| Mekanismer | `mechanisms.md` | Skoesken. 75 kort. |
 | Headlines | `swipe/headlines.md` | Klassiske headlines til å modellere |
 | Fakta | `swipe/facts.md`, `research/stille/02-*.md` | Interessante, sanne fakta med kilder |
 | Bullets | `swipe/bullets.md` | Åpne loops-maler |
@@ -152,3 +152,4 @@ Ikke sortert inn i tabellene over ennå. Én linje hver, nummeret peker til `mec
 | Den nest beste hemmeligheten | Gi bort en komplett metode gratis, og rangér det du selger over den. | #72 |
 | Feilen som ekthetsbevis | Garantér ulempen som følger av det ekte, så konkurrentenes "bedre" versjon blir beviset på at de er falske. Ogilvy, Hathaway. | #73 |
 | Serie-malen | Fast setning, fast bilde, ny sann historie hver gang. Teksten krymper når publikum kjenner løftet. Zippo. | #74 |
+| Innvendingen som posisjonering | Finn den ene grunnen folk ikke kjøper. Gjør svaret til hele kampanjen. KLM Amsterdam. | #75 |

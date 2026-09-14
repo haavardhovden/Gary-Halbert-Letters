@@ -842,3 +842,13 @@ Tre annonser i 1961, tre i 1964, samme skjelett: tent Zippo i en hånd, bildetek
 **Test:** Skriv setningen din på fire ord. Finn tre ekte kunder med årstall. Lag tre statics med samme oppsett. Hvis den tredje gir like mye som den første, har du en serie.
 **2026-oversettelse:** Dette er kundehistorie-serien i paid social: samme ramme, samme siste linje, ny kunde hver uke. Meta ser dem som ulike annonser (ny historie, ny person), men publikum lærer løftet. Stille: "[Navn] i [by] kjøpte dette settet i [år]. Hun sover fortsatt i det." Første runde med tre linjer om hvorfor, tiende runde bare setningen.
 
+### 75. Innvendingen som posisjonering: finn den ene grunnen folk ikke kjøper, og gjør svaret til hele kampanjen (KLM "Surprising Amsterdam", Ogilvy & Mather)
+
+**Kilde:** ads/ogilvy/how-to-advertise-travel-ad-by-david-ogilvy.md (curriculum seksjon 2)
+
+Research for KLM viste at amerikanere som ikke hadde vært i Amsterdam trodde byen manglet "things to do". Ogilvy & Mather brukte ikke det byen var stolt av (kanaler, kunst, historie) som posisjon. De brukte svaret på innvendingen: "Surprising Amsterdam", en kampanje som bare handlet om hvor mye det er å gjøre. På to år ble Amsterdam Europas fjerde mest besøkte by. På fem år doblet flytrafikken fra USA seg.
+**Hvorfor det virker:** De som ikke kjøper har som regel én felles grunn. Den grunnen er større enn alle fordelene du kan liste, fordi den stopper leseren før fordelene leses. Når kampanjen er svaret på den, treffer den de som ikke kjøpte, ikke bare de som allerede var enige.
+**Hvorfor det er en annen mekanisme enn #44 og #30:** #44 beviser den ene påstanden leseren tviler på inne i en annonse. #30 sier at research skal styre ordene. Denne bruker research til å velge selve posisjonen (CSI) ut fra den største innvendingen, før en eneste annonse er skrevet. Det er et valg på kampanjenivå, ikke et grep i teksten.
+**Grense:** Innvendingen må være feil eller løsbar. "Amsterdam mangler ting å gjøre" var feil, så svaret var sant. Hvis innvendingen er sann ("det er dyrt"), er svaret et annet produkt, ikke en annen kampanje.
+**Test:** Spør ti som så annonsen og ikke kjøpte: hvorfor ikke? Hvis seks sier det samme, er det posisjonen din for neste runde.
+**2026-oversettelse:** Kommentarfeltet og "hvorfor kjøpte du ikke"-mail til dem som la i handlekurv. Den vanligste innvendingen er ikke et FAQ-punkt, det er headlinen i neste batch. For Stille: hvis den vanligste grunnen til ikke å kjøpe er "bambus er vel bare hype", er kampanjen svaret på det, ikke enda en fordel-liste.
