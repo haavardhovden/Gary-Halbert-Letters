@@ -106,6 +106,12 @@ Headline-type: spesifikk detalj / historie. Fast mal: [navngitt historisk hendel
 
 Bevissthetsgrad: produktbevisst. Alle vet hva en Zippo er. Annonsen gir en grunn til å velge den (og gi den bort) framfor andre lightere.
 
+## Strategi og psykologi
+
+Strategi: én idé, tre historier. Samme skjelett hver gang: tent Zippo i en hånd, sann historie i headlinen, "It still works today", garanti i parentes. Neste år tre nye historier. Kampanjen slites ikke, for historien er ny og løftet er likt.
+Psykologi: historien beviser, løftet konkluderer. Leseren regner selv (1932 → 31 år). Navn og årstall (Ray Adamczewski, Casablanca 1943) gjør tvil umulig og låner tyngde. Garantien i parentes, fordi annonsen nettopp beviste at den aldri trengs. "$175 or $3.50. Take your choice": prisen gjør ikke lighteren holdbar, du velger bare hvor fin den skal være.
+Lærdom: én setningsstruktur du kan fylle med ny historie hver gang. Stille: "Kari i Bergen kjøpte dette settet i 2021. Hun sover fortsatt i det." Krever ekte kunder og årstall.
+
 ## Vurdering
 
 - **Les:** skum. Les de tre headlinene og garantilinjen. Produktrekkene er katalog.
