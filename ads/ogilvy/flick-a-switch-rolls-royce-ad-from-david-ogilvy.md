@@ -67,6 +67,12 @@ Silver Cloud II i profil foran en bygning i kveldslys, øverst på siden. Samme 
 Headline-type: spesifikk detalj/løfte (én funksjon som headline). Subhead er kuriositet (havreskall) pluss pris pluss garanti.
 Bevissthetsgrad: produktbevisst.
 
+## Strategi og psykologi
+
+Strategi: samme kropp som "Guide to Comforts and Graces", ny headline på én liten funksjon. Headline-test på fast kropp.
+Psykologi: "verdens beste bil" tror ingen på. "Du kan justere støtdemperne med en bryter" tror alle på. Én liten, sann detalj er tegnbar, og den beviser helheten: tenkte de på dette, tenkte de på alt. Subheaden gjentar grepet (havreskall, kadmium-splinter, lukten av lær). "Tremendous trifles".
+Lærdom: selg den minste detaljen som bare kan være sann hvis den store påstanden er sann. Stille: ikke "luksus", men den ene sanne sømdetaljen.
+
 ## Vurdering
 
 - **Les:** skum. Brødteksten er identisk med "A guide to Rolls-Royce comforts and graces". Les kun headline og subhead, og se hvordan samme tekst fikk ny headline.
