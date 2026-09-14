@@ -66,6 +66,7 @@ Primærtekst på 90 ord: alle sju, en setning hver. Static: 1 og 2 i headline, 3
 - Finn den ene setningen leseren tror er oppdiktet. Bevis den. Ikke alt annet.
 - Påstå bare det produktet faktisk gjør. "Kjøligere" ja, "fjerner kløe" nei. En review som motbeviser løftet koster mer enn løftet gir.
 - Ingen helsepåstand uten kilde. "Antibakteriell" om bambus er ikke dokumentert.
+- Ulempen kan være beviset. Hvis klagen i reviews er en konsekvens av det som gjør produktet ekte, garantér den (Ogilvy: "Guaranteed to fade").
 
 ## Closing (det jeg styrer selv om jeg ikke styrer tilbudet)
 
