@@ -138,6 +138,20 @@ Fem innfelte eksempler: Repco Canon-kopien, Cessna Citation-annonsen med 1100 or
 
 Headline-type: løfte (How-To). Bevissthetsgrad: problembevisst (B2B-annonsører som vet at annonsene deres ikke gir leads).
 
+## Value og key takeaways
+
+**Value:** Når kjøpet er stort, selger bevis, ikke følelser. Og svaret på "ingen leser lang tekst": de få som leser er de som skal kjøpe. Skriv for dem.
+
+1. Bevis saken. Casehistorie med tall i headlinen: "348 000 fat, 4 måneder foran skjema, 9 % nikkelstål er én grunn."
+2. Torturtest. Seks menn og en okse på en pappeske. Vis hva produktet tåler.
+3. Legg beviset i hånden på leseren. En ekte kopi fra kopimaskinen som innstikk. Salg doblet.
+4. Sett prisen i annonsen. Synlig pris øker lesning, selv høy pris. Kjøpere vet at kvalitet koster.
+5. Quiz posisjonerer deg som eksperten. Den som stiller spørsmålene har svarene.
+6. Lang copy leses mer grundig av dem som er i markedet. Kort copy selger sjokolade, ikke et fly.
+7. Gjenta vinneren. Ellevte gang leste like godt som første.
+
+Kort sagt: bevis, pris, og skriv langt til de som faktisk skal kjøpe.
+
 ## Vurdering
 
 - **Les:** delvis. Les punkt 2 (hele), 5, 7, 9 og long copy-boksen. Resten er medieinnkjøp fra 1970-tallet.
