@@ -86,6 +86,14 @@ Magasin: Silver Cloud II i forgrunnen og Bentley S-2 bak, på brostein foran sko
 Headline-type: nyhet, med en kuriositets-vri ("worst-kept secret") og understreket spesifikk detalj.
 Bevissthetsgrad: produktbevisst. Skrevet til folk som kjenner Rolls og har hørt ryktet om ny motor.
 
+## Strategien bak (kundepsykologi, overordnet)
+
+Nyhets-annonse, men en ny motor er et problem for leseren, ikke bare en nyhet. Han tenker to ting: "kjøper jeg nå, er jeg forsøkskanin", og "kjøper jeg ikke, sitter jeg med den gamle". Begge stopper kjøpet. Annonsen tar bort begge.
+- "The worst-kept secret": ærlighet som nyhet. Leseren har hørt ryktene. "NYHET!" ville virket som lureri. Å le av hemmeligheten sammen med ham gjør annonsen til bekreftelsen han ventet på.
+- "No guinea pigs" er setningen annonsen er skrevet for å komme til. Sju timer for fullt, innkjørt av fabrikken, "top speed on your first day". Frykt nummer én er borte.
+- Resten er kjent bevis-stabel fra de andre Rolls-annonsene.
+Overordnet lærdom: når du lanserer noe nytt, skaper nyheten lyst og frykt samtidig. Copyen skal bare håndtere frykten for å være først. Lysten klarer seg selv. Stille ved ny kolleksjon: "vasket 50 ganger før du får det", ikke "nyhet".
+
 ## Vurdering
 
 - **Les:** skum. Les headline, subhead og "No guinea pigs". Resten er gjenbruk fra de andre Rolls-annonsene.
