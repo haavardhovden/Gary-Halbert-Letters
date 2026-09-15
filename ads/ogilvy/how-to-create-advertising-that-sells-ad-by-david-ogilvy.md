@@ -227,12 +227,29 @@ Ingen bilder. Helsides tekst i fire spalter, satt som en redaksjonell artikkel m
 
 Headline-type: løfte (How-To). Bevissthetsgrad: problembevisst. Leseren (annonsør/markedssjef) vet at reklamen hans ikke selger godt nok, men vet ikke hvorfor.
 
+## Value og key takeaways
+
+**Value:** 38 regler fra egen forskning, og annonsen beviser den viktigste selv: "This page contains 1909 words, and you are reading it." Lang copy leses når den er verdt det. Her er de som gjelder feed i 2026.
+
+1. Posisjonering før copy. Det du sier avgjør mer enn hvordan.
+2. Ett løfte. Stort, unikt, og noe produktet faktisk leverer.
+3. Problem, løsning, bevis. Virker alltid, aldri med juks. Det er videomalen.
+4. Headline med løfte, ti ord pluss, målgruppen flagget. Fem ganger flere leser den enn teksten.
+5. Bilder med story appeal. Leseren spør "hva skjer her" og leser videre. Øyelappen.
+6. Caption på hvert bilde. Dobbelt så mange leser captions som brødtekst. Hver caption er en miniannonse.
+7. Person til kamera slår voice-over. Åpne med grabber, ikke stille start.
+8. Redaksjonell layout leses mer enn reklameaktig. Ser det ut som en annonse, blas det forbi.
+9. Lang copy leses. Lesetallet faller lite mellom 50 og 500 ord.
+10. Gjenta vinnerne. Opp til fem repetisjoner før det slites.
+
+Kort sagt: bestem posisjonen, lov én ting, bevis den, og gjør annonsen til noe folk vil lese.
+
 ## Vurdering
 
 - **Les:** les. Hele. Dette er den tetteste regellisten i hele seksjon 2, og 25 til 38 er direkte overførbare til static og video i feed.
 - **Oppsummering:** Ogilvy & Mather lister 38 læringer fra egen forskning, delt i generelle prinsipper (1 til 11), TV (12 til 24) og print (25 til 38). Hvert punkt er en påstand med ett eksempel eller ett tall. Annonsen avslutter med at det finnes mer kunnskap, men bare for kunder.
 - **Verdi:** ja. Punktene om positioning før copy, ett løfte, problem-løsning uten juks, bildet forteller historien, on-camera voice over voice-over, grabber-åpning, caption som miniannonse og "repeat your winners" er nøyaktig det en paid social-strateg jobber med i 2026. Det meste er testbart samme uke.
-- **Mekanisme:** eksempel på #72 (gi bort en komplett metode gratis og rangér det du selger over den: "revealed only to the clients"), #6 (headline-reglene), #7 (Big Idea), #39 (headline plus bilde avgjør), #31 (repeat your winners = gjentatt annonse), #44 (bevis den ene påstanden: "1909 words, and you are reading it"). Kandidat til ny mekanisme: ja — Selvbevisende annonse: annonsen demonstrerer sin egen påstand i det leseren leser den ("This page contains 1909 words, and you are reading it", editorial layout som beviser punkt 37). Beviset ligger ikke i en case, men i leserens egen handling akkurat nå. Dekkes ikke av #44 (som handler om å velge hvilken påstand som bevises) eller #47 (CTA som første øvelse); dette er bevis levert gjennom lesehandlingen selv, før noen CTA.
+- **Mekanisme:** eksempel på #72 (gi bort en komplett metode gratis og rangér det du selger over den: "revealed only to the clients"), #6 (headline-reglene), #7 (Big Idea), #39 (headline plus bilde avgjør), #31 (repeat your winners = gjentatt annonse), #44 (bevis den ene påstanden: "1909 words, and you are reading it"). Ny mekanisme: lagt til som #78. Selvbevisende annonse: annonsen demonstrerer sin egen påstand i det leseren leser den ("This page contains 1909 words, and you are reading it", editorial layout som beviser punkt 37). Beviset ligger ikke i en case, men i leserens egen handling akkurat nå. Dekkes ikke av #44 (som handler om å velge hvilken påstand som bevises) eller #47 (CTA som første øvelse); dette er bevis levert gjennom lesehandlingen selv, før noen CTA.
 - **Stjel:**
   1. Punkt 13 som videomal: problem leseren kjenner igjen, produktet løser det, bevis. I den rekkefølgen, uten juks.
   2. Punkt 36: hvert bilde i en karusell eller landingsside får en caption som er en komplett miniannonse (merke pluss løfte). Folk leser captions, ikke brødtekst.

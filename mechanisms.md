@@ -875,3 +875,14 @@ En static har to måter å virke på. Full klarhet: etter fire sekunder vet lese
 **Test:** Skriv innvendingen som tvileren sier. Hvis du ville blitt ukomfortabel av å høre den fra en kunde, er den sterk nok.
 **2026-oversettelse:** UGC-video med to venninner, eller én creator som spiller begge. Stille: "Bambus? Er ikke det bare et moteord?" "Det trodde jeg også. Så våknet jeg tørr for første gang på et år." Innvendingene ligger ferdig i research/stille/15-overgangsalder-dyp-research.md, seksjon 4.
 
+### 78. Den selvbevisende annonsen: påstanden bevises av det leseren gjør akkurat nå (Ogilvy & Mather, "How to create advertising that sells")
+
+**Kilde:** ads/ogilvy/how-to-create-advertising-that-sells-ad-by-david-ogilvy.md (curriculum seksjon 2)
+
+Punkt 32 sier at folk leser lang copy. Beviset står i samme setning: "This page contains 1909 words, and you are reading it." Punkt 37 sier at redaksjonell layout leses mer enn reklameaktig, og annonsen er satt som en avisside. Leseren kan ikke være uenig, for hun er i ferd med å gjøre det annonsen påstår.
+**Hvorfor det virker:** Alt annet bevis kommer utenfra: en case, et tall, en kunde. Dette beviset er leserens egen handling. Hun kan tvile på Cessna-plata, men ikke på at hun leser ord nummer 1909.
+**Hvorfor det er en annen mekanisme enn #44 og #47:** #44 er å velge hvilken påstand som skal bevises. #47 er en CTA som første øvelse i det du selger. Denne er bevis levert gjennom lesehandlingen selv, før noen CTA, og krever at påstanden handler om noe leseren gjør mens hun leser.
+**Grense:** Virker bare når produktet eller påstanden er noe leseren kan oppleve i annonsen. Reklamebyrå, kurs, copywriting, medier. Et laken kan ikke bevises ved å lese om det.
+**Test:** Kan du avslutte en setning med "og du gjør det akkurat nå"? Hvis ja, er det denne.
+**2026-oversettelse:** "Du har sett på denne videoen i 12 sekunder. Det er tre ganger snittet. Det er derfor hooken virker." Eller en static med lang tekst som ender: "Du leste hele. Det gjør kundene dine også."
+
