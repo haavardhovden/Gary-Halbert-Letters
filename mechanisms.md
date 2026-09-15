@@ -864,3 +864,14 @@ En static har to måter å virke på. Full klarhet: etter fire sekunder vet lese
 **Test:** Se på en static i fire sekunder. Vet du hva som selges og til hvem? Da er den klar. Vet du ingenting, men vil lese videre? Da er den nysgjerrig. Vet du litt? Kast den.
 **2026-oversettelse:** For Stille med kjøpsknapp rett til produktside: klarhet. Hetetokt, laken, tørt, prøv 30 netter. Nysgjerrighetsvarianten (bilde av et laken i snøen, ingen tekst) krever en landingsside som forklarer, og den finnes ikke i dag.
 
+### 77. Tvileren og den troende: legg innvendingene i munnen på en person i annonsen, og la en annen svare til tvileren snur (Ogilvy & Mather, "slice of life")
+
+**Kilde:** ads/ogilvy/how-to-make-successful-commercials-ad-by-david-ogilvy.md (curriculum seksjon 2)
+
+"Questions from a Doubter are countered by persuasive answers from a Believer. Eventually, through dialogue, the Doubter is converted." Og hintet: "Unless there is conflict between Doubter and Persuader, your 'Slice' will fail." Ogilvy & Mather brukte det for Aim, den mest vellykkede tannkremlanseringen på 70-tallet.
+**Hvorfor det virker:** Leseren har innvendingene uansett. Sier vi dem ikke, sitter hun med dem alene. Sier tvileren dem, blir de hørt, og svaret kommer fra en som har prøvd, ikke fra annonsøren. Leseren er tvileren, og ser seg selv bli overbevist. Det er Platons dialog som salg.
+**Hvorfor det er en annen mekanisme enn #13 og #57:** #13 er at annonsøren innrømmer en svakhet. #57 er star, story, solution som format. Denne er en dramaturgi: to stemmer, ekte konflikt, og omvendelsen skjer på skjermen. Innvendingen får en egen person.
+**Grense:** Konflikten må være ekte. En tviler som sier "er det virkelig så bra?" er ikke en tviler. Hun må si det kunden faktisk sier: "bambus er vel bare hype", "prøvde kjølende, funket ikke", "sengetøy fikser ikke hormoner".
+**Test:** Skriv innvendingen som tvileren sier. Hvis du ville blitt ukomfortabel av å høre den fra en kunde, er den sterk nok.
+**2026-oversettelse:** UGC-video med to venninner, eller én creator som spiller begge. Stille: "Bambus? Er ikke det bare et moteord?" "Det trodde jeg også. Så våknet jeg tørr for første gang på et år." Innvendingene ligger ferdig i research/stille/15-overgangsalder-dyp-research.md, seksjon 4.
+

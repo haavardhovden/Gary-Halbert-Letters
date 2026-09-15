@@ -1,6 +1,6 @@
 # Oversikt: hva vi har lært av Gary Halbert
 
-Lettfordøyelig kart over `mechanisms.md` (76 mekanismer + rammeverk) og `books/the-boron-letters-2013.md`.
+Lettfordøyelig kart over `mechanisms.md` (77 mekanismer + rammeverk) og `books/the-boron-letters-2013.md`.
 Tallene i parentes peker på mekanismen i `mechanisms.md`. Dette dokumentet forklarer ikke, det viser vei.
 Oppdateres når nye mekanismer kommer til.
 
@@ -103,7 +103,7 @@ Sitat å ha på veggen: *"Advertising is salesmanship multiplied. You can't mult
 
 | Verktøy | Fil | Hva |
 |---|---|---|
-| Mekanismer | `mechanisms.md` | Skoesken. 76 kort. |
+| Mekanismer | `mechanisms.md` | Skoesken. 77 kort. |
 | Headlines | `swipe/headlines.md` | Klassiske headlines til å modellere |
 | Fakta | `swipe/facts.md`, `research/stille/02-*.md` | Interessante, sanne fakta med kilder |
 | Bullets | `swipe/bullets.md` | Åpne loops-maler |
@@ -154,3 +154,4 @@ Ikke sortert inn i tabellene over ennå. Én linje hver, nummeret peker til `mec
 | Serie-malen | Fast setning, fast bilde, ny sann historie hver gang. Teksten krymper når publikum kjenner løftet. Zippo. | #74 |
 | Innvendingen som posisjonering | Finn den ene grunnen folk ikke kjøper. Gjør svaret til hele kampanjen. KLM Amsterdam. | #75 |
 | Klarhet eller nysgjerrighet | En static er enten helt klar eller helt åpen. Midten dør. Statics-video 2026. | #76 |
+| Tvileren og den troende | To stemmer, ekte innvending, omvendelse på skjermen. Ogilvy slice of life. | #77 |

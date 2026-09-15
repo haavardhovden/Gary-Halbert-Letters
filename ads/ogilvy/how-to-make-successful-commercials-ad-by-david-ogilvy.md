@@ -146,12 +146,27 @@ Seks stillbilder fra TV-reklamer (Hershey's, Spray 'n Vac, Dove, Maxwell House, 
 
 Headline-type: løfte (How-To). Bevissthetsgrad: problembevisst (annonsører som vet at 14 av 15 reklamer ikke gjør inntrykk).
 
+## Value og key takeaways
+
+**Value:** Det du sier er viktigere enn hvordan du sier det. Posisjonen først, så ett løfte, så en stor enkel idé. Og "slice of life" med en tviler og en troende er UGC-manuset fra 1975.
+
+1. Posisjon først. Dove: for eldre kvinner med tørr hud, eller for sensitiv hud? Det valget avgjør alt etterpå.
+2. Ett løfte. De fleste reklamer prøver å si for mye og sier ingenting.
+3. Vær konsekvent. Pepperidge Farm har sagt det samme i 15 år. Nationwide femdoblet kjennskapen på fem år med samme bilde.
+4. La produktet snakke. Demonstrasjon slår ord.
+5. Ekte kunder, ikke skuespillere. Folk er skeptiske. Testimonial fra en som faktisk kjøpte, virker.
+6. Tvileren og den troende. Én stiller innvendingene, én svarer, tvileren snur. Uten ekte konflikt faller det flatt.
+7. Presenteren må ikke overskygge produktet. Folk skal kjøpe varen, ikke personen.
+8. Test billig, produser dyrt. Bruk billigste produksjon som gir hver variant en sjanse.
+
+Kort sagt: bestem posisjonen, lov én ting, vis det, og la en tviler stille spørsmålene for deg.
+
 ## Vurdering
 
 - **Les:** delvis. Les "Your most important decision" til "Have a heart", og "Slice of Life"-avsnittet med hintet om konflikt. Skum produksjon og testing.
 - **Oppsummering:** Ogilvy & Mather beskriver hva som virker på TV: posisjonering først, ett løfte, stor enkel idé, konsistens over år, varme. Så seks teknikker (demonstrasjon, testimonial, fast presenter, kjendis, slice of life, musikk), hver med et case og et tall. Avsluttes med råd om produksjonskostnad, testing og at produktet er viktigere enn reklamen.
 - **Verdi:** ja. "Slice of life" beskrevet som Doubter mot Believer, med krav om konflikt, er nøyaktig malen for UGC-video som fungerer i 2026. Regelen om at presenteren ikke skal overskygge produktet er like relevant for creators.
-- **Mekanisme:** eksempel på #7 (Big Idea), #31 (kampanje som løper i elleve år = truffet nerve), #61 (kjendisen credentialer: "be sure that he or she likes your product"), #57 (Star, Story, Solution: fast presenter som star), #44 (demonstrasjon som bevis). Kandidat til ny mekanisme: ja — Tvileren og troende (dialog med konflikt): salgsargumentet legges i munnen på en tviler som stiller innvendingene, og en troende som svarer, til tvileren snur. "Unless there is conflict between Doubter and Persuader, your 'Slice' will fail." Dette er en dramaturgisk struktur for video, ikke en copy-mekanisme, og dekkes ikke av #41 (paradigmeskifte hos leseren) eller #57 (format-kvalifisering). Innvendingene får en stemme i selve annonsen.
+- **Mekanisme:** eksempel på #7 (Big Idea), #31 (kampanje som løper i elleve år = truffet nerve), #61 (kjendisen credentialer: "be sure that he or she likes your product"), #57 (Star, Story, Solution: fast presenter som star), #44 (demonstrasjon som bevis). Ny mekanisme: lagt til som #77. Tvileren og troende (dialog med konflikt): salgsargumentet legges i munnen på en tviler som stiller innvendingene, og en troende som svarer, til tvileren snur. "Unless there is conflict between Doubter and Persuader, your 'Slice' will fail." Dette er en dramaturgisk struktur for video, ikke en copy-mekanisme, og dekkes ikke av #41 (paradigmeskifte hos leseren) eller #57 (format-kvalifisering). Innvendingene får en stemme i selve annonsen.
 - **Stjel:**
   1. Skriv UGC-manus som dialog: en venninne som tviler ("bambus, er ikke det bare et moteord?") og en som har prøvd og svarer. Uten reell innvending faller det flatt.
   2. Testimonialen skal komme fra ekte, fornøyde kunder, og kjendisen/creatoren må faktisk bruke produktet. Kameraet avslører det motsatte.
