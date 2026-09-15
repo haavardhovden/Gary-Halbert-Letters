@@ -425,7 +425,7 @@ Mønstre i konkurrentenes reklame:
    igjen på minutter**, ikke klam og frysende i en våt seng. «Ikke kaldere. Tørrere.»
 2. **Bruk klokkeslettet.** «03.29» (Dunelm) / «kl. 3» er den mest gjenkjennelige detaljen i alt
    materialet. Hook: «Hvis du vet nøyaktig hvordan kl. 03 ser ut …».
-3. **Håndkleet er det sterkeste bildet.** «Sover du på et håndkle?» – gjentatt i Mumsnet,
+3. **Håndkleet: IKKE BRUK (Håvard, 15. sep).** Bare funnet i engelske forum, ikke bekreftet som norsk vane. Opprinnelig notat: «Sover du på et håndkle?» – gjentatt i Mumsnet,
    The 19th, HealthUnlocked. Det er et konkret, pinlig og umiddelbart gjenkjennelig symbol som
    ingen konkurrent bruker.
 4. **Skift-tellingen.** «3–4 ganger per natt», «vasker sengetøy hver dag», «soul destroying».
