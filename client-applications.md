@@ -428,3 +428,7 @@ Emosjonell motor: selvstendighet, mestring, litt skadefryd, spare penger, omsorg
 - **Sykehus-test å kjøre (#54):** samme bilde, samme bullets, bytt bare rammen. How To: "Slik blir du kvitt husstøvmidd uten å vaske en eneste gang til". Reason-why: "Derfor sover allergikere bedre i bambus". Truth About: "Det ingen forteller deg om det som bor i puta di" (fisker lenger ut mot uvitende).
 - **Påstandsvarsel:** "holder bakterier unna" og "antibakteriell" er ikke dokumentert (fakta #5). Headlinen bærer seg selv på middene alene og trenger dem ikke.
 - **Headline vs slagord (Håvard, letter-160):** Halbert sa "slagord i stedet for lang copy" er dumt. "Sov naken. Sov i bambus." selger best nå og ser ut som et slagord. Det er det ikke. Et slagord ("life and breath") har ingen mekanisme, ingen grunn, ingen tilbud. "Sov naken. Sov i bambus." bærer tillatelse (#14) og produkt i én setning og sitter på en annonse som argumenterer videre. Det er en headline. Regelen er ikke "aldri kort", den er "aldri kort UTEN argument under".
+
+## Stille: overgangsalder-batch 2, Jonathans feedback (2026-09-15)
+
+Fil: `research/stille/13-feedback-overgangsalder-batch-2.md`. Jonathans seks punkter (mekanisme mangler, "ingen svette netter" for stort, "sover dårlig" er paraply, D4 closer for tidlig, benefit → dream outcome) pluss min korreksjon: mekanismen må være fukt, ikke kulde, fordi Fact Sheet nr. 7 ikke støtter "kjølende" som natt-løfte. Ny versjon av A1, B2, D4 flytter løftet fra "kjølende" til "ikke klam", med fire ulike mekanisme-formuleringer. C3 uendret.
