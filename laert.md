@@ -3,7 +3,7 @@
 Ikke mekanismer, ikke brev. Det jeg faktisk kan gjøre etter Halbert-arkivet, sortert etter ferdighet.
 Oppdateres etter hver repetisjon. Brev og mekanismer ligger i `letters/` og `mechanisms.md`.
 
-Sist oppdatert: 2026-09-13 (repetisjon 1)
+Sist oppdatert: 2026-09-15 (statics-video lagt til)
 
 ## De seks som gjelder hver gang (alt annet er "sannsynligvis")
 
@@ -82,6 +82,20 @@ Primærtekst på 90 ord: alle sju, en setning hver. Static: 1 og 2 i headline, 3
 - Bredt for å finne, smalt for å selge. Karusell er research, vinneren får sin egen annonse.
 - Jeg blir lei før publikum. Bytt etter tall, ikke kalender.
 - Tre fordeler å bygge på: sterk, forklarlig, bevisbar. Ikke nødvendigvis unik.
+
+## Statics (video 15. sep, kilde: sources/statics-video-2026-transcript.txt)
+
+- Statics er billigst (lavest CPM, en dollar å lage) og raskeste måte å teste vinkel, persona og tilbud. Ti statics før én video.
+- Klarhet over design. Ingen bryr seg om layouten. Hva er problemet, hvem er det til, hva er løsningen. Design betyr bare noe når det ødelegger autoriteten (dårlig luft, skjev plassering).
+- Konsept = persona + vinkel + tilbud. Bytter du ingen av de tre, er det en variant, ikke et nytt konsept. Bakgrunnsfarge og ny pose er ikke en test. Meta grupperer like annonser uansett.
+- Skaler formatet som vant ved å bytte persona, vinkel eller tilbud. Ikke ved å lage ti versjoner av samme.
+- Velg side: full klarhet (hun skjønner alt på fire sekunder) eller bevisst nysgjerrighetsgap (bildet sier ingenting, teksten selger). Midten dør. Klarhet er min side for Stille, med kjøpsknapp. Nysgjerrighet krever landingsside som forklarer.
+- Bildet og primærteksten må være på samme bevissthetsnivå. Bilde for produktbevisste med tekst for løsningsbevisste virker ikke.
+- Øyet hopper: størst, så kontrast, så det tomrommet peker på. Det øyet treffer først må ligge høyest på bevissthetsstigen. Ikke "sengetøy", men problemet.
+- Headline og primærtekst leses mer på statics enn på video. Behandle dem som bilde og tittel på YouTube: bildet stiller spørsmålet, teksten svarer, eller omvendt.
+- Rekkefølge: research (80 % av tida), konsept, bygg, varianter, feedback, live. Ikke åpne Canva først. Samme som Halbert: ni av ti dager til hva du skal si.
+- Volum: hit rate 5–15 %. Fem prosent betyr 20 annonser per vinner. Regn baklengs fra hvor mange vinnere som slites ut per måned.
+- Top of funnel-statics vinner sjelden på last click. De mater andre annonser. Døm på økonomi, ikke på ROAS per annonse.
 
 ## Ikke Halbert, men brukes sammen med ham
 

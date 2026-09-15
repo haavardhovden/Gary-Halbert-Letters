@@ -852,3 +852,15 @@ Research for KLM viste at amerikanere som ikke hadde vært i Amsterdam trodde by
 **Grense:** Innvendingen må være feil eller løsbar. "Amsterdam mangler ting å gjøre" var feil, så svaret var sant. Hvis innvendingen er sann ("det er dyrt"), er svaret et annet produkt, ikke en annen kampanje.
 **Test:** Spør ti som så annonsen og ikke kjøpte: hvorfor ikke? Hvis seks sier det samme, er det posisjonen din for neste runde.
 **2026-oversettelse:** Kommentarfeltet og "hvorfor kjøpte du ikke"-mail til dem som la i handlekurv. Den vanligste innvendingen er ikke et FAQ-punkt, det er headlinen i neste batch. For Stille: hvis den vanligste grunnen til ikke å kjøpe er "bambus er vel bare hype", er kampanjen svaret på det, ikke enda en fordel-liste.
+
+### 76. Klarhet eller nysgjerrighet, aldri midten (statics-video 2026)
+
+**Kilde:** sources/statics-video-2026-transcript.txt (curriculum seksjon 5, 2026-video om static ads)
+
+En static har to måter å virke på. Full klarhet: etter fire sekunder vet leseren hvem det er til, hva problemet er, hva løsningen er og hva tilbudet er. Eller bevisst nysgjerrighetsgap: bildet ser ikke ut som reklame, sier nesten ingenting, og tvinger leseren inn i primærteksten eller over på en landingsside som selger. Annonser som prøver litt av begge ("Guaranteed energy in just 5 minutes" på et bilde av tyggegummi, til produktside) dør i midten: ikke klare nok til å selge, ikke åpne nok til å få klikket.
+**Hvorfor det virker:** De to sidene ber leseren om to ulike ting. Klarhet ber om kjøp nå, og trenger alt i bildet. Nysgjerrighet ber om et klikk, og trenger at bildet holder igjen. Halvveis holder igjen det klarheten trenger, og gir bort det nysgjerrigheten trenger.
+**Hvorfor det er en annen mekanisme enn #70:** #70 sier at annonsen kan selge bare neste steg. Denne sier at valget er binært og at kompromisset er det som taper. Den er en regel for å velge, ikke en beskrivelse av ett av valgene.
+**Grense:** Nysgjerrighetssiden krever en landingsside eller lang primærtekst som gjør salget. Uten det er det bare et klikk til en produktside, og da taper den. Klarhetssiden krever at alt får plass i bildet, altså lav eller middels bevissthet, ikke uvitende publikum.
+**Test:** Se på en static i fire sekunder. Vet du hva som selges og til hvem? Da er den klar. Vet du ingenting, men vil lese videre? Da er den nysgjerrig. Vet du litt? Kast den.
+**2026-oversettelse:** For Stille med kjøpsknapp rett til produktside: klarhet. Hetetokt, laken, tørt, prøv 30 netter. Nysgjerrighetsvarianten (bilde av et laken i snøen, ingen tekst) krever en landingsside som forklarer, og den finnes ikke i dag.
+
