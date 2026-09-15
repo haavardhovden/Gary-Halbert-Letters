@@ -61,7 +61,7 @@ Planen for det som skjer når arkivet er ferdig lest står i `plan-etter-halbert
     - [ ]  Joe Sugarman
     - [ ]  Clayton Makepeace.
 - Classic Ads to Break Down:
-    - [ ]  Rolls Royce headline (Ogilvy),
+    - [x]  Rolls Royce headline (Ogilvy),
     - [ ]  WSJ "two young men" letter,
     - [ ]  Halbert's "Coat of Arms."
 - Study
