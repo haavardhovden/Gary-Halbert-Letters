@@ -84,3 +84,17 @@ Alle fire er fiber-sannhet (nr. 6). Ingen lover kulde gjennom natta.
 - "Sover dårlig" er paraply. Si hva som skjer: våkner våt, våkner klokka tre, våkner utslitt.
 - CTA kommer etter mekanisme og benefit, aldri rett etter problemet.
 - Samme mekanisme, ulik ordlyd, i hver annonse.
+
+## A1 endelig (2026-09-15, etter research og Håvards valg av mekanisme)
+
+Håvards utkast hadde problem, bevis og CTA, men ingen løsning. Én linje lagt til. "Har du opplevd dette før?" byttet til callout.
+
+- **Liten headline:** Til deg i overgangsalderen
+- **Headline:** Det koker i kroppen, sengetøyet er klissvått, og du får ikke sove.
+- **Løsning:** Bambusfibrene i Stille er som små sugerør som puster. Fukten slipper ut i stedet for å bli liggende mot huden. Du våkner tørr.
+- **Bevis:** 70 000+ sengesett solgt. "Himmelen for oss i overgangsalderen."
+- **CTA:** Prøv risikofritt i 30 dager
+
+English: For you in menopause / Your body is burning, the sheets are soaked, and you can't sleep. / The bamboo fibres in Stille are like tiny straws that breathe. Moisture escapes instead of sitting against your skin. You wake up dry. / 70,000+ sets sold. "Heaven for those of us in menopause." / Try it risk free for 30 days.
+
+Sjekk: Jonathans fem punkter (spesifikt problem, mekanisme, dream outcome, CTA sist, rød tråd) er alle inne. Sugerør-bildet er Håvards valg; be leverandøren bekrefte hul fiber.
