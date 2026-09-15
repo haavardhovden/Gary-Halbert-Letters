@@ -173,6 +173,12 @@ Løfter: "teach yourself to be an accomplished musician, right at home, in half 
 
 Closing: gratis bok pluss demonstrasjonsleksjon pluss Musical Ability Test, ingen kostnad, begrenset antall, "sign and send the coupon now". Instrumenter på kreditt hvis du ikke har.
 
+## Swipeds key takeaways (tillegg)
+
+- Kupongen spør "Have you above instrument?" Gratis tilbud, men de henter info som gjør salget lettere etterpå. Har du ikke instrument, får du ett på kreditt.
+- Alle i bransjen kjenner annonsen. Kopier strukturen (#79), aldri ordene.
+- Kundehistorie i historieform leses som historie, ikke som testimonial. For Stille: Ragnhild uten anførselstegn. "Første natt i bambus. Klokka tre våknet jeg, tok på lakenet, og det var tørt."
+
 ## Vurdering
 
 - **Les:** les. Hele. Dette er malen alt annet kopierer.
