@@ -42,5 +42,5 @@ Kort sagt: la leseren se seg selv vinne før du sier hva du selger.
 - **Les:** les. Hele. Det er en novelle med kupong.
 - **Oppsummering:** Fred blir ledd av ved bordet fordi han ikke kan fransk, svarer kelneren på perfekt fransk, og forklarer vennene at han lærte det hjemme på noen måneder med Hugo-kurset. Prøv gratis i fem dager, $2 i måneden, ordbok som bonus.
 - **Verdi:** ja. Malen for historie-annonsen: sosial ydmykelse, snuoperasjon, avsløring, tilbud. Halbert brukte den i Coat of Arms.
-- **Mekanisme:** #36 picture with pleasure (hevnen), #77 tvileren og den troende (vennene), #70 to-stegs (gratis prøve), #41-familien. Story-headline med snuoperasjon: sjekk om det er dekket. Ingen ny lagt til.
+- **Mekanisme:** #36 picture with pleasure (hevnen), #77 tvileren og den troende (vennene), #70 to-stegs (gratis prøve), #41-familien. Ny mekanisme: #79 Hån og hevn.
 - **Stjel:** For Stille: "De lo da jeg sa jeg hadde sluttet med vifta." Hun som er i overgangsalderen og sover uten vifte i juli. Venninnene tror ikke på det. Så forteller hun.

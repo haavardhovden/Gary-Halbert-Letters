@@ -886,3 +886,14 @@ Punkt 32 sier at folk leser lang copy. Beviset står i samme setning: "This page
 **Test:** Kan du avslutte en setning med "og du gjør det akkurat nå"? Hvis ja, er det denne.
 **2026-oversettelse:** "Du har sett på denne videoen i 12 sekunder. Det er tre ganger snittet. Det er derfor hooken virker." Eller en static med lang tekst som ender: "Du leste hele. Det gjør kundene dine også."
 
+### 79. Hån og hevn: de lo, så snudde det, så spurte de hvordan (Caples, "They Laughed When I Sat Down at the Piano" / "They Grinned When the Waiter Spoke to Me in French")
+
+**Kilde:** ads/caples/they-grinned-when-the-waiter-spoke-to-me-by-john-caples.md (curriculum seksjon 2)
+
+Tre akter. 1: Helten blir ledd av foran folk han bryr seg om ("He'll probably give an imitation of a hen laying an egg"). 2: Han gjør det ingen trodde, og latteren stopper ("There were gasps of amazement"). 3: Vennene spør hvordan, og svaret er produktet ("the House of Hugo came to me"). Så tilbudet. Caples skrev piano-versjonen i 1926 og gjentok den på fransk, dans, skriving.
+**Hvorfor det virker:** Leseren har vært Fred. Alle har blitt ledd av. Historien lar henne oppleve hevnen før hun vet hva som selges, og når produktet kommer, er det svaret på et spørsmål vennene stilte, ikke en påstand fra annonsøren. Dream outcome levert som scene, ikke som løfte.
+**Hvorfor det er en annen mekanisme enn #36 og #77:** #36 er å male fordelen som bilde. #77 er en tviler og en troende i dialog. Denne er en fast dramaturgi med hån som motor: uten latteren i akt 1 er det ingen hevn i akt 2, og uten hevn er det ingen grunn til å spørre i akt 3.
+**Grense:** Krever et produkt som gir en synlig ferdighet eller forandring andre kan se. Piano, språk, dans, kropp. Et laken har ikke publikum. Og hånet må være mildt nok til at leseren kjenner seg igjen, ikke så hardt at hun føler seg dum.
+**Test:** Kan du skrive setningen "De lo da jeg ..." om produktet ditt, og en setning der latteren stopper? Hvis ja, har du akt 1 og 2. Akt 3 skriver seg selv.
+**2026-oversettelse:** UGC-video: "Venninnene mine lo da jeg sa jeg hadde sluttet med vifta i juli." Så natta uten vifte, så "hvordan?", så produktet. Sterkest der publikum har opplevd å bli avfeid: overgangsalder, eksem, hår.
+
