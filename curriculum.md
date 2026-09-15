@@ -49,7 +49,7 @@ Planen for det som skjer når arkivet er ferdig lest står i `plan-etter-halbert
 
 - Sales Letters & Print Ads:
     - [x]  [Check out MBBs video first](https://www.youtube.com/live/5Vjm-NIeq3o)
-    - [ ]  [David Ogilvy](https://swiped.co/person/david-ogilvy/)
+    - [x]  [David Ogilvy](https://swiped.co/person/david-ogilvy/)
     - [ ]  [Caples](https://swiped.co/person/john-caples/)
     - [ ]  [Garry halbert](https://swiped.co/) (search for it like below)
 
