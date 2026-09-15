@@ -168,6 +168,18 @@ Ingen bilder. Helside med stor serif-headline, byline "by David Ogilvy, Chairman
 
 Headline-type: How-To, men egentlig en lekket internmemo. Bevissthetsgrad: lav. Målgruppen (klienter og talenter) har ikke et problem de leter etter løsning på. Annonsen bygger merke og filter, ikke respons.
 
+## Value og key takeaways
+
+**Value:** Ikke copy. Dette er Ogilvys interne lederregler publisert som annonse, og det er en rekrutteringsannonse i forkledning. Verdien for deg 1. oktober er lista over hva han krever av folk, og at han sier nei til kunder.
+
+1. Ansett folk som er bedre enn deg. Betal dem mer enn deg selv om nødvendig.
+2. Ingen middelmådige. Ferment og frihet trekker de beste, trygghet trekker de midt på treet.
+3. Ti krav til en leder. De viktigste for en strateg: skarp hjerne, mot til tøffe avgjørelser, evne til å si opp de som ikke leverer.
+4. Fire spørsmål før du tar en kunde. Er noen hos oss tent på den? Tror vi reklame kan selge produktet? Blir ekteskapet lykkelig? Kan kunden vokse?
+5. Publiser det interne. Et notat til egne folk, trykt som annonse, leses tettere enn en stillingsannonse.
+
+Kort sagt: si nei til folk og kunder som er midt på treet. Det er ledelsen.
+
 ## Vurdering
 
 - **Les:** skum. Les "No phonies or zeros" (de ti kvalifikasjonene), "Ferment and innovation" og "New accounts" tett. Resten er lederfilosofi.
