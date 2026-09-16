@@ -897,3 +897,14 @@ Tre akter. 1: Helten blir ledd av foran folk han bryr seg om ("He'll probably gi
 **Test:** Kan du skrive setningen "De lo da jeg ..." om produktet ditt, og en setning der latteren stopper? Hvis ja, har du akt 1 og 2. Akt 3 skriver seg selv.
 **2026-oversettelse:** UGC-video: "Venninnene mine lo da jeg sa jeg hadde sluttet med vifta i juli." Så natta uten vifte, så "hvordan?", så produktet. Sterkest der publikum har opplevd å bli avfeid: overgangsalder, eksem, hår.
 
+### 80. Tre ja: kan jeg se det, kan det være usant, kan ingen andre si det (Harry Dry)
+
+**Kilde:** Harry Dry, podcast "Learn Copywriting in 76 Minutes" (curriculum seksjon 5), laert.md "Harry Dry"
+
+Tre spørsmål på hver setning. Kan leseren lukke øynene og se det? Kan setningen bevises sann eller usann? Kan en konkurrent skrive den samme setningen under sitt eget navn? "Don't just get a job, change an entire industry" får tre nei. "Worn by supermodels in London and dads in Ohio" får tre ja: du ser dem, det er sant, og verken Prada eller Reebok kan si det.
+**Hvorfor det virker:** Konkret huskes, abstrakt fordamper (du husker "charging pitbull", ikke "better way"). En setning som kan være usann setter hodet ditt på blokka, og leseren retter seg opp. En setning bare du kan si tvinger deg til å lete dypere i produktet etter det som faktisk er annerledes. De tre sammen er en test, ikke et råd: hver setning får en score, og score er vanskeligere å lure seg unna enn "skriv konkret".
+**Hvorfor det er en annen mekanisme enn #19:** #19 er spesifisitet som bevis. Denne er tre uavhengige tester på samme setning, der spesifisitet bare er den første. En setning kan være spesifikk og fortsatt noe alle konkurrentene kan si ("14 naturlige ingredienser").
+**Grense:** Tester setninger, ikke strategi. Tre ja på feil budskap til feil person hjelper ikke. Hvem du snakker til og hva du har å si kommer først.
+**Test:** Ta headlinen. Lukk øynene. Ser du noe? Kan noen sjekke om det er sant? Kan Jysk skrive den samme? Tre svar før du går videre.
+**2026-oversettelse:** Stille: "Kjølende sengetøy" får tre nei. "Bambus puster, flytter fukten og tørker raskere. Du våkner tørr." ser du (klissvått laken, tørr), kan sjekkes (fukt), og Jysk kan ikke si det om bomull. "70 000+ solgt" er ja på to av tre.
+

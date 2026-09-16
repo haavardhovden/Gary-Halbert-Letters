@@ -97,6 +97,25 @@ Primærtekst på 90 ord: alle sju, en setning hver. Static: 1 og 2 i headline, 3
 - Volum: hit rate 5–15 %. Fem prosent betyr 20 annonser per vinner. Regn baklengs fra hvor mange vinnere som slites ut per måned.
 - Top of funnel-statics vinner sjelden på last click. De mater andre annonser. Døm på økonomi, ikke på ROAS per annonse.
 
+## Harry Dry (podcast 16. sep, curriculum seksjon 5)
+
+- Tre spørsmål på hver setning: Kan jeg se det? Kan det være sant eller usant? Kan ingen andre si det? Tre nei = søppel. Tre ja = noe. "Worn by supermodels in London and dads in Ohio" får tre ja. (Mekanisme #80.)
+- Abstrakt til konkret: skriv ordet øverst, spør "hva mener jeg egentlig", skriv om til du står igjen med en ting du kan slippe på foten. "Regain fitness" → "Couch to 5K".
+- Ikke snakk, pek. "Han er morsom" er snakk. "Han leser på T-banen" er peking. Gull: ikke "trygg investering", vis grafen. Krever research. Det er derfor det er bedre.
+- Skriv aldri en annonse konkurrenten kan signere. Volvo: "Your car has five numbers on the speedometer. Volvo has six."
+- Én Mississippi, to Mississippi. Skjønner du annonsen på to sekunder? Hvis ikke, ut. Men: hvis alle skjønner den, er den trolig for kjedelig. "You're going to need a smaller cabinet" (AG1) er greit å ikke skjønne, du snakker om den.
+- Fakta, fakta, fakta. En fakta garanterer at du sier noe. "Rolls-Royce 60 mph" er en fakta han fant i et bilblad. Bak en fakta ligger en historie ("Even when it's not Heinz, it's Heinz" kom fra at Dunkin fyller Heinz-flasker med billig ketchup).
+- Start: hva er kundens holdning nå, hva skal den være etterpå. To telefonstolper, du strekker tråden. Tre deler: hvem snakker jeg til, hva har jeg å si, si det godt. Snapchat brukte 7 mill. på Super Bowl uten å spørre hvem (snittseer 39 år).
+- Skriv der det skal leses. Newsletter i ConvertKit, annonse i Figma, plakat blant sju andre plakater. Ikke i Google Docs. Tekst og design er samme jobb.
+- Konflikt: dra en strek, skriv motsetninger. Tre fiender: A annen tilnærming, B annen tro, C konkurrent. "Throw money and pray" vs "learn copywriting". Hjernen husker relativt (sylteagurkjuice gjør appelsinjuicen søtere).
+- 25 omskrivinger, to dager. Lag fire–fem versjoner av samme avsnitt, da får du feedback som "den setningen i det avsnittet", ikke "liker/liker ikke".
+- Kaplans lov: ord som ikke jobber for deg jobber mot deg. Gjelder ideer også. "Og" på en landingsside er sjelden bra. "We make jeans."
+- Avsnitt som burrito: trekk ut én setning, avsnittet skal gå i stykker. Ingen avsnitt over to linjer (apestativ).
+- "Marketers, you'll spend 22,000 hours of your career writing. Spend two learning how to do it well." Gjør et lite tall stort ved å strekke tidsrammen. Snur kostnad (2 timer) til sparing.
+- Tesla: "Tougher than an F-150, faster than a 911." Forklar noe nytt ved å sammenligne med to ting alle kjenner.
+- Standarden er arbeidet. 9 av 10 eller mer går ut, ellers ser ingen det. Ferdig når du går en runde i hagen og ikke kan ta bort noe.
+- Smak, overbevisning, erfaring: det AI ikke har. Ogilvy satt i bilen. Bukowski var postmann i 20 år.
+
 ## Ikke Halbert, men brukes sammen med ham
 
 - Awareness-stigen og sophistication-stigen er Schwartz (Breakthrough Advertising). Halbert bruker tankegangen uten å navngi den.

@@ -66,7 +66,7 @@ Planen for det som skjer når arkivet er ferdig lest står i `plan-etter-halbert
     - [x]  Halbert's "Coat of Arms."
 - Study
     - [ ]  [The Original Harmon Brothers Playlist](https://www.youtube.com/playlist?list=PL9faCiIC-952m0GL1ejAEhmkKECB8izMs)
-    - [ ]  [Harry dry podcast](https://youtu.be/TUMjnmfsPeM?si=nOqThOOstnLvE3vd)
+    - [x]  [Harry dry podcast](https://youtu.be/TUMjnmfsPeM?si=nOqThOOstnLvE3vd)
 
 ## 3. Study Modern Masters
 
