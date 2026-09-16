@@ -30,15 +30,15 @@ P.S. If you are ordering only one report, send two dollars ($2.00). Additional r
 
 **Value:** 600 millioner brev sendt. Ingen headline, ingen bilde, ingen garanti. Bare et navn og en grunn. Det sterkeste beviset i arkivet på at relevans slår alt annet.
 
-De sterkeste grepene, og hva de gjør psykologisk:
+**Key takeaways**
 
-1. **Navnet hennes i første setning.** "Your family name was recorded with a coat-of-arms more than seven centuries ago." Ingen leser forbi sitt eget navn. Og det er ikke bare oppmerksomhet: det er stolthet. Hun får noe å være av. Ønsket bak: tilhørighet og status, sagt uten å si det.
-2. **Avsenderen er en husmor, ikke et firma.** "My husband and I discovered this while doing some research for some friends." Nancy L. Halbert, adresse i Bath, Ohio, telefonnummer. Psykologisk: garden er nede. Det er ikke reklame, det er et brev fra en dame som fant noe. Hun sjekker ikke et brev fra en nabo.
-3. **Grunnen til at det finnes.** "The report so delighted our friends that we have had a few extra copies made." Ikke "vi selger", men "vi lagde noen ekstra". Psykologisk: et tilbud uten grunn er mistenkelig. Et tilbud som er en bieffekt av noe hyggelig er trygt. Samme grep som Charisma og Blackjack: forklar hvorfor du kan gi det bort.
-4. **Prisen er ikke pris.** "Enough to cover the added expenses of having the extra copies printed and mailed." To dollar. Psykologisk: hun betaler ikke for varen, hun dekker Nancys utlegg. Det er en tjeneste, ikke et kjøp. Ingen kjøpsmotstand fordi det ikke er et kjøp.
-5. **Ærligheten som sikrer tilliten.** "We have not traced anyone's individual family tree." Hun sier hva det ikke er, før noen kan bli skuffet. Psykologisk: én innrømmelse gjør resten troverdig. Ogilvy: skeptisk kvinne, ikke overdriv.
-6. **Knapphet som en bemerkning.** "Please let us know right away as our supply is pretty slim." Ikke "kun i dag". En dame som har noen få igjen. Psykologisk: ekte knapphet høres ut som et problem hun har, ikke som et press på deg.
-7. **Gaven til slektninger.** "Great gifts for relatives." Ett brev, flere kjøp. P.S.: én for to dollar, resten én dollar hver. Psykologisk: hun kjøper til broren også fordi det er dumt å la være for én dollar.
+1. Sett leseren i første setning. Navnet hennes, eller scenen hun er i. Ingen leser forbi seg selv.
+2. Vær et menneske, ikke et firma. "My husband and I." Adresse og telefon. Garden er nede før hun har lest linje to.
+3. Gi en grunn til at tilbudet finnes. "We had a few extra copies made." Et tilbud som er en bieffekt er trygt. Et tilbud som er et salg er ikke.
+4. Gjør prisen til et utlegg. "Enough to cover printing and mailing." Da er det en tjeneste, ikke et kjøp.
+5. Si hva det ikke er. "We have not traced anyone's family tree." Én innrømmelse gjør resten troverdig.
+6. Knapphet som en bemerkning, ikke et press. "Our supply is pretty slim."
+7. Ett brev, flere kjøp. "Great gifts for relatives." Én for to dollar, resten én dollar.
 
 Kort sagt: navnet ditt, en dame som fant noe, en grunn til at hun deler det, og en pris som ikke er en pris.
 

@@ -42,6 +42,10 @@ P.S. My material is everything I say it is and I am a real person alive and well
 
 P.P.S. The enclosed "pink sheet" has a few of the comments others have made about my material. If some of the names sound familiar to you, that's cause many of these men are the most visible and most successful people in their respective fields.
 
+## Merk: samme tekst som "Desperate Nerd From Ohio"
+
+Side 2–3 er annonsen ord for ord, og kulepunktene er blitt 16 seksjoner. Én tekst, tre formater: avisannonse, brev til dem som ringte, seminar. "Can it and clone it" (seksjon #8) i praksis.
+
 ## Value og key takeaways
 
 **Value:** Steg 2 i Halberts to-stegs-modell. WSJ-annonsen solgte et gratis telefonnummer, dette brevet selger pakken til 295 dollar. Dollaren er grabberen, og han sier begge grunnene til at den er der. Så gjentar han annonsen ord for ord, så hun husker at hun selv ba om dette.
