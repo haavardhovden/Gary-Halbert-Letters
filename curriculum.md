@@ -63,7 +63,7 @@ Planen for det som skjer når arkivet er ferdig lest står i `plan-etter-halbert
 - Classic Ads to Break Down:
     - [x]  Rolls Royce headline (Ogilvy),
     - [ ]  WSJ "two young men" letter,
-    - [ ]  Halbert's "Coat of Arms."
+    - [x]  Halbert's "Coat of Arms."
 - Study
     - [ ]  [The Original Harmon Brothers Playlist](https://www.youtube.com/playlist?list=PL9faCiIC-952m0GL1ejAEhmkKECB8izMs)
     - [ ]  [Harry dry podcast](https://youtu.be/TUMjnmfsPeM?si=nOqThOOstnLvE3vd)

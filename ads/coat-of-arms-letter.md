@@ -25,3 +25,23 @@ Sincerely,
 Nancy L. Halbert
 
 P.S. If you are ordering only one report, send two dollars ($2.00). Additional reports ordered at the same time and sent to the same address are one dollar each. Please make checks payable to me, Nancy L. Halbert.
+
+## Breakdown (2026-09-16, curriculum seksjon 2 "Classic Ads to Break Down")
+
+**Value:** 600 millioner brev sendt. Ingen headline, ingen bilde, ingen garanti. Bare et navn og en grunn. Det sterkeste beviset i arkivet på at relevans slår alt annet.
+
+De sterkeste grepene, og hva de gjør psykologisk:
+
+1. **Navnet hennes i første setning.** "Your family name was recorded with a coat-of-arms more than seven centuries ago." Ingen leser forbi sitt eget navn. Og det er ikke bare oppmerksomhet: det er stolthet. Hun får noe å være av. Ønsket bak: tilhørighet og status, sagt uten å si det.
+2. **Avsenderen er en husmor, ikke et firma.** "My husband and I discovered this while doing some research for some friends." Nancy L. Halbert, adresse i Bath, Ohio, telefonnummer. Psykologisk: garden er nede. Det er ikke reklame, det er et brev fra en dame som fant noe. Hun sjekker ikke et brev fra en nabo.
+3. **Grunnen til at det finnes.** "The report so delighted our friends that we have had a few extra copies made." Ikke "vi selger", men "vi lagde noen ekstra". Psykologisk: et tilbud uten grunn er mistenkelig. Et tilbud som er en bieffekt av noe hyggelig er trygt. Samme grep som Charisma og Blackjack: forklar hvorfor du kan gi det bort.
+4. **Prisen er ikke pris.** "Enough to cover the added expenses of having the extra copies printed and mailed." To dollar. Psykologisk: hun betaler ikke for varen, hun dekker Nancys utlegg. Det er en tjeneste, ikke et kjøp. Ingen kjøpsmotstand fordi det ikke er et kjøp.
+5. **Ærligheten som sikrer tilliten.** "We have not traced anyone's individual family tree." Hun sier hva det ikke er, før noen kan bli skuffet. Psykologisk: én innrømmelse gjør resten troverdig. Ogilvy: skeptisk kvinne, ikke overdriv.
+6. **Knapphet som en bemerkning.** "Please let us know right away as our supply is pretty slim." Ikke "kun i dag". En dame som har noen få igjen. Psykologisk: ekte knapphet høres ut som et problem hun har, ikke som et press på deg.
+7. **Gaven til slektninger.** "Great gifts for relatives." Ett brev, flere kjøp. P.S.: én for to dollar, resten én dollar hver. Psykologisk: hun kjøper til broren også fordi det er dumt å la være for én dollar.
+
+Kort sagt: navnet ditt, en dame som fant noe, en grunn til at hun deler det, og en pris som ikke er en pris.
+
+**Det Halbert selv sa om det etterpå (letter-147, Ground Zero, og #17-notatene):** Brevet virket ikke første gang. Det var feedbacken fra første utsendelse som lærte ham hva som manglet. Og oppfølgingen: 70-produkters katalog bombet, tre-produkters brosjyre gikk i null, et personlig brev med et foto vedlagt dro inn 40 millioner. Jo mer det så ut som reklame, jo dårligere gikk det.
+
+**Til Stille:** relevans-grepet er ikke navnet, det er scenen hun er i. "Til deg i overgangsalderen" er Coat of Arms for 2026: hun leser fordi det er henne. Og avsenderen: Ragnhild, ikke Stille.
