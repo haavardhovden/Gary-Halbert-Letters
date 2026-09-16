@@ -432,3 +432,13 @@ Emosjonell motor: selvstendighet, mestring, litt skadefryd, spare penger, omsorg
 ## Stille: overgangsalder-batch 2, Jonathans feedback (2026-09-15)
 
 Fil: `research/stille/13-feedback-overgangsalder-batch-2.md`. Jonathans seks punkter (mekanisme mangler, "ingen svette netter" for stort, "sover dårlig" er paraply, D4 closer for tidlig, benefit → dream outcome) pluss min korreksjon: mekanismen må være fukt, ikke kulde, fordi Fact Sheet nr. 7 ikke støtter "kjølende" som natt-løfte. Ny versjon av A1, B2, D4 flytter løftet fra "kjølende" til "ikke klam", med fire ulike mekanisme-formuleringer. C3 uendret.
+
+## Stille: "Fra kinesiske bambusmatter til norsk sengetøy" (Håvard, 2026-09-16)
+
+Nysgjerrighets-headline med opprinnelseshistorie (Halberts Brindall-bær-grep, Berry Trim-annonsen). Faktasjekket:
+- Bambusmatter (竹席) som sommerunderlag er ekte kinesisk tradisjon; produsenter oppgir ~2000 år. Trygt å si "i hundrevis av år". Kilder: https://chunlongzhuyi.com/product-detail/chinese-handmade-natural-cool-sleeping-bamboo-mat · https://liwei.chinagoods.com/news/stay-cool-all-night-why-bamboo-mat-is-your-summer.html
+- Matta er kjølig fordi hard bambus leder varme bort fra kroppen og fletteverket gir luft under. Ikke samme mekanisme som viskosestoff. Si "inspirert av", aldri "samme mekanisme".
+- Bambusviskose: prosess utviklet i Kina på 1990-tallet, sengetøy i Vesten fra tidlig 2000-tall. Så "gammel tradisjon" gjelder matta, ikke stoffet. Kilde: https://www.sleepbamboo.com/blogs/pages-sleepbamboo-blog-home-page/what-is-the-history-of-bamboo-fabric-and-bamboo-sheets
+- Åpent: "Vi tok den ideen og gjorde den myk" er bare sant hvis Stille faktisk kan si det om seg selv. Sjekk med grunnlegger før bruk.
+
+Utkast: Headline "Fra kinesiske bambusmatter til norsk sengetøy". Under: "I Kina har folk sovet på bambusmatter i varme sommernetter i hundrevis av år. De puster og holder seg kjølige. Vi tok den ideen og gjorde den myk." CTA: Prøv i 30 netter.
