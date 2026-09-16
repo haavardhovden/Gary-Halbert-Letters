@@ -441,4 +441,6 @@ Nysgjerrighets-headline med opprinnelseshistorie (Halberts Brindall-bær-grep, B
 - Bambusviskose: prosess utviklet i Kina på 1990-tallet, sengetøy i Vesten fra tidlig 2000-tall. Så "gammel tradisjon" gjelder matta, ikke stoffet. Kilde: https://www.sleepbamboo.com/blogs/pages-sleepbamboo-blog-home-page/what-is-the-history-of-bamboo-fabric-and-bamboo-sheets
 - Åpent: "Vi tok den ideen og gjorde den myk" er bare sant hvis Stille faktisk kan si det om seg selv. Sjekk med grunnlegger før bruk.
 
+Leddet som manglet (fra Tai Chi-annonsen, ads/halbert/china-health-secret-ad-by-gary-halbert.md): opprinnelsesgruppen må ha hatt HENNES problem, verre. "I Sør-Kina er sommernettene 30 grader og fuktige." Sjekk klimatall før bruk.
+
 Utkast: Headline "Fra kinesiske bambusmatter til norsk sengetøy". Under: "I Kina har folk sovet på bambusmatter i varme sommernetter i hundrevis av år. De puster og holder seg kjølige. Vi tok den ideen og gjorde den myk." CTA: Prøv i 30 netter.
