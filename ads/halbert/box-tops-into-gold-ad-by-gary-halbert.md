@@ -87,19 +87,17 @@ Kvinne ved kjøkkenbenken, klipper etiketter av bokser og pakker. Vanlig husmor,
 
 ## Value og key takeaways
 
-**Value.** Advertorial (merket "advertisement", datolinje, byline) som selger en bok til $5.95 om refunding. Samme skjelett som "Money Murdered" og "Credit Cards": penger hun alt har, men kaster. Ny vri her: subhead er Caples' pianoannonse ordrett ("My husband laughed... But today we both laugh all the way to the bank"), og garantien er dobbel.
+**Value.** Dette er en advertorial fra 1974. Den ser ut som en avisartikkel, med datolinje, byline og bilde av en husmor på kjøkkenet, og selger en bok til $5.95 om "refunding": du klipper etiketter av bokser og sender dem til produsenten, som sender deg penger tilbake. Ideen er den samme som i Money Murdered og Credit Cards: pengene finnes allerede hjemme hos henne, hun bare ser dem ikke. Det som gjør denne verdt å lese er hvordan han får henne til å se dem, og hvordan han stenger hver eneste grunn til å ikke bestille.
 
-**Key takeaways.**
+**Headlinen og subheaden.** "How YOU Can Turn Box-Tops Into Gold!" er et enkelt løfte, og ordet YOU gjør at hun ikke kan lese det som en historie om andre. Men det er subheaden som gjør jobben: "My husband laughed when I told him we could rake in over $500 a year with my 'crazy' idea. 'Too simple,' he said. But today we both laugh all the way to the bank." Det er Caples' pianoannonse, nesten ordrett, femti år senere. Grunnen til at det virker er at leseren har den samme mannen hjemme. Hun vet nøyaktig hvordan han kommer til å le hvis hun begynner å klippe etiketter ved kjøkkenbenken. Subheaden viser henne latteren først, og så hevnen. Da er den første innvendingen, "folk vil synes dette er teit", allerede snudd til en grunn til å gjøre det. Og han er ikke ferdig med den. Midt i teksten kommer en advarsel: "some people may say, what's the use, you only get back a quarter at a time. They may even laugh the way my husband did. Don't pay any attention to them." Hun har fått vaksinen før hun har møtt smitten.
 
-1. **"Hvor mye har du kastet i søpla? $200 er et godt gjetning."** Tapet er ikke fremtidig, det har alt skjedd. Tap svir mer enn gevinst frister, og hun ser søppelbøtta på sitt eget kjøkken.
-2. **Mannen som lo (Caples-grepet).** Latteren i starten er hånen leseren frykter. "Laugh all the way to the bank" er hevnen. Og advarselen "some people may say... don't pay attention to them" vaksinerer henne mot samme hån før hun kjenner den.
-3. **Dobbel garanti.** Liker du ikke boka: send tilbake. Liker du den, men tjener ikke $500 på ett år: send tilbake. Alle "hva hvis" er stengt, og et helt år er så lenge at ingen husker.
-4. **"Ta din første $1 refund i dag."** Rabatten fra $6.95 til $5.95 er rammet inn som produktet i bruk. Prisen beviser løftet.
-5. **Sju sitater med kronebeløp** ($47 til svigermor, $62 i cash). Små, rare tall låter sanne. Runde tall låter oppdiktet.
+**Så gjør han tapet til noe som allerede har skjedd.** "Stop for a minute to figure out how much cash, in the form of box-tops and labels, you've thrown into your trash can in the last few months. $200 or more would be a good guess." Legg merke til at han ikke sier "du kan tjene $200". Han sier at hun har kastet $200. Det er forskjellen på en gevinst hun kanskje får og et tap hun allerede har tatt, og tap svir hardere. I tillegg sitter søppelbøtta på hennes eget kjøkken, så bildet er ferdig laget i hodet hennes. Sitatene som kommer rett før dette har samme funksjon: "$47 tilbakebetalt til svigermor", "$62 i cash og $30 i kuponger sist måned". Rare, skjeve tall som ingen finner på. Runde tall låter som reklame, skjeve tall låter som noen som har telt.
 
-**Løfter.** Minimum $500 i året, skattefritt, noen minutter om dagen, helt lovlig, pengene tilbake ellers.
+**Closing er der denne annonsen er sterkest.** Garantien er dobbel. Liker du ikke boka når den kommer, send den tilbake. Liker du den, men tjener ikke $500 på et helt år, send den tilbake da. Begge "hva hvis" hun kunne sittet igjen med er stengt, og et år er så lenge at nesten ingen kommer til å bruke den. Rett etter garantien gjør han prisen om til et bevis: han hadde tenkt å ta $6.95, men tar $5.95, "so take your first $1.00 refund today". Rabatten er ikke en rabatt lenger. Den er første gang metoden virker, før hun har bestilt. Og siste setning går tilbake til bildet han plantet: "Quit dropping quarters and dollars into your trash can."
 
-**Closing-argumenter.** Ikke i butikk "at any price". Uten boka "you won't have a prayer". Send tilbake om ett år og få alt igjen. Rabatten som første refund. "Quit dropping quarters into your trash can."
+**Løfter.** Minst $500 i året, skattefritt, noen minutter om dagen, helt lovlig, og pengene tilbake om ikke.
+
+**Closing-argumenter.** Boka finnes ikke i noen butikk "at any price". Uten den "you won't have a prayer". Dobbel garanti på ett år. Rabatten som første refund. Søppelbøtta som siste bilde.
 
 ## Vurdering
 
