@@ -899,7 +899,7 @@ Tre akter. 1: Helten blir ledd av foran folk han bryr seg om ("He'll probably gi
 
 ### 80. Tre ja: kan jeg se det, kan det være usant, kan ingen andre si det (Harry Dry)
 
-**Kilde:** Harry Dry, podcast "Learn Copywriting in 76 Minutes" (curriculum seksjon 5), laert.md "Harry Dry"
+**Kilde:** Harry Dry, podcast "Learn Copywriting in 76 Minutes" (curriculum seksjon 5, https://youtu.be/TUMjnmfsPeM), notater i laert.md "Harry Dry"
 
 Tre spørsmål på hver setning. Kan leseren lukke øynene og se det? Kan setningen bevises sann eller usann? Kan en konkurrent skrive den samme setningen under sitt eget navn? "Don't just get a job, change an entire industry" får tre nei. "Worn by supermodels in London and dads in Ohio" får tre ja: du ser dem, det er sant, og verken Prada eller Reebok kan si det.
 **Hvorfor det virker:** Konkret huskes, abstrakt fordamper (du husker "charging pitbull", ikke "better way"). En setning som kan være usann setter hodet ditt på blokka, og leseren retter seg opp. En setning bare du kan si tvinger deg til å lete dypere i produktet etter det som faktisk er annerledes. De tre sammen er en test, ikke et råd: hver setning får en score, og score er vanskeligere å lure seg unna enn "skriv konkret".

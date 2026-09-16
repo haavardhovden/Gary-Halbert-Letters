@@ -97,7 +97,7 @@ Primærtekst på 90 ord: alle sju, en setning hver. Static: 1 og 2 i headline, 3
 - Volum: hit rate 5–15 %. Fem prosent betyr 20 annonser per vinner. Regn baklengs fra hvor mange vinnere som slites ut per måned.
 - Top of funnel-statics vinner sjelden på last click. De mater andre annonser. Døm på økonomi, ikke på ROAS per annonse.
 
-## Harry Dry (podcast 16. sep, curriculum seksjon 5)
+## Harry Dry (podcast "Learn Copywriting in 76 Minutes", 16. sep, curriculum seksjon 5, https://youtu.be/TUMjnmfsPeM)
 
 - Tre spørsmål på hver setning: Kan jeg se det? Kan det være sant eller usant? Kan ingen andre si det? Tre nei = søppel. Tre ja = noe. "Worn by supermodels in London and dads in Ohio" får tre ja. (Mekanisme #80.)
 - Abstrakt til konkret: skriv ordet øverst, spør "hva mener jeg egentlig", skriv om til du står igjen med en ting du kan slippe på foten. "Regain fitness" → "Couch to 5K".
