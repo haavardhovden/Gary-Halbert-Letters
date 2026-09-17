@@ -47,6 +47,29 @@ Råstoffet ligger i `research/stille/04-kundesprak.md`, `08-trustpilot-analyse.m
 Står du fast: tving innsikten gjennom alle sju. Fem blir søppel, to blir brukbare.
 Det er ikke juks, det er sånn det gjøres.
 
+## Humor: gruvedrift i nøkkelordet
+
+Vitsen sitter på ett ord som har to betydninger, og den ene betydningen er produktfordelen.
+"Kaldere enn eksen din": kald er temperatur (produktet) og følelseskald (eksen). De to
+kolliderer, du ler, og du har samtidig fått med deg at lakenet er kaldt. Vitsen leverte
+argumentet.
+
+Derfor er humor et søk, ikke et innfall. Ta ordet som er fordelen din og skriv ned hver
+sammenheng det ordet lever i.
+
+- **Kald:** eksen, kalde føtter, kaldt bord, den kalde skulderen, kald pizza, iskald
+- **Tørr:** tørr humor, tørr vin, tørr i munnen, tørt brød, tørre fakta
+- **Naken:** den nakne sannhet, blakk, avkledd
+- **Glatt:** glatt is, glatt type, glattbarbert
+
+Tjue kollisjoner å velge mellom slår å vente på inspirasjon. De fleste blir søppel.
+
+**Timing:** vitsen kommer etter innsikten, aldri før. Leter du etter en vits før du vet hva
+argumentet er, ender du med pynt.
+
+**Og si de dårlige høyt.** Fordelen til den som er rask er ikke bedre vitser, det er at han
+slipper ut de dårlige uten å nøle. Ti forsøk mot ditt ene.
+
 ## Stigen: tilstand → handling
 
 Hver gang du har skrevet en tilstand, spør hva personen fysisk gjør i det øyeblikket.
