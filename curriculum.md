@@ -111,7 +111,7 @@ Study the top ads (top 30 ish) best in class paid social brands:
 ## **4. Read These Books**
 
 - [ ]  Breakthrough Advertising
-- [ ]  Scientific Advertising
+- [x]  Scientific Advertising
 - [ ]  Ca$hvertising
 - [ ]  Ogilvy on Advertising
 - [ ]  Very Good Copy

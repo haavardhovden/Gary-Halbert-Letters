@@ -12,7 +12,7 @@ for brevene: bare genuint nye mønstre.
 | Bok | Fil | Status |
 |-----|-----|--------|
 | Breakthrough Advertising (Schwartz) | `breakthrough-advertising.md` | ikke startet |
-| Scientific Advertising (Hopkins) | `scientific-advertising.md` | ikke startet |
+| Scientific Advertising (Hopkins) | `scientific-advertising.md` | **ferdig** (19. sep) — 9 mekanismer, #81–#89 |
 | Ca$hvertising (Whitman) | `cashvertising.md` | ikke startet |
 | Ogilvy on Advertising | `ogilvy-on-advertising.md` | ikke startet |
 | Very Good Copy (Eddie Shleyner) | `very-good-copy.md` | ikke startet |

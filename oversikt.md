@@ -1,6 +1,6 @@
 # Oversikt: hva vi har lært av Gary Halbert
 
-Lettfordøyelig kart over `mechanisms.md` (80 mekanismer + rammeverk) og `books/the-boron-letters-2013.md`.
+Lettfordøyelig kart over `mechanisms.md` (89 mekanismer + rammeverk) og `books/the-boron-letters-2013.md`.
 Tallene i parentes peker på mekanismen i `mechanisms.md`. Dette dokumentet forklarer ikke, det viser vei.
 Oppdateres når nye mekanismer kommer til.
 
@@ -103,7 +103,7 @@ Sitat å ha på veggen: *"Advertising is salesmanship multiplied. You can't mult
 
 | Verktøy | Fil | Hva |
 |---|---|---|
-| Mekanismer | `mechanisms.md` | Skoesken. 80 kort. |
+| Mekanismer | `mechanisms.md` | Skoesken. 89 kort. |
 | Headlines | `swipe/headlines.md` | Klassiske headlines til å modellere |
 | Fakta | `swipe/facts.md`, `research/stille/02-*.md` | Interessante, sanne fakta med kilder |
 | Bullets | `swipe/bullets.md` | Åpne loops-maler |
@@ -158,3 +158,12 @@ Ikke sortert inn i tabellene over ennå. Én linje hver, nummeret peker til `mec
 | Den selvbevisende annonsen | Påstanden bevises av det leseren gjør nå. "1909 words, and you are reading it." | #78 |
 | Hån og hevn | De lo, så snudde det, så spurte de hvordan. Caples piano/fransk. | #79 |
 | Tre ja | Kan jeg se det, kan det være usant, kan ingen andre si det. Harry Dry. | #80 |
+| Schlitz-grepet | Beskriv det vanlige i detalj og eie det fordi du sa det først. Hopkins kap. 7. | #81 |
+| Headlinen som filter | Jobben er å sortere bort, ikke å samle. Hopkins kap. 5. | #82 |
+| Kur slår forebygging | Folk betaler for å fikse, ikke for å unngå. Hopkins kap. 10. | #83 |
+| Påstandsforurensning | Den svake påstanden bytter kategori og dreper den sterke. Hopkins kap. 10. | #84 |
+| Gratis senker verdien | La dem be om prøven. Gratis setter prisankeret til null. Hopkins kap. 6/13. | #85 |
+| Hver annonse er noens eneste | Ingen føljetong. Hele argumentet hver gang. Hopkins kap. 8. | #86 |
+| Vis resultatet | Ansiktet etterpå, ikke rynkene. Hopkins kap. 18. | #87 |
+| Kostnad per kunde | Det eneste tallet som ikke kan lyves med. Hopkins kap. 1/10/16. | #88 |
+| Individualiteten | Én valgt avsenderpersonlighet, aldri byttet. Hopkins kap. 17. | #89 |
