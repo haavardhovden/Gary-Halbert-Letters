@@ -12,6 +12,30 @@ det høyeste noen hadde betalt for skriving. Han sto bak Pepsodent, Palmolive, S
 Puffed Wheat og Van Camp's.
 
 
+## Ordliste (Hopkins' 1923-ord)
+
+De fleste betyr noe annet enn de ser ut som.
+
+| Ord | Betyr |
+|---|---|
+| **lines** | bransjer eller produktkategorier, ikke linjer. "In many lines" = i mange bransjer |
+| **proprietaries** | merkevarer i pakning, særlig helse og medisin |
+| **pioneers** | de som var først i en kategori og skapte etterspørselen |
+| **keyed / keying** | kodet annonse, så du vet hvilken annonse svaret kom fra. Sporing |
+| **traced returns** | sporede resultater |
+| **dealers** | butikker, forhandlere |
+| **jobbers** | grossister |
+| **canvassers** | dørselgere |
+| **mediums** | aviser og blader |
+| **copy** | annonsetekst |
+| **space** | annonseplass |
+| **insertion** | én gang annonsen trykkes |
+| **palaver** | tomprat, svada |
+| **conceit** | smart påfunn, ikke innbilskhet |
+| **substitution** | at butikken gir kunden et annet merke i stedet |
+| **dentifrice** | tannkrem |
+| **germicide** | desinfeksjonsmiddel |
+
 ## Advarsel om utgave (sjekket 19. sep)
 
 Det finnes to Galletti-utgaver i omløp, og **den illustrerte på 75–78 sider er korrupt.**
