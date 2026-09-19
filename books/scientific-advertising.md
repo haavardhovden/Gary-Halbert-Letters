@@ -11,6 +11,29 @@ Hopkins skrev boka etter å ha vært copywriter i Lord & Thomas på 185 000 doll
 det høyeste noen hadde betalt for skriving. Han sto bak Pepsodent, Palmolive, Schlitz, Quaker
 Puffed Wheat og Van Camp's.
 
+
+## Advarsel om utgave (sjekket 19. sep)
+
+Det finnes to Galletti-utgaver i omløp, og **den illustrerte på 75–78 sider er korrupt.**
+Bruk den rene "Original Text"-utgaven på 115 sider. Verifisert ord for ord: 279 avvik, og
+den illustrerte snur meningen flere steder.
+
+| Hopkins (115 s.) | Den illustrerte (75 s.) |
+|---|---|
+| "There **no** fixed rule on this subject of brevity" | "There **is** a fixed rule" |
+| "**Without** a key to guide you, your returns are apt to cost twice what they need cost" | "**With** a key to guide you" |
+| "results are **untraced and** unknown" | "results are **traced but** unknown" |
+| "The perils have been almost eliminated. The results have increased many fold" | "The perils **have increased many fold**" |
+| "but is quite **unimportant**" | "but is quite **important**" |
+| "rarely cost less than **$2.50** each" | "**$42.50** each" |
+| "The correct **methods** of procedure... we act on basic **laws**" | "method... basic law" |
+
+Den mangler også tekst. "Multiplies itself in lather 250 times" i kap. 7 er borte helt,
+og to setningsledd i kap. 1 er droppet.
+
+Det eneste den illustrerte har som den rene mangler, er **Ogilvys forord fra 1960-utgaven**.
+Det er gjengitt i sitatform øverst i denne fila.
+
 ---
 
 ## Kap. 1 — How Advertising Laws Are Established
