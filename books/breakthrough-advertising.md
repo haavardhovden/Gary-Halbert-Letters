@@ -5,18 +5,32 @@ Books-utgaven (2004), 264 sider, 14 kapitler + introduksjon og epilog.
 
 Boka er **ikke** lagt i repoet. Hopkins 1923 er public domain, Schwartz 1966 er det ikke.
 
-## Hvilken utgave
+## Hvilken utgave (rettet 20. sep, etter visuell sjekk)
 
-Det sirkulerer to PDF-er. Sjekket 20. sep:
+Det sirkulerer to typer fil, og de feiler på hver sin måte. Begge inneholder hele boka.
 
-| | Riktig fil | Den andre |
+| | Skanningen (264 s.) | Tekstversjonen (239 s.) |
 |---|---|---|
-| Sider | 264 | 239 |
-| OCR | ren (1 feil av typen "vou" for "you" i hele boka) | 323 slike feil |
-| Kolofon | "This edition incorporates every word of the original and classic 1966 edition" | — |
+| Hva det er | fotografier av ekte boksider | OCR-tekst satt på nytt som skrift |
+| Hvordan det ser ut | mykt, varmt, litt tåkete, stor skrift | knivskarpt |
+| Feil i teksten du leser | ingen | ca. 4,3 per side, 1 038 i boka |
+| Feiltypen | — | y lest som v: "vou", "vour", "thev", "bv", "onlv" |
+| Annonsefaksimilene (s. 232–245) | med | **borte** |
+| Register | med | med |
 
-Bruk 264-siders-versjonen. Den korte er ikke en annen utgave, den er en dårligere skanning
-av samme bok.
+**Viktig metodepoeng:** den første vurderingen her rangerte filene på OCR-tekstlagets
+kvalitet, fordi sidegjengivelse ikke var tilgjengelig da. Det var feil målestokk. Et
+menneske leser piksler, ikke tekstlaget. Skanningen har rent tekstlag og uklare piksler.
+Tekstversjonen har skarpe piksler og feilene bakt permanent inn i selve teksten. De to
+målene peker motsatt vei.
+
+**Praktisk:** les tekstversjonen hvis skanningen sliter øynene. Ingen kapitler, avsnitt
+eller argumenter mangler, verifisert med sonder mot alle 14 kapitlene og epilogen.
+Åpne skanningen for kapittel 14, der de fire eksempelannonsene er merket med blokkene
+A–D og overgangspunktene 1–3. Uten annonsene er den delen vanskelig å følge.
+
+De to 239-siders-filene i omløp (`Breakthrough Advertising 2.pdf` og `Wayback Machine1.pdf`)
+er samme utgave. Samme sidetall, samme 1 038 feil. Velg hvilken som helst.
 
 Innholdet er Bottom Line-utgaven: Martin Edelstons forord, Schwartz' eget forord til
 Boardroom-utgaven, og så originalteksten fra 1966. Sidene 232–245 er faksimiler av de
