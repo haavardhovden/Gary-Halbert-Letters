@@ -1,6 +1,6 @@
 # Oversikt: hva vi har lært av Gary Halbert
 
-Lettfordøyelig kart over `mechanisms.md` (89 mekanismer + rammeverk) og `books/the-boron-letters-2013.md`.
+Lettfordøyelig kart over `mechanisms.md` (102 mekanismer + rammeverk) og `books/the-boron-letters-2013.md`.
 Tallene i parentes peker på mekanismen i `mechanisms.md`. Dette dokumentet forklarer ikke, det viser vei.
 Oppdateres når nye mekanismer kommer til.
 
@@ -127,7 +127,7 @@ Sitat å ha på veggen: *"Advertising is salesmanship multiplied. You can't mult
 
 ---
 
-## 7. Lagt til ved sammenslåingen 13. sept (#56–#72, fra to parallelle chatter)
+## 7. Lagt til ved sammenslåingen 13. sept og senere (#56–#102)
 
 Ikke sortert inn i tabellene over ennå. Én linje hver, nummeret peker til `mechanisms.md`.
 
@@ -167,3 +167,16 @@ Ikke sortert inn i tabellene over ennå. Én linje hver, nummeret peker til `mec
 | Vis resultatet | Ansiktet etterpå, ikke rynkene. Hopkins kap. 18. | #87 |
 | Kostnad per kunde | Det eneste tallet som ikke kan lyves med. Hopkins kap. 1/10/16. | #88 |
 | Individualiteten | Én valgt avsenderpersonlighet, aldri byttet. Hopkins kap. 17. | #89 |
+| Tre akser i masseønsket | Hast, varighet, omfang. Sterkt nok på alle tre, ikke bare én. Schwartz kap. 1. | #90 |
+| Posisjon gir kraft | Samme påstand blir sterk eller svak av hva som står foran den. Schwartz kap. 9. | #91 |
+| Troverdighetstaket | Den sterkeste påstanden er ikke alltid den sterkeste headlinen. Schwartz kap. 9. | #92 |
+| Karakterrollen testes aldri | Derfor godtas den der ytelsespåstander avvises. Schwartz kap. 8. | #93 |
+| Primærbildet som bro | Du kan ikke motsi det produktet allerede er. Demp det og bygg videre. Schwartz kap. 8. | #94 |
+| Eskalering | Gjør produktet viktigere ved å utvide rollen det spiller, ikke løftet. Schwartz kap. 10. | #95 |
+| Bytt målestokk på prisen | Ti verdi-fraser før tallet. Rabatt bekrefter konkurrentens pris. Schwartz kap. 10. | #96 |
+| Prisavslaget trenger en grunn | Uforklart kutt blir lest som dårlig vare. Collier via Schwartz kap. 11. | #97 |
+| Aldri angrip uten løsning | Kritikk alene leses som egeninteresse. Schwartz kap. 12. | #98 |
+| Sammenstillingen | To påstander der den ene forklarer den andre ganger hverandre. Avis. Schwartz kap. 14. | #99 |
+| Ekspertens forbauselse | Overraskelse kan ikke kjøpes, anbefaling kan. Schwartz kap. 7. | #100 |
+| Forebygging via andre | Han ser ikke sin egen fremtid, men barnas. Unntaket fra #83. Schwartz kap. 5. | #101 |
+| Concept-judo | Ulempen blir beviset på at det virker. Lifebuoy B.O. Schwartz kap. 10. | #102 |
