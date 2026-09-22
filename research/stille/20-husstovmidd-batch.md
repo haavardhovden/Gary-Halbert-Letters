@@ -52,3 +52,21 @@ vaskelappen er avklart. Ingen barnevinkel før barnestørrelser er bekreftet.
 |---|---|---|
 | UGC-1 | Våknet alltid pottetett i nesa når jeg sov i bomull 🤧 | Vet ikke om det var midd, men etter jeg byttet til bambus er nesa fin om morgenen. |
 | UGC-2 | Nesa var alltid fin på hytta. Hjemme våknet jeg tett 🤧 | Forskjellen var senga. Bomullen holdt på fukten. Byttet til bambus. |
+
+---
+
+## Endelig batch sendt 22. sep (Håvards valg)
+
+| | Format | Headline | Tekst / USPs | CTA |
+|---|---|---|---|---|
+| A1 | Headline-static | Bambussengetøy for deg med middallergi | Holder husstøvmidd unna · Naturlig antibakteriell · Hypoallergen | Våkn uten pottetett nese |
+| B2 | Headline-static | Sov uten midd. Sov i bambus. | Holder husstøvmidd unna · Antibakterielt · Hypoallergent | |
+| C3 | Headline-static | Slutt å ligge med midd! | I vanlig sengetøy kan det fort bli fuktig og mye midd. Bambussengetøy er antibakterielt, pustende og holder husstøvmidden unna! | |
+| D4 | Snapchat | «Husstøvmidd hater virkelig bambus 🤯» | «Byttet nylig til bambussengetøy, og har ikke våknet pottetett eller snufsete en eneste gang 😌» | |
+
+Håvard og Jonathan har besluttet at "antibakteriell", "hypoallergen" og "holder husstøvmidd unna"
+kan brukes (samme påstander som S#14-vinnerne). "Middfritt" er ikke brukt. Faktaark 5/45 står
+uendret som referanse; beslutningen er kundens.
+
+Hva batchen tester: direkte call-out (A1), vinner-rytme "Sov naken"-form (B2), humor/dobbeltbetydning
+(C3), kundestemme i UGC-format (D4). Vinneren S#14 D4 kjører videre som kontroll.
