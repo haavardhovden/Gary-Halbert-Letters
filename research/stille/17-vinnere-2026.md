@@ -130,3 +130,36 @@ D4 = tilståelse, salget får navn i anførselstegn (C3-grepet). Variant = bønn
 linja, la den ligge). "Regnskapsføreren gråter", "Vi telte feil" (vitser som ikke traff).
 
 **Compliance, fortsatt åpent:** 1 280 kr må være laveste pris siste 30 dager.
+
+---
+
+## 2. Husstøvmidd: S#14 A1 (UGC) og S#14 D4 (static)
+
+**Bilder:** `vinnere/husstovmidd-S14-A1-ugc.jpg`, `vinnere/husstovmidd-S14-D4-static.jpg`.
+**Tall (Atria 22. sep):** vinklingen ca. 400k spend des–mar, ROAS 3,4–5,5. A1 ROAS 5,45 (best).
+D4 84k spend, ROAS 4,21. Nesten stoppet etter mars. Håvard 22. sep: A1 er den som har prestert
+best nylig.
+
+| | Format | Tekst | Nivå |
+|---|---|---|---|
+| **A1** | Snap-stil UGC. Hender drar grått bomullslaken av, lyseblå bambus under. Ekte soverom. | Topp: "Våknet alltid pottetett i nesa når jeg sov i bomull 🤧" · Bunn: "Var tydeligvis midd. Ble borte sekunder jeg byttet til antibakteriell bambus." | **4** (symptom → årsak → bytte, i to captions) |
+| **D4** | Static. "Husstøvmidd HATER bambus ...men du kommer til å elske det." Rød "hater"-boks, emoji-bullets, stabel i fire farger. | Bullets: holder midd og bakterier unna / pustende bambus / naturlig hypoallergen og antibakteriell | **5** (fiende, avsky, ingen påstand trengs i headlinen) |
+
+**Hva de to sammen sier:** de to beste midd-enhetene er på nivå 5 og nivå 4. Ingen har vunnet på
+nivå 3 (diagnostiserte, NAAF-lesere), og det er nivået med 40-graders-problemet (se 19-research).
+
+**A1s struktur** er gradualisering i to linjer: symptom hun kjenner seg igjen i → årsak hun ikke
+hadde tenkt på → byttet → lettelse. Første person, ekte rom, avslørings-bilde (det grå av, det blå
+under). Bildet beviser byttet.
+
+**Påstander i A1 som ikke kan gjenbrukes:** "antibakteriell" (faktaark 5) og "borte sekunder" (helseutfall
++ umulig tempo). Motoren er symptom-hooken, avsløringsbildet og første person. Ikke de to ordene.
+
+**Iterasjon som beholder motoren og fjerner ordene:**
+- Topp: "Våknet alltid pottetett i nesa når jeg sov i bomull 🤧" (uendret)
+- Bunn: "Vet ikke om det var midd, men etter jeg byttet til bambus er nesa fin om morgenen."
+"Vet ikke om" gjør den mer troverdig (slik folk snakker) og mindre påstand. "Tydeligvis" var det
+ordet som gjorde det til en påstand.
+
+**Neste midd-batch bygger på A1, nivå 4.** Nivå 5 (D4) har 400k bak seg og hooken eldes. Nivå 3
+er stengt til vaskelappen er avklart.
