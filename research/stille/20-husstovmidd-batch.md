@@ -70,3 +70,10 @@ uendret som referanse; beslutningen er kundens.
 
 Hva batchen tester: direkte call-out (A1), vinner-rytme "Sov naken"-form (B2), humor/dobbeltbetydning
 (C3), kundestemme i UGC-format (D4). Vinneren S#14 D4 kjører videre som kontroll.
+
+## D4 endelig (22. sep)
+
+- Topp: «Middallergikere må prøve dette 🙏» / "Dust mite allergy sufferers need to try this 🙏"
+- Bunn: «Jeg pleide å våkne pottetett hver morgen, men det forsvant sekundet jeg byttet til antibakterielt bambussengetøy 😌» / "I used to wake up blocked every morning, but it disappeared the second I switched to antibacterial bamboo bedding 😌"
+- Samme budskap som aktiv S#87-Snap («Ble borte sekunder jeg byttet til antibakteriell bambus»), men ny topptekst, bunntekst og visuelt. Iterasjon på bevist budskap.
+- Forkastet: nesespray-bildet (annet problem, bambus fikser ikke nesespray-avhengighet).
