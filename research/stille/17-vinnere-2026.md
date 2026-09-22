@@ -95,3 +95,38 @@ faktaark 5. Kan ikke gjenbrukes som de er. Den eneste dokumenterbare mekanismen 
 "hypoallergen" (faktaark 45), eller helseutfall som "uten tett nese".
 
 **Åpent, blokkerer E5 i midd-batchen:** tåler lakenet 60 °C? NAAF sier 60 °C dreper midd.
+
+---
+
+## 1b. S#86.1: D4-revisjon etter Jonathans feedback (22. sep)
+
+**Jonathans feedback på S#86.1:** A1–C3 og E5 godkjent. D4 til revisjon. Tre regler:
+1. To-linjers headline må ha bindeord, og linje to må bygge på linje én. "Vi produserte for mye... /
+   Vi må gi 40 % rabatt..." leste som to headlines.
+2. **Pris i kroner, ikke prosent.** Bosant viser "50 % + 10 %". Stille er billigere i kroner selv etter
+   Bosants rabatt, men taper på prosent i feeden. 40 % er relativt, 770 kr er konkret. Gamle
+   spesialpris-annonser (Tobias) spendte mest.
+3. Urgency: "nå" og "snart" er vagt. "I noen dager" er bedre. (Lot E5 stå.)
+
+**Det som gikk til produksjon, to varianter Jonathan velger mellom:**
+
+| | Headline | Tekst | Badge | CTA |
+|---|---|---|---|---|
+| D4 | Vi gjorde en feil! | Vi produserte for mye bambussengetøy, og det koster oss å ha det liggende. Så nå kjører vi et "Vi produserte for mye" salg! | ~~1 280~~ 770 kr | Salget ender snart |
+| D4 var. | Hjelp oss! | Vi produserte for mye bambussengetøy, og det koster oss å ha det liggende. Så hjelp oss å bli kvitt det, til en LAV PRIS. | ~~1 280~~ 770 kr | Salget ender snart |
+
+**Hva som testes:** samme mekanisme (overproduksjon → lagerkostnad → lav pris), to rammer.
+D4 = tilståelse, salget får navn i anførselstegn (C3-grepet). Variant = bønn, kjøpet er hjelpen.
+
+**Det Håvard landet på underveis, verdt å huske:**
+- "LAV PRIS" i caps er en åpen sløyfe som badgen lukker. Bedre enn å gjenta 770 i teksten.
+- "Koster oss å ha det liggende" er bridgen. Ikke "koster oss å produsere" (produksjonen er betalt,
+  hyllene tikker). Ikke tre setninger forklaring (ble overforklart).
+- "Hjelp oss å bli kvitt det" er det naturlige. "Ta et sett av hendene på oss" var ikke.
+- D4 er en strammet "Oops... vi lagde for mye" (batch-5 #2) med kronepris. Iterasjon, ikke ny.
+  Varianten står lenger unna. **Resultat for Oops er fortsatt ukjent** og avgjør om D4 er riktig.
+
+**Forkastet:** "Dette er ikke et salg!" (CTA "Gjør årets kupp!" motsa headlinen; Håvard likte
+linja, la den ligge). "Regnskapsføreren gråter", "Vi telte feil" (vitser som ikke traff).
+
+**Compliance, fortsatt åpent:** 1 280 kr må være laveste pris siste 30 dager.
