@@ -14,15 +14,21 @@ bulletene ryddes. Statics only.
 **Bullets som erstatter de gamle (alle tre må byttes, faktaark 5 og 45):**
 🎋 Pustende bambusviskose · 💧 Fukten går inn i fiberen · ✅ Oeko-Tex-sertifisert
 
+**Nivå-korreksjon (Håvard, 22. sep):** "Husstøvmidd hater bambus" er nivå 4, ikke 5. Schwartz
+setter nivå etter headlinens innhold, ikke etter hvem den treffer. Nivå 5 kan ikke nevne produkt.
+Denne nevner bambus. Problem + løsning i én linje. Første utkast droppet bambus fra headlinen og
+falt et nivå. Rettet under: alle har problem og bambus i H1/sub.
+
 | Var. | Visual | Norsk copy | English |
 |---|---|---|---|
-| **A1** | Identisk oppsett som S#14 D4. Stabel i fire farger, uskarpt soverom, hvite bokser, emoji-bullets. Rød boks på "2 millioner". | H1: **2 millioner** midd sover i madrassen din<br>Sub: ...og de lever av deg.<br>Bullets: 🎋 Pustende bambusviskose · 💧 Fukten går inn i fiberen · ✅ Oeko-Tex-sertifisert | H1: **2 million** dust mites sleep in your mattress<br>Sub: ...and they live off you.<br>Bullets: 🎋 Breathable bamboo viscose · 💧 Moisture goes into the fibre · ✅ Oeko-Tex certified |
-| **B2** | Samme. Rød boks på "en halv liter". | H1: Du svetter **en halv liter** i senga hver natt<br>Sub: Midden elsker det.<br>Bullets: samme | H1: You sweat **half a litre** into your bed every night<br>Sub: The mites love it.<br>Bullets: same |
-| **C3** | Samme. Rød boks på "høsten". | H1: Midden liker senga di best om **høsten**<br>Sub: Mer inne. Varmen på. Fuktig seng.<br>Bullets: samme | H1: Mites like your bed best in **autumn**<br>Sub: More time indoors. Heating on. Damp bed.<br>Bullets: same |
-| **D4** | Samme. Rød boks på "avføringen". | H1: Det er ikke midden du reagerer på. Det er **avføringen**<br>Sub: ...og den ligger i senga.<br>Bullets: samme | H1: It's not the mites you react to. It's their **droppings**<br>Sub: ...and they're in your bed.<br>Bullets: same |
+| **A1** | Identisk oppsett som S#14 D4. Rød boks på "bomull". | H1: Husstøvmidd elsker **bomull**<br>Sub: ...men du kommer til å elske bambus.<br>Bullets: 🎋 Pustende bambusviskose · 💧 Fukten går inn i fiberen · ✅ Oeko-Tex-sertifisert | H1: Dust mites love **cotton**<br>Sub: ...but you're going to love bamboo.<br>Bullets: 🎋 Breathable bamboo viscose · 💧 Moisture goes into the fibre · ✅ Oeko-Tex certified |
+| **B2** | Samme. Rød boks på "2 millioner". | H1: **2 millioner** midd i madrassen din<br>Sub: Bambus er det som ligger mellom deg og dem.<br>Bullets: samme | H1: **2 million** dust mites in your mattress<br>Sub: Bamboo is what lies between you and them.<br>Bullets: same |
+| **C3** | Samme. Rød boks på "en halv liter". | H1: Du svetter **en halv liter** i senga hver natt<br>Sub: Bomull beholder den. Bambus tar den inn i fiberen.<br>Bullets: samme | H1: You sweat **half a litre** into your bed every night<br>Sub: Cotton keeps it. Bamboo takes it into the fibre.<br>Bullets: same |
+| **D4** | Samme. Rød boks på "avføringen". | H1: Det er ikke midden du reagerer på. Det er **avføringen**<br>Sub: ...og bambus ligger mellom deg og den.<br>Bullets: samme | H1: It's not the mites you react to. It's their **droppings**<br>Sub: ...and bamboo lies between you and them.<br>Bullets: same |
 
-**Hva som testes:** fire fiende-fakta i vinnerens format. A1 tallet i madrassen. B2 kroppen din som
-kilde. C3 sesongen (Q4-timing). D4 det ekleste faktumet, at det er avføringen (1.5), som ingen har brukt.
+**Hva som testes:** fire problem+løsning-headlines i vinnerens format. A1 snur vinneren (fienden elsker
+det gamle, du elsker det nye; påstanden er om bomull, faktaark 6). B2 og D4 sier noe bokstavelig sant:
+lakenet ligger mellom deg og madrassen. C3 er mekanismen. D4s faktum (avføringen, 1.5) er ubrukt.
 
 **Kilder for tallene:** 2 millioner (NHI, Nettavisen, Gjensidige, 1.3). Halv liter (Aftenposten, KK,
 ifi.no, 1.14). "Lever av deg" = hudavfall (SML, 1.4). Høsten (SML, 1.7; vinterhalvåret ALK, 1.8).
