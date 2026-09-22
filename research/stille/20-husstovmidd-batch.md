@@ -15,20 +15,25 @@ bulletene ryddes. Statics only.
 🎋 Pustende bambusviskose · 💧 Fukten går inn i fiberen · ✅ Oeko-Tex-sertifisert
 
 **Nivå-korreksjon (Håvard, 22. sep):** "Husstøvmidd hater bambus" er nivå 4, ikke 5. Schwartz
-setter nivå etter headlinens innhold, ikke etter hvem den treffer. Nivå 5 kan ikke nevne produkt.
-Denne nevner bambus. Problem + løsning i én linje. Første utkast droppet bambus fra headlinen og
-falt et nivå. Rettet under: alle har problem og bambus i H1/sub.
+setter nivå etter headlinens innhold. Nivå 5 kan ikke nevne produkt; denne nevner bambus.
+
+**Håvards retning (22. sep):** ikke snakk ned bomull. Headlinen må invitere til å kjøpe bambus.
+Budskapet i én setning: *du våkner tett hver morgen, det er midd i senga, bambus er det enkle
+byttet.* Symptom, fiende, fiks. Verbet er "hater" (vant, leses som holdning), ikke "bekjemper"
+(leses som påstand).
 
 | Var. | Visual | Norsk copy | English |
 |---|---|---|---|
-| **A1** | Identisk oppsett som S#14 D4. Rød boks på "bomull". | H1: Husstøvmidd elsker **bomull**<br>Sub: ...men du kommer til å elske bambus.<br>Bullets: 🎋 Pustende bambusviskose · 💧 Fukten går inn i fiberen · ✅ Oeko-Tex-sertifisert | H1: Dust mites love **cotton**<br>Sub: ...but you're going to love bamboo.<br>Bullets: 🎋 Breathable bamboo viscose · 💧 Moisture goes into the fibre · ✅ Oeko-Tex certified |
-| **B2** | Samme. Rød boks på "2 millioner". | H1: **2 millioner** midd i madrassen din<br>Sub: Bambus er det som ligger mellom deg og dem.<br>Bullets: samme | H1: **2 million** dust mites in your mattress<br>Sub: Bamboo is what lies between you and them.<br>Bullets: same |
-| **C3** | Samme. Rød boks på "en halv liter". | H1: Du svetter **en halv liter** i senga hver natt<br>Sub: Bomull beholder den. Bambus tar den inn i fiberen.<br>Bullets: samme | H1: You sweat **half a litre** into your bed every night<br>Sub: Cotton keeps it. Bamboo takes it into the fibre.<br>Bullets: same |
-| **D4** | Samme. Rød boks på "avføringen". | H1: Det er ikke midden du reagerer på. Det er **avføringen**<br>Sub: ...og bambus ligger mellom deg og den.<br>Bullets: samme | H1: It's not the mites you react to. It's their **droppings**<br>Sub: ...and bamboo lies between you and them.<br>Bullets: same |
+| **A1** | Identisk oppsett som S#14 D4. Rød boks på "hater". | H1: Tett i nesa hver morgen? **Midd hater bambus.**<br>Sub: Bytt sengetøy, ikke medisin.<br>Bullets: 🎋 Pustende bambusviskose · 💧 Fukten går inn i fiberen · ✅ Oeko-Tex-sertifisert | H1: Blocked nose every morning? **Mites hate bamboo.**<br>Sub: Change your bedding, not your medicine.<br>Bullets: 🎋 Breathable bamboo viscose · 💧 Moisture goes into the fibre · ✅ Oeko-Tex certified |
+| **B2** | Samme. Rød boks på "hater". | H1: **Sov i det midden hater.**<br>Sub: Bambussengetøy fra Stille.<br>Bullets: samme | H1: **Sleep in what mites hate.**<br>Sub: Bamboo bedding from Stille.<br>Bullets: same |
+| **C3** | Samme. Rød boks på "hater". | H1: **Bytt til det midden hater.**<br>Sub: Ett sett bambus. Enkelt.<br>Bullets: samme | H1: **Switch to what mites hate.**<br>Sub: One set of bamboo. Simple.<br>Bullets: same |
+| **D4** | Samme. Rød boks på "hater". | H1: **Midd hater bambus.** Nesa di kommer til å elske det.<br>Sub: Bytt i kveld, våkn opp i morgen.<br>Bullets: samme | H1: **Mites hate bamboo.** Your nose is going to love it.<br>Sub: Switch tonight, wake up tomorrow.<br>Bullets: same |
 
-**Hva som testes:** fire problem+løsning-headlines i vinnerens format. A1 snur vinneren (fienden elsker
-det gamle, du elsker det nye; påstanden er om bomull, faktaark 6). B2 og D4 sier noe bokstavelig sant:
-lakenet ligger mellom deg og madrassen. C3 er mekanismen. D4s faktum (avføringen, 1.5) er ubrukt.
+**Hva som testes:** A1 symptom først, så vinnerlinja. B2 og C3 imperativ ("Sov naken"-registeret).
+D4 vinnerens hat/elsk med nesa som den som elsker. Alle inviterer.
+
+**Forkastet i denne runden:** "Husstøvmidd elsker bomull" (snakker ned bomull), tall-headlines uten
+bambus (inviterte ikke til kjøp), "bekjemper" (påstand).
 
 **Kilder for tallene:** 2 millioner (NHI, Nettavisen, Gjensidige, 1.3). Halv liter (Aftenposten, KK,
 ifi.no, 1.14). "Lever av deg" = hudavfall (SML, 1.4). Høsten (SML, 1.7; vinterhalvåret ALK, 1.8).
