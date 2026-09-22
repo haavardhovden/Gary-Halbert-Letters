@@ -264,3 +264,15 @@ rer ikke opp senga, allergitablett året rundt). Vil helst uten medisin. Skeptis
 | Til deg som aldri rer opp senga. | Du vet hvorfor. Midd hater bambus. |
 
 Merk: nivå 3 treffer 40/60-grader-problemet (seksjon 2). Ingen av disse lover at bambus erstatter vask.
+
+## Tillegg: nesespray på nattbordet (2026-09-22)
+
+Sjekket om «sover med nesespray på nattbordet» er en ekte, utbredt vane (til D4-bunntekst).
+
+- Norstat for Pharma Nordic (des. 2024, 1 047 svar, 15+): ca. 1 av 8 nordmenn, rundt 700 000, sier de er avhengige av nesespray. 8 av 10 kjenner risikoen.
+- Over 8 millioner flasker avsvellende nesespray solgt i 2023, over 70 % i dagligvare/kiosk/bensinstasjon.
+- Aftenbladet-tittel: «700.000 nordmenn er avhengige av nesespray: – Får ikke sove uten».
+- Tett nese forverres liggende om natten (mer blod til neseslimhinnen), så nattbruk er typisk.
+- Forbehold: tallene gjelder all nesespray, ikke bare middallergikere. Middallergikere bruker i tillegg ofte kortisonspray daglig (Allergiguiden).
+
+Kilder: aftenbladet.no/lokalt/i/3MPg5v, farmatid.no (700 000 nordmenn…), klartale.no/norge/2025/02/06/en-av-atte-er-avhengig-av-nesespray, allergiguiden.no/nb-no/behandling-av-allergi/nesespray-ved-luftveisallergi
