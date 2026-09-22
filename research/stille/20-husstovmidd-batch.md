@@ -73,7 +73,8 @@ Hva batchen tester: direkte call-out (A1), vinner-rytme "Sov naken"-form (B2), h
 
 ## D4 endelig (22. sep)
 
-- Topp: «Middallergikere må prøve dette 🙏» / "Dust mite allergy sufferers need to try this 🙏"
-- Bunn: «Jeg pleide å våkne pottetett hver morgen, men etter at jeg byttet til antibakterielt bambussengetøy, har nesen vært helt fri 😌» / "I used to wake up blocked every morning, but since I switched to antibacterial bamboo bedding, my nose has been clear 😌" (valgt over «sekundet»-versjonen: mer troverdig og mindre lik S#87)
+- Topp: «Til alle med middallergi 🙏» / "To everyone with a dust mite allergy 🙏"
+- Bunn: «Bytt til antibakterielt bambussengetøy! Jeg pleide å våkne pottetett hver morgen, men nå våkner jeg uthvilt og puster fritt 😌» / "Switch to antibacterial bamboo bedding! I used to wake up blocked every morning, but now I wake up rested and breathe freely 😌"
+- Toppteksten er en hilsen, og bunnteksten starter med rådet, så de henger sammen som én melding. Før og etter kommer etterpå som bevis.
 - Samme budskap som aktiv S#87-Snap («Ble borte sekunder jeg byttet til antibakteriell bambus»), men ny topptekst, bunntekst og visuelt. Iterasjon på bevist budskap.
-- Forkastet: nesespray-bildet (annet problem, bambus fikser ikke nesespray-avhengighet).
+- Forkastet: «sekundet»-versjonen (mindre troverdig, for lik S#87), nesespray-bildet (annet problem, bambus fikser ikke nesespray-avhengighet).
