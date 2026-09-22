@@ -50,3 +50,26 @@ husstøvmidd? Da er ikke dette for deg.
 (nedsnakk), "Til deg som deler seng med 2 millioner midd" og "madrassen din" (skam), tall-headlines
 uten bambus (inviterte ikke), "Sov i det midden hater" (filtrerte ikke), NAAF ved navn (ser ut som
 anbefaling).
+
+---
+
+## Runde 3 (22. sep): korte, ulike, i vinnerens register
+
+Håvards dom på runde 1–2: for lange, høres skrevet ut, for like hverandre. Det han har sagt ja til
+er 2–8 ord, sagt og ikke skrevet: "Husstøvmidd hater bambus", "Sov naken. Sov i bambus.",
+"Hjelp oss!". Regel for denne runden: ett grep per headline, ingen to med samme grep eller mening.
+
+| H1 | Sub | Grep |
+|---|---|---|
+| Det er slutt, midd. Jeg har møtt en annen. | Den heter bambus. | Brudd-klisjeen, kundens stemme |
+| ★☆☆☆☆ «Ikke koselig i det hele tatt.» – Husstøvmidd, om bambussengetøy | Du, derimot, kommer til å elske det. | Anmeldelse fra fienden. "Koser seg" er forumets eget ord. Generisk stjernekort, ikke Trustpilot-logo |
+| Bambus 1 – Midd 0 | Midd hater bambus. | Resultattavle |
+| Du sover godt. Midden gjør ikke det. | Fordi midd hater bambus. | Søvn-flippen |
+| Mykt. Glatt. Hatet av midd. | Bambussengetøy. | Tre i rekke, tredje snur |
+| Bambus er ikke noe middhotell. | Midd hater det. Du kommer til å elske det. | Si hva det ikke er, nytt ord |
+| Fire farger. Midd hater alle. | Du kommer til å elske minst én. | Produkt og valg. Tallet må matche stabelen |
+| Midd trenger fukt. Bambus deler ikke. | Fukten går inn i fiberen. | Mekanismen personifisert (faktaark 6) |
+| Til deg som aldri rer opp senga. | Du vet hvorfor. Midd hater bambus. | Call-out via atferd (NHI-rådet), ingen skam |
+| Julegaven midd hater. | Bambussengetøy i fire farger. | Anledning, fra november |
+
+**Anbefalt til batchen på 4, mest ulike:** brudd, anmeldelse, mekanisme, call-out.
