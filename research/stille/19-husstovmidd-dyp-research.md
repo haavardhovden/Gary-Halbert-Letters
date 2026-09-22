@@ -216,3 +216,18 @@ Stille vaskeanvisning: https://www.stille.no/blogs/artikler/hvordan-vaske-bambus
 SNL viskose: https://snl.no/viskose_-_tekstil · riktig-inneklima.no: https://www.riktig-inneklima.no/guide-luftfuktighet-soverom/ ·
 Anticimex: https://www.anticimex.no/tips-bolig/ventilasjon-og-inneklima/kjolig-soverom/ ·
 Kvinneguiden-tråd (2015): https://forum.kvinneguiden.no/topic/945611-dere-som-har-middallergi/
+
+---
+
+## Tillegg 22. sep: NRK Nyttig (20. mars 2019), limt inn av Håvard
+
+Kilde: https://www.nrk.no/nyttig/er-du-ofte-snufsete-og-trott_-denne-krabaten-kan-ha-skylden-1.14474322
+
+| # | Formulering | Kilde | Status |
+|---|---|---|---|
+| 1.21 | ★ «Enkelte kan svette opp til en liter pr. natt, og det gjør sengen fuktig og attraktivt for midden.» | Anna Bistrup, seniorrådgiver NAAF, i NRK | TRYGG, ordrett. Fukt-mekanismen sagt av NAAF. |
+| 1.22 | «Det er ikke så mye midd i sengene våre som vi trodde tidligere. Det skal mye varme og fukt til for at den lille middkrabaten skal trives.» | FHI via NRK | TRYGG. **Svekker "2 millioner i madrassen" (1.3):** bruk med forsiktighet. |
+| 1.23 | Symptomene forveksles med forkjølelse; «Varer det i ukevis, og du merker det spesielt på soverommet...» | NAAF via NRK | TRYGG |
+| 1.24 | Vask sengetøy på minimum 60 °C, **80 °C om du er allergisk**. Kulde dreper bare ved 15–20 minusgrader. | Hygienelektor, Københavns Professionshøyskole, via NRK | FORBEHOLD (dansk kilde). Forsterker 60/40-problemet (seksjon 2). |
+| 1.25 | «Middsikkert sengetøy» = «så tett vevd at midden ikke kan komme igjennom sengetøyet til dynen». | NAAF via NRK | **IKKE BRUK "middsikkert" om Stille.** Fast begrep for testet barrierestoff. Krever dokumentasjon (porestørrelse/allergenbarriere). |
+| 1.26 | Kryssallergi: skalldyrallergi kan henge sammen med middallergi. | FHI via NRK | TRYGG, lite relevant for copy |
