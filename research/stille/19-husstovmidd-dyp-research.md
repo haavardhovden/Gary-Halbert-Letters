@@ -231,3 +231,36 @@ Kilde: https://www.nrk.no/nyttig/er-du-ofte-snufsete-og-trott_-denne-krabaten-ka
 | 1.24 | Vask sengetøy på minimum 60 °C, **80 °C om du er allergisk**. Kulde dreper bare ved 15–20 minusgrader. | Hygienelektor, Københavns Professionshøyskole, via NRK | FORBEHOLD (dansk kilde). Forsterker 60/40-problemet (seksjon 2). |
 | 1.25 | «Middsikkert sengetøy» = «så tett vevd at midden ikke kan komme igjennom sengetøyet til dynen». | NAAF via NRK | **IKKE BRUK "middsikkert" om Stille.** Fast begrep for testet barrierestoff. Krever dokumentasjon (porestørrelse/allergenbarriere). |
 | 1.26 | Kryssallergi: skalldyrallergi kan henge sammen med middallergi. | FHI via NRK | TRYGG, lite relevant for copy |
+
+---
+
+## Tillegg 22. sep: forumstemme, runde 2 (Kvinneguiden-utdrag, Cochrane)
+
+**Dekning:** Reddit er ikke indeksert i tilgjengelig søkemotor. Kvinneguiden blokkert for fullhenting;
+kun søkeutdrag. Ikke ordrett-verifisert, merk FORBEHOLD ved bruk.
+
+- Tråd "Noen med husstøv og midd-allergi her?" (mai 2022): tett nese som blir verre inne og bedre ute,
+  «veldig tett etter natta på soverommet» (parafrase). https://forum.kvinneguiden.no/topic/1580456-noen-med-husst%C3%B8v-og-midd-allergi-her/
+- Tråd "Noen med helårsallergi/husstøv og midd-allergi her?" (aug 2023): konstant rennende nese spesielt
+  om morgenen, har prøvd flere allergimedisiner, er sensitiv for dem, vil klare seg uten medisin
+  (parafrase). https://forum.kvinneguiden.no/topic/1703886-noen-med-hel%C3%A5rsallergihusst%C3%B8v-og-midd-allergi-her/
+- Cochrane (Gøtzsche, Nordic Cochrane Centre, via forskning.no 2008): middtiltak (trekk, støvsugere,
+  kjemikalier) har ingen målbar effekt på middutløst astma. https://forskning.no/hygiene-menneskekroppen-allergi/2008/04/rad-mot-midd-hjelper-ikke
+  FORBEHOLD: gjelder astma, 2008. Innsikt, ikke copy.
+
+**Personen (nivå 3):** vet hva det er. Lever i et regime (to sett, vask hver uke, støvsuger madrassen,
+rer ikke opp senga, allergitablett året rundt). Vil helst uten medisin. Skeptisk (NAAF-leser,
+"midddrepere er placebo"). Sliten av å gjøre alt riktig og fortsatt være tett.
+
+**Hook-prinsipp:** ikke symptomer (kjenner hun), ikke løfter (tror hun ikke på). Speil rutinen hennes
+(Schwartz, detaljert identifikasjon) eller skepsisen hennes (deadly sincerity).
+
+| H1 | Sub |
+|---|---|
+| To sett sengetøy. Vask hver uke. Fortsatt tett. | Midd trives i fukt. Bambus tar fukten inn i fiberen. |
+| Du har gjort alt riktig. | Men har du tenkt på hva du sover i? |
+| Ingen midddreper. Ingen mirakler. | Bare sengetøy som tar fukten inn i fiberen. |
+| Tett etter natta, fin på jobb? | Midd trives i fuktige senger. Bambus tar fukten. |
+| Til deg som aldri rer opp senga. | Du vet hvorfor. Midd hater bambus. |
+
+Merk: nivå 3 treffer 40/60-grader-problemet (seksjon 2). Ingen av disse lover at bambus erstatter vask.
