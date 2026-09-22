@@ -69,3 +69,29 @@ som bar det, vet vi ikke.
 
 **Compliance, må sjekkes før neste runde:** 1 280 kr må ha vært laveste pris siste 30 dager.
 "Produserte for mye" må være sant, og kan ikke gjenbrukes hvert kvartal.
+
+---
+
+## Kontodata siste 365 dager (Atria-uttrekk via Claude Desktop, 22. sep)
+
+Vinklinger rangert etter det som faktisk skjedde, ikke etter hva vi tror:
+
+| Vinkling | Periode | Spend | ROAS | Beste enhet | Status |
+|---|---|---|---|---|---|
+| **Husstøvmidd** | des–mar | ca. 400k | 3,4–5,5 | S#14 A1 UGC hender + marineblå (5,45); S#14 D4 "Husstøvmidd HATER bambus" (84k spend, 4,21) | nesten stoppet etter mars |
+| **Luksus + 40 %** | til juni | ? | 5–5,9 | S#48 A1 marineblå + "Ja, dette er sengetøy" | stoppet i juni |
+| **"Vi beklager"** | nå | størst | 3,3 (fallende) | | sliten |
+| S#87 (eneste aktive midd) | nå | | CPM 75 (lavest i konto), CTR 0,88 % | | bilde om midd, tekst om luksus, rød tråd brutt |
+
+**To ting dette sier:**
+- De to mest lønnsomme vinklingene i kontoen (midd 5,45, luksus 5,9) er begge stoppet. Det som
+  kjører nå er det som er sliten. Det er ikke en kreativ-krise, det er at vinnerne ble lagt bort.
+- Midd-vinklingen har bevist seg på 400k spend. Den trenger ikke testes på nytt, den trenger
+  gjenopptas med påstandene ryddet (se nedenfor og i chat 22. sep).
+
+**Påstandsstatus for gamle middannonser:** "naturlig antibakteriell" og "borte på sekunder" bryter
+faktaark 5. Kan ikke gjenbrukes som de er. Den eneste dokumenterbare mekanismen er fukt
+(faktaark 6): midd trives i fukt, viskose tar fukt inn i fiberen. Aldri "dreper", "middfritt",
+"hypoallergen" (faktaark 45), eller helseutfall som "uten tett nese".
+
+**Åpent, blokkerer E5 i midd-batchen:** tåler lakenet 60 °C? NAAF sier 60 °C dreper midd.
