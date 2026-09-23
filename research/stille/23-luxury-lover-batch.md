@@ -1,4 +1,4 @@
-# Stille: Luxury lover-batch, 4 statics (23. sep 2026)
+# Stille: Luxury lover-batch, 4 statics, big swing (23. sep 2026)
 
 **Grunnlag:** Månedlig gjennomgang september (`22-oktober-strategi.md`). Luksus er Norges beste
 konsept (ROAS 4,4–5,5), men de gamle annonsene har mistet effekten (klikkrate ned ca. 40 %, ikke
