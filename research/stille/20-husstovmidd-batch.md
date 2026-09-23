@@ -78,3 +78,16 @@ Hva batchen tester: direkte call-out (A1), vinner-rytme "Sov naken"-form (B2), h
 - Toppteksten er en hilsen, og bunnteksten starter med rådet, så de henger sammen som én melding. Før og etter kommer etterpå som bevis.
 - Samme budskap som aktiv S#87-Snap («Ble borte sekunder jeg byttet til antibakteriell bambus»), men ny topptekst, bunntekst og visuelt. Iterasjon på bevist budskap.
 - Forkastet: «sekundet»-versjonen (mindre troverdig, for lik S#87), nesespray-bildet (annet problem, bambus fikser ikke nesespray-avhengighet).
+
+## Etter Jonathans Loom (23. sep), batch S#96
+
+Jonathans feedback: A1 for lik gammel «Middallergi? …da er bambus for deg» (headline + USP-er).
+Enten dropp allergivinkel (bare husstøvmidd), eller gjør den dream outcome. D4: flytt «Bytt til…» til
+slutten som CTA. Visuelt: sengesettet har ikke flapper på kantene.
+
+- **A1:** «Bambus gjør at midden rømmer / mens du drømmer». Husstøvmidd, ikke allergi (Jonathans alt. 1).
+  USP-er uendret. CTA «Våkn uten pottetett nese». Nivå 4 (problem aware), trenger ikke forklare midd.
+  DK: «Bambus gør, at miderne rømmer / mens du drømmer», «Vågn uden tilstoppet næse».
+- **B2:** uendret. **C3:** «holder husstøvmidden unna» på egen linje i fet.
+- **D4:** «Til alle med middallergi 🙏» / «Jeg pleide å våkne pottetett hver morgen, men nå våkner jeg
+  uthvilt og puster fritt 😌 Bytt til antibakterielt bambussengetøy!»
