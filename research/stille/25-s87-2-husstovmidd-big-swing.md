@@ -26,7 +26,7 @@ hakk nærmere bambus uten et hopp?
 
 | Var. | Format / visual | Norsk copy | English |
 |---|---|---|---|
-| **A1** | Headline static. Morgen, tørkepapir på nattbordet, sengen i bakgrunnen. Ingen nesespray. | Tett nese som forsvinner i løpet av dagen?<br>Da kan det være midd i sengetøyet.<br>Under (≤80): Bambus er antibakterielt og hemmer husstøvmidd. | Stuffy nose that clears up during the day?<br>Then it could be dust mites in your bedding.<br>Bamboo is antibacterial and inhibits dust mites. |
+| **A1 (endelig)** | Headline static. Nattbord i morgenlys, nesespray (uten logo) og krøllet tørkepapir. Bambussengetøyet rett bak, glansen tydelig. | Har du nesespray på nattbordet?<br>Under: Det kan være midd som gjør deg tett. Antibakterielt bambussengetøy holder husstøvmidden unna, så du slipper å våkne tett. | Do you keep nasal spray on your nightstand?<br>It could be dust mites making you blocked. Antibacterial bamboo bedding keeps dust mites away, so you don't have to wake up blocked. |
 | **B2** | Split screen, samme person. Venstre: i senga, tett, morgenlys. Høyre: ute døra, frisk. Bildet er syllogismen. | Tett når du våkner,<br>men fin når du går ut døra?<br>Under: Da kan det ligge i sengetøyet. Bambus hemmer husstøvmidd. | Blocked when you wake up,<br>but fine once you're out the door?<br>Then it could be your bedding. Bamboo inhibits dust mites. |
 | **C3** | Review card, ekte Trustpilot-grensesnitt. Ordrett (29. mai 2026). | «Huden føles myk, nesen er åpen og øynene hverken klør eller renner etter en natt med dette sengetøyet.» | "My skin feels soft, my nose is clear and my eyes neither itch nor water after a night in this bedding." |
 | **D4** | Snap, kundestemme (den stemmen som vant i 87). | Topp: Våknet tett hver morgen 😩<br>Bunn: …men var fin med en gang jeg kom meg ut av senga. Så byttet jeg til antibakterielt bambussengetøy 🙏 | Top: Woke up blocked every morning 😩<br>Bottom: …but was fine as soon as I got out of bed. So I switched to antibacterial bamboo bedding 🙏 |
@@ -46,5 +46,6 @@ hakk nærmere bambus uten et hopp?
 bomull-linjene (ikke snakke ned bomull), «8 timer i midden sitt favorittmiljø» (hopper rett til
 midd uten bro).
 
-**Åpent:** strategichatten sier aldri «holder midd unna», S#96 bruker «Holder husstøvmidd unna».
-Her er «hemmer» brukt. Velg én linje for begge batcher.
+**Avgjort (Håvard):** «holder husstøvmidd unna» brukes, likt S#96. Nesespray er med i A1 som
+identifikasjon, ikke som løfte om å slippe sprayen. Headline-annonse fra merkevaren trenger
+mekanismen (midd), snap i kundestemme klarer seg uten.
