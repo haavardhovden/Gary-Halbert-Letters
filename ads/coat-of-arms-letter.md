@@ -25,3 +25,23 @@ Sincerely,
 Nancy L. Halbert
 
 P.S. If you are ordering only one report, send two dollars ($2.00). Additional reports ordered at the same time and sent to the same address are one dollar each. Please make checks payable to me, Nancy L. Halbert.
+
+## Breakdown (2026-09-16, curriculum seksjon 2 "Classic Ads to Break Down")
+
+**Value:** 600 millioner brev sendt. Ingen headline, ingen bilde, ingen garanti. Bare et navn og en grunn. Det sterkeste beviset i arkivet på at relevans slår alt annet.
+
+**Key takeaways**
+
+1. Sett leseren i første setning. Navnet hennes, eller scenen hun er i. Ingen leser forbi seg selv.
+2. Vær et menneske, ikke et firma. "My husband and I." Adresse og telefon. Garden er nede før hun har lest linje to.
+3. Gi en grunn til at tilbudet finnes. "We had a few extra copies made." Et tilbud som er en bieffekt er trygt. Et tilbud som er et salg er ikke.
+4. Gjør prisen til et utlegg. "Enough to cover printing and mailing." Da er det en tjeneste, ikke et kjøp.
+5. Si hva det ikke er. "We have not traced anyone's family tree." Én innrømmelse gjør resten troverdig.
+6. Knapphet som en bemerkning, ikke et press. "Our supply is pretty slim."
+7. Ett brev, flere kjøp. "Great gifts for relatives." Én for to dollar, resten én dollar.
+
+Kort sagt: navnet ditt, en dame som fant noe, en grunn til at hun deler det, og en pris som ikke er en pris.
+
+**Det Halbert selv sa om det etterpå (letter-147, Ground Zero, og #17-notatene):** Brevet virket ikke første gang. Det var feedbacken fra første utsendelse som lærte ham hva som manglet. Og oppfølgingen: 70-produkters katalog bombet, tre-produkters brosjyre gikk i null, et personlig brev med et foto vedlagt dro inn 40 millioner. Jo mer det så ut som reklame, jo dårligere gikk det.
+
+**Til Stille:** relevans-grepet er ikke navnet, det er scenen hun er i. "Til deg i overgangsalderen" er Coat of Arms for 2026: hun leser fordi det er henne. Og avsenderen: Ragnhild, ikke Stille.

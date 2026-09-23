@@ -1,0 +1,188 @@
+{
+ "n": 568,
+ "counts": {
+  "luksus/hotell/silke/estetikk": 155,
+  "mykhet/behagelig/deilig": 224,
+  "levering rask (pos)": 84,
+  "varme/svette/klam/kjølig": 92,
+  "hår/kjæledyr": 11,
+  "kvalitet/vask/passform": 111,
+  "hud/kløe/allergi": 25,
+  "anbefaler": 68,
+  "søvn bedre": 43,
+  "gjenkjøp/flere sett": 56,
+  "partner/mann": 4,
+  "levering/service (neg)": 62,
+  "gave/innpakning": 24,
+  "pris/verdi": 24
+ },
+ "examples": {
+  "luksus/hotell/silke/estetikk": [
+   "Stille sengetøy er helt fantastisk å ligge i, veldig behagelig. Opplevelse av komfort og luksus. Veldig fornøyd.",
+   "Best sengetøy ever . Jeg har blitt kvitt av alle sengetøy som jeg har hatt . Har kun fra stille bambus sengetøy . Lekkert utseende , kvalitet , god natt søvn",
+   "Produktet kom veldig raskt. Og var nydelig å se på sengen når jeg fikk sengetøyet på. Var litt skeptisk for det kunne se ut som det var kjølig å legge seg i. Men det er utrolig nydelig å ligge i. Vanskelig å beskrive følelsen, men nesten som å ligge å flyte i ",
+   "Heilt fantastisk! Avkjølende og godt. Nesten ingen nattesvette og nydelig på huden. Amazing! 🥰",
+   "Beste sengetøyet jeg noengang har sovet i 👌 Farvel til svette og kløende netter for en med atopisk eksem 😍Lekkert er det også. Har to sengesett til dobbelseng med laken til nå, og det kommer til å bli flere 😊",
+   "Jeg elsker det nydelige sengesettet. God kvalitet. Mykt og behagelig. Føler meg uthvilt og fryser difinitivt ikke;) Fargene er elegante og kvaliteten er av god klasse. Storfornøyd kunde av dere.",
+   "Deilig sengetøy. Må ærlig innrømme at jeg ikke tror jeg sov noe bedre enn i annet sengetøy. Men det er behagelig å krype under dyna med dette sengetøyet på. Sånn luxuriøs følelse. Kommer nok helt sikkert til å kjøpe fler etter hvert. Kjøpte marineblått. Tro ti",
+   "Fantastisk sengetøy. Har kjøpt både laken og dyne/putevar. Lekre farger🤗",
+   "Nydelig mykt og behagelig sengetøy! Virkelig deilig å sove i, og man blir verken klam eller kald! Selv 5-åringen min var i ekstase og ville ikke at jeg skulle skifte på senga til annet sengetøy! I tillegg var det veldig god service. Henvendte meg angående noen",
+   "Sengetøyet er som en drøm! Det er mykt mot huden og gir en følelse av å sove i luksus! Anbefales på det sterkeste! Jeg kommer til å kjøpe flere sett senere!"
+  ],
+  "mykhet/behagelig/deilig": [
+   "Stille sengetøy er helt fantastisk å ligge i, veldig behagelig. Opplevelse av komfort og luksus. Veldig fornøyd.",
+   "Dyne og pute trekk så som på bilde. Deilig å sove. Ønsket meg ikke noe bedre enn det. Rask levering",
+   "Den mykeste og vakreste pysjen du kan tenke deg !! Elsker følelsen av hvordan den føles mot huden !!",
+   "det var nytt sengetøy,herlig og godt. Annbefaler det til alle.SUPERT.♥️...",
+   "En drøm å legge seg i , mykt og deilig . Blir nok flere sett med tiden her.",
+   "Kvalitet! Dette sengetøyet er virkelig det mykeste beste jeg har sovet i. Takk for handel! Kommer definitivt til å kjøpe fler av disse.",
+   "Deilig sengetøy å ligge i. Selv om det er kaldt i rommet,blir du varm etter 1 minutt under dyna. Veldig temperaturregulering. Til og med mannen min elsker bambussengetøyet!!",
+   "Supert deilig og behagelig. Hurtig levering. Superfornøyd så bestilte meg et sengesett til.",
+   "Jeg elsker dette sengetøyet! Jeg har allerede kjøpt tre sett, og det sier vel egentlig sitt 😊 Det jeg liker aller best er hvor utrolig behagelig det er å sove i, spesielt på varme netter. Man blir rett og slett ikke klam eller svett på samme måte som med annet",
+   "Jeg elsker det nydelige sengesettet. God kvalitet. Mykt og behagelig. Føler meg uthvilt og fryser difinitivt ikke;) Fargene er elegante og kvaliteten er av god klasse. Storfornøyd kunde av dere."
+  ],
+  "levering rask (pos)": [
+   "Dyne og pute trekk så som på bilde. Deilig å sove. Ønsket meg ikke noe bedre enn det. Rask levering",
+   "Beste sengetøyet jeg noen gang har prøvd. Både jeg og samboer sover bedre, og gleder oss til å legge oss hver kveld. Rask levering også.",
+   "Produktet kom veldig raskt. Og var nydelig å se på sengen når jeg fikk sengetøyet på. Var litt skeptisk for det kunne se ut som det var kjølig å legge seg i. Men det er utrolig nydelig å ligge i. Vanskelig å beskrive følelsen, men nesten som å ligge å flyte i ",
+   "Fantastisk herlig sengetøy og utrolig raskt levert. Dette er min andre bestilling og kommer til å bestille igjen.",
+   "Nydelig mykt og behagelig sengetøy! Virkelig deilig å sove i, og man blir verken klam eller kald! Selv 5-åringen min var i ekstase og ville ikke at jeg skulle skifte på senga til annet sengetøy! I tillegg var det veldig god service. Henvendte meg angående noen",
+   "Flott farge, deilig kvalitet, rask levering. Kommer nok til å bestille mere.",
+   "God kvalitet mykt og behagelig, veldig lett å re på sengen med dette sengetøyet, rask levering.",
+   "Ryddig og rask bestilling/levering, kjem garantèrt til å handle her igjen.",
+   "Behagelig og svalt, uavhengig av temperatur ute og inne. Holder fasong og mykhet etter vask. Tørker hurtig. Lurt å kjøpe dyne som hører til, festes enkelt inne i trekket. Rask levering.",
+   "Gikk utrolig raskt fra ordre til… Gikk utrolig raskt fra ordre til levering. Meget god service."
+  ],
+  "varme/svette/klam/kjølig": [
+   "Midt i overgangsalderen og nattesvette har vært helt hinsides,snudd dyna alle veier til alt var søkke vått,håret tungt ekkelt. Det lukta og måtte vaske hver dag. Kjøpte bambus sengetøy og håpet på det beste. Det beste skjedde. Må fortsatt snu dyna,men sengetøy",
+   "Produktet kom veldig raskt. Og var nydelig å se på sengen når jeg fikk sengetøyet på. Var litt skeptisk for det kunne se ut som det var kjølig å legge seg i. Men det er utrolig nydelig å ligge i. Vanskelig å beskrive følelsen, men nesten som å ligge å flyte i ",
+   "Heilt fantastisk! Avkjølende og godt. Nesten ingen nattesvette og nydelig på huden. Amazing! 🥰",
+   "Deilig sengetøy å ligge i. Selv om det er kaldt i rommet,blir du varm etter 1 minutt under dyna. Veldig temperaturregulering. Til og med mannen min elsker bambussengetøyet!!",
+   "Beste sengetøyet jeg noengang har sovet i 👌 Farvel til svette og kløende netter for en med atopisk eksem 😍Lekkert er det også. Har to sengesett til dobbelseng med laken til nå, og det kommer til å bli flere 😊",
+   "Jeg elsker dette sengetøyet! Jeg har allerede kjøpt tre sett, og det sier vel egentlig sitt 😊 Det jeg liker aller best er hvor utrolig behagelig det er å sove i, spesielt på varme netter. Man blir rett og slett ikke klam eller svett på samme måte som med annet",
+   "Deilig sengetøy. Må ærlig innrømme at jeg ikke tror jeg sov noe bedre enn i annet sengetøy. Men det er behagelig å krype under dyna med dette sengetøyet på. Sånn luxuriøs følelse. Kommer nok helt sikkert til å kjøpe fler etter hvert. Kjøpte marineblått. Tro ti",
+   "Nydelig mykt og behagelig sengetøy! Virkelig deilig å sove i, og man blir verken klam eller kald! Selv 5-åringen min var i ekstase og ville ikke at jeg skulle skifte på senga til annet sengetøy! I tillegg var det veldig god service. Henvendte meg angående noen",
+   "Behagelig og svalt, uavhengig av temperatur ute og inne. Holder fasong og mykhet etter vask. Tørker hurtig. Lurt å kjøpe dyne som hører til, festes enkelt inne i trekket. Rask levering.",
+   "Leverer det de lover i reklamen sin Leverer det de lover i reklamen sin, men et tips kan være å legge inn en vaskepose inn i settet😉 Ellers meget fornøyd👍"
+  ],
+  "hår/kjæledyr": [
+   "Midt i overgangsalderen og nattesvette har vært helt hinsides,snudd dyna alle veier til alt var søkke vått,håret tungt ekkelt. Det lukta og måtte vaske hver dag. Kjøpte bambus sengetøy og håpet på det beste. Det beste skjedde. Må fortsatt snu dyna,men sengetøy",
+   "helt fantastisk sengetøy. merker forskjell på hår og hud etter jeg byttet til Stille. mye bedre nattesøvn og super fine farger. kvaliteten er super. 100% verd pengene",
+   "Veldig enkelt å bestille og fra bestilling til jeg fikk varen gikk det ikke så veldig langt tid. Sengetøy og laken var som beskrevet og veldig behagelig å bruke; det føles mye lettere etter et par dags bruk enn vårt tidligere sengetøy. Kattepelsen sitter ikke ",
+   "Dette sengetøyet er det beste og mest behagelige jeg har ligget i. Har to sett, men ønsker et sett med det mørkebrune settet. Det er dyrt, men når til og med håret mitt blir finere. Da må jeg bare sikre meg et sett til. Med vennlig hilsen Anne Clausen",
+   "Kjapp levering Enkel retur Behagelige produkter, dog kun sovet en natt i produktet",
+   "Utrolig stor forskjell som allergiker å sove i dette! Skulle ønske de kom i litt andre og mørkere farger dog.",
+   "Jeg kjøpte bamboo sengetøy fra Stille.no, og jeg kan virkelig anbefale det! Sengetøyet er kjempebehagelig å sove i. Jeg er en person som alltid føler meg varm under dynen, men med dette sengetøyet føler jeg at kroppstemperaturen reguleres mye bedre gjennom nat",
+   "Jeg har lett lenge etter nye sengesett da bambus er det eneste stoffet jeg sover behagelig i, og da jeg fant Stille sin nettbutikk var jeg veldig spent! De har for det første utrolig pene farger på sengesett, i tillegg til at de tilbyr både dyner og puter og f",
+   "Stille har vært den beste investeringen jeg har tatt for god søvn ! Sengetøyet er så mykt og temperatur regulerende at det føles ut som å sove på en sky! Perfekt for varmere dager hvor man vrir seg og trenger noe avkjølende, mykt og pustende å sove i. I tilleg",
+   "Jeg hadde sett mye reklame. Men trodde ikke helt på det. Men så fortalte ei venninne at hun hadde kjøpt. Når jeg var på besøk kjente jeg på sengetøyet. Det var så myk og deilig. Så bestemte meg for å bestille ett, jeg angret på at jeg ikke kjøpte fler. Så nå h"
+  ],
+  "kvalitet/vask/passform": [
+   "Midt i overgangsalderen og nattesvette har vært helt hinsides,snudd dyna alle veier til alt var søkke vått,håret tungt ekkelt. Det lukta og måtte vaske hver dag. Kjøpte bambus sengetøy og håpet på det beste. Det beste skjedde. Må fortsatt snu dyna,men sengetøy",
+   "Pakken ser muse spist ut og det er… Pakken ser muse spist ut og det er skade på dynetrekk. Også merkelig at jeg måtte betale for å få en ny. Trekket som jeg klaget på var brukt bare noen få ganger og kom ut av vaskemaskinen med skaden. Den var også vasket med ",
+   "Best sengetøy ever . Jeg har blitt kvitt av alle sengetøy som jeg har hatt . Har kun fra stille bambus sengetøy . Lekkert utseende , kvalitet , god natt søvn",
+   "Kvalitet! Dette sengetøyet er virkelig det mykeste beste jeg har sovet i. Takk for handel! Kommer definitivt til å kjøpe fler av disse.",
+   "Jeg elsker dette sengetøyet! Jeg har allerede kjøpt tre sett, og det sier vel egentlig sitt 😊 Det jeg liker aller best er hvor utrolig behagelig det er å sove i, spesielt på varme netter. Man blir rett og slett ikke klam eller svett på samme måte som med annet",
+   "Jeg elsker det nydelige sengesettet. God kvalitet. Mykt og behagelig. Føler meg uthvilt og fryser difinitivt ikke;) Fargene er elegante og kvaliteten er av god klasse. Storfornøyd kunde av dere.",
+   "Dette er det beste sengesettet jeg har ligget i. Kjøpte derfor ett til min godt voksne far. Han sliter nå med å vaske sengetøyet, så sett nr 2 er kjøpt inn, klar som gave til han👍",
+   "Flott farge, deilig kvalitet, rask levering. Kommer nok til å bestille mere.",
+   "God kvalitet mykt og behagelig, veldig lett å re på sengen med dette sengetøyet, rask levering.",
+   "Behagelig og svalt, uavhengig av temperatur ute og inne. Holder fasong og mykhet etter vask. Tørker hurtig. Lurt å kjøpe dyne som hører til, festes enkelt inne i trekket. Rask levering."
+  ],
+  "hud/kløe/allergi": [
+   "Pakken ser muse spist ut og det er… Pakken ser muse spist ut og det er skade på dynetrekk. Også merkelig at jeg måtte betale for å få en ny. Trekket som jeg klaget på var brukt bare noen få ganger og kom ut av vaskemaskinen med skaden. Den var også vasket med ",
+   "Den mykeste og vakreste pysjen du kan tenke deg !! Elsker følelsen av hvordan den føles mot huden !!",
+   "Heilt fantastisk! Avkjølende og godt. Nesten ingen nattesvette og nydelig på huden. Amazing! 🥰",
+   "Beste sengetøyet jeg noengang har sovet i 👌 Farvel til svette og kløende netter for en med atopisk eksem 😍Lekkert er det også. Har to sengesett til dobbelseng med laken til nå, og det kommer til å bli flere 😊",
+   "Sengetøyet er som en drøm! Det er mykt mot huden og gir en følelse av å sove i luksus! Anbefales på det sterkeste! Jeg kommer til å kjøpe flere sett senere!",
+   "Jeg har alltid brukt Egyptisk bomull eller silke pga min sykdom CRPS/Regionalt Smertesyndrom, men har nå gått over til Bambus. Å pga min brennende hud er dette det beste huden min har kjent, så jeg elsker det. Har kjøpt 6 sett.",
+   "helt fantastisk sengetøy. merker forskjell på hår og hud etter jeg byttet til Stille. mye bedre nattesøvn og super fine farger. kvaliteten er super. 100% verd pengene",
+   "Deilig sengetøy, svalt og godt. Mykt mot huden, så dette kan anbefales.",
+   "Beste sengetøyet vi noensinne har hatt. Sliter med allergi og kløe på natten, men etter vi startet med sengetøy fra Stille er kløe borte, og nattesøvnen er utmerket.",
+   "Stille sengklær er laget av Bambus. Som bare er så behagelig, myk og deilig å ligge i mot kroppen. Hvert å prøve mot spesielt sensetiv hud😴💁🏼‍♀️👌"
+  ],
+  "anbefaler": [
+   "Nydelig mykt og behagelig sengetøy! Virkelig deilig å sove i, og man blir verken klam eller kald! Selv 5-åringen min var i ekstase og ville ikke at jeg skulle skifte på senga til annet sengetøy! I tillegg var det veldig god service. Henvendte meg angående noen",
+   "Sengetøyet er som en drøm! Det er mykt mot huden og gir en følelse av å sove i luksus! Anbefales på det sterkeste! Jeg kommer til å kjøpe flere sett senere!",
+   "Jeg elsker en «stille» natt og det får jeg virkelig med dette sengetøyet. Anbefales til alle.",
+   "Lakenet jeg bestilte LUKTER Lakenet jeg bestilte LUKTER. Har vasket men lukta går ikke bort. Kan ikke bruke det. Hvor skal jeg klage? Anbefaler ikke!",
+   "Det beste sengetøyet jeg noensinne har hatt. Luksusfølelse. Anbefales på det sterkeste",
+   "Behagelig sengetøy, spesielt på varme sommerdager. Enkelt og handle og raskt levert. Anbefales!",
+   "Jeg bestilte først et dynetrekk fra Stille, og det var så nydelig at jeg umiddelbart måtte bestille laken også. Dessverre forsvant pakken i posten, men da jeg kontaktet kundeservice, fikk jeg raskt hjelp. De holdt meg oppdatert hele veien med jevnlige statusop",
+   "Bambus sengesett er deilig, nedkjølende og behagelig i bruk. Anbefaler å kjøpe det også hvis du vil oppleve litt hverdagsluksus!",
+   "Fantastisk herlig sengesett i bambus. Er bare nydelig å legge seg i det avkjølende sengesettet. Anbefales.",
+   "Super kvalitet. Akkurat som beskrevet. Sover mye bedre om natten når man slipper å bli overopphetet eller fryser om hverandre fordi sengetøyet hjelper med å regulere temperaturen. Kan anbefales."
+  ],
+  "søvn bedre": [
+   "Best sengetøy ever . Jeg har blitt kvitt av alle sengetøy som jeg har hatt . Har kun fra stille bambus sengetøy . Lekkert utseende , kvalitet , god natt søvn",
+   "Beste sengetøyet jeg noen gang har prøvd. Både jeg og samboer sover bedre, og gleder oss til å legge oss hver kveld. Rask levering også.",
+   "Jeg elsker det nydelige sengesettet. God kvalitet. Mykt og behagelig. Føler meg uthvilt og fryser difinitivt ikke;) Fargene er elegante og kvaliteten er av god klasse. Storfornøyd kunde av dere.",
+   "Jeg har ett stort problem med at jeg blir så vanvittig varm om natta, og det gjelder året rundt uansett hva temperaturen er. Dette er det mest behagelige sengetøyet jeg noen sinne har vært borti, kvaliteten er topp. Gleder meg hver eneste kveld til å legge meg",
+   "helt fantastisk sengetøy. merker forskjell på hår og hud etter jeg byttet til Stille. mye bedre nattesøvn og super fine farger. kvaliteten er super. 100% verd pengene",
+   "Kjapp levering, nydelig kvalitet, luksuriøs følelse, bedre søvn enn på lenge 😉😁👍",
+   "Beste sengetøyet vi noensinne har hatt. Sliter med allergi og kløe på natten, men etter vi startet med sengetøy fra Stille er kløe borte, og nattesøvnen er utmerket.",
+   "Veldig fornøyd 😊 Søvnen er bedre og svetter ikke sånn som i vanlig sengetøy",
+   "Sover som en dronning i sengetøyet. Utrolig deilig. Men det blir veldig krøllete og siklet vises veldig godt 😜. Men har kjøpt 5 sett og elsker det",
+   "Dette sengetøyet og pyjamasen fra Stille, er desidert det beste jeg noensinne har hatt! Har brukt sengetøyet i ca et 1/2 år, sover som en drøm, lett å snu seg i, kjennes som silke, avpasser klimaet, lett å vaske. Pysjamasen er helt utrolig behagelig, topp kval"
+  ],
+  "gjenkjøp/flere sett": [
+   "En drøm å legge seg i , mykt og deilig . Blir nok flere sett med tiden her.",
+   "Beste sengetøyet jeg noengang har sovet i 👌 Farvel til svette og kløende netter for en med atopisk eksem 😍Lekkert er det også. Har to sengesett til dobbelseng med laken til nå, og det kommer til å bli flere 😊",
+   "Jeg elsker dette sengetøyet! Jeg har allerede kjøpt tre sett, og det sier vel egentlig sitt 😊 Det jeg liker aller best er hvor utrolig behagelig det er å sove i, spesielt på varme netter. Man blir rett og slett ikke klam eller svett på samme måte som med annet",
+   "Fantastisk herlig sengetøy og utrolig raskt levert. Dette er min andre bestilling og kommer til å bestille igjen.",
+   "Sengetøyet er som en drøm! Det er mykt mot huden og gir en følelse av å sove i luksus! Anbefales på det sterkeste! Jeg kommer til å kjøpe flere sett senere!",
+   "Helt fantastisk ☺️ kommer aldri til å kjøpe noe annet enn bambus igjen ☺️",
+   "Fantastisk behagelig sengetøy. Eg har nå kjøpt 3.settet. Grå, Rosa og Sjokkolade.",
+   "Ryddig og rask bestilling/levering, kjem garantèrt til å handle her igjen.",
+   "Har kjøpt to bambus sett fra Stille. Elsker å sove i det, nydelig følelse å legge seg nå.",
+   "Rask service. Flotte produkter. De kunne ha gitt beskjed da jeg bestilte flere sengetøyet og laken, at de kjørte 40% rabatt kunnnoen dager etter Rask levering og flotte produkt"
+  ],
+  "partner/mann": [
+   "Beste sengetøyet jeg noen gang har prøvd. Både jeg og samboer sover bedre, og gleder oss til å legge oss hver kveld. Rask levering også.",
+   "Deilig sengetøy å ligge i. Selv om det er kaldt i rommet,blir du varm etter 1 minutt under dyna. Veldig temperaturregulering. Til og med mannen min elsker bambussengetøyet!!",
+   "Heeeelt fantastisk sengetøy🙏💯Jeg har kjøpt 5 sett jeg nå…litt gal kanskje…men har blitt avhengig både jeg og kona mi🙏",
+   "Kona ble kjempe fornøyd med sengesettet. Var akkurat som hun håpet på. Ingen feil mangler."
+  ],
+  "levering/service (neg)": [
+   "Har kjøpt både putetrekk, laken, sengetøy og pysjamas fra Stille, er redd jeg har blitt avhengig 😆🫶🏼 veldig godt produkt angrer ikke litt på at jeg har kjøpt det.",
+   "Nydelig mykt og behagelig sengetøy! Virkelig deilig å sove i, og man blir verken klam eller kald! Selv 5-åringen min var i ekstase og ville ikke at jeg skulle skifte på senga til annet sengetøy! I tillegg var det veldig god service. Henvendte meg angående noen",
+   "Høy pris for sengetøy der knappene faller av i vask. Kvaliteten på selve stoffet er behagelig. Kundeservice ønsket ikke gi noen kompensasjon for knapper som ikke tålte vask.",
+   "Jeg bestilte først et dynetrekk fra Stille, og det var så nydelig at jeg umiddelbart måtte bestille laken også. Dessverre forsvant pakken i posten, men da jeg kontaktet kundeservice, fikk jeg raskt hjelp. De holdt meg oppdatert hele veien med jevnlige statusop",
+   "Fargeavvik er stort på modellen Himmelblå. Det er i realiteten turkis. Kundeservice svarer 1 gang pr uke med standardisert oversatt svar og vil ikke ta settet i retur. De påstår at fargeavvik må påregnes. Kvaliteten er også langt under f.eks. Bosant.",
+   "sengetøyet i seg selv er det ikke noe å klage på annet enn at det har krympet... har forsøkt å kontakte kundeservice uten hell, de tilbøy meg å kjøpe ett nytt til innkjøpspris.. dette er ikke første gang de har tibudt det. ikke velg stille fordi kundeservicen ",
+   "Bestilte 16 April ca. Laken kom raskt. Resten av sengetøyet kom aldri. Kontaktet dem etter noen uker. Ble lovet neste uke. Så neste uke . Så neste uke. Mail på mail. Tar en uke før dem svarer på mail. Da med bare svada. Ba om kansellering, men det var heller i",
+   "Veldig fornøyd med sengetøyet og kvaliteten. Bestilte feil størrelse på lakenet første gangen og prøvde å kontakte kundeservice for å få byttet til riktig størrelse. Fikk aldri noe svar.",
+   "Veldig treg kundeservice. Gir ikke klare svar. Jeg kjøpte sengesett som var ok, men veldig krøllete. Lakenet hadde hull og var mye mindre enn målene tilsa. Ville reklamere på dette, men kommunikasjonen er elendig. Når jeg sier jeg vil ha pengene tilbake er de ",
+   "Jeg har mottatt feil størrelse på… Jeg har mottatt feil størrelse på lakenet. Sendt beskjed om dette og at jeg vil returnere varen. Ikke mottatt svar på dette"
+  ],
+  "gave/innpakning": [
+   "Dette er det beste sengesettet jeg har ligget i. Kjøpte derfor ett til min godt voksne far. Han sliter nå med å vaske sengetøyet, så sett nr 2 er kjøpt inn, klar som gave til han👍",
+   "Varen blei først sendt til pakkeboks 6 mil unna i en helt annen kommune. Sendte mail og fikk svar 5 dager etterpå. Varen ble så sendt ytterligere 1 mil lengere unna. Altså 7 mil unna meg. I tillegg måtte jeg betale 100,- for å få ut pakken. 14 min tjr/retur pl",
+   "Supermykt og deilig sengetøy. Vi sover så godt. Jeg har også kjøpt i gaver. Alle burde prøve dette sengetøyet.",
+   "Siste liten gave, forventet ikke å få den i tide, men pakken var levert på døra dagen etter bestilling. Tror gaven falt i smak.",
+   "Jeg har lett lenge etter nye sengesett da bambus er det eneste stoffet jeg sover behagelig i, og da jeg fant Stille sin nettbutikk var jeg veldig spent! De har for det første utrolig pene farger på sengesett, i tillegg til at de tilbyr både dyner og puter og f",
+   "Jeg kjøpte mitt første sengesett i lyseblått fra Stille i mars . Nå har jeg kjøpt ett til i brunt og et i rosa til mitt barnebarn som fyller 18 om noen dager, hun fikk selv velge farge og samtykke i gaven. Jeg sover mye bedre og om jeg hadde visst hvordan det ",
+   "Scam! Holdt på i en måned med et enkelt spørsmål om bytte av gave, som de tydeligvis ikke gjør. Helt elendig kundeservice og de er i tillegg frekke.",
+   "Helt ubeskrivelig følelse å ligge i. Sover bedre med Bambus viskose. Tiltalende å se på. Hyggelige priser, Fin gaveinnpakning. Dette blir det kjøpt mer av.😀",
+   "Har forhåndsbestilt dyne som skulle sendes 10 desember. Julegave selvfølgelig. Ikke hørt noe etter at bestilling og betaling ble gjort 28 november. Sendt flere mail til kundeservice uten å få svar. Bekymringsfullt!!!!!!",
+   "Jeg har sett flere klager på at flere ikke får varene sine! Jeg bestilte 30.november for å få pakken i god tid før jul da det er julegave, men har verken får mail om at bestillingen er sent eller om at det blir forsinkelser! Alt jeg fikk var en bekreftelse på "
+  ],
+  "pris/verdi": [
+   "Rask service. Flotte produkter. De kunne ha gitt beskjed da jeg bestilte flere sengetøyet og laken, at de kjørte 40% rabatt kunnnoen dager etter Rask levering og flotte produkt",
+   "Høy pris for sengetøy der knappene faller av i vask. Kvaliteten på selve stoffet er behagelig. Kundeservice ønsket ikke gi noen kompensasjon for knapper som ikke tålte vask.",
+   "Like digg som egyptisk bomull — har offisielt kastet alle de billige sengetøysettene mine. Sorry not sorry 💅",
+   "Dette sengetøyet er det beste og mest behagelige jeg har ligget i. Har to sett, men ønsker et sett med det mørkebrune settet. Det er dyrt, men når til og med håret mitt blir finere. Da må jeg bare sikre meg et sett til. Med vennlig hilsen Anne Clausen",
+   "Jeg kjøpte hvitt bambus sengesett og laken fra Stille etter å ha hatt veldig gode erfaringer med bambustekstiler fra før. Derfor hadde jeg høye forventninger til produktet. Dessverre opplever jeg at sengesettet ikke lever opp til forventningene. Lakenet har fu",
+   "Fikk varene noen få dager etter bestilling. Sengetøyet er veldig behagelig, fargen og tekstur er som på bildet. Veldig fin pris for god kvalitet. Veldig fornøyd! Eneste minus er at det luktet litt rart og selv etter første vask er det ikke helt borte - men sat",
+   "Fikk feil laken og putetrekk. Kundeservicen er på barnehagenivå, og de forventer at kunden skal betale for deres feil. Fargene er misvisende, og kvaliteten fremstår billig. Velg heller Bosant hvis du ønsker bedre kvalitet og kundebehandling.",
+   "Relativt agressiv markedsføring. Ikke prøvd produktene enda da det ha tatt tid å få de hjem. Men har fått kjent på de, og førstinntrykket var at de er ikke like bra som pris og markedsføring skal ha det til.",
+   "Det beste som er laget noen gang, vi er kjempefornøyd, må skaffe flere litt dyrt men skal ha flere sett 🤩🤩🤩🤩",
+   "Returnerte en pysj, og de tok BÅDE gebyr og ekstra frakt for det! Pysjen var heller ikke verdt prisen, og får bedre og finere til billigere penge på f.eks. Cubus. Virker som scam. Håpløs kundeservice!"
+  ]
+ },
+ "menopause": [
+  "Midt i overgangsalderen og nattesvette har vært helt hinsides,snudd dyna alle veier til alt var søkke vått,håret tungt ekkelt. Det lukta og måtte vaske hver dag. Kjøpte bambus sengetøy og håpet på det beste. Det beste skjedde. Må fortsatt snu dyna,men sengetøyet er ikke søkke vått lenger og lukter friskt og godt etter noen timer. (Må sies at jeg lufter det hver dag) Dette er himmelen for oss i overgangsalderen,ikke vått,ikke klamt og lukter ikke🤩",
+  "Heilt fantastisk! Avkjølende og godt. Nesten ingen nattesvette og nydelig på huden. Amazing! 🥰",
+  "Nydelig himmelblå farge og veldig behagelig å sove i! Kjøpte bambus bevisst for bedre temperaturregulering ved svettetokter om natten pga overgangsalderen."
+ ]
+}

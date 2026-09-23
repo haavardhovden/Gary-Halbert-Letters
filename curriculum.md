@@ -1,8 +1,38 @@
 # Curriculum
 
-The full 30-day plan. The Gary Halbert letters archive in this repo is step 1 (section 1).
-Sections 2–6 are later stages of the same curriculum — not acted on yet, kept here as
-reference for what's coming.
+The full 30-day plan. This file is also the progress tracker for sections 2–6: tick `[x]`
+as items are done. Section 1 (Halbert letters) tracks progress in `archive-index.md` and
+continues in parallel — remaining letters are still processed as before.
+
+Where things land:
+- Section 2 classic ads / sales letters → `ads/<slug>.md` (index in `ads/swipe-file.md`)
+- Section 3 modern paid social → `modern-ads/<brand>.md`
+- Section 4 books → `books/<slug>.md`
+- Sections 5–6 (follows, courses) → no files; notes worth keeping go straight into
+  `mechanisms.md` with a `Kilde:` line
+All mechanisms from every section go in the single `mechanisms.md`.
+
+## 10-dagersplan for seksjon 2–5 (satt 13. sep 2026, start 14. sep)
+
+Halbert-arkivet er ferdig (211 brev, 72 mekanismer). Resten av curriculumet på ti dager.
+Bok om formiddagen, swipes/Atria ved siden av. Håvard laster opp kapitler og annonser som filer.
+
+| Dag | Bok | Ved siden av |
+|---|---|---|
+| 1 | Scientific Advertising (Hopkins), hele | Ogilvy-swipes, Rolls-Royce-breakdown. Abonner på seksjon 5. |
+| 2 | Hopkins runde 2, kapitlene som traff | Caples-swipes, Coat of Arms-breakdown. Repetisjon av Halbert (laert.md). |
+| 3 | Breakthrough Advertising kap. 1–4 (awareness, sophistication) | WSJ "two young men", Halbert-swipes |
+| 4 | Schwartz kap. 5–9 (headline-mekanikk) | Atria: Dr Squatch, Ovira, True Classic, Oats Overnight |
+| 5 | Schwartz resten, skum | Atria: Prose, O Positiv, Kizik, Lumin |
+| 6 | Ogilvy on Advertising | Atria: Norse Organics, Gruns, Kind Patches, Happy Mammoth |
+| 7 | Ca$hvertising | Bencivenga, Kennedy |
+| 8 | Very Good Copy, skum | Sugarman, Makepeace. Atria: Blissy, Hi-Smile, Hollow Socks, Dore & Rose |
+| 9 | Bernbach, skum | Harmon Brothers, Harry Dry. Atria: resten |
+| 10 | Ingen bok. Repetisjon av alt, laert.md, én Stille-annonse etter hele pensumet | Gjenstående Atria |
+
+Filer: bøker → `books/<slug>.md` (notater, ikke kapitler). Swipes/klassikere → `ads/<slug>.md` + rad i
+`ads/swipe-file.md`. Atria → `modern-ads/<brand>.md`. Nye mekanismer → `mechanisms.md`. Det som endrer
+hvordan Håvard skriver → `laert.md`. Seksjon 6 (kurs) er utenfor de 30 dagene.
 
 ## 1. Direct Response Foundations
 
@@ -10,12 +40,17 @@ Start by reading ALL of Garry Halberts letters (skip the books he recommends and
 
 [https://thegaryhalbertletter.com/home/](https://thegaryhalbertletter.com/home/)
 
-## 2. Direct Response Foundations
+## 1b. Etter brevene
+
+Planen for det som skjer når arkivet er ferdig lest står i `plan-etter-halbert.md`
+(avtalt, "HUSK DENNE"). Ikke dupliser den her.
+
+## 2. Direct Response Foundations — swipe file & classic copywriters
 
 - Sales Letters & Print Ads:
-    - [ ]  [Check out MBBs video first](https://www.youtube.com/live/5Vjm-NIeq3o)
-    - [ ]  [David Ogilvy](https://swiped.co/person/david-ogilvy/)
-    - [ ]  [Caples](https://swiped.co/person/john-caples/)
+    - [x]  [Check out MBBs video first](https://www.youtube.com/live/5Vjm-NIeq3o)
+    - [x]  [David Ogilvy](https://swiped.co/person/david-ogilvy/)
+    - [x]  [Caples](https://swiped.co/person/john-caples/)
     - [ ]  [Garry halbert](https://swiped.co/) (search for it like below)
 
         ![Skjermbilde 2026-08-23 kl. 16.54.40.png](curriculum/Skjermbilde_2026-08-23_kl._16.54.40.png)
@@ -26,12 +61,12 @@ Start by reading ALL of Garry Halberts letters (skip the books he recommends and
     - [ ]  Joe Sugarman
     - [ ]  Clayton Makepeace.
 - Classic Ads to Break Down:
-    - [ ]  Rolls Royce headline (Ogilvy),
+    - [x]  Rolls Royce headline (Ogilvy),
     - [ ]  WSJ "two young men" letter,
-    - [ ]  Halbert's "Coat of Arms."
+    - [x]  Halbert's "Coat of Arms."
 - Study
     - [ ]  [The Original Harmon Brothers Playlist](https://www.youtube.com/playlist?list=PL9faCiIC-952m0GL1ejAEhmkKECB8izMs)
-    - [ ]  [Harry dry podcast](https://youtu.be/TUMjnmfsPeM?si=nOqThOOstnLvE3vd)
+    - [x]  [Harry dry podcast](https://youtu.be/TUMjnmfsPeM?si=nOqThOOstnLvE3vd)
 
 ## 3. Study Modern Masters
 
@@ -76,7 +111,7 @@ Study the top ads (top 30 ish) best in class paid social brands:
 ## **4. Read These Books**
 
 - [ ]  Breakthrough Advertising
-- [ ]  Scientific Advertising
+- [x]  Scientific Advertising
 - [ ]  Ca$hvertising
 - [ ]  Ogilvy on Advertising
 - [ ]  Very Good Copy

@@ -100,6 +100,19 @@ Usikre punkter (tall/påstander som ikke er verifisert i selve samtalen) er merk
   Fortsatt ikke brief-klar: samme forbehold som fibromyalgi-vinkelen (unngå medisinske/
   helbredende påstander, hold språket på komfort/lindring av opplevd ubehag).
 
+- **Søvnfakta-manus som native ad** (3. sept, Håvards idé under lesing av Boron kap. 16)
+  Et manus bygget på *Interest*-steget i AIDA: interessante, konkrete fakta om søvn. Hvor mye
+  bedre søvn senker stress, hva det gjør med humør, hukommelse, vekt osv. Formatet er native
+  ad/advertorial, altså noe som leses som en artikkel, ikke som en annonse (A-Pile-familien).
+  Vurdering: solid som Interest-blokk, men to ting må på plass før det selger bambus og ikke
+  bare søvn. (1) Tallene må være ekte og siterbare (⚠️ VERIFISER hvert tall mot kilde før
+  bruk, ikke "studier viser"). (2) Det trengs en bro fra "søvn er verdifullt" til "temperatur
+  er det som stjeler den", ellers er det en folkeopplysningsvideo som like gjerne selger
+  madrasser eller magnesium. Broen er mekanismen: kroppen må ned i temperatur for å sove
+  dypt, og det er der sengetøyet kommer inn. Rekkefølge: fakta om søvn (Interest) → fakta om
+  temperatur og søvn (Interest, snevret inn) → "picture with pleasure" av en kjølig natt
+  (Desire) → tydelig, lang close (Action, mekanisme 37).
+
 ### Konkret copy skrevet i samtalen
 
 - **Første Stille-utkast** (TIDLIG, msg 112, skrevet før rammeverket var lært) — kvinner 40+,
@@ -144,6 +157,136 @@ Usikre punkter (tall/påstander som ikke er verifisert i selve samtalen) er merk
   ("vannflaske") IKKE er en Stille-vinkel (det er Vidda, se under) — nevnt her fordi Claude
   blandet kontoene sammen midtveis i samtalen (se "Feil å dobbeltsjekke" nederst).
 
+- **E5-versjon av eksem-vinkelen, Håvards utkast (3. sept) og omskriving:**
+  Håvards utkast: *"Eksem og kløe om natten? / Bambussengetøy gir deg: Kjølig og uavbrutt
+  søvn / Ingen svette eller kløe / OEKO-Tex sertifisert og mild mot huden / Bytt sengetøy
+  idag!"* Vurdert som featureliste, ikke AIDA: headlinen navngir symptomet uten mekanisme,
+  Interest mangler (hopper fra symptom til produkt), "ingen kløe" er et løfte sengetøy ikke
+  kan holde, og closingen er én linje uten frist eller risikofjerning (mekanisme 37).
+  Omskriving i samme format:
+  *"Eksem som klør mer om natten? Det er ofte varmen. / Kroppen må ned i temperatur for å
+  sove dypt. Vanlig sengetøy holder på varmen, huden svetter, og kløen våkner. / Bambus puster
+  og leder varmen bort. Kjøligere hud, roligere netter. / ✓ Merkbart kjøligere enn bomull
+  ✓ Mild mot huden, OEKO-TEX-sertifisert ✓ 30 dagers åpent kjøp / Prøv det i 30 netter. Blir
+  nettene ikke bedre, sender du det tilbake."*
+  Regel som falt ut av det: **påstå bare det sengetøyet faktisk gjør** (kjøligere, roligere),
+  aldri det det ikke kan (fjerne kløe). En review som motbeviser løftet koster mer enn
+  løftet gir.
+
+- **"Picture with pleasure" på NAKEN-annonsene (3. sept, Håvards idé fra Boron kap. 17):**
+  "Sov naken. Sov i bambus."-familien stopper i dag ved frekkheten/hooken. Halberts word
+  pictures (jacuzzi-eksempelet: følelsen av vannet mot bar hud) er det manglende neste
+  leddet: beskriv sanselig hvordan bambus kjennes mot bar hud — glatt, kjølig, ingenting
+  som klistrer. Hooken får oppmerksomheten, sanselinja gjør naken-vinkelen til en
+  *produktopplevelse* i stedet for bare et blikkfang. NB: hold det i Halberts jacuzzi-register
+  (sanselig, ikke seksuelt) — sex-appeal er tidligere vurdert som smal egen test for Stille,
+  ikke hovedspor.
+
+#### 2026-09-04 — Håvards lekse fra Interesting Facts (mek. #42): struts-faktum → bambus
+
+Håvards utkast (ordrett): "An ostrich cannot fly, but it can outrun a race horse. [...] what most
+people think is true, is most often NOT TRUE. For example, most people think they don't sweat at
+night or that they don't wake up at night. But in reality you sweat about 500 ml EVERY NIGHT. And
+you wake up about 30–90 minutes every night. [...] most people sleep in cotton sheets. Heavy, non
+breathable [...] This soaks up all of the 500 ml of sweat each night, and since it doesn't breathe,
+it holds it there. [...] a bacteria paradise. [...] Before cotton and silk was the only option [...]
+now there is a new alternative [...] for 3 reasons. The breathability, the soft feeling and how
+extremely beautiful it looks. This fabric is called Bamboo."
+
+Vurdering (Claude, Halbert-stil):
+- Broen er gyldig, ikke søt. Strutsen handler om "det du tror er sant, er ikke sant" → det du tror
+  om natten din er ikke sant. Ta bort strutsen og argumentet står. Bestått.
+- Svakhet 1: broen er lang. Halbert bruker én setning. Her er det tre før vi er hos leseren.
+- Svakhet 2: tallene. 500 ml/natt og 30–90 min våken er madrass-bransjens tall, ikke forskningens
+  (se swipe/facts.md). Bruk tall som tåler en kommentar fra en lege i kommentarfeltet.
+- Svakhet 3: "bomull er stygt" er en påstand leseren ikke kjenner seg igjen i. Den bryter tilliten
+  faktumet bygde. Angrip det bomull faktisk gjør (holder på fukt), ikke det den ser ut som.
+- Svakhet 4: "3 reasons" og "storming the market" er reklamespråk midt i en tekst som til nå ikke
+  så ut som reklame. Grunnprinsipp 1 brytes akkurat der salget begynner.
+- Styrke: "bacteria paradise" er picture with pleasure snudd på hodet (#36, negativ variant), og
+  det er bildet som selger. Behold det.
+- Bedre struts-versjon foreslått (ikke mer relevant enn Stilles egne søvnfakta, men øvelsen var
+  broen): "Strutsen kan ikke fly. Men den løper fra en veddeløpshest. Det du tror om natten din
+  er like feil: du svetter et par desiliter og våkner flere ganger. Du husker det bare ikke.
+  Lakenet gjør det."
+
+
+#### 2026-09-13 — Overgangsalder, "Facelift In A Jar"-strukturen (Håvards idé under gjenlesing)
+
+Halberts headline "The Amazing Facelift In A Jar Used By Hollywood Stars Who Don't Want Plastic Surgery!" =
+[nyhet] [produkt løftet til større kategori] [brukt av gruppe leseren vil ligne] [som ikke vil ha det skumle alternativet].
+Stille-oversettelse: fienden er HRT, gruppen er ekte kunder i overgangsalderen, kategorien er søvn gjennom
+overgangsalderen (ikke behandling av den).
+
+1. "Det kjølige sengetøyet kvinner i overgangsalderen bytter til når de ikke vil starte på HRT" (nærmest originalen, test først)
+2. "Nattsvette i overgangsalderen? Dette gjør tusenvis av norske kvinner før de går på hormoner" (tallet må være ekte)
+3. "Overgangsalder uten hormoner: sengetøyet som holder deg tørr klokka tre om natta" (ser minst ut som reklame, test først)
+4. "Den 'kjølige natta i en pose' kvinner i overgangsalderen velger i stedet for HRT" (for tett kopi, tatt med som kontrast)
+5. "Trikset kvinner over 50 bruker mot svette netter (uten en eneste tablett)"
+
+Må være sant før kjøring: at kvinner i overgangsalderen faktisk kjøper Stille (sjekk anmeldelser/kundedata), og at
+teksten aldri påstår effekt på hetetoktene. Sengetøyet holder senga kjølig, ikke mer.
+
+**Runde 2, korte (Håvard så flere konkurrenter si "perfekt for overgangsalderen", så påstanden er brukt opp;
+vinn på hvordan eller på spesifisitet):**
+Problem: "Våkner du klam klokka tre?" / "Nattesvette? Lakenet er halve problemet." / "Bytter du laken midt på natta?" /
+"Hetetokter om natta. Bomull gjør det verre."
+Mekanisme: "Bomull holder på svetten. Bambus slipper den ut." / "Derfor våkner du klam i bomullslaken." /
+"Tørt laken klokka tre. Det er hele forskjellen." / "Kroppen svetter. Lakenet trenger ikke lagre det."
+Callout + utelukkelse: "Overgangsalder, uten hormoner: sov tørt likevel." / "Hormoner eller ikke. Lakenet blir tørt." /
+"Over 50 og våken klokka tre? Les dette."
+Rolls-Royce-detalj: "Det eneste som er varmt i senga klokka tre, er du." / "Hun bytter ikke laken om natta lenger. Hun byttet laken."
+Lånt bevis: "Helsenorge: 'må skifte sengetøy'. Vi har et som tåler det." / "8 av 10 får hetetokter. Bare lakenet kan du bytte."
+Test først: "Bytter du laken midt på natta?", "Bomull holder på svetten. Bambus slipper den ut.", "Hormoner eller ikke.
+Lakenet blir tørt.", "Hun bytter ikke laken om natta lenger. Hun byttet laken." Bomull-skylden: sjekk at Stille vil stå i det.
+
+**Runde 3, "killer headline" (Halbert + 2026-creative-videoen: hook = løfte om relevans, problem slår callout,
+teksten er targetingen, truth bomb-hook):**
+Hoved: "Dette lakenet stopper ikke hetetoktene. Men klokka tre om natta er det fortsatt tørt."
+Linje under (targeting-ord + mekanisme): "Nattesvette i overgangsalderen, med eller uten hormoner: bomull holder på
+svetten, bambus leder den bort fra huden." Sanselinje i steg 5: "Glatt og kjølig mot bar hud, ikke klamt."
+Mot-test A (problem-agitasjon): "Våkner du klissvåt klokka tre? Det er ikke bare hormonene. Det er lakenet også."
+Mot-test B (spesifikt bevis, bare hvis tallet og "alle" er sant): "[X] kvinner over 50 har byttet til dette lakenet.
+Ingen av dem fikk færre hetetokter. Alle våkner tørre."
+Hvorfor hoved: sann uten helsepåstand, innrømmelsen gjør neste setning trodd (damaging admission), problemet i hennes
+ord uten callout, klokka tre som Rolls-Royce-detalj, "tørt" lar henne trekke "kjølig/pustende" selv, HRT er ikke fienden.
+
+#### 2026-09-13 — "Kaldere enn eksen din", iterasjonsbatch (Håvards QA-liste A1/B2/C3)
+
+Hooken er bevist (vits med produktløftet inne i vitsen, snø/blåbær-bildet gjør "kaldt" uten ord). Vurdering:
+- Linja under er tema, ikke mekanisme ("regulerer temperaturen og holder deg kjølig") = det alle sier. Steg 3 er tomt.
+- USP-listen (kjølig/pustende/temperaturregulerende) er tre ord for samme ting, ingen kan tegnes.
+- CTA "ikke ta tilbake eksen, bytt til bambus" er vits nr. 2, ingen instruks. Behold som sekundærlinje under en ekte CTA.
+- "70 000+ sengesett solgt" er beste bevis, bare i B2. Inn i alle.
+- Targeting-ord (videoen: teksten er targetingen): bare B2 har "sover varmt". A1/C3 har ingen problemord.
+Anbefalt batch, hold hooken fast og bytt én variabel per annonse:
+- A1 mekanisme: "Bomull holder på svetten. Bambus slipper den ut. Derfor er senga kald klokka tre også." CTA "Se sengesettene".
+- B2 bevis: "70 000 nordmenn som sover varmt har byttet. Bambus leder svetten bort fra huden i stedet for å lagre den." CTA "Prøv i 30 netter".
+- C3 visuelt (kvinne i senga): "Sover du varmt? Bambus puster, bomull gjør det ikke. Du våkner tørr."
+Headline-variant ved siden av: "Kaldere enn eksen din. Og den holder seg sånn hele natta."
+
+#### 2026-09-14 — S#79 Eksem: resultater og regler (full gjennomgang i research/stille/12-s79-eksem-batch.md)
+
+Fire statics, problem-aware, persona eksem/foreldre til barn med eksem. Godkjent av Jonathan med 1 runde (brief), 0 på produksjon.
+Kjørte 2 dager, 3 522 kr, 37 ATC, 3 kjøp, ROAS 1,81. Skrudd av før konklusjon.
+- C3 (påstands-headline "Varmen kan gjøre eksemet verre" + ekte produktfoto) best: ROAS 3,22. Bekrefter "hooken er problemet".
+- A1 (rent produktbilde + testimonial) svakest: ROAS 1,02. Blått sengetøy uten mekanisme i headline.
+- D4 (split-screen dag/natt) og B2 (barn-testimonial) fikk under 250 kr, ikke lesbare.
+- Retest anbefalt med stoppregel (1 000 kr per annonse eller 3 dager). Presedens: Danmark og hundehår var svake dag 1–2.
+Regler fra Jonathan (S#79):
+- Nevn alltid mekanismen (bambus), også i testimonial-headlines.
+- USP-er skal si noe headlinen ikke sa.
+- CTA må passe i knappen og tilføre noe.
+- Kort tekst under headline, eller visualiser (split-screen, USP-er).
+- Underlinje/CTA: "… i bambus", ikke "bambussengetøy". Standard nå.
+- Reviews: lett grammatikk-retting ok, rekkefølge kan byttes, ordene er kundens. Én–to emoji ok.
+- Eksport 1080×1920. Kontrast for mødre 40–50 på mobil. "For rent" bilde = AI-look, send tilbake.
+- Inspo-lenker: bildeadresse fra kilden, ikke Notion.
+- Sjekklisten kjøres i egen økt, ikke rett etter skriving. Brief gjennom Claude før Jonathan.
+- Referanse til Felix: rå skisse/inspo + kort Loom. Ikke generer selv.
+Jonathans iterasjons-SOP: én endring per variant, original fortsetter. Bredde først (~3 varianter, ulike elementer), så dybde
+på vinneren. Loud levers (format, vehicle) for nytt territorium, quiet levers (copy, CTA) for finjustering. ~3 varianter per batch.
+
 ### Konklusjoner / regler etablert for Stille spesifikt
 
 - Kreative vinkler = kald trafikk-hooks; ren pris-annonse = varm trafikk-closer (MIDT, msg 463).
@@ -167,6 +310,21 @@ Usikre punkter (tall/påstander som ikke er verifisert i selve samtalen) er merk
   skjult avsender-filter/konvolutt, som ikke finnes i en merket "Sponsored"-post) men i samme
   "familie" av prinsipp — visuell autentisitet senker garden selv når publikum vet det er en
   annonse.
+- **Feedback fra Jonathan på eksem-batchen (2. sept, muntlig gjennomgang):** godkjent og
+  sendt videre. Det som ble trukket fram som riktig: bruk av kundens egne ord, research bak
+  vinkelen, sterkt fokus på problemet + testimonial i første bilde, diversitet i personer,
+  og markering (highlight) av det leseren skal legge ekstra merke til — også at det sto i
+  briefen til design. Ett bilde ble endret, og regelen bak endringen er verdt å ta med:
+  - **Hooken er problemet, ikke produktet.** "Varmen kan gjøre eksemen verre" er det som
+    stopper scrollen. "Prøv kjølende bambus-sengetøy" hooker ingen. Headlinen må derfor eie
+    hierarkiet i bildet (størrelse *og* farge), ikke ligge som én del av noe større. Jonathans
+    versjon: **"Varmen kan gjøre eksemen verre. Derfor bytter mange til kjølende sengetøy i
+    bambus."** Problem først, løsning som konsekvens.
+  - Unngå spørsmål-headlines som krever tolkning ("Hva kan man gjøre i eksemvarmen?") når en
+    påstand gjør jobben mer direkte.
+  - Praktisk: skru opp lysstyrken litt på mørke bilder så teksten er lesbar for mødre i
+    40–50-årsalderen med svakere syn. Målgruppen bestemmer kontrast, ikke estetikken.
+  - Hierarki/farge-poenget gis videre som fast feedback til Felix (design).
 
 ---
 
@@ -220,6 +378,12 @@ Usikre punkter (tall/påstander som ikke er verifisert i selve samtalen) er merk
 
 ---
 
+### Research
+
+- `research/vidda-camper-the-suck.md` — Halberts "The Suck" (letter-171) gjort på Vidda Camper:
+  90 nummererte nugget-notater fra tester, forum, forhandlere. Rått, med [SJEKK]-merker.
+  Håvard vurderte det som for sortert (faktaark, ikke Suck). Ligger som sjekkliste.
+
 ## Feil å dobbeltsjekke (Claude tok feil i samtalen, senere korrigert)
 
 - Claude blandet Vidda-teltvinkelen inn i en Stille-kontekst midtveis (SENT, msg 716–719) —
@@ -230,3 +394,53 @@ Usikre punkter (tall/påstander som ikke er verifisert i selve samtalen) er merk
   (problem-aware).
 - Claude trodde først Vidda-stolen var tyngre enn en vannflaske (TIDLIG, msg 254–257) — feil,
   korrigert av Håvard.
+
+---
+
+## Luftig (ventilasjonsfilter) — fra ChatGPT/Codex-økten 5. sept 2026
+
+Hovedsalgspunkt: det er superenkelt å bytte selv.
+
+**Big Idea utviklet i chatten:** en oppgave du trodde krevde en mann eller montør, er så enkel at du fikser den selv.
+Emosjonell motor: selvstendighet, mestring, litt skadefryd, spare penger, omsorg for hjem/familie.
+
+**Headline-retning:** "Han sa han skulle bytte ventilasjonsfilteret. Du gjorde det selv." Kort: "Han utsatte filterbyttet. Du fikset det selv."
+**Hypotese:** Vi tror mestringsvinkelen slår vanlig enkelhetscopy blant kvinner, fordi den gjør filterbyttet til en liten personlig seier, ikke en vedlikeholdsoppgave.
+**Static-struktur:** headline over; USP 1 bytt helt selv; USP 2 spar penger på å gjøre det selv; USP 3 slipp å huske neste bytte (BARE hvis Luftig faktisk har påminnelse/abonnement); CTA "Finn riktig filter til boligen din".
+**UGC-hook:** "Mannen min har sagt i flere uker at han skal bytte ventilasjonsfilteret. Så vet du hva? Jeg gjorde det selv. Og det var nesten latterlig enkelt."
+
+**Sannhetsgrenser:** ikke "familien puster bedre luft inne enn ute"; "renere luft hjemme" krever dokumentasjon og riktig bruk; "spar penger" krever at alternativet faktisk er betalt montør; "aldri tenke på det igjen" krever automatisk levering. Test kjønnet variant mot kjønnsnøytral mestringsvariant.
+**Mekanisme:** #45 (løsning som ikke gir kunden en ny jobb) er kjernen. Filteret er bare enkelt hvis hun slipper å huske neste bytte.
+
+**Håvards råidé (ordrett fra Codex-chatten):** "Gjør det selv." "Vis mannen at kvinner også kan gjøre slike ting." "Bare se for deg ansiktet hans når du har byttet ventilasjonsfilter helt selv." Pluss spare penger, slippe å tenke på det igjen, familien puster bedre luft. Hans viktigste egenrettelse etter første annonseforsøk: si veldig raskt at det handler om VENTILASJONSFILTER. En god emosjonell hook hjelper ikke hvis kategorien er uklar.
+**UGC-script etter hooken:** vis filteret, hvor det sitter, hvor få steg, mestringsreaksjonen, konkret produktfordel, CTA for riktig filter.
+
+## Stille: pockets (Håvard, 2026-09-06)
+- **Hundefolk:** kjøper fordi hår ikke setter seg like fast. Bambusviskose er glatt, bomull er "borrelås". Mekanismen synlig: fiberform (fakta #9: viskose taggete/glatt, bomull vridd). Headline-kandidat: "Hundehår setter seg fast i bomull. Ikke i dette."
+- **Sov naken:** presterer sterkt nå (Jonathans "Sov naken. Sov i bambus."). Iterasjonsbatch på denne.
+- **Overgangsalder:** godkjent som callout. Runde 2 i `research/stille/06-headlines-runde-2-overgangsalder.md`.
+- **Neste analyse:** hvorfor kjøper folk egentlig Stille? Tell grunner i Trustpilot-anmeldelser og kundesitater (04-dokumentet), ranger etter frekvens. Persona-dokumentet anslår overheating 25–35 % og hverdagsluksus 25–35 %, men tallet er skjevt mot fornøyde. Atferd slår ord (#30): sjekk også hvilke annonser som konverterte, ikke bare hva de skriver.
+
+## Stille: beste ikke-pris-headline (Håvard, 2026-09-06)
+"Husstøvmidd hater bambus ...men du kommer til å elske det." Static med stabel av sengetøy, tre bullets (holder midd og bakterier unna, pustende bambus, hypoallergen og antibakteriell).
+- **Hvorfor den virker (Halbert-lesning):** Ikke "How To". Det er en påstand om et faktum med en navngitt fiende, samme familie som "Why Men Crack" (#11): uventet synder, så mekanisme, produktet eier logikken. Lysten er å bli kvitt noe, ikke få noe (tap slår gevinst, #20, Little Blue Books: "break bad habits" slo "form good habits"). Derfor slår den "pustende bambus", som er et tema, ikke et løfte (#54).
+- **Awareness:** problembevisste (vet om midd/allergi). Ikke uvitende.
+- **Sykehus-test å kjøre (#54):** samme bilde, samme bullets, bytt bare rammen. How To: "Slik blir du kvitt husstøvmidd uten å vaske en eneste gang til". Reason-why: "Derfor sover allergikere bedre i bambus". Truth About: "Det ingen forteller deg om det som bor i puta di" (fisker lenger ut mot uvitende).
+- **Påstandsvarsel:** "holder bakterier unna" og "antibakteriell" er ikke dokumentert (fakta #5). Headlinen bærer seg selv på middene alene og trenger dem ikke.
+- **Headline vs slagord (Håvard, letter-160):** Halbert sa "slagord i stedet for lang copy" er dumt. "Sov naken. Sov i bambus." selger best nå og ser ut som et slagord. Det er det ikke. Et slagord ("life and breath") har ingen mekanisme, ingen grunn, ingen tilbud. "Sov naken. Sov i bambus." bærer tillatelse (#14) og produkt i én setning og sitter på en annonse som argumenterer videre. Det er en headline. Regelen er ikke "aldri kort", den er "aldri kort UTEN argument under".
+
+## Stille: overgangsalder-batch 2, Jonathans feedback (2026-09-15)
+
+Fil: `research/stille/13-feedback-overgangsalder-batch-2.md`. Jonathans seks punkter (mekanisme mangler, "ingen svette netter" for stort, "sover dårlig" er paraply, D4 closer for tidlig, benefit → dream outcome) pluss min korreksjon: mekanismen må være fukt, ikke kulde, fordi Fact Sheet nr. 7 ikke støtter "kjølende" som natt-løfte. Ny versjon av A1, B2, D4 flytter løftet fra "kjølende" til "ikke klam", med fire ulike mekanisme-formuleringer. C3 uendret.
+
+## Stille: "Fra kinesiske bambusmatter til norsk sengetøy" (Håvard, 2026-09-16)
+
+Nysgjerrighets-headline med opprinnelseshistorie (Halberts Brindall-bær-grep, Berry Trim-annonsen). Faktasjekket:
+- Bambusmatter (竹席) som sommerunderlag er ekte kinesisk tradisjon; produsenter oppgir ~2000 år. Trygt å si "i hundrevis av år". Kilder: https://chunlongzhuyi.com/product-detail/chinese-handmade-natural-cool-sleeping-bamboo-mat · https://liwei.chinagoods.com/news/stay-cool-all-night-why-bamboo-mat-is-your-summer.html
+- Matta er kjølig fordi hard bambus leder varme bort fra kroppen og fletteverket gir luft under. Ikke samme mekanisme som viskosestoff. Si "inspirert av", aldri "samme mekanisme".
+- Bambusviskose: prosess utviklet i Kina på 1990-tallet, sengetøy i Vesten fra tidlig 2000-tall. Så "gammel tradisjon" gjelder matta, ikke stoffet. Kilde: https://www.sleepbamboo.com/blogs/pages-sleepbamboo-blog-home-page/what-is-the-history-of-bamboo-fabric-and-bamboo-sheets
+- Åpent: "Vi tok den ideen og gjorde den myk" er bare sant hvis Stille faktisk kan si det om seg selv. Sjekk med grunnlegger før bruk.
+
+Leddet som manglet (fra Tai Chi-annonsen, ads/halbert/china-health-secret-ad-by-gary-halbert.md): opprinnelsesgruppen må ha hatt HENNES problem, verre. "I Sør-Kina er sommernettene 30 grader og fuktige." Sjekk klimatall før bruk.
+
+Utkast: Headline "Fra kinesiske bambusmatter til norsk sengetøy". Under: "I Kina har folk sovet på bambusmatter i varme sommernetter i hundrevis av år. De puster og holder seg kjølige. Vi tok den ideen og gjorde den myk." CTA: Prøv i 30 netter.

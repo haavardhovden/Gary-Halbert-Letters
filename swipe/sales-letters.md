@@ -1,0 +1,29 @@
+# Sales letters / landingssider — swipe file
+
+Hele pitcher med kjent struktur. Les høyt. Merk AIDA-overgangene.
+
+## I repoet allerede
+- `ads/coat-of-arms-letter.md` — 361 ord, 7,1 mill. kunder. Personlig brev + reason-why + knapphet. (#17)
+- `ads/lazy-mans-way-to-riches-karbo.md` — innrømmer flaw, lang copy, "sell people what they want".
+- `ads/burn-off-body-fat-hour-by-hour.md` — mekanisme-drevet.
+- `ads/stock-and-bond-business-merrill-lynch.md` — advertorial, undervis i stedet for å selge.
+- `letters/letter-105.md` — "When The Sun Comes Up": seminar-pitch. Filosofi-åpning → bullets → telefon-gate → "Lunch!".
+- `letters/letter-107.md` — "Open Letter To Anyone So Insane": hele pitchen bygget som avvisning.
+- `letters/letter-112.md` — Motherload (Theresa): avsenderbytte + 29 bullets + garanti.
+- `letters/letter-124.md` — FirePlay-nettstedet: ethical bribe, 60+ bullets, frykt-for-tap-close.
+- `letters/letter-123.md` — Dr. Finegold-brevet: copy som løser et livsproblem (cc-listen er våpenet).
+- `letters/letter-097.md` — Boron kap. 21: wall plaque-brevet, reason-why forankret i mottaker (#40).
+- `letters/letter-090.md` — Boron kap. 14: sand-posen + "picture with pleasure"-åpningen.
+
+## Strukturer å kopiere
+- Boron-malen: grabber → 2 grunner til grabberen → fakta (Interest) → fordeler (Desire) → 25 % close.
+- Water Ad-malen (#21): autoritet → eskalerende problem → avvis alternativer → unik løsning m/bevis → verdi-regnestykke → vekstsignaler → CTA.
+- Halbert-nyhetsbrev-malen: personlig åpning uten salg → "so what?"-bro → lærdom → P.S. med tilbud.
+
+## Skal inn (seksjon 2–6 av curriculum, IKKE ennå): Bencivenga, Kennedy, Sugarman, Makepeace, Schwartz. (Collier-dollarbrevet er nå i repoet, se under.)
+
+## Disaster Insurance (letter-137) — Halbert selger Boron Letters
+Struktur verdt å stjele: (1) forrige brev (Dark Side) var setupen, dette er salget; (2) reason-why for pris: piratkopi selges for 225 dollar, han selger ekte for 97; (3) 43 blinde bullets, ett per kapittel; (4) innrømt motiv ("I want to show off") som gjør resten troverdig; (5) P.S.-bonus som ikke kan kjøpes andre steder (personlig hjelp hvis du havner i trøbbel, kun i bassenget), så "kjøp billigere hos andre" mister poenget. Mek. #17/#40 (reason-why), #42-stil bullets.
+
+## Collier-dollarbrevet (letter-154, fra Robert Collier Letter Book s. 394)
+Gjengitt ordrett i letter-154. Struktur: (1) grabber: en ekte dollar, "keep it if you want to, but I don't believe you will"; (2) reason-why: "I've made an investment of a thousand dollars in human nature"; (3) hva pengene går til; (4) close som spørsmål om leserens karakter: "Will EVERY ONE come back? Are people really kind, or REALLY heartless?" Resultat: over 90 % respons, $270 000 tilbake på 175 000 brev, $10M i oppfølgingssalg til lista. Re-testet med moderne ord, fortsatt 90 %+. Mek. #33 (grabber), gjensidighet, selvbilde-test. Å stjele: gaven som spørsmål om hvem leseren er, ikke som bestikkelse.
