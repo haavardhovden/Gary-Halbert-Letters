@@ -26,7 +26,7 @@ hakk nærmere bambus uten et hopp?
 
 | Var. | Format / visual | Norsk copy | English |
 |---|---|---|---|
-| **A1 (endelig)** | Headline static. Nærbilde av bambussengetøyet i morgenlys, glans, rolig seng. Ingen nesespray (spray ved siden av bambus motsier poenget). | Våkner du pottetett?<br>Under: Veldig mange blir tette av midd i senga, uten å vite det. Derfor bytter tusenvis til bambussengetøy, som er antibakterielt og holder midden unna.<br>CTA: Våkn uten tett nese | Do you wake up completely blocked?<br>Lots of people get blocked from dust mites in their bed without knowing it. That's why thousands are switching to bamboo bedding, which is antibacterial and keeps dust mites away.<br>CTA: Wake up without a blocked nose |
+| **A1 (endelig)** | Headline static. Nærbilde av bambussengetøyet i morgenlys, glans, rolig seng. Ingen nesespray (spray ved siden av bambus motsier poenget). | Våkner du pottetett i nesa?<br>Under: Tett nese uten å være syk skyldes ofte midd i senga. Derfor bytter tusenvis til bambussengetøy, som er antibakterielt og holder midden unna.<br>CTA: Våkn uten tett nese | Do you wake up with a completely blocked nose?<br>A blocked nose when you're not sick is often caused by dust mites in your bed. That's why thousands are switching to bamboo bedding, which is antibacterial and keeps dust mites away.<br>CTA: Wake up without a blocked nose |
 | **B2 (snap)** | Selfie i senga, hun trekker bambusdyna opp til haka og smiler. Glansen synlig, dyna er «våpenet». | Topp: Mitt hemmelige våpen mot midd i senga 🤫<br>Bunn: Våknet tett hver eneste morgen i årevis. Nå sover jeg i antibakterielt bambussengetøy, og har ikke våknet tett siden. | Top: My secret weapon against dust mites in bed 🤫<br>Bottom: Woke up blocked every single morning for years. Now I sleep in antibacterial bamboo bedding and haven't woken up blocked since. |
 | **C3 (snap)** | Selfie hun tar i senga om morgenen, han sover rolig bak henne i bambussengetøyet. Ekte snap-følelse, litt skjevt, vanlig lys. | Topp: Han har endelig sluttet å våkne pottetett i nesa 🙌<br>Bunn: Var tydeligvis midd. Forsvant sekundet vi byttet til antibakterielt bambussengetøy. | Top: He's finally stopped waking up completely blocked 🙌<br>Bottom: Turns out it was dust mites. Gone the second we switched to antibacterial bamboo bedding. |
 
@@ -51,8 +51,8 @@ mekanismen (midd), snap i kundestemme klarer seg uten.
 
 ## Dansk
 
-- **A1:** Vågner du helt tilstoppet? / Rigtig mange bliver tilstoppede af mider i sengen uden at
-  vide det. Derfor skifter tusindvis til bambussengetøj, som er antibakterielt og holder miderne væk.
+- **A1:** Vågner du med helt tilstoppet næse? / Tilstoppet næse uden at være syg skyldes ofte mider
+  i sengen. Derfor skifter tusindvis til bambussengetøj, som er antibakterielt og holder miderne væk.
   / CTA: Vågn uden tilstoppet næse
 - **B2:** Mit hemmelige våben mod mider i sengen 🤫 / Vågnede tilstoppet hver eneste morgen i årevis.
   Nu sover jeg i antibakterielt bambussengetøj og har ikke vågnet tilstoppet siden.
