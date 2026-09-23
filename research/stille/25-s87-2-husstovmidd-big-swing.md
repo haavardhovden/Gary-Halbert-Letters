@@ -22,14 +22,13 @@ idea, with new visuals and formats, will reach new people and find more winners.
 **Test for hver annonse:** starter den i noe han kjenner på kroppen, og tar hvert steg ham ett
 hakk nærmere bambus uten et hopp?
 
-## Varianter
+## Varianter (endelig: 1 headline + 2 snaps)
 
 | Var. | Format / visual | Norsk copy | English |
 |---|---|---|---|
 | **A1 (endelig)** | Headline static. Nattbord i morgenlys, nesespray (uten logo) og krøllet tørkepapir. Bambussengetøyet rett bak, glansen tydelig. | Har du nesespray på nattbordet?<br>Under: Veldig mange blir tette av midd i senga, uten å vite det. Derfor bytter tusenvis til bambussengetøy, som er antibakterielt og holder midden unna.<br>CTA: Våkn uten tett nese | Do you keep nasal spray on your nightstand?<br>Lots of people get blocked from dust mites in their bed without knowing it. That's why thousands are switching to bamboo bedding, which is antibacterial and keeps dust mites away.<br>CTA: Wake up without a blocked nose |
-| **B2 (endelig)** | Headline static. | Våkner du pottetett?<br>Under: Tett nese uten å være syk skyldes ofte midd i senga. Derfor bytter tusenvis til bambussengetøy, som er antibakterielt og holder midden unna. | Do you wake up completely blocked?<br>A blocked nose when you're not sick is often caused by dust mites in your bed. That's why thousands are switching to bamboo bedding, which is antibacterial and keeps dust mites away. |
-| **C3** | Split screen, samme person, samme seng, samme morgenlys. Venstre: sitter opp, tørkepapir i hånda, sliten, krøllet sengetøy. Høyre: strekker seg, uthvilt, bambussengetøy med tydelig glans. Ingen klaffer. | Headline: Husstøvmidd gjør deg pottetett, / men bambus holder midden unna.<br>Venstre: Tett nese · Tørkepapir · Sliten<br>Høyre: Åpen nese · Uthvilt · Puster fritt | Headline: Dust mites leave you completely blocked, / but bamboo keeps them away.<br>Left: Blocked nose · Tissues · Tired<br>Right: Clear nose · Rested · Breathing freely |
-| **D4** | Snap, kundestemme (den stemmen som vant i 87). | Topp: Våknet tett hver morgen 😩<br>Bunn: …men var fin med en gang jeg kom meg ut av senga. Så byttet jeg til antibakterielt bambussengetøy 🙏 | Top: Woke up blocked every morning 😩<br>Bottom: …but was fine as soon as I got out of bed. So I switched to antibacterial bamboo bedding 🙏 |
+| **B2 (snap)** | Selfie i senga, hun trekker bambusdyna opp til haka og smiler. Glansen synlig, dyna er «våpenet». | Topp: Mitt hemmelige våpen mot midd i senga 🤫<br>Bunn: Våknet tett hver eneste morgen i årevis. Nå sover jeg i antibakterielt bambussengetøy, og merker ingen allergi. | Top: My secret weapon against dust mites in bed 🤫<br>Bottom: Woke up blocked every single morning for years. Now I sleep in antibacterial bamboo bedding, and don't notice any allergy. |
+| **C3 (snap)** | Selfie hun tar i senga om morgenen, han sover rolig bak henne i bambussengetøyet. Ekte snap-følelse, litt skjevt, vanlig lys. | Topp: Han har endelig sluttet å våkne pottetett i nesa 🙌<br>Bunn: Var tydeligvis midd. Forsvant sekundet vi byttet til antibakterielt bambussengetøy. | Top: He's finally stopped waking up completely blocked 🙌<br>Bottom: Turns out it was dust mites. Gone the second we switched to antibacterial bamboo bedding. |
 
 ## Headline-bank (symptom først, bindeord på linje 2)
 
