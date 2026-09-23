@@ -27,7 +27,7 @@ hakk nærmere bambus uten et hopp?
 | Var. | Format / visual | Norsk copy | English |
 |---|---|---|---|
 | **A1 (endelig)** | Headline static. Nattbord i morgenlys, nesespray (uten logo) og krøllet tørkepapir. Bambussengetøyet rett bak, glansen tydelig. | Har du nesespray på nattbordet?<br>Under: Veldig mange blir tette av midd i senga, uten å vite det. Derfor bytter tusenvis til bambussengetøy, som er antibakterielt og holder midden unna.<br>CTA: Våkn uten tett nese | Do you keep nasal spray on your nightstand?<br>Lots of people get blocked from dust mites in their bed without knowing it. That's why thousands are switching to bamboo bedding, which is antibacterial and keeps dust mites away.<br>CTA: Wake up without a blocked nose |
-| **B2 (snap)** | Selfie i senga, hun trekker bambusdyna opp til haka og smiler. Glansen synlig, dyna er «våpenet». | Topp: Mitt hemmelige våpen mot midd i senga 🤫<br>Bunn: Våknet tett hver eneste morgen i årevis. Nå sover jeg i antibakterielt bambussengetøy, og merker ingen allergi. | Top: My secret weapon against dust mites in bed 🤫<br>Bottom: Woke up blocked every single morning for years. Now I sleep in antibacterial bamboo bedding, and don't notice any allergy. |
+| **B2 (snap)** | Selfie i senga, hun trekker bambusdyna opp til haka og smiler. Glansen synlig, dyna er «våpenet». | Topp: Mitt hemmelige våpen mot midd i senga 🤫<br>Bunn: Våknet tett hver eneste morgen i årevis. Nå sover jeg i antibakterielt bambussengetøy, og har ikke våknet tett siden. | Top: My secret weapon against dust mites in bed 🤫<br>Bottom: Woke up blocked every single morning for years. Now I sleep in antibacterial bamboo bedding and haven't woken up blocked since. |
 | **C3 (snap)** | Selfie hun tar i senga om morgenen, han sover rolig bak henne i bambussengetøyet. Ekte snap-følelse, litt skjevt, vanlig lys. | Topp: Han har endelig sluttet å våkne pottetett i nesa 🙌<br>Bunn: Var tydeligvis midd. Forsvant sekundet vi byttet til antibakterielt bambussengetøy. | Top: He's finally stopped waking up completely blocked 🙌<br>Bottom: Turns out it was dust mites. Gone the second we switched to antibacterial bamboo bedding. |
 
 ## Headline-bank (symptom først, bindeord på linje 2)
@@ -48,3 +48,13 @@ midd uten bro).
 **Avgjort (Håvard):** «holder husstøvmidd unna» brukes, likt S#96. Nesespray er med i A1 som
 identifikasjon, ikke som løfte om å slippe sprayen. Headline-annonse fra merkevaren trenger
 mekanismen (midd), snap i kundestemme klarer seg uten.
+
+## Dansk
+
+- **A1:** Har du næsespray på natbordet? / Rigtig mange bliver tilstoppede af mider i sengen uden at
+  vide det. Derfor skifter tusindvis til bambussengetøj, som er antibakterielt og holder miderne væk.
+  / CTA: Vågn uden tilstoppet næse
+- **B2:** Mit hemmelige våben mod mider i sengen 🤫 / Vågnede tilstoppet hver eneste morgen i årevis.
+  Nu sover jeg i antibakterielt bambussengetøj og har ikke vågnet tilstoppet siden.
+- **C3:** Han er endelig holdt op med at vågne helt tilstoppet 🙌 / Det var åbenbart mider. Forsvandt
+  i det sekund, vi skiftede til antibakterielt bambussengetøj.
