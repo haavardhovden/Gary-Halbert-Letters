@@ -49,7 +49,7 @@ Læring: A1/A2 mot A3/A4 = billboard mot studio. Innad = hvilken farge.
 | A1 | Headline ad (Schwartz kap. 10 redefinition + kap. 9 logikkens språk) | Du bruker 2 920 timer i senga hvert år.<br>Da bør det være luksus.<br>Bambussengetøy<br>Nå kun 770 kr<br>Badge: 70 000+ solgt | Du bruger 2.920 timer i sengen hvert år.<br>Så bør det være luksus.<br>Bambussengetøj<br>Nu kun 410 kr<br>Badge: 70.000+ solgt | You spend 2,920 hours in bed every year.<br>So it should feel like luxury.<br>Bamboo bedding<br>Now only 770 kr<br>Badge: 70,000+ sold |
 | B2 | Headline ad i billboard | Ja, dette er sengetøy.<br>Bambus sengetøy.<br>Nå til kun 770 kr (ordrett som originalen) | Ja, det her er sengetøj.<br>Bambussengetøj.<br>Nu kun 410 kr | Yes, this is bedding.<br>Bamboo bedding.<br>Now only 770 kr |
 | C3 | Snapchat | Topp: "Nydelig bambussengetøy! Sover som en prinsesse nå 👸" (Malin, Trustpilot)<br>Bunn: "Trodde det kostet en formue, men fikk det til 770 kr" | Topp: "Lækkert bambussengetøj! Sover som en prinsesse nå 👸"<br>Bunn: "Troede det kostede en formue, men fik det til 410 kr" | Top: "Gorgeous bamboo bedding! Sleeping like a princess now 👸"<br>Bottom: "Thought it would cost a fortune, but got it for 770 kr" |
-| D4 | Headline ad (glansen må bære bildet) | Ikke alt sengetøy ser sånn ut.<br>Badge: ~~1280 kr~~ 770 kr | Ikke alt sengetøj ser sådan ud.<br>Badge: ~~820 kr~~ 410 kr | Not all bedding looks like this.<br>Badge: ~~1280 kr~~ 770 kr |
+| D4 | Headline ad (glansen må bære bildet) | Ikke alle senger ser sånn ut.<br>Badge: ~~1280 kr~~ 770 kr | Ikke alle senge ser sådan ud.<br>Badge: ~~820 kr~~ 410 kr | Not every bed looks like this.<br>Badge: ~~1280 kr~~ 770 kr |
 
 Førpris: NO 1280 kr, DK 820 kr (ikke brukt i copy).
 
