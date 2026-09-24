@@ -49,6 +49,6 @@ Læring: A1/A2 mot A3/A4 = billboard mot studio. Innad = hvilken farge.
 | A1 | Testimonial headline | "Kjennes nesten ut som silke, men mykere." – Marion (ekte Trustpilot)<br>Bambussengetøy<br>Nå kun 770 kr | "Føles næsten som silke, men blødere." – Marion<br>Bambussengetøj<br>Nu kun 410 kr |
 | B2 | Headline ad i billboard | Ja, dette er sengetøy.<br>Bambussengetøy.<br>Nå kun 770 kr | Ja, det her er sengetøj.<br>Bambussengetøj.<br>Nu kun 410 kr |
 | C3 | Snapchat | Topp: "Nydelig bambussengetøy! Sover som en prinsesse nå 👸" (Malin, Trustpilot)<br>Bunn: "Trodde det kostet en formue, men fikk det til 770 kr" | Topp: "Lækkert bambussengetøj! Sover som en prinsesse nå 👸"<br>Bunn: "Troede det kostede en formue, men fik det til 410 kr" |
-| D4 | Headline ad (glansen må bære bildet) | Skill deg ut,<br>med sengetøy laget av bambus.<br>Nå kun 770 kr | Skil dig ud,<br>med sengetøj lavet af bambus.<br>Nu kun 410 kr |
+| D4 | Headline ad (glansen må bære bildet) | Skill deg ut.<br>Sov i bambus.<br>Badge: ~~1280 kr~~ 770 kr | Skil dig ud.<br>Sov i bambus.<br>Badge: ~~820 kr~~ 410 kr |
 
 Førpris: NO 1280 kr, DK 820 kr (ikke brukt i copy).
