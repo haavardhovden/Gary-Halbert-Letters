@@ -46,11 +46,11 @@ Læring: A1/A2 mot A3/A4 = billboard mot studio. Innad = hvilken farge.
 
 | Var. | Format | NO | DK |
 |---|---|---|---|
-| A1 | Testimonial headline | "Til og med bedre enn egyptisk bomull" – Hege (Hege Berg, Trustpilot 5★, 15. okt. 2025, https://no.trustpilot.com/reviews/68ef3b1b63f90ea8f28a219d)<br>Bambussengetøy<br>Nå kun 770 kr | "Endda bedre end egyptisk bomuld" – Hege<br>Bambussengetøj<br>Nu kun 410 kr |
+| A1 | Testimonial headline | "Du vil ikke angre om du kjøper et. Heller på at du ikke kjøpte flere 😅" – Heidi (Heidi Skjørberg Nilsen, Trustpilot 5★)<br>Bambussengetøy<br>Nå kun 770 kr | "Du vil ikke fortryde, hvis du køber et. Snarere at du ikke købte flere 😅" – Heidi<br>Bambussengetøj<br>Nu kun 410 kr |
 | B2 | Headline ad i billboard | Ja, dette er sengetøy.<br>Bambus sengetøy.<br>Nå til kun 770 kr (ordrett som originalen) | Ja, det her er sengetøj.<br>Bambussengetøj.<br>Nu kun 410 kr |
 | C3 | Snapchat | Topp: "Nydelig bambussengetøy! Sover som en prinsesse nå 👸" (Malin, Trustpilot)<br>Bunn: "Trodde det kostet en formue, men fikk det til 770 kr" | Topp: "Lækkert bambussengetøj! Sover som en prinsesse nå 👸"<br>Bunn: "Troede det kostede en formue, men fik det til 410 kr" |
 | D4 | Headline ad (glansen må bære bildet) | Skill deg ut.<br>Sov i bambus.<br>Badge: ~~1280 kr~~ 770 kr | Skil dig ud.<br>Sov i bambus.<br>Badge: ~~820 kr~~ 410 kr |
 
 Førpris: NO 1280 kr, DK 820 kr (ikke brukt i copy).
 
-Hot buttons: A1 autoritet (slår egyptisk bomull), B2 overraskelse, C3 grådighet (trodde det kostet en formue), D4 status.
+Hot buttons: A1 frykt for å angre, B2 overraskelse, C3 grådighet (trodde det kostet en formue), D4 status.
