@@ -46,11 +46,11 @@ Læring: A1/A2 mot A3/A4 = billboard mot studio. Innad = hvilken farge.
 
 | Var. | Format | NO | DK |
 |---|---|---|---|
-| A1 | Testimonial headline | "Du vil ikke angre om du kjøper et. Heller på at du ikke kjøpte flere 😅" – Heidi (Heidi Skjørberg Nilsen, Trustpilot 5★)<br>Bambussengetøy<br>Nå kun 770 kr | "Du vil ikke fortryde, hvis du køber et. Snarere at du ikke købte flere 😅" – Heidi<br>Bambussengetøj<br>Nu kun 410 kr |
+| A1 | Headline ad (Schwartz kap. 10 redefinition + kap. 9 logikkens språk) | Du tilbringer 2 920 timer i senga.<br>Da bør det være luksus.<br>Bambussengetøy<br>Nå kun 770 kr<br>Badge: 70 000+ solgt | Du tilbringer 2.920 timer i sengen.<br>Så bør det være luksus.<br>Bambussengetøj<br>Nu kun 410 kr<br>Badge: 70.000+ solgt |
 | B2 | Headline ad i billboard | Ja, dette er sengetøy.<br>Bambus sengetøy.<br>Nå til kun 770 kr (ordrett som originalen) | Ja, det her er sengetøj.<br>Bambussengetøj.<br>Nu kun 410 kr |
 | C3 | Snapchat | Topp: "Nydelig bambussengetøy! Sover som en prinsesse nå 👸" (Malin, Trustpilot)<br>Bunn: "Trodde det kostet en formue, men fikk det til 770 kr" | Topp: "Lækkert bambussengetøj! Sover som en prinsesse nå 👸"<br>Bunn: "Troede det kostede en formue, men fik det til 410 kr" |
 | D4 | Headline ad (glansen må bære bildet) | Skill deg ut.<br>Sov i bambus.<br>Badge: ~~1280 kr~~ 770 kr | Skil dig ud.<br>Sov i bambus.<br>Badge: ~~820 kr~~ 410 kr |
 
 Førpris: NO 1280 kr, DK 820 kr (ikke brukt i copy).
 
-Hot buttons: A1 frykt for å angre, B2 overraskelse, C3 grådighet (trodde det kostet en formue), D4 status.
+Hot buttons: A1 tillatelse til å unne seg (luksus omdefinert fra sløsing til det du bruker mest), B2 overraskelse, C3 grådighet (trodde det kostet en formue), D4 status.
