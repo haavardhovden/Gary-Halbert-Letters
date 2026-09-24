@@ -54,3 +54,21 @@ Læring: A1/A2 mot A3/A4 = billboard mot studio. Innad = hvilken farge.
 Førpris: NO 1280 kr, DK 820 kr (ikke brukt i copy).
 
 Hot buttons: A1 tillatelse til å unne seg (luksus omdefinert fra sløsing til det du bruker mest), B2 overraskelse, C3 grådighet (trodde det kostet en formue), D4 status (karakterrolle, Schwartz kap. 8: bildet viser hvem som eier det).
+
+## EVERGREEN NO (24. sep, etter Jonathans beskjed)
+
+40 %-salget kjører bare til 1. oktober i Norge, og oktober får et annet tilbud. Norsk copy skal
+derfor ikke nevne pris, prosent eller salg. DK er uendret (der fortsetter salget, opptil 50 %).
+Prisen lever i primærteksten og på landingssiden, ikke i kreativen.
+
+| Var. | Format | NO evergreen | DK (uendret) | EN |
+|---|---|---|---|---|
+| A1 | Headline ad | Du bruker 2 920 timer i senga hvert år.<br>Da bør det være luksus.<br>Bambussengetøy<br>Badge: 70 000+ solgt | Du bruger 2.920 timer i sengen hvert år.<br>Så bør det være luksus.<br>Bambussengetøj<br>Nu kun 410 kr<br>Badge: 70.000+ solgt | You spend 2,920 hours in bed every year.<br>So it should feel like luxury.<br>Bamboo bedding<br>Badge: 70,000+ sold |
+| B2 | Headline ad i billboard | Ja, dette er sengetøy.<br>Bambus sengetøy.<br>Badge: 70 000+ solgt | Ja, det her er sengetøj.<br>Bambussengetøj.<br>Nu kun 410 kr | Yes, this is bedding.<br>Bamboo bedding.<br>Badge: 70,000+ sold |
+| C3 | Snapchat | Topp: "Nydelig bambussengetøy! Sover som en prinsesse nå 👸" (Malin, Trustpilot)<br>Bunn: "Trodde det kostet en formue. Det gjorde det ikke." | Topp: "Lækkert bambussengetøj! Sover som en prinsesse nå 👸"<br>Bunn: "Troede det kostede en formue, men fik det til 410 kr" | Top: "Gorgeous bamboo bedding! Sleeping like a princess now 👸"<br>Bottom: "Thought it would cost a fortune. It didn't." |
+| D4 | Headline ad | Dette er ikke vanlig sengetøy.<br>Det er bambus sengetøy.<br>Badge: 70 000+ solgt | Det her er ikke almindeligt sengetøj.<br>Det er bambussengetøj.<br>Badge: ~~820 kr~~ 410 kr | This isn't ordinary bedding.<br>It's bamboo bedding.<br>Badge: 70,000+ sold |
+
+Det som forsvant: «Nå kun 770 kr» (A1, B2), «fikk det til 770 kr» (C3), gjennomstreket pris (D4).
+Erstattet med 70 000+-badgen der prisen sto, så layouten beholder et element nederst. C3 beholder
+grådighets-hot-buttonen uten tall. Når oktober-tilbudet er kjent, kan prisen legges tilbake i
+badgen på samme plass.
