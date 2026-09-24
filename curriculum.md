@@ -70,7 +70,7 @@ Planen for det som skjer når arkivet er ferdig lest står i `plan-etter-halbert
 
 ## 3. Study Modern Masters
 
-> Notat: Gå til "inspo" delen i Atria, sørg for at du sorterer etter longest running/ impressions (selv ads som ikke lenger er aktive) — gå inn på ALLE brands under, en etter en og lagre ALLE ads med bra copy i "Great copy" boarden.
+> Notat: Gå til "inspo" delen i Atria, sørg for at du sorterer etter impressions (bedre proxy enn longest running, se laert.md) (selv ads som ikke lenger er aktive) — gå inn på ALLE brands under, en etter en og lagre ALLE ads med bra copy i "Great copy" boarden.
 >
 
 Study the top ads (top 30 ish) best in class paid social brands:

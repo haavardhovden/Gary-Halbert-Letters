@@ -97,6 +97,17 @@ Primærtekst på 90 ord: alle sju, en setning hver. Static: 1 og 2 i headline, 3
 - Volum: hit rate 5–15 %. Fem prosent betyr 20 annonser per vinner. Regn baklengs fra hvor mange vinnere som slites ut per måned.
 - Top of funnel-statics vinner sjelden på last click. De mater andre annonser. Døm på økonomi, ikke på ROAS per annonse.
 
+## Statics, 8 regler (PDF-karusell fra paid social-byrå, 24. sep, curriculum seksjon 5)
+
+- Statics virker top of funnel når headlinen er relevant for en som ikke kjenner merket. Test: "My confidence is back" (kjenner merket) vs "The only shampoo that ended my dandruff battle" (kjenner det ikke).
+- Fire formater vinner nesten alltid: sammenligning (oss/dem, før/etter, meg nå/meg senere), produktbilde + headline (ofte en review som headline, flest vinnere), organisk-utseende (presse, post-it, kommentar), tilbud.
+- Sammenligningsannonser: rangér de mislykkede løsningene etter hvor ofte anmeldelsene nevner dem, og led med den vanligste. Samme som Jonathans regel om failed solutions i UGC.
+- Headline-klare anmeldelser: korte nok til Meta-headline, i kundens ord. "Har kjøpt 6 sett" er en sånn.
+- Emosjonelle headlines i jeg-form kvalifiserer og diskvalifiserer samtidig: "My knees felt like they were betraying me with every step". Følelsen før produktet, ikke resultatet etter.
+- Skann-rekkefølge: størst leses først, så kontekst, så produkt, så sosialt bevis. Alt i samme størrelse leses ikke. Samme som "øyet hopper" over.
+- Underbetjent persona: kryss anmeldelser og kommentarer mot kontoen. Personaen med mange anmeldelser og få annonser er unlocket. Menn (kona klager, snorking) er kandidaten for Stille.
+- Konkurrentanalyse: sorter Meta-biblioteket etter impressions, ikke longest running. Impressions følger spend, og spend følger vinnere.
+
 ## Harry Dry (podcast "Learn Copywriting in 76 Minutes", 16. sep, curriculum seksjon 5, https://youtu.be/TUMjnmfsPeM)
 
 - Tre spørsmål på hver setning: Kan jeg se det? Kan det være sant eller usant? Kan ingen andre si det? Tre nei = søppel. Tre ja = noe. "Worn by supermodels in London and dads in Ohio" får tre ja. (Mekanisme #80.)
