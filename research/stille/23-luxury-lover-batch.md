@@ -41,3 +41,14 @@ colours can bring it back.
 | A4 | Hånd som stryker over stoffet, glansen skifter, himmelblå | samme | samme | samme |
 
 Læring: A1/A2 mot A3/A4 = billboard mot studio. Innad = hvilken farge.
+
+## ENDELIG (24. sep): blandet batch, Håvards valg
+
+| Var. | Format | NO | DK |
+|---|---|---|---|
+| A1 | Testimonial headline | "Kjennes nesten ut som silke, men mykere." – Marion (ekte Trustpilot)<br>Bambussengetøy<br>Nå kun 770 kr | "Føles næsten som silke, men blødere." – Marion<br>Bambussengetøj<br>Nu kun 410 kr |
+| B2 | Headline ad i billboard | Ja, dette er sengetøy.<br>Bambussengetøy.<br>Nå kun 770 kr | Ja, det her er sengetøj.<br>Bambussengetøj.<br>Nu kun 410 kr |
+| C3 | Snapchat | Topp: "Nydelig bambussengetøy! Sover som en prinsesse 👸" (Malin, Trustpilot)<br>Bunn: "Fikk det til kun 770 kr" | Topp: "Skønt bambussengetøj! Sover som en prinsesse 👸"<br>Bunn: "Fik det til kun 410 kr" |
+| D4 | Headline ad | Ikke alle soverom ser sånn ut.<br>Bambussengetøy<br>Nå kun 770 kr | Ikke alle soveværelser ser sådan ud.<br>Bambussengetøj<br>Nu kun 410 kr |
+
+Førpris: NO 1280 kr, DK 820 kr (ikke brukt i copy).
