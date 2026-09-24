@@ -118,6 +118,19 @@ er hentet fra søkeutdrag pluss det som allerede ligger i `client-applications.m
 89. Pausen på fjellet varer 15 minutter. Bålkvelden varer 3 timer. Selg til de 3 timene.
 90. "Det er ikke en stol. Det er grunnen til at du blir sittende."
 
+## Bekreftet 24. sep (søk, se research/vidda/01-faktaark.md)
+
+- Patent på strekksonen: bekreftet på egen side (pkt 10, 80).
+- 30 000 solgt: bekreftet på egen side (pkt 18, 81).
+- Pris 879 kr egen side, 990 kr forhandlere, alle farger (pkt 4).
+- Garanti: 2 år mot produksjons- og materialfeil. Angrerett 14 dager (pkt 77).
+- Bæreveske: Hekta sier trekk/stropper er fjernet for plast og CO2. Ikke bruk (pkt 11).
+- Gründer: «to turvenner», Hardangervidda. Navn mangler (pkt 79).
+- Tek.no-testen var mot Dovrefjell sitteplate (299 kr, 700 g), ikke Helinox (pkt 22).
+- Ny innvending fra Tek.no: stengene i ryggen gnager mot ribbeina hos noen, løsne stroppene.
+- Helinox Ground Chair er 615–640 g. Vidda er ikke lettest. «Lettere enn vannflaska» holder, «lettest» gjør det ikke (pkt 47, 48).
+- Utsolgt: DNT og Hekta «endelig på lager igjen» april 2024 (pkt 24, 66).
+
 ## Hull i researchen (må gjøres før copy)
 
 - Les produktsiden selv: full beskrivelse, pris, garanti, frakt, hva som følger med, alle reviews ordrett.
