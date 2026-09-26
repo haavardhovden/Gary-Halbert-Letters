@@ -335,7 +335,7 @@ Manus H bruker derfor «du svetter hver natt, også når du ikke merker det» (u
 | Body | Og har du et vanlig sengetøy, så puster det ikke godt nok, og det kan fort bli klamt og lukte surt. |
 | Body | Det er derfor over 25 000 har byttet til bambussengetøy fra Stille. |
 | Body | Bambussengetøy puster, tørker raskt og er antibakterielt, så fukten slipper ut og lukta ikke får satt seg. |
-| Body | Det betyr at det holder seg friskt mye lenger, at du kan sove naken med god samvittighet, og at utstyret får puste. |
+| Body | Det betyr at det holder seg friskt mye lenger, og at du kan sove naken med god samvittighet. |
 | CTA | Så prøv bambussengetøyet fra Stille i 30 dager, og liker du det ikke, sender du det tilbake. Sov naken, og sov godt. |
 
 **Kilde svette-tall (Manus I):** Aftenposten 29.11.2005, «Svømmer i svette og midd»: «et voksent
