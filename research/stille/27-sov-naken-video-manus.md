@@ -333,7 +333,7 @@ Manus H bruker derfor «du svetter hver natt, også når du ikke merker det» (u
 | Body | Fuktig treningstøy som blir liggende, begynner fort å lukte surt, men veldig få tenker på at akkurat det samme skjer med sengetøyet ditt når du sover naken. |
 | Body | Fordi her er greia: du svetter faktisk rundt en halv liter hver eneste natt! Og når du da sover helt naken, så havner alt rett i sengetøyet. |
 | Body | Og har du et vanlig sengetøy, så puster det ikke godt nok, og det kan fort bli klamt og lukte surt. |
-| Body | Det er derfor over 25 000 har byttet til bambussengetøy fra Stille. |
+| Body | Det er nettopp derfor over 25 000 har byttet til bambussengetøy fra Stille. |
 | Body | Bambussengetøy puster, tørker raskt og er antibakterielt, så fukten slipper ut og lukta ikke får satt seg. |
 | Body | Det betyr at det holder seg friskt mye lenger, og at du kan sove naken med god samvittighet. |
 | CTA | Så prøv bambussengetøyet fra Stille i 30 dager, og liker du det ikke, sender du det tilbake. Sov naken, og sov godt. |
