@@ -279,7 +279,7 @@ Løsning: treningstøy-bildet handler om stoff som puster, og det sluttes i Body
 | Modul | Script |
 |---|---|
 | Hook 1 | Hvis du sover naken, må du se denne. |
-| Hook 2 | Det er ikke uhygienisk å sove naken, men det kommer an på én ting. Og den tingen er sengetøyet. |
+| Hook 2 | Det er ikke uhygienisk å sove naken, men det kommer an på én ting. |
 | Hook 3 | Ikke gjør denne ene feilen når du sover naken. |
 | Body 1 | En treningstrøye som blir liggende fuktig i bagen, begynner fort å lukte surt, og det samme kan skje med sengetøyet når du sover naken. |
 | Body 2 | Og her er greia: hver eneste natt svetter du mellom to og fem desiliter [SJEKK KILDE], og sover du med pysj, så tar klærne imot noe av det, men sover du helt naken, havner alt rett i sengetøyet. |
