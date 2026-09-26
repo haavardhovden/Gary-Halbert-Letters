@@ -94,7 +94,7 @@ Deretter: **Dom:** klar for Jonathan / ikke klar (antall FEIL). Ingen annen komm
 - **U7** Ikke oversalg.
 
 ### Compliance (C), FEIL stopper batchen
-- **C1** Førpris = laveste pris siste 30 dager (NO 1 280, DK 820).
+- **C1** Førpris = laveste pris siste 30 dager (sjekk tall ved hver batch).
 - **C2** Aldri «dreper», «middfritt», «hypoallergen», «fjerner allergi», «holder midd unna»,
   «kurerer». Bruk «hemmer», «tørrere», «trives dårligere».
 - **C3** Ingen medisinske løfter (eksem, overgangsalder, snorking/søvnapné, erstatter nesespray).
@@ -108,10 +108,10 @@ Deretter: **Dom:** klar for Jonathan / ikke klar (antall FEIL). Ingen annen komm
 
 **OK:** bambusviskose · sateng-vev, glansen fra veven · antibakterielt · kjølig ved første
 berøring · mer fukt i fiberen enn bomull · faller mykt · ingen statisk · tåler vaskemaskin ·
-70 000+ solgt · gaveinnpakning · NO ~~1 280~~ 770 kr, DK ~~820~~ 410 kr.
+70 000+ solgt · gaveinnpakning · 30 dagers åpent kjøp. Pris: 770 kr gjelder ikke lenger, sjekk dagens pris.
 
 **SJEKK:** 300 TC · OEKO-TEX · dype lommer · mykere etter hver vask · Designet i Oslo ·
-4,8 Trustpilot · 30 eller 100 dagers åpent kjøp · fri frakt over 1 199 kr · 60 °C.
+4,8 Trustpilot · fri frakt over 1 199 kr · 60 °C.
 
 **IKKE BRUK:** «puster bedre enn bomull» · «temperaturregulerende» · «X grader kjøligere» ·
 «500 ml svette» · «borte på sekunder».

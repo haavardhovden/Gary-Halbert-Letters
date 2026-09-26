@@ -91,7 +91,7 @@ Det jeg ligger i nå, er fra Stille. Lenken ligger her hvis du vil kjenne forskj
 
 ## Sjekk før produksjon
 
-- 30 netter eller 100 dager åpent kjøp. Status er SJEKK.
+- Åpent kjøp er 30 dager (bekreftet 26. sep). 770 kr gjelder ikke lenger.
 - «Sklei» og «dyna på gulvet» er personens opplevelse og ingen produktpåstand. De er ok.
 - Ikke svar på «bambus»-vitsen i kommentarfeltet. Jokken betyr morgenstiv. Den viser at
   publikum er menn, men den skal ikke inn i annonsen.
@@ -144,13 +144,13 @@ skrevet i førsteperson og må skrives om på samme måte hvis de skal brukes.
 | 3 Grunn 1 | He slides under the duvet and relaxes his shoulders. A soft cool-blue shimmer spreads where skin meets fabric. | Stoffet er kjølig mot huden, og det er glatt uten å være glatt som silke. | 1. Kjølig når du legger deg |
 | 4 Grunn 2 | Split screen at 3 a.m. Left: a cotton bed, the man restless, the sheet crumpled and damp. Right: bamboo, the man sleeping still. Small animated droplets move from skin into the fabric and out. | Den andre merker du om morgenen. Bomull holder på fukten når det blir varmt om natta, men bambus puster, flytter fukten og tørker raskere, så du våkner ikke klam. | 2. Du våkner ikke klam |
 | 5 Grunn 3 | Morning. The sheets go into a washing machine, then come out smooth and folded in a stack of colours. | Den tredje er vasken. Sover du naken, vil du vaske sengetøyet ofte, og bambus tåler vaskemaskinen helt fint. | 3. Tåler vaskemaskin |
-| 6 Bro til CTA | The made bed with the navy set, the Stille logo small in the corner. | Bambussengetøyet er fra Stille, og akkurat nå får du hele settet for 770 kroner. | ~~1 280 kr~~ 770 kr |
-| 7 CTA | The same bed at night, the lamp switched off. | Prøv det i 30 netter, og liker du det ikke, sender du det tilbake. | Over 70 000 solgt |
+| 6 Bro til CTA | The made bed with the navy set, the Stille logo small in the corner. | Bambussengetøyet er fra Stille. | [dagens pris] kr |
+| 7 CTA | The same bed at night, the lamp switched off. | Prøv det i 30 dager, og liker du det ikke, sender du det tilbake. | Over 70 000 solgt |
 
 Voiceover: rolig norsk mannsstemme, som en kamerat som forklarer og ikke som en reklame.
 
 Samme lydspor fungerer som VSL: legg voiceoveren over stock- og B-roll-klipp i de samme
 scenene, med tekst på skjermen.
 
-Sjekk før produksjon: 30 eller 100 netter. «Hele settet for 770 kr» må stemme med hva
-settet består av.
+Oppdatert 26. sep: åpent kjøp er 30 dager. 770 kr gjelder ikke lenger, så prisen står som
+[dagens pris] på skjermen og er tatt ut av voiceoveren.
