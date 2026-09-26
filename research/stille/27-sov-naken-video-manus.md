@@ -331,7 +331,7 @@ Manus H bruker derfor «du svetter hver natt, også når du ikke merker det» (u
 | Hook 2 | Det er ikke uhygienisk å sove naken, men det kommer an på én ting. |
 | Hook 3 | Ikke gjør denne ene feilen når du sover naken. |
 | Body | En treningstrøye som blir liggende fuktig, begynner fort å lukte surt, men veldig få tenker på at akkurat det samme skjer med sengetøyet når du sover naken. |
-| Body | Fordi her er greia: du svetter faktisk rundt en halv liter hver eneste natt! Og når du da sover helt naken, så havner alt rett i sengetøyet. |
+| Body | Fordi her er greia: en voksen mann kan faktisk svette opptil en liter hver eneste natt! Og når du da sover helt naken, så havner alt rett i sengetøyet. |
 | Body | Og har du et vanlig sengetøy, så puster det ikke godt nok, og det kan fort bli klamt og lukte surt. |
 | Body | Så det du trenger, er et antibakterielt sengetøy som puster godt og tørker raskt, sånn at fukten slipper ut og lukta ikke får satt seg. |
 | Body | Og det finnes et stoff som gjør nettopp dette, nemlig bambus. |
