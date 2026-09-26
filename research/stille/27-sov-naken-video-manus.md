@@ -385,12 +385,12 @@ og vise at bambus puster, er antibakterielt og mykt. Ingen «fordi»-kjede.
 | Modul | Script |
 |---|---|
 | Hook 1 | Hvis du sover naken, må du se denne. |
-| Hook 2 | Det kan fort bli uhygienisk å sove naken, med mindre du gjør dette. |
+| Hook 2 | Her er hvordan du kan sove naken uten at det blir klamt. |
 | Hook 3 | Ikke gjør denne ene feilen når du sover naken. |
 | Body | Du tenker sikkert ikke over det, men du svetter faktisk rundt en halv liter hver eneste natt! Og når du sover naken, havner alt rett i sengetøyet. |
 | Body | Problemet er at vanlig sengetøy ikke puster godt nok, og det kan fort bli klamt, ubehagelig og lukte surt. |
 | Body | Det er nettopp derfor over 25 000 har byttet til bambussengetøy fra Stille. |
-| Body | Bambus puster, tørker raskt og er antibakterielt, så fukten slipper ut og lukta ikke får satt seg. Det betyr at det holder seg friskt mye lenger, og at du kan sove naken med god samvittighet. I tillegg er det ekstra mykt og skånsomt mot de sensitive områdene. |
+| Body | Bambus puster, tørker raskt og er antibakterielt, så fukten slipper ut og lukta ikke får satt seg. Det betyr at det holder seg friskt mye lenger, og gjør at du kan sove naken med god samvittighet. I tillegg er det ekstra mykt og skånsomt mot de sensitive områdene. |
 | CTA | Så skaff deg bambussengetøyet fra Stille, la utstyret få puste og sov godt! |
 
 **Broer:** Hook→Body løst med «Du tenker sikkert ikke over det» (holder curiosity-gapet åpent).
