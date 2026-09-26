@@ -131,3 +131,26 @@ Lenken ligger her hvis du vil prøve, og liker du det ikke, sender du det tilbak
 - Grunn 2 bruker Jonathans godkjente mekanisme med tre verb.
 - Grunn 3 tar innvendingen fra dem som synes det er uhygienisk å sove naken. Den svarer med
   vaskemaskin og ikke med antibakteriell.
+
+## Manus C v2: «3 grunner» som AI-animasjon / VSL, ca. 30 sek (26. sep)
+
+Merk: dette er ikke UGC. Det er fortellerstemme (voiceover) og ikke «jeg». Manus A og B er
+skrevet i førsteperson og må skrives om på samme måte hvis de skal brukes.
+
+| Scene | Visual (EN) | Voiceover (NO) | Tekst på skjerm |
+|---|---|---|---|
+| 1 Hook | Warm dim bedroom at night. A man pulls off his T-shirt and tosses it on a chair, seen from behind. The duvet is folded back on smooth navy bamboo sheets. | Etter denne videoen kommer du til å sove naken i bambus. | 3 grunner til å sove naken i bambus |
+| 2 Bro | Close-up of a hand sliding slowly across the sheet. The fabric catches the light. | Det er tre grunner til det, og den første merker du med en gang du legger deg. | |
+| 3 Grunn 1 | He slides under the duvet and relaxes his shoulders. A soft cool-blue shimmer spreads where skin meets fabric. | Stoffet er kjølig mot huden, og det er glatt uten å være glatt som silke. | 1. Kjølig når du legger deg |
+| 4 Grunn 2 | Split screen at 3 a.m. Left: a cotton bed, the man restless, the sheet crumpled and damp. Right: bamboo, the man sleeping still. Small animated droplets move from skin into the fabric and out. | Den andre merker du om morgenen. Bomull holder på fukten når det blir varmt om natta, men bambus puster, flytter fukten og tørker raskere, så du våkner ikke klam. | 2. Du våkner ikke klam |
+| 5 Grunn 3 | Morning. The sheets go into a washing machine, then come out smooth and folded in a stack of colours. | Den tredje er vasken. Sover du naken, vil du vaske sengetøyet ofte, og bambus tåler vaskemaskinen helt fint. | 3. Tåler vaskemaskin |
+| 6 Bro til CTA | The made bed with the navy set, the Stille logo small in the corner. | Bambussengetøyet er fra Stille, og akkurat nå får du hele settet for 770 kroner. | ~~1 280 kr~~ 770 kr |
+| 7 CTA | The same bed at night, the lamp switched off. | Prøv det i 30 netter, og liker du det ikke, sender du det tilbake. | Over 70 000 solgt |
+
+Voiceover: rolig norsk mannsstemme, som en kamerat som forklarer og ikke som en reklame.
+
+Samme lydspor fungerer som VSL: legg voiceoveren over stock- og B-roll-klipp i de samme
+scenene, med tekst på skjermen.
+
+Sjekk før produksjon: 30 eller 100 netter. «Hele settet for 770 kr» må stemme med hva
+settet består av.
