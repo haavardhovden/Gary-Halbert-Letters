@@ -165,3 +165,24 @@ Oppdatert 26. sep: åpent kjøp er 30 dager. 770 kr gjelder ikke lenger, så pri
 
 Med H3 blir broen i scene 2: «Det er tre grunner til å sove naken i bambus, og den første
 merker du med en gang du legger deg.»
+
+## Manus D: Variation A (hygiene-vinkelen) revidert med Halbert og Schwartz (26. sep)
+
+Utgangspunkt: Variation A fra manus-tabellen (fukt, surt sengetøy, antibakterielt). Vinkelen er beholdt.
+
+| Modul | Script |
+|---|---|
+| Hook 1 | Hvis du sover naken, bør du vite dette om sengetøyet ditt. |
+| Hook 2 | Det er ikke uhygienisk å sove naken, men det kommer an på én ting. |
+| Hook 3 | Å sove naken er ikke problemet, men sengetøyet kan være det. |
+| Bro | Det handler om fukt. |
+| Body 1 | Kroppen slipper ut fukt hele natta, og når du sover naken, går alt rett i sengetøyet. |
+| Body 2 | Et stoff som ikke puster godt, rekker ikke å tørke før neste kveld. Derfor kan sengetøy begynne å lukte surt selv om det ikke er lenge siden du vasket det. Det er ikke deg, det er stoffet. |
+| Body 3 | Bambus puster, flytter fukten og tørker raskere, så sengetøyet er tørt igjen når du legger deg. Det er også antibakterielt, så det holder seg friskt lenger mellom hver vask. |
+| Body 4 | Du kjenner det med en gang du legger deg. Det er kjølig og glatt mot huden, og det er fortsatt tørt når du våkner. |
+| Bevis | Sengetøyet er fra Stille, og over 70 000 er allerede solgt. |
+| CTA | Prøv det i 30 dager, og liker du det ikke, sender du det tilbake. Sov naken, og sov i bambus. |
+
+Endringer: Hook 3 uten «sjokkerende fakta» (#33 grense). Skylden flyttet fra personen til stoffet (#98).
+Kritikk og løsning i samme åndedrag (#98). Én rød tråd, «super mykt» ut (#84). Resultatet
+kjennes i kroppen (#36, #87). Bevis rett etter tvilen (#44). Closing med risikofritt tilbud (#37).
