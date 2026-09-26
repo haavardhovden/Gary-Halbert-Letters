@@ -303,3 +303,16 @@ Løsning: treningstøy-bildet handler om stoff som puster, og det sluttes i Body
 | Body | Og stoffet som gjør alt dette, er bambus. Sengetøyet fra Stille puster, tørker raskt og er antibakterielt, og i tillegg kjennes det utrolig glatt og mykt mot bar hud. |
 | Body | Så det holder seg friskt mye lenger, og du kan sove naken med god samvittighet. |
 | CTA | Bytt til bambussengetøy fra Stille, sov naken og sov godt. |
+
+### Manus H, 45 sek
+
+| Modul | Script |
+|---|---|
+| Hook 1–3 | Samme som 60 sek. |
+| Body | En treningstrøye som blir liggende fuktig, lukter fort surt, men få tenker på at det samme skjer med sengetøyet når du sover naken. |
+| Body | Og her er greia: du svetter mellom to og fem desiliter hver natt [SJEKK KILDE], og når du sover helt naken, havner alt rett i sengetøyet. |
+| Body | Og i vanlig sengetøy blir den fukten liggende i stoffet. |
+| Body | Så det du trenger, er et sengetøy som puster og tørker raskt, sånn at fukten slipper ut og lukta ikke får satt seg. |
+| Body | Og stoffet som gjør det, er bambus. Sengetøyet fra Stille er i tillegg antibakterielt og kjennes glatt og mykt mot bar hud. |
+| Body | Så du kan sove naken med god samvittighet. |
+| CTA | Bytt til bambussengetøy fra Stille, sov naken og sov godt. |
