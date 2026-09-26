@@ -165,3 +165,67 @@ Oppdatert 26. sep: åpent kjøp er 30 dager. 770 kr gjelder ikke lenger, så pri
 
 Med H3 blir broen i scene 2: «Det er tre grunner til å sove naken i bambus, og den første
 merker du med en gang du legger deg.»
+
+## QA mot feilloggen (26. sep, Manus C v2 med tre hooks)
+
+Reglene som ikke gjelder video (F1–F5, J9, J10, J12, J13) er utelatt. U4 (failed solutions) gjelder ikke,
+fordi manuset med vilje ikke er problem/løsning (Schwartz nivå 3).
+
+| Regel | H1 | H2 | H3 | Body (scene 2–7) |
+|---|---|---|---|---|
+| J1 Bindeord | PASS (én setning) | PASS («og da») | PASS (to korte, bevisst) | PASS |
+| J2 Mekanisme | PASS | PASS | PASS | PASS (scene 4) |
+| J3 Sann mekanisme | PASS | PASS | PASS | PASS («puster, flytter fukten, tørker raskere» er godkjent ordlyd) |
+| J4 Tre verb | PASS | PASS | PASS | PASS |
+| J6 Ikke paraply | PASS | PASS | PASS | PASS («våkner ikke klam», ikke «sover bedre») |
+| J7 Dream outcome | PASS | PASS | PASS | PASS |
+| J8 Ikke overlov | MERKNAD: «kommer du til å sove naken i bambus» lover noe om seeren, ikke lakenet | PASS | PASS | PASS |
+| J11 Rekkefølge | PASS | PASS | PASS | PASS (lyst → tre grunner → merke → CTA) |
+| J14 Bilde = copy | PASS | PASS | PASS | FEIL scene 4: visualet viser bomullssengen «crumpled and damp» og mannen urolig. Stemmen gir bomull én kontrastlinje, bildet gir den en hel scene → gjør venstre side nøytral (se under) |
+| H1 Ikke nedsnakk bomull | PASS | PASS | PASS | FEIL scene 4 (samme som over, det er bildet som snakker ned, ikke ordene) |
+| H2 Ingen skam | PASS | PASS | PASS | MERKNAD scene 5: «Sover du naken, vil du vaske sengetøyet ofte» antyder at det er uhygienisk. Snu til noe hun gjør, ikke noe hun burde |
+| H3 Ingen spørsmål | PASS | PASS («Sover du naken,» er betingelse, ikke spørsmål) | PASS | PASS |
+| H4 Ikke smart | MERKNAD: «Etter denne videoen» er reklamespråk om reklamen | PASS | PASS | PASS |
+| H5 Hotell | PASS | PASS | PASS | PASS |
+| H6 Forteller ikke hva de gjør | MERKNAD (forteller hva de *kommer til* å gjøre) | PASS | PASS | FEIL scene 5: «vil du vaske sengetøyet ofte» → «går sengetøyet oftere i maskinen» |
+| H8 Tankestreker | PASS | PASS | PASS | PASS |
+| U1 Tale, ikke fragmenter | PASS | PASS | PASS | PASS |
+| U2 Én historie | PASS | PASS | PASS | PASS (én natt: legge seg, våkne, vaske) |
+| U3 Information gap | PASS | PASS | PASS | |
+| U5 Retoriske spørsmål | PASS | PASS | PASS | PASS |
+| U6 CTA-tone | | | | PASS |
+| U7 Oversalg | PASS | PASS | PASS | PASS |
+| C2 Forbudte ord | PASS | PASS | PASS | PASS |
+| C3 Helsepåstander | PASS | PASS | PASS | PASS |
+| C4 Kjølig = første berøring | PASS | PASS | PASS | PASS («med en gang du legger deg») |
+| C6 Bare OK-fakta | PASS | PASS | PASS | PASS (30 dager bekreftet, pris som placeholder, 70 000+) |
+
+**Dom:** ikke klar (2 FEIL, begge i body: scene 4 visual og scene 5 voiceover). Tre merknader på H1.
+Anbefaling: H2 som hovedhook. Den bærer omdefineringen («lakenet er det eneste du har på deg»)
+og lover ingenting om seeren. H1 beholdes som test, H3 som stille variant for kontinuitet med staticsen.
+
+## Manus C v3 (etter QA, 26. sep)
+
+Endringer: scene 4 visual nøytral på bomullssiden, scene 5 voiceover snudd, scene 7 «30 netter»
+i stedet for «30 dager» (sengetøy måles i netter, og «prøv det i 30 netter» er brukt før).
+Alt annet uendret.
+
+| Scene | Visual (EN) | Voiceover (NO) | Tekst på skjerm |
+|---|---|---|---|
+| 1 Hook H2 | A T-shirt lands on a chair, the camera pans to the bed. The duvet is folded back on smooth navy bamboo sheets. | Sover du naken, er lakenet det eneste du har på deg, og da bør det være bambus. | 3 grunner til å sove naken i bambus |
+| 2 Bro | Close-up of a hand sliding slowly across the sheet. The fabric catches the light. | Det er tre grunner til det, og den første merker du med en gang du legger deg. | |
+| 3 Grunn 1 | He slides under the duvet and relaxes his shoulders. A soft cool-blue shimmer spreads where skin meets fabric. | Stoffet er kjølig mot huden, og det er glatt uten å være glatt som silke. | 1. Kjølig når du legger deg |
+| 4 Grunn 2 | Split screen at 3 a.m. Left: a cotton bed, the man turns over once, the duvet half off. Right: bamboo, the man sleeping still. Small animated droplets move from skin into the fabric and out into the air. | Den andre merker du om morgenen. Bomull holder på fukten når det blir varmt om natta, men bambus puster, flytter fukten og tørker raskere, så du våkner ikke klam. | 2. Du våkner ikke klam |
+| 5 Grunn 3 | Morning. The sheets go into a washing machine, then come out smooth and folded in a stack of colours. | Den tredje er vasken. Sover du naken, går sengetøyet oftere i maskinen, og bambus tåler det fint. | 3. Tåler vaskemaskin |
+| 6 Bro til CTA | The made bed with the navy set, the Stille logo small in the corner. | Bambussengetøyet er fra Stille. | [dagens pris] kr |
+| 7 CTA | The same bed at night, the lamp switched off. | Prøv det i 30 netter, og liker du det ikke, sender du det tilbake. | Over 70 000 solgt |
+
+Hook-varianter til samme body:
+
+| Hook | Visual (EN) | Voiceover (NO) | Tekst på skjerm |
+|---|---|---|---|
+| H1 | Warm dim bedroom at night, a man pulls off his T-shirt seen from behind, the duvet folded back on navy bamboo sheets. | Etter denne videoen kommer du til å sove naken i bambus. | 3 grunner til å sove naken i bambus |
+| H3 | No voice for 2–3 seconds. Extreme close-up of a hand sliding across the sheet. | (stille) | Sov naken. Sov i bambus. |
+
+Med H3 blir scene 2: «Det er tre grunner til å sove naken i bambus, og den første merker du med
+en gang du legger deg.»
