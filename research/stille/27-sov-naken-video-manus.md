@@ -335,9 +335,9 @@ Manus H bruker derfor «du svetter hver natt, også når du ikke merker det» (u
 | Body | Og har du et vanlig sengetøy, så puster det ikke godt nok, og det kan fort bli klamt og lukte surt. |
 | Body | Så det du trenger, er et antibakterielt sengetøy som puster godt og tørker raskt, sånn at fukten slipper ut og lukta ikke får satt seg. |
 | Body | Og det finnes et stoff som gjør nettopp dette, nemlig bambus. |
-| Body | Sengetøyet fra Stille er laget av bambus, og i tillegg kjennes det utrolig glatt og mykt mot bar hud. |
-| Body | Så det holder seg friskt mye lenger, og du kan sove naken med god samvittighet. |
-| CTA | Bytt til bambussengetøy fra Stille, sov naken og sov godt. |
+| Body | Det er derfor sengetøyet fra Stille er laget av bambus, og legger du deg naken i det, kjenner du forskjellen med en gang, for det er utrolig glatt og mykt mot huden. |
+| Body | Det betyr at sengetøyet holder seg friskt mye lenger, og at du kan sove naken med god samvittighet. |
+| CTA | Prøv bambussengetøyet fra Stille i 30 dager, og liker du det ikke, sender du det tilbake. Sov naken, og sov godt. |
 
 **Kilde svette-tall (Manus I):** Aftenposten 29.11.2005, «Svømmer i svette og midd»: «et voksent
 menneske svetter gjennomsnittlig mellom 0,3 og 0,6 liter pr. natt, og en voksen mann kan svette
