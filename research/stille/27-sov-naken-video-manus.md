@@ -296,7 +296,7 @@ Løsning: treningstøy-bildet handler om stoff som puster, og det sluttes i Body
 | Hook 2 | Det er ikke uhygienisk å sove naken, men det kommer an på én ting. |
 | Hook 3 | Ikke gjør denne ene feilen når du sover naken. |
 | Body | En treningstrøye som blir liggende fuktig, begynner fort å lukte surt, men veldig få tenker på at akkurat det samme skjer med sengetøyet når du sover naken. |
-| Body | Og her er greia: du svetter mellom to og fem desiliter hver natt [SJEKK KILDE], og når du sover helt naken, havner alt rett i sengetøyet. |
+| Body | Og her er greia: du svetter hver natt, også når du ikke merker det, og når du sover helt naken, havner alt rett i sengetøyet. |
 | Body | Og i vanlig sengetøy blir den fukten liggende i stoffet. |
 | Body | Så det du trenger, er et sengetøy som puster, sånn at fukten slipper ut. |
 | Body | Det bør også tørke raskt og være antibakterielt, så lukta ikke får satt seg. |
@@ -310,9 +310,15 @@ Løsning: treningstøy-bildet handler om stoff som puster, og det sluttes i Body
 |---|---|
 | Hook 1–3 | Samme som 60 sek. |
 | Body | En treningstrøye som blir liggende fuktig, lukter fort surt, men få tenker på at det samme skjer med sengetøyet når du sover naken. |
-| Body | Og her er greia: du svetter mellom to og fem desiliter hver natt [SJEKK KILDE], og når du sover helt naken, havner alt rett i sengetøyet. |
+| Body | Og her er greia: du svetter hver natt, også når du ikke merker det, og når du sover helt naken, havner alt rett i sengetøyet. |
 | Body | Og i vanlig sengetøy blir den fukten liggende i stoffet. |
 | Body | Så det du trenger, er et sengetøy som puster og tørker raskt, sånn at fukten slipper ut og lukta ikke får satt seg. |
 | Body | Og stoffet som gjør det, er bambus. Sengetøyet fra Stille er i tillegg antibakterielt og kjennes glatt og mykt mot bar hud. |
 | Body | Så du kan sove naken med god samvittighet. |
 | CTA | Bytt til bambussengetøy fra Stille, sov naken og sov godt. |
+
+**Svette-tallet (sjekket 26. sep):** «to til fem desiliter svette» er ikke godt dekket.
+Fagkilden (Advances in Physiology Education 2005, «Insensible water loss during sleep»,
+pubmed.ncbi.nlm.nih.gov/16298961) regner rundt 25 ml i timen, ca. 2 dl per natt i kjølig rom,
+og det er hud og pust samlet. 2–4 dl fra huden alene står bare i populærkilder (Reader's Digest).
+Manus H bruker derfor «du svetter hver natt, også når du ikke merker det» (usynlig svette, sant).
