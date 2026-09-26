@@ -212,6 +212,7 @@ Teksten er Håvards. Endret er bare overgangene (#38), markert med **fet**.
 | Hook 1 | Hvis du sover naken, må du se denne. |
 | Hook 2 | Det er ikke uhygienisk å sove naken, men det kommer an på én ting. **(Bro kun med H2: Og den tingen er sengetøyet.)** |
 | Hook 3 | Ikke gjør denne ene feilen når du sover naken. |
+| Hook 4 | Å sove naken er deilig, men det er én ting ingen forteller deg om sengetøyet. |
 | Body | Du ville aldri tatt på deg den samme treningstrøya fem dager på rad uten å vaske den, men det er egentlig det du gjør med sengetøyet ditt. |
 | Body | **Og her er greia:** hver natt svetter du mellom to og fem desiliter [SJEKK KILDE], og sover du naken, er det ingenting annet enn sengetøyet som tar imot det. |
 | Body | Og de fleste sover i bomull, som suger opp svetten og holder på den, så sengetøyet ligger fuktig helt til du legger deg igjen, og det er der bakteriene trives og den sure lukta kommer fra. |
@@ -244,6 +245,7 @@ Teksten er Håvards. Endret er bare overganger (**fet**) og to skrivefeil.
 | Hook 1 | Hvis du sover naken, må du se denne. |
 | Hook 2 | Det er ikke uhygienisk å sove naken, men det kommer an på én ting. **(Bro kun med H2: Og den tingen er sengetøyet.)** |
 | Hook 3 | Ikke gjør denne ene feilen når du sover naken. |
+| Hook 4 | Å sove naken er deilig, men det er én ting ingen forteller deg om sengetøyet. |
 | Body | Du ville aldri tatt på deg den samme treningstrøya fem dager på rad uten å vaske den, så hvorfor gjøre det med sengetøyet? |
 | Body | **Og her er greia:** hver eneste natt svetter du mellom to og fem desiliter [SJEKK KILDE], og sover du med pysj, så tar klærne imot noe av det, men sover du helt naken, havner alt rett i sengetøyet. |
 | Body | Og de fleste sover i bomull, som suger opp svetten og holder på den, sånn at sengetøyet ligger fuktig helt til du legger deg igjen, og det er da bakteriene og den sure lukta begynner å komme. |
@@ -281,6 +283,7 @@ Løsning: treningstøy-bildet handler om stoff som puster, og det sluttes i Body
 | Hook 1 | Hvis du sover naken, må du se denne. |
 | Hook 2 | Det er ikke uhygienisk å sove naken, men det kommer an på én ting. |
 | Hook 3 | Ikke gjør denne ene feilen når du sover naken. |
+| Hook 4 | Å sove naken er deilig, men det er én ting ingen forteller deg om sengetøyet. |
 | Body 1 | En treningstrøye som blir liggende fuktig i bagen, begynner fort å lukte surt, og det samme kan skje med sengetøyet når du sover naken. |
 | Body 2 | Og her er greia: hver eneste natt svetter du mellom to og fem desiliter [SJEKK KILDE], og sover du med pysj, så tar klærne imot noe av det, men sover du helt naken, havner alt rett i sengetøyet. |
 | Body 3 | Og de fleste sover i bomull, som suger opp svetten og holder på den, sånn at sengetøyet ligger fuktig helt til du legger deg igjen, og det er da bakteriene og den sure lukta begynner å komme. |
@@ -295,6 +298,7 @@ Løsning: treningstøy-bildet handler om stoff som puster, og det sluttes i Body
 | Hook 1 | Hvis du sover naken, må du se denne. |
 | Hook 2 | Det er ikke uhygienisk å sove naken, men det kommer an på én ting. |
 | Hook 3 | Ikke gjør denne ene feilen når du sover naken. |
+| Hook 4 | Å sove naken er deilig, men det er én ting ingen forteller deg om sengetøyet. |
 | Body | En treningstrøye som blir liggende fuktig, begynner fort å lukte surt, men veldig få tenker på at akkurat det samme skjer med sengetøyet når du sover naken. |
 | Body | Og her er greia: du svetter hver natt, også når du ikke merker det, og når du sover helt naken, havner alt rett i sengetøyet. |
 | Body | Og i vanlig sengetøy blir den fukten liggende i stoffet. |
@@ -330,6 +334,7 @@ Manus H bruker derfor «du svetter hver natt, også når du ikke merker det» (u
 | Hook 1 | Hvis du sover naken, må du se denne. |
 | Hook 2 | Det er ikke uhygienisk å sove naken, men det kommer an på én ting. |
 | Hook 3 | Ikke gjør denne ene feilen når du sover naken. |
+| Hook 4 | Å sove naken er deilig, men det er én ting ingen forteller deg om sengetøyet. |
 | Body | Treningstøy som blir liggende fuktig, lukter surt. Og det samme kan skje med sengetøyet ditt når du sover naken. |
 | Body | Fordi her er greia: du svetter faktisk rundt en halv liter hver eneste natt! Og når du da sover helt naken, så havner alt rett i sengetøyet. |
 | Body | Og har du et vanlig sengetøy, så puster det ikke godt nok, og det kan fort bli klamt og lukte surt. |
