@@ -287,3 +287,19 @@ Løsning: treningstøy-bildet handler om stoff som puster, og det sluttes i Body
 | Body 4 | Det er her bambus gjør en stor forskjell. Sengetøyet fra Stille er laget av bambus, som puster og tørker mye raskere, er antibakterielt og kjennes glatt og mykt mot bar hud. |
 | Body 5 | Det betyr at sengetøyet holder seg friskt mye lenger, du slipper å legge deg i en klam seng full av bakterier, og du kan sove naken med god samvittighet. |
 | CTA | Så bytt til bambussengetøy fra Stille, sov naken og sov godt. |
+
+## Manus H: Håvards v3, rød tråd sur lukt → fukt → stoff som puster → bambus (26. sep)
+
+| Modul | Script |
+|---|---|
+| Hook 1 | Hvis du sover naken, må du se denne. |
+| Hook 2 | Det er ikke uhygienisk å sove naken, men det kommer an på én ting. |
+| Hook 3 | Ikke gjør denne ene feilen når du sover naken. |
+| Body | En treningstrøye som blir liggende fuktig, begynner fort å lukte surt, men veldig få tenker på at akkurat det samme skjer med sengetøyet når du sover naken. |
+| Body | Og her er greia: du svetter mellom to og fem desiliter hver natt [SJEKK KILDE], og når du sover helt naken, havner alt rett i sengetøyet. |
+| Body | Og i vanlig sengetøy blir den fukten liggende i stoffet. |
+| Body | Så det du trenger, er et sengetøy som puster, sånn at fukten slipper ut. |
+| Body | Det bør også tørke raskt og være antibakterielt, så lukta ikke får satt seg. |
+| Body | Og stoffet som gjør alt dette, er bambus. Sengetøyet fra Stille puster, tørker raskt og er antibakterielt, og i tillegg kjennes det utrolig glatt og mykt mot bar hud. |
+| Body | Så det holder seg friskt mye lenger, og du kan sove naken med god samvittighet. |
+| CTA | Bytt til bambussengetøy fra Stille, sov naken og sov godt. |
