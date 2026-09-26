@@ -154,3 +154,14 @@ scenene, med tekst på skjermen.
 
 Oppdatert 26. sep: åpent kjøp er 30 dager. 770 kr gjelder ikke lenger, så prisen står som
 [dagens pris] på skjermen og er tatt ut av voiceoveren.
+
+### Tre hooks til Manus C v2 (samme body)
+
+| Hook | Visual (EN) | Voiceover (NO) | Tekst på skjerm |
+|---|---|---|---|
+| H1 | Warm dim bedroom at night, a man pulls off his T-shirt seen from behind, the duvet folded back on navy bamboo sheets. | Etter denne videoen kommer du til å sove naken i bambus. | 3 grunner til å sove naken i bambus |
+| H2 | A T-shirt lands on a chair, the camera pans to the bed. | Sover du naken, er lakenet det eneste du har på deg, og da bør det være bambus. | 3 grunner til å sove naken i bambus |
+| H3 | No voice for 2–3 seconds. Extreme close-up of a hand sliding across the sheet. | (stille) | Sov naken. Sov i bambus. |
+
+Med H3 blir broen i scene 2: «Det er tre grunner til å sove naken i bambus, og den første
+merker du med en gang du legger deg.»
