@@ -331,10 +331,15 @@ Manus H bruker derfor «du svetter hver natt, også når du ikke merker det» (u
 | Hook 2 | Det er ikke uhygienisk å sove naken, men det kommer an på én ting. |
 | Hook 3 | Ikke gjør denne ene feilen når du sover naken. |
 | Body | En treningstrøye som blir liggende fuktig, begynner fort å lukte surt, men veldig få tenker på at akkurat det samme skjer med sengetøyet når du sover naken. |
-| Body | Fordi her er greia: du svetter faktisk mellom to og fem desiliter hver eneste natt! Og når du da sover helt naken, så havner alt rett i sengetøyet. [Tallet er Håvards valg; se kildenotat over] |
+| Body | Fordi her er greia: du svetter faktisk rundt en halv liter hver eneste natt! Og når du da sover helt naken, så havner alt rett i sengetøyet. |
 | Body | Og har du et vanlig sengetøy, så puster det ikke godt nok, og det kan fort bli klamt og lukte surt. |
 | Body | Så det du trenger, er et antibakterielt sengetøy som puster godt og tørker raskt, sånn at fukten slipper ut og lukta ikke får satt seg. |
 | Body | Og det finnes et stoff som gjør nettopp dette, nemlig bambus. |
 | Body | Sengetøyet fra Stille er laget av bambus, og i tillegg kjennes det utrolig glatt og mykt mot bar hud. |
 | Body | Så det holder seg friskt mye lenger, og du kan sove naken med god samvittighet. |
 | CTA | Bytt til bambussengetøy fra Stille, sov naken og sov godt. |
+
+**Kilde svette-tall (Manus I):** Aftenposten 29.11.2005, «Svømmer i svette og midd»: «et voksent
+menneske svetter gjennomsnittlig mellom 0,3 og 0,6 liter pr. natt, og en voksen mann kan svette
+opp til én liter» (Stina Bredal-Rørvik, Ekornes). Sol.no 26.06.2018: «I snitt svetter alle
+omkring en halv liter i løpet av en natt.» Merk: kilden i Aftenposten er en madrassprodusent.
