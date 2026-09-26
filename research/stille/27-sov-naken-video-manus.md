@@ -347,3 +347,22 @@ Manus H bruker derfor «du svetter hver natt, også når du ikke merker det» (u
 menneske svetter gjennomsnittlig mellom 0,3 og 0,6 liter pr. natt, og en voksen mann kan svette
 opp til én liter» (Stina Bredal-Rørvik, Ekornes). Sol.no 26.06.2018: «I snitt svetter alle
 omkring en halv liter i løpet av en natt.» Merk: kilden i Aftenposten er en madrassprodusent.
+
+## Manus J: klamt som hovedproblem (26. sep)
+
+Hvorfor: sur lukt løses gratis med vask, og mange merker den ikke. Klamt kjennes hver natt,
+og det løses bare med et annet stoff. Derfor selger klamt sengetøyet, ikke sur lukt.
+
+| Modul | Script |
+|---|---|
+| Hook 1 | Hvis du sover naken, må du se denne. |
+| Hook 2 | Det er ikke uhygienisk å sove naken, men det kommer an på én ting. |
+| Hook 3 | Ikke gjør denne ene feilen når du sover naken. |
+| Hook 4 | Å sove naken er deilig, men det er én ting ingen forteller deg om sengetøyet. |
+| Body | Å legge seg i en klam seng er som å ta på seg en treningstrøye som ikke har tørket. |
+| Body | Fordi her er greia: du svetter faktisk rundt en halv liter hver eneste natt! Og når du da sover helt naken, så havner alt rett i sengetøyet. |
+| Body | Og har du et vanlig sengetøy, så puster det ikke godt nok, og fukten blir liggende i stoffet. |
+| Body | Det er nettopp derfor over 25 000 har byttet til bambussengetøy fra Stille. |
+| Body | For bambussengetøy puster, tørker raskt og er antibakterielt, så fukten slipper ut og sengetøyet holder seg tørt. |
+| Body | Det betyr at du slipper å legge deg i en klam seng, og at du kan sove naken med god samvittighet. |
+| CTA | Så prøv bambussengetøyet fra Stille i 30 dager, og liker du det ikke, sender du det tilbake. Sov naken, og sov godt. |
