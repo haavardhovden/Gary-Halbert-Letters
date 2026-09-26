@@ -377,3 +377,23 @@ og vise at bambus puster, er antibakterielt og mykt. Ingen «fordi»-kjede.
 | Body | Bambus puster, er antibakterielt og er utrolig mykt mot huden. |
 | Body | Så du kan sove fritt og behagelig, utstyret får puste, og du slipper at det blir klamt, ubehagelig og surt. |
 | CTA | Så prøv bambussengetøyet fra Stille i 30 dager, og liker du det ikke, sender du det tilbake. Sov naken, og sov godt. |
+
+---
+
+## Manus L — Variation A, versjonen Håvard sendte (2026-09-26)
+
+| Modul | Script |
+|---|---|
+| Hook 1 | Hvis du sover naken, må du se denne. |
+| Hook 2 | Det kan fort bli uhygienisk å sove naken, med mindre du gjør dette. |
+| Hook 3 | Ikke gjør denne ene feilen når du sover naken. |
+| Body | Du tenker sikkert ikke over det, men du svetter faktisk rundt en halv liter hver eneste natt! Og når du sover naken, havner alt rett i sengetøyet. |
+| Body | Problemet er at vanlig sengetøy ikke puster godt nok, og det kan fort bli klamt, ubehagelig og lukte surt. |
+| Body | Det er nettopp derfor over 25 000 har byttet til bambussengetøy fra Stille. |
+| Body | Bambussengetøy puster, tørker raskt og er antibakterielt, så fukten slipper ut og lukta ikke får satt seg. Det betyr at det holder seg friskt mye lenger, og at du kan sove naken med god samvittighet. I tillegg er det ekstra mykt og skånsomt mot de sensitive områdene. |
+| CTA | Så skaff deg bambussengetøy, la utstyret få puste og sov godt! |
+
+**Broer:** Hook→Body løst med «Du tenker sikkert ikke over det» (holder curiosity-gapet åpent).
+Body 2→3 følger Why Men Crack-strukturen (`ads/why-men-crack-postum.md`): problem → sosialt bevis
+bærer produktet inn («Two million American families avoid caffein by drinking Postum»).
+Postum har en regel-linje imellom («Avoid stimulants»); vurdert, ikke tatt med.
