@@ -232,3 +232,33 @@ Teksten er Håvards. Endret er bare overgangene (#38), markert med **fet**.
 | CTA | Så bytt til bambussengetøy fra Stille, sov naken og sov godt. |
 
 Klipp: kutt aldri der en setning er ferdig, kutt midt i neste (#38).
+
+## Manus G: Håvards v2 (pysj-linja, spørsmål i body 1), med Halbert-overganger (26. sep)
+
+Teksten er Håvards. Endret er bare overganger (**fet**) og to skrivefeil.
+
+### 60 sek
+
+| Modul | Script |
+|---|---|
+| Hook 1 | Hvis du sover naken, må du se denne. |
+| Hook 2 | Det er ikke uhygienisk å sove naken, men det kommer an på én ting. **(Bro kun med H2: Og den tingen er sengetøyet.)** |
+| Hook 3 | Ikke gjør denne ene feilen når du sover naken. |
+| Body | Du ville aldri tatt på deg den samme treningstrøya fem dager på rad uten å vaske den, så hvorfor gjøre det med sengetøyet? |
+| Body | For hver eneste natt svetter du mellom to og fem desiliter [SJEKK KILDE], og sover du med pysj, så tar klærne imot noe av det, men sover du helt naken, havner alt rett i sengetøyet. |
+| Body | Og de fleste sover i bomull, som suger opp svetten og holder på den, sånn at sengetøyet ligger fuktig helt til du legger deg igjen, og det er da bakteriene og den sure lukta begynner å komme. |
+| Body | Det er her bambus gjør en stor forskjell. Sengetøyet fra Stille er laget av bambus, som puster og tørker mye raskere, er antibakterielt og kjennes glatt og mykt mot bar hud. |
+| Body | **Det betyr at** sengetøyet holder seg friskt mye lenger, du slipper å legge deg i en klam seng full av bakterier, og du kan sove naken med god samvittighet. |
+| CTA | Så bytt til bambussengetøy fra Stille, sov naken og sov godt. |
+
+### 45 sek
+
+| Modul | Script |
+|---|---|
+| Hook 1–3 | Samme som over. |
+| Body | Du ville aldri tatt på deg den samme treningstrøya fem dager på rad uten å vaske den, så hvorfor gjøre det med sengetøyet? |
+| Body | For hver natt svetter du mellom to og fem desiliter [SJEKK KILDE], og uten pysj havner alt rett i sengetøyet. |
+| Body | Og de fleste sover i bomull, som holder på svetten, og det er da den sure lukta begynner å komme. |
+| Body | Det er her bambus gjør en stor forskjell. Sengetøyet fra Stille er laget av bambus, som puster, tørker mye raskere og er antibakterielt. |
+| Body | **Det betyr at** du kan sove naken med god samvittighet. |
+| CTA | Så bytt til bambussengetøy fra Stille, sov naken og sov godt. |
