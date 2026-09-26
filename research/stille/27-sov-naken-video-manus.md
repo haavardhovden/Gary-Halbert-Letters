@@ -186,3 +186,17 @@ Utgangspunkt: Variation A fra manus-tabellen (fukt, surt sengetøy, antibakterie
 Endringer: Hook 3 uten «sjokkerende fakta» (#33 grense). Skylden flyttet fra personen til stoffet (#98).
 Kritikk og løsning i samme åndedrag (#98). Én rød tråd, «super mykt» ut (#84). Resultatet
 kjennes i kroppen (#36, #87). Bevis rett etter tvilen (#44). Closing med risikofritt tilbud (#37).
+
+## Manus E: treningstøy-versjonen (Håvards favoritt) strammet inn (26. sep)
+
+| Modul | Script |
+|---|---|
+| Hook 1 | Hvis du sover naken, må du se denne. |
+| Hook 2 | Det er ikke uhygienisk å sove naken, men det kommer an på én ting. |
+| Hook 3 | Når du sover naken, er sengetøyet treningstøyet ditt. |
+| Body 1 | En treningstrøye vasker du etter hver økt, men sengetøyet ligger ofte en hel uke før det skal i vask. |
+| Body 2 | Hver natt svetter du mellom to og fem desiliter [SJEKK KILDE], og sover du naken, er det ingenting annet enn sengetøyet som tar imot det. |
+| Body 3 | Bomull holder på fukten, så sengetøyet kan ligge fuktig til du legger deg igjen, og det er fukt som blir liggende som gir den sure lukta. |
+| Body 4 | Bambus puster, flytter fukten og tørker raskere, så sengetøyet er tørt igjen når du legger deg. Det er også antibakterielt og glatt mot bar hud. |
+| Body 5 | Så sengetøyet holder seg friskt lenger, du slipper å legge deg i en klam seng, og du kan sove naken med god samvittighet. |
+| CTA | Sengetøyet er fra Stille, og du kan prøve det i 30 dager. Liker du det ikke, sender du det tilbake. |
