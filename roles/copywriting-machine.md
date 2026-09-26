@@ -80,7 +80,7 @@ Før hver variasjon, spør:
 7. Ikke selg for hardt. «Det funket overraskende bra» slår «det forandret livet mitt».
 
 ### Compliance
-- Førpris = laveste pris siste 30 dager (NO 1 280 kr, DK 820 kr).
+- Førpris = laveste pris siste 30 dager (sjekk tall ved hver batch).
 - Aldri «dreper», «middfritt», «hypoallergen», «fjerner allergi», «holder midd unna»,
   «kurerer snorking». Bruk «hemmer», «tørrere», «trives dårligere».
 - Ingen medisinske løfter (eksem, overgangsalder, søvnapné, nesespray-erstatning).
@@ -104,9 +104,10 @@ Før hver variasjon, spør:
 | Tåler vaskemaskin | OK |
 | 70 000+ solgt | OK (badge) |
 | Gaveinnpakning | OK |
-| Pris NO ~~1 280~~ 770 kr · DK ~~820~~ 410 kr | OK |
+| Pris: 770 kr (NO) gjelder ikke lenger (26. sep). Sjekk dagens pris | SJEKK |
+| 30 dagers åpent kjøp | OK (26. sep) |
 | Farger: marineblå, sjokolade, rosa, himmelblå, hvit, grå m.fl. | OK |
-| 300 TC, OEKO-TEX, dype lommer, «mykere etter hver vask», Designet i Oslo, 4,8 Trustpilot, 30 eller 100 dagers åpent kjøp, fri frakt over 1 199 kr | SJEKK før bruk |
+| 300 TC, OEKO-TEX, dype lommer, «mykere etter hver vask», Designet i Oslo, 4,8 Trustpilot, fri frakt over 1 199 kr | SJEKK før bruk |
 | 60 °C-vask (midd) | ÅPENT, ikke bruk |
 
 **Ikke bruk:** «500 ml svette per natt», «30–90 min våken» (madrassbransjens tall),
