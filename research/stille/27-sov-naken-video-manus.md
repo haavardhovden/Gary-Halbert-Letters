@@ -360,3 +360,20 @@ og det løses bare med et annet stoff. Derfor selger klamt sengetøyet, ikke sur
 | Body | For bambussengetøy puster, tørker raskt og er antibakterielt, så fukten slipper ut i stedet for å bli liggende. |
 | Body | Det betyr at du slipper å våkne i en klam seng, og at du kan sove naken med god samvittighet. |
 | CTA | Så prøv bambussengetøyet fra Stille i 30 dager, og liker du det ikke, sender du det tilbake. Sov naken, og sov godt. |
+
+## Manus K: enkel versjon, snakk til fire–fem kompiser som sover naken (26. sep)
+
+Jobben: hooke dem som sover naken, lære dem at vanlig sengetøy blir klamt, ubehagelig og surt,
+og vise at bambus puster, er antibakterielt og mykt. Ingen «fordi»-kjede.
+
+| Modul | Script |
+|---|---|
+| Hook 1 | Hvis du sover naken, må du se denne. |
+| Hook 2 | Det er ikke uhygienisk å sove naken, men det kommer an på én ting. |
+| Hook 3 | Ikke gjør denne ene feilen når du sover naken. |
+| Body | Når du sover naken, havner all svetten rett i sengetøyet, og du svetter faktisk rundt en halv liter hver eneste natt. |
+| Body | I vanlig sengetøy blir den fukten liggende, og da blir det fort klamt, ubehagelig og surt. |
+| Body | Det er derfor over 25 000 har byttet til bambussengetøy fra Stille. |
+| Body | Bambus puster, er antibakterielt og er utrolig mykt mot huden. |
+| Body | Så du kan sove fritt og behagelig, utstyret får puste, og du slipper at det blir klamt, ubehagelig og surt. |
+| CTA | Så prøv bambussengetøyet fra Stille i 30 dager, og liker du det ikke, sender du det tilbake. Sov naken, og sov godt. |
