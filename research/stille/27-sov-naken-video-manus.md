@@ -95,3 +95,39 @@ Det jeg ligger i nå, er fra Stille. Lenken ligger her hvis du vil kjenne forskj
 - «Sklei» og «dyna på gulvet» er personens opplevelse og ingen produktpåstand. De er ok.
 - Ikke svar på «bambus»-vitsen i kommentarfeltet. Jokken betyr morgenstiv. Den viser at
   publikum er menn, men den skal ikke inn i annonsen.
+
+## Manus C: «3 grunner», ca. 30 sek (Håvards idé, 26. sep)
+
+**Tekst på skjerm:** 3 grunner til å sove naken i bambus
+
+**Hook:**
+- **Alternativ 1:** Etter denne videoen kommer du til å sove naken i bambus.
+- **Alternativ 2:** Det er tre grunner til at jeg aldri går tilbake til å sove naken i bomull.
+
+**Bro:**
+Jeg byttet selv for et år siden, og det er tre ting som gjorde det.
+
+**Grunn 1, når du legger deg:**
+Den første merker du med en gang du legger deg. Stoffet er kjølig mot huden, og det er glatt uten å være glatt som silke.
+
+**Grunn 2, om morgenen:**
+Den andre merker du om morgenen. Bomull holder på fukten når det blir varmt om natta, men bambus puster, flytter fukten og tørker raskere, så du våkner ikke klam.
+
+**Grunn 3, vasken:**
+Den tredje er vasken. Sover du naken, vil du vaske sengetøyet ofte, og bambus tåler vaskemaskinen helt fint.
+
+**Bro til CTA:**
+Mitt er fra Stille.
+
+**CTA:**
+Lenken ligger her hvis du vil prøve, og liker du det ikke, sender du det tilbake.
+
+**Badge:** ~~1 280 kr~~ 770 kr
+
+### Hvorfor det er bygd sånn
+
+- De tre grunnene følger én natt: du legger deg, du våkner, du vasker. Rekkefølgen er selve
+  broen, så det blir én historie og ikke tre løse punkter (Jonathan regel 2).
+- Grunn 2 bruker Jonathans godkjente mekanisme med tre verb.
+- Grunn 3 tar innvendingen fra dem som synes det er uhygienisk å sove naken. Den svarer med
+  vaskemaskin og ikke med antibakteriell.
