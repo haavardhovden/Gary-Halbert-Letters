@@ -1758,7 +1758,7 @@ på vinneren. Loud levers (format, vehicle) for nytt territorium, quiet levers (
 - **B2: "Äntligen en skön stol i tältet"** (MIDT, msg 229) — vurdert ord-for-ord mot Halbert-
   formelen: "Äntligen" = news/relief, "skön stol" = benefit, "i tältet" = context-callout. Mangler
   hard spesifisitet (intet tall); foreslått neste iterasjon: legg på vekt-tall
-  ("...en stol som väger 400 gram och räddar ryggen i tältet").
+  ("...en stol som väger 700 gram och räddar ryggen i tältet").
 
 - **D4: testimonial-annonse** ("sitta upprätt och läsa... helt grymt" – Silje, verifisert kunde)
   (MIDT, msg 229) — vurdert som sterkere enn de fleste skrevne headlines fordi ekte kundespråk
