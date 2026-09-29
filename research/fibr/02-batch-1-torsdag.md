@@ -1,156 +1,150 @@
-# Fibr batch 1: hook-swaps på vinnerne, lansering torsdag 1. okt
+# Fibr batch 1: første iterasjon på B-roll-vinnerne
 
-Laget 29. sep 2026. Grunnlag: ukesanalysen (`01-ukesanalyse-20-26-sep.md`), policy v1.4
-(`agency-policy-v1.4.md`) og Jonathan i Slack 29. sep: Fibr prioriteres over Stille, b-roll text
-overlay-iterasjoner på tidligere vinnere, lansering torsdag, quick wins. Strategigjennomgang på call.
+Laget 29. sep 2026, revidert samme kveld etter gjennomgang i Meta MCP (Claude Desktop-chatten).
+Grunnlag: ukesanalysen (`01-ukesanalyse-20-26-sep.md`), policy v1.4 (`agency-policy-v1.4.md`),
+Meta MCP-tall (under) og Jonathan i Slack 29. sep: Fibr prioriteres over Stille, b-roll text
+overlay-iterasjoner på tidligere vinnere, lansering torsdag, quick wins.
 
 Strategichatten sier vinkel, hypotese og hva vi lærer. Copywriting machine skriver
 tekstoverleggene. Alt går gjennom Feilloggen, også relanseringer av gamle vinnere.
+**Regel fra Håvard: vi itererer bare på det som ligger på 3 eller over i ROAS.**
 
 ---
 
-## 1. Ukesanalysen med en klype salt
+## 1. Hva Meta MCP viste (29. sep)
+
+**Ingen B-roll-video (V#) har noen gang fått en iterasjon.** ITE finnes bare på statics (S#2, 3, 7,
+10, 11, 13, 14, 15, 16) og på U#1. V#-formatet ligger på 2,30 denne uka, men de beste V#-ene ligger på
+3,4–3,8 over tid. Det ser ut som slitasje uten påfyll, ikke et dårlig format. Det er hele
+begrunnelsen for Jonathans bestilling.
+
+| Annonse | Forbruk | ROAS | CPA | Hook | Vurdering |
+|---|---|---|---|---|---|
+| **V#12 A1.H3** | 14,3k | 3,66 | 100 | 11 % | Vant sin egen hooktest (H1–H3). Aldri iterert. De to relanseringene i august («Made in Sweden!») fikk under 600 kr og ingen dom. **Førstevalg.** |
+| V#2 C3 (Copy) | 19,3k | 3,82 | 95 | 14 % | Konseptet heter *SweetToothBalancer*. Det er en cravings-idé, og v1.4 forbyr cravings-påstander. **Holdes tilbake** til overleggene er sjekket. Det er trolig selve konseptet som faller. |
+| V#16 B2 | 38k | 3,43 | 104 | 7 % | Creator snakker, så bare det visuelle kan endres. Faller (2,35 denne uka). Sjekk at replikkene ikke var skrevet for creatoren, og at annonsen har paid partnership-label. **Ikke torsdag.** |
+| V#19 H1 | 15,7k | 3,3–4,0 justert | 128 | 13 % | «Killer ad»-tallet er blåst opp av én stor ordre. 2,8 siste 15 dager, og fallende. **Lav prioritet**, etter V#12. |
+
+**Produksjonsfilmen er en katalogannonse.** *Video, Produktion, utan spår av (Copy)* er en dynamisk
+katalogannonse (`{{product.name}}`). Videoen vises på 4 % av visningene (56k av 1,38 mill.), og
+resten er produktbilder fra katalogen. ROAS-en kommer altså i hovedsak fra katalogformatet. Katalog
+treffer dessuten ofte folk som alt har sett produktene, så tallet kan ikke sammenlignes med kald
+video. Originalen uten katalog: hook 37 % (25 %-avspilling), CTR 3,5 %, ROAS 6,0, CPA 68, men bare
+3,4k i forbruk. Videoen har aldri fått en ordentlig sjanse alene.
+
+## 2. Ukesanalysen med en klype salt
 
 Tallene stemmer (advertorial-regnestykket er sjekket). Flere av konklusjonene holder ikke.
 
 **Anbefalingen om advertorials bryter reglene.** «Fire nye advertorials, én per inngang (mage,
 energi, sukker, allergi)». Mage og energi står på aldri-lista. Sukker krever Fibr-godkjent ordlyd
-for akkurat det produktet. Allergi må holdes til fakta om innholdet, ikke til tilstanden leseren
-har. Analysen bygger på data til 26.9. og kjenner ikke policy v1.4 fra 28.9. Samme blindsone
-gjelder vinnerne: *Fibertrenden*, *Matöverkänslighet*, *sukkerbytte* og *allergitrygg* er navn
-som peker mot helse. De må gjennom Feilloggen før de itereres. Høy ROAS på en annonse laget før
-28.9. kan bety at den sier noe som ikke lenger er lov.
+for akkurat det produktet. Analysen bygger på data til 26.9. og kjenner ikke policy v1.4 fra 28.9.
+Samme blindsone gjelder vinnerne: *Fibertrenden*, *Matöverkänslighet*, *sukkerbytte*,
+*allergitrygg* og *SweetToothBalancer* er navn som peker mot helse eller cravings. De må gjennom
+Feilloggen før de itereres.
 
-**Advertorialene er lovende, men ikke bevist.** Uten flaksordren står det 12 kjøp på 1 358 kr og ROAS
-3,78. Men 736 kr av den verdien kommer fra én annonse med 62 kr forbruk og ett kjøp (Long,
-Fibertrenden). Tar du den ut også, gjenstår 11 kjøp og ROAS 3,39. Det er kontoens 30-dagerssnitt
-(3,30), og under målet på 4. Det er et spor verdt å teste etter sjekk, men ikke hovedsatsingen torsdag.
+**Advertorialene er lovende, men ikke bevist.** Uten den store ordren står det 12 kjøp på 1 358 kr og ROAS 3,78.
+Tar du også ut Long, Fibertrenden (62 kr, ett kjøp), gjenstår 11 kjøp og ROAS 3,39. Det er
+kontosnittet, og under målet på 4.
 
-**Karusell mot video: retningen er trolig ekte, men utvalget er lite.** 10 mot 4 kjøp, og det kan
-også være plassering (feed mot Reels). Legg merke til at karusellen også har snittordre 535 kr mot
-kontoens 414. Kort som viser flere smaker kan gi større kurver. Vi tester hook mot format direkte
-i A2 og B1 under.
+**Analysen leser den største annonsen feil.** «Statikk og den brede produksjonsfilmen ligger over
+kontosnittet» betyr egentlig statikk og katalog. Sammenligningen mellom moren og
+*Edits_Produktion_2/3* sier derfor lite om hooken. (Den første versjonen av denne fila brukte den
+som bevis for hook-swaps. Det holder ikke.)
 
-**To annonser i iterasjonstabellen ligger under 3.** *Ny_Saltlakritskola_4* (1,63) og *V#18* (1,70).
-Alt under 3 er ikke verdt å iterere på. De er tatt ut.
+**Et mønster som går igjen:** de sterkeste signalene i kontoen viser produktene og smakene. Det
+gjelder katalogen (96 % produktbilder) og *Hur salt är du?*-karusellen (CPA 62, snittordre 535 mot
+414). Hypotesen er at det å vise sortimentet selger bedre enn å fortelle om det. Den er ikke
+bevist, men den er verdt å teste.
 
-**«Åpne med hva man kan spise igjen» (V#18)** forutsetter at leseren har en tilstand. Det er nær
-sykdomsgrensen, og Feilloggen vil trolig stoppe det. Analysens egen innsikt om taperne peker et
-annet sted: «Unngår du …»-serien selger en begrensning, ikke en lyst (mechanisms #87: vis
-resultatet, ikke problemet). Da er svaret smak først, med innholdslisten som bevis mot slutten.
+**Karusell mot video:** 10 mot 4 kjøp. Retningen er trolig ekte, men utvalget er lite. Det kan også
+være plasseringen.
+
+**Iterasjonstabellen tar med annonser under 3** (*Ny_Saltlakritskola_4* 1,63, *V#18* 1,70). De er
+tatt ut. «Åpne med hva man kan spise igjen» (V#18) forutsetter at leseren har en tilstand, og det
+er nær sykdomsgrensen.
 
 **Det analysen har rett i, og som betyr mest: testandelen.** 5 % av forbruket gikk til annonser
-fra de siste to ukene, og forrige ukes vinner fikk ingen penger. Det er en Ads Manager-feil, ikke en
-kreativ feil. Ads Manager er fritt under reglene. Får ikke nye annonser eget budsjett, er
-torsdagens batch bortkastet, uansett hvor gode hookene er.
-
-**Det sterkeste beviset for Jonathans plan ligger i taperlista.** *Edits_Produktion_2/3* har samme
-kropp som kontoens største annonse. Moren fikk 102 kjøp og ROAS 3,57. Redigeringene fikk rundt ett
-kjøp hver på omtrent 1 000 kr, der kontosnittet ville gitt åtte–ni. Forskjellen er åpningen. (Moren
-har mer historikk i Meta, så forskjellen er ikke ren, men den er for stor til å være bare det.)
-Hook-swaps er riktig spak på denne kontoen.
-
-**Volumet 42 er det testbudsjettet rommer, ikke det som må lages til torsdag.** Med dagens
-testandel får ikke 42 nye annonser penger uansett. Start med 12, og fyll på etter callen.
-
-Småting: «Tre ting» har fire punkter. «Uke 40» er volumet for kommende uke; dataene er uke 39.
+fra de siste to ukene. Får ikke nye annonser eget budsjett, er batchen bortkastet uansett hvor
+gode hookene er.
 
 ---
 
-## 2. Batch 1: 12 enheter, ingen ny filming
+## 3. Tidsproblemet
 
-**Prinsipp:** ny åpning på kropper som allerede selger. Åpningene klippes fra footage vi har,
-også fra de svake Edits-ene: fika-, smak- og produksjonsklippene er brukbart råstoff selv om
-annonsene ikke er det. Produksjonsbildene flyttes bak, der de virker som bevis.
+Den nye redigereren starter 1. okt, samme dag som Jonathan vil lansere. Batchen deles derfor i to:
+det som kan gå ut torsdag uten redigerer, og det han lager fra dag én.
 
-**Hook-territorier** (der data og regler overlapper):
+**Video-filer:** CapCut-prosjektet har bare referanser, så redigereren får «media not found». Last
+ned de ferdige annonsevideoene fra Ads Manager (mediebiblioteket). Det holder for hook-swaps: ny
+åpning på 2–3 sek, så klippes det inn i den gamle videoen etter at den gamle hook-teksten er borte.
+Tekstoverleggene i resten av videoen er brent inn og blir stående, så de må sjekkes mot v1.4 før vi
+gjenbruker dem. Råfiler: «Nylig slettet» på telefonen (30 dager), CapCut Space, Drive, eller Fibrs
+eget råmateriale til deres egne videoer.
 
-| Tag | Territorium | Hvorfor |
-|---|---|---|
-| H-smak | Smaks- og produktnavn i første sekund | Vinnerne åpner med produktnavn eller smak (analysen) |
-| H-selvtest | «Hur salt är du?»-spørsmålet | Karusellen er kontoens beste CPA. Leseren svarer selv (selvtest-mekanismen) |
-| H-sanselig | Nærbilde: bit, tekstur, bitene i hånda (det vi faktisk har på film) | #36 picture with pleasure. Smak og tekstur er det eneste territoriet reglene gir fullt ut, så vi må vite om det bærer alene |
-| H-fika | Kaffekopp og bit | Den vinkelen policyen anbefaler, men den er ubevist på kontoen |
+## 4. Drop 1: torsdag 1. okt
 
-### Spor A: produksjonsfilmen (*Video, Produktion, utan spår av*, moderversjonen): 7 enheter
-
-Kontoens største annonse: 3,57 denne uka og 3,29 over 30 dager, 102 kjøp. Frekvensen er 2,83 og
-stiger. Iterer, ikke erstatt. Kroppen og teksten etter sekund 3 er lik.
-
-| # | Åpning (første 3 sek) | Hypotese | Hva vi lærer |
+| # | Hva | Hvorfor | Redigering |
 |---|---|---|---|
-| A1 | H-smak | Smaksnavn slår dagens åpning på vinneren | Om produktnavn-først er regelen på denne kontoen |
-| A2 | H-selvtest | Karusellen vant på hooken, ikke på formatet | Hook eller format? Slår A2 moren, fungerer hooken også i video. Taper den, tester vi hooks i karusell først (analysens påstand) |
-| A3 | H-sanselig | Ren sanselig åpning holder uten påstand | Om vi kan bygge videre uten noen påstand, bare produktet |
-| A4 | H-fika (klipp fra Fikafat-footage) | *Edits_Fikafat_3* (2,52 over 30 d) var svak på grunn av kroppen, ikke vinkelen | Om fika tåler en sterk kropp. Taper A4, parkeres fika som hook |
-| A5–A7 | Morens egen åpning, kuttet til 6, 10 og 15 sek | Kortere versjoner kan nå flere plasseringer uten ny footage | Hvilken lengde vi bruker som mal |
+| R1 | **Originalen av produksjonsfilmen** (ikke katalog), relansert som ren videoannonse | ROAS 6,0 og CPA 68 på 3,4k. Den har aldri fått forbruk. Blir kontroll for V#22 | Ingen |
+| R2 | *Ny_Saltlakritskola_3* relansert | Forrige ukes vinner, men den fikk nesten ingen penger. Et leveringsproblem | Ingen |
+| R3 | *Hur salt är du?*-karusellen med eget budsjett | Kontoens beste CPA, bare 619 kr brukt | Ingen |
+| V#12 ITE H1–H3 | Tre nye åpninger på V#12 A1.H3-kroppen | Uprøvd vinner, 3,66, CPA 100 | Håvard onsdag, hvis han har tid. Hvis ikke, flyttes de til drop 2 |
 
-Tekstoverlegg: bytt generell tekst til smaksnavn (analysens forslag). **«Utan spår av …» står i
-moren i dag.** Det er en fri-for-påstand som må kunne dokumenteres og ha Fibr-godkjent ordlyd.
-Sjekk den før den går inn i sju nye enheter.
+**Hook-territorier for V#12 ITE** (der data og regler overlapper):
+- **Smak og produktnavn i første sekund.** Vinnerne åpner med konkret produkt eller smak.
+- **Selvtest** i samme mal som «Hur salt är du?». Leseren svarer selv. Tester om hooken reiser fra
+  karusell til video.
+- **Opprinnelse eller håndverk.** «Made in Sweden!» ble laget i august, men fikk aldri forbruk.
+  Påstanden er ok hvis den er sann, og den må sjekkes som alt annet.
 
-### Spor B: *Ny_Saltlakritskola_3* (Fibr-produsert, trolig «Salt Lakris New 3»): 3 enheter
+Kroppen i V#12 bærer allergenvinkelen. Den holder, så lenge det er fakta om innholdet og ikke
+om en tilstand. Allergenlista må kunne dokumenteres.
 
-Best av Saltlakritskola-annonsene over 30 dager og forrige ukes vinner, men den fikk nesten ingen
-penger i perioden. Det er et leveringsproblem, ikke et kreativt problem.
+## 5. Drop 2: redigereren fra 1. okt, lansering fredag eller mandag
 
 | # | Hva | Hvorfor |
 |---|---|---|
-| B0 | Relanseres uendret i testoppsettet | Raskeste quick win, uten produksjon. Går gjennom Feilloggen som alt annet |
-| B1 | H-selvtest | Samme hook som A2 på en annen kropp. Vinner den begge steder, er det hooken |
-| B2 | H-sanselig | Samme logikk som over, for A3 |
+| V#22 H1–H3 | Produksjonsfilmen som ren video, tre hooks og felles kropp (samme oppsett som V#20/V#21) | Hooken var sterk da videoen faktisk ble vist (37 %). R1 er kontroll |
+| V#12 lengde | V#12 A1.H3 kuttet til 6, 10 og 15 sek | Ingen ny footage. De innbrente overleggene styrer hvor det kan kuttes |
+| B1–B2 | To nye hooks på *Ny_Saltlakritskola_3* | Fibrs eget materiale. Rå footage kan fås fra Fibr |
+| C1–C2 | To karuseller på *Hur salt är du?*-malen | Sterkeste signal og billigst å lage. Trenger designer (brand manual) |
+| V#19 ITE | En hook-iterasjon | Bare hvis overleggene består sjekken, og etter V#12. Den faller |
 
-### Spor C: 2 karuseller (hvis designer har kapasitet til torsdag)
+Totalt 14–17 enheter over to drops.
 
-Karuseller er ikke b-roll, men det er det sterkeste signalet i kontoen og det billigste å lage.
-Samme mal som *Hur salt är du?*: første kort stiller spørsmålet eller viser smaken, kortene etter
-viser smakene, siste kort gir tilbudet. Bilder vi har. Brand manual: Market Pro Bold, rød og havre.
-C1 bruker ny vinkel på første kort (H-sanselig), og C2 bruker H-fika. Selve *Hur salt är du?*-karusellen
-får eget budsjett (se under). Den har bare brukt 619 kr.
+## 6. Holdes tilbake
 
-**Totalt: A 7 + B 3 + C 2 = 12.**
+- **V#2 C3 SweetToothBalancer:** cravings-konsept. Til Feilloggen før noe annet.
+- **V#16 B2:** creator-sjekk (manus? label?) og fallende tall.
+- **UGC-mashup U#1/U#2:** alle UGC-variantene i ukesanalysen ligger på 2,25–2,94 over 30 dager, altså
+  under 3. Hent hook rate og lifetime-ROAS per U#-hook i Meta MCP før vi bestemmer. Vinklene er
+  *sukkerbytte* (antyder et sunnere alternativ) og *allergitrygg*, så begge må sjekkes. Sjekk også at
+  creator-samtykket dekker nye redigeringer.
+- **Advertorials:** vent til copyen er sjekket mot v1.4.
 
-### Holdes tilbake til etter callen og Feilloggen
+## 7. Ads Manager før torsdag (fritt under reglene)
 
-- **Advertorials** (*Fibertrenden*, *Matöverkänslighet*): sjekk copyen først. Er de rene, bygger vi
-  et eget spor på tillatte innganger (smak, ingredienser, håndverk, opprinnelse). Aldri mage eller
-  energi. Sukker og fiber bare med godkjent ordlyd.
-- **Allergivinkler i video** (*V#18*, *U#2 allergitrygg*, *Undviker du nötter?*): billige klikk og de
-  svakeste kjøpene. Ikke iterer.
-- **U#1 «sukkerbytte»:** et bytte antyder et sunnere alternativ. Sjekk den før den får mer budsjett.
-- **Edits_Produktion_2/3:** pause dem. Kroppen deres testes i spor A.
+1. **Eget testoppsett med eget budsjett.** Analysens tak er 20 % av forbruket, rundt 18 000 kr i uka.
+2. **Advantage+ creative enhancements av** på alt nytt. Sjekk også katalogannonsen: automatiske
+   kreative endringer krever sjekk under v1.4.
+3. **Hook-tag i navnet,** så vi kan lese hvilket territorium som vinner.
+4. **Dom:** første kutt ved cirka 430 kr. Endelig dom ved 10 kjøp. Under 3 etter 10 kjøp betyr av.
+5. **Pause** *Edits_Produktion_2* og *_3*.
+6. **ROAS-mål 4 og CPA-mål rundt 105 kr** inn i VekstOS Clients.
 
----
+## 8. Hva ROAS 4 betyr i kroner
 
-## 3. Ads Manager før torsdag (fritt under reglene)
+Snittordren er 414–435 kr. ROAS 4 gir CPA 104–109 kr. I dag er CPA 132–144. V#12 (100) og V#2 (95)
+er de eneste videoene som allerede er der.
 
-1. **Eget testoppsett med eget budsjett**, så nye annonser får penger. Analysens tak er 20 % av
-   forbruket, rundt 18 000 kr i uka. Med 12 enheter blir det omtrent 1 500 kr per enhet. Ett spor
-   per ad set (A, B, C). Hvis Meta sulter noen hooks i spor A, splitt dem.
-2. **Advantage+ creative enhancements av** på alt nytt.
-3. **Hook-tag og awareness-tag i navnet** (H-smak, H-selvtest, H-sanselig, H-fika), så vi kan lese
-   hvilket territorium som vinner på tvers av kroppene.
-4. **Dom:** første kutt ved cirka 430 kr (tre ganger CPA). Endelig dom ved 10 kjøp. Under 3 i ROAS
-   etter 10 kjøp betyr av.
-5. **Gi eget budsjett** til *Hur salt är du?*-karusellen og *Ny_Saltlakritskola_3*.
-6. **Pause** *Edits_Produktion_2* og *_3*.
-7. **Sett ROAS-mål 4 og CPA-mål rundt 105 kr i VekstOS Clients**, så ukesanalysen måler mot målet og
-   ikke mot kontosnittet.
+## 9. Til callen med Jonathan
 
-## 4. Hva ROAS 4 betyr i kroner
-
-Snittordren er 414 kr (uka) og 435 kr (30 d). ROAS 4 gir CPA 104–109 kr. I dag er CPA 144 (uka) og
-132 (30 d). Kjøpene må bli 17–28 % billigere, eller snittordren høyere. Karusellens snittordre på
-535 kr hinter om at det å vise flere smaker hjelper på den siste.
-
-## 5. Til callen med Jonathan
-
-1. Er vinnerne vi bygger på sjekket mot v1.4? Spesielt «utan spår av» i produksjonsfilmen og
-   advertorialene.
-2. Brand manualen sier at «Fight your cravings» alltid skal stå på engelskspråklig emballasje. Vi kan
-   ikke endre emballasjen, og vi kan ikke bruke taglinen i annonser. Er det greit at den synes i
-   footage? Unngå nærbilder der den kan leses, til det er avklart.
-3. Hvilke ernæringspåstander (fiber, sukker) har Fibr godkjent, og for hvilke produkter?
-4. Skal advertorial bli et fast spor etter sjekken, med eget ukentlig volum?
-5. Hvorfor fikk *Ny_Saltlakritskola_3* ikke forbruk? Er det kampanjestrukturen?
-6. Kan vi få ROAS- og CPA-mål inn i Clients?
+1. Torsdag med relanseringer og V#12 ITE hvis Håvard rekker det, så resten fredag eller mandag når
+   redigereren er i gang. Er det greit?
+2. Er vinnerne sjekket mot v1.4? Spesielt V#2 (*SweetToothBalancer*), «utan spår av», allergenlista i
+   V#12 og «Made in Sweden!».
+3. V#16: var creatorens replikker skrevet på forhånd av oss?
+4. Emballasjen har «Fight your cravings». Er det ok at den synes i footage?
+5. Hvilke ernæringspåstander (fiber, sukker) Fibr har godkjent, per produkt.
+6. Advertorial som fast spor etter sjekken?

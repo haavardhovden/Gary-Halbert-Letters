@@ -1,7 +1,7 @@
 # Fibr – kreativ strategi
 
 Oppdatert 29. sep 2026 (kveld). Alt som er kjent om kontoen så langt. Kontodata: ukesanalysen
-20.–26. sep (`01-ukesanalyse-20-26-sep.md`). Hook rate og hold rate mangler fortsatt.
+20.–26. sep (`01-ukesanalyse-20-26-sep.md`) og gjennomgang av V#-annonsene i Meta MCP (seksjon 2).
 
 **Prioritet: Fibr over Stille** (Jonathan, 29. sep). Første batch lanseres **torsdag 1. okt**:
 `02-batch-1-torsdag.md`.
@@ -35,25 +35,40 @@ Filer her: `agency-policy-v1.4.md` (reglene, engelsk original, gjelder ved tvil)
 - **Konto:** ROAS 2,86 (uka) og 3,30 (30 d). Forbruk 90 000 kr i uka. CPA 144. Snittordre 414.
   Frekvens 7,22 over 30 d, så publikum er slitt. CPM +8 %.
 - **Testandel 5 %.** Nye annonser får ikke penger. Det er flaskehalsen, ikke kreativet.
-- **Vinnere:** *Video, Produktion, utan spår av* (største, 3,57, 102 kjøp) · *S#13* statisk (3,47 og
-  3,79) · *001-3* (3,92, uklart hva det er) · *Hur salt är du?*-karusell (8,64, CPA 62, 10 kjøp) ·
-  advertorials (lovende, men må sjekkes mot v1.4 og er små; se `02-…` §1).
-- **Samme kropp, ulik åpning:** *Edits_Produktion_2/3* har produksjonsfilmens kropp, men fikk rundt
-  ett kjøp hver. Hooken er spaken.
+- **Vinnere:** *Video, Produktion, utan spår av* (største, 3,57, 102 kjøp; **katalogannonse**, se
+  under) · *S#13* statisk (3,47 og 3,79) · *001-3* (3,92, uklart hva det er) · *Hur salt är du?*-karusell
+  (8,64, CPA 62, 10 kjøp) · advertorials (lovende, men må sjekkes mot v1.4 og er små; se `02-…` §2).
 - **Tapere:** allergivinkler i video (billige klikk, svake kjøp) · «Undviker du …?»-serien · Edits
   med smak, fika og håndverk (2,5–2,7 over 30 d, faller).
 - **Format:** statisk 3,49 · utagget 2,96 · UGC 2,67 · video (V#) 2,30.
 
+### B-roll-videoene (V#), fra Meta MCP 29. sep
+
+**Ingen V# har noen gang fått en iterasjon.** ITE finnes bare på statics og U#1.
+
+| Annonse | Forbruk | ROAS | CPA | Hook | Status |
+|---|---|---|---|---|---|
+| V#12 A1.H3 | 14,3k | 3,66 | 100 | 11 % | Vant egen hooktest, aldri iterert. Førstevalg |
+| V#2 C3 (Copy) | 19,3k | 3,82 | 95 | 14 % | *SweetToothBalancer* = cravings-konsept. Holdes tilbake |
+| V#16 B2 | 38k | 3,43 | 104 | 7 % | Creator snakker. Faller. Creator-sjekk |
+| V#19 H1 | 15,7k | 3,3–4,0 justert | 128 | 13 % | Blåst opp av én stor ordre. 2,8 siste 15 d |
+
+**Produksjonsfilmen** (*Video, Produktion, utan spår av (Copy)*) er en dynamisk katalogannonse.
+Videoen vises på 4 % av visningene, og resten er katalogbilder. Originalen uten katalog: hook 37 %,
+CTR 3,5 %, ROAS 6,0, CPA 68 på 3,4k.
+
+**Filer:** CapCut-prosjektene mangler media. Last ned ferdige videoer fra Ads Manager til
+hook-swaps. Overleggene er brent inn og må sjekkes mot v1.4.
+
 ### Fra Håvards gjennomgang (før data)
 
-- **S#19:** "ser ut som en killer ad", svært høy ROAS. Sjekk copyen mot reglene i seksjon 3
+- **S#19 (trolig V#19 H1, se over; Håvard laget den som videoredigerer):** "ser ut som en killer ad", svært høy ROAS. Sjekk copyen mot reglene i seksjon 3
   før iterasjon. Høy ROAS på en gammel annonse betyr ofte at den sier noe som ikke lenger er
   lov.
 - **B-roll text overlay-videoer:** flere med ROAS rundt 3. Under mål, men bevist potensial.
   Håvard laget noen av disse som videoredigerer.
 - **Two UGC-videoer (U#1, U#2):** presterte ikke supert. Mange iterasjoner er kjørt på dem.
 - **Fibr-produserte videoer:** flere, f.eks. "Salt Lakris New 3". Kan itereres på.
-- **S#19** er ikke blant de største eller sterkeste annonsene 20.–26. sep. Kjører den?
 - **Ny videoredigerer** er på vei inn. Han må lese reglene og gå gjennom alt materialet.
 
 ## 3. Reglene (agency policy v1.4)
@@ -125,29 +140,32 @@ cravings-påstander. Avklares med Fibr.
   emballasje. Emballasjen kan ikke endres, og taglinen kan ikke brukes i annonser. Unngå nærbilder
   der den kan leses, til Fibr har avklart det.
 
-## 5. Batch 1 (torsdag 1. okt): detaljer i `02-batch-1-torsdag.md`
+## 5. Batch 1: detaljer i `02-batch-1-torsdag.md`
 
-12 enheter, ingen ny filming, alt er iterasjon på det som allerede selger.
+Ny redigerer starter 1. okt, samme dag som lanseringen. Batchen er derfor delt i to drops.
+Bare ting på 3 eller over, ingen ny filming.
 
-- **Spor A, produksjonsfilmen:** fire nye åpninger (H-smak, H-selvtest, H-sanselig, H-fika) og tre
-  lengdekutt (6, 10, 15 sek). 7 enheter.
-- **Spor B, *Ny_Saltlakritskola_3*:** relanseres uendret, pluss to hooks (H-selvtest, H-sanselig).
-  3 enheter.
-- **Spor C, karuseller:** to nye på *Hur salt är du?*-malen, hvis designer har kapasitet.
-- **Ads Manager:** eget testbudsjett, Advantage+ creative enhancements av, hook-tag i navnet,
-  pause *Edits_Produktion_2/3*.
-- **Droppet fra den opprinnelige planen:** UGC-mashup. U#1 og U#2 ligger på 2,3–2,9 og bærer
-  allergi- og sukkervinkler. Under 3 og nær regelgrensen.
-- **Holdt tilbake:** advertorials til copyen er sjekket mot v1.4.
+- **Drop 1 (torsdag):** relanser originalen av produksjonsfilmen som ren video (ROAS 6,0, CPA 68,
+  lite forbruk) · relanser *Ny_Saltlakritskola_3* · gi *Hur salt är du?*-karusellen eget budsjett ·
+  V#12 ITE med tre nye hooks, hvis Håvard rekker det onsdag.
+- **Drop 2 (redigereren, fredag eller mandag):** V#22 = produksjonsfilmen som ren video med tre hooks
+  og felles kropp · V#12 i 6, 10 og 15 sek · to hooks på *Ny_Saltlakritskola_3* · to karuseller ·
+  V#19 ITE hvis overleggene består.
+- **Ads Manager:** eget testbudsjett, Advantage+ creative enhancements av (også på katalogen),
+  hook-tag i navnet, pause *Edits_Produktion_2/3*.
+- **Holdt tilbake:** V#2 (cravings-konsept) · V#16 (creator-sjekk) · UGC-mashup (alle U#-varianter
+  under 3 over 30 d; hent hook rate per U#-hook først) · advertorials (copy-sjekk).
 
 ## 6. Hva som mangler
 
-- Hook rate og hold rate per video (trengs for å velge åpninger etter data, ikke magefølelse).
+- Hold rate per video, og hook rate for videoene utenom de fire V#-ene i seksjon 2.
 - Hvilke produkter og smaker som selger. Er Fibr bar, kola eller begge?
 - Hvilke ernæringspåstander Fibr har godkjent, og for hvilke produkter.
 - Om «Fight your cravings» er avklart, også på emballasje i footage.
 - Om «utan spår av» (produksjonsfilmen) er dokumentert og godkjent ordlyd.
-- Hva *001-3* er, og om S#19 fortsatt kjører.
+- Hva *001-3* er.
+- Hook rate og lifetime-ROAS per U#-hook (avgjør om UGC-mashup er aktuelt).
+- Om «Made in Sweden!» (V#12, august) og allergenlista i V#12 er dokumentert.
 - Innholdet i advertorialene (*Fibertrenden*, *Matöverkänslighet*) før de itereres.
 
 ## 7. Neste
