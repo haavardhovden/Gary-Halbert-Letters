@@ -87,7 +87,7 @@ fra noen som ligner henne.** Ingen mekanisme, ingen ingrediens, ingen prosent.
 
 | Kan si | Kan ikke si |
 |---|---|
-| Dermatologiskt och oftalmologiskt testat | Kliniskt bevisad / kliniskt testat |
+| Dermatologiskt och oftalmologiskt testat. Kliniskt testat (rapport finnes, bekreftet 15. okt) | Kliniskt bevisad |
 | Resultat syns vanligtvis inom 3–8 veckor, för vissa upp till 12 | «28 dagar», «14 dagar», prosent-tall, garanterte resultater |
 | 100 dagars nöjdhetsgaranti | Pengarna tillbaka, risikofritt («risk free») |
 | Hjälper fransarna att se längre och fylligare ut | Skonsam, säker, för känsliga ögon, utan biverkningar |

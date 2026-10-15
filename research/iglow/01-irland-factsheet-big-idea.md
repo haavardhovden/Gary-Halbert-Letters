@@ -64,7 +64,7 @@ Og sjekk Shopify mot Meta fra dag 1.
 | 13 | Synlig resultat vanligvis innen 3–8 uker, for noen opptil 12. Resultater varierer | OK | Kunden (onboarding) |
 | 14 | Vedlikehold noen ganger i uka for å beholde resultatet | OK | Kunden, iGlow-anmeldelser |
 | 15 | Én tube varer **3–5 måneder** | OK | Håvard (fra kunden), 15. okt |
-| 16 | «Clinically tested» står på iglow.me | **IKKE BRUK** | Ingen rapport. Be om den |
+| 16 | «Clinically tested» (klinisk testet) | OK | Rapport finnes (Håvard, 15. okt). Ikke «clinically proven» |
 | 17 | Norsk merke fra Bergen, på markedet siden 2011 | SJEKK | Kunden. Står ikke på iglow.me |
 | 18 | Største vippeserum i Norge | SJEKK | Håvards inntrykk. Trenger tall |
 | 19 | Irsk infill (extensions) koster **€45–60**, hver ca. 3. uke | OK | Treatwell.ie, Dublin-salonger |
@@ -75,7 +75,7 @@ Og sjekk Shopify mot Meta fra dag 1.
 | 22 | Inneholder prostaglandin-analog. EU-forbud på vei (1–2 års overgang) | OK | Brand OneSheet |
 
 **Regler (EU, gjelder Irland som Sverige):** ingen vekstpåstand («grows», «stimulates», «activates
-follicles»), ingen «safe», «no side effects», «guaranteed», «money back», «clinically proven»,
+follicles»), ingen «safe», «no side effects», «guaranteed», «money back», «clinically proven» (men «clinically tested» er OK),
 «prostaglandin-free». Ingen sykdom, graviditet, cellegift. Før/etter bare ekte og uredigert, uten
 mascara i etter-bildet, med «results vary». KI aldri som ekte kunde.
 
@@ -277,8 +277,8 @@ Bruk det bare i underteksten, aldri som headline: i stadium 5 sier alle serum «
 peptides», og det er ikke de stoffene som gir resultatet. Spar mekanismen til peptidserumet lanseres.
 Da er den ny, iGlows egen, og sann. Trenger INCI-listen.
 
-**Fra Sverige-annonsene, ikke ta med til Irland:** «Kliniskt testat» (ingen rapport) og «30 % rabatt»
-(bruk euro).
+**Fra Sverige-annonsene, ikke ta med til Irland:** «30 % rabatt» (bruk euro). «Clinically tested» er OK,
+rapporten finnes. «Clinically proven» er fortsatt ikke lov.
 
 ## 9. Åpne spørsmål (SJEKK før noe går live)
 
@@ -286,7 +286,6 @@ Da er den ny, iGlows egen, og sann. Trenger INCI-listen.
 2. Garantivilkår for Irland: gavekort, ingen retur?
 3. Fri frakt til Irland: fra €50 eller €79?
 4. Lov å bruke irske Trustpilot-sitater i annonser, med eller uten navn?
-5. Dokumentasjon bak «clinically tested», ellers fjern det fra iglow.me.
 6. «Since 2011» og «største i Norge»: tall fra iGlow.
 7. Ekte, uredigerte før/etter uten mascara i etter-bildet.
 8. Hvor mange irske kunder finnes i Shopify? Bruk dem som egen målgruppe for nr. 10.
