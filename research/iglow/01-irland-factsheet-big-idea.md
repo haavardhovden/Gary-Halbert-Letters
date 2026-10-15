@@ -63,12 +63,14 @@ Og sjekk Shopify mot Meta fra dag 1.
 | 12 | Bruk: én tynn linje langs øvre vippekant hver kveld, vent 1–2 min | OK | iglow.me |
 | 13 | Synlig resultat vanligvis innen 3–8 uker, for noen opptil 12. Resultater varierer | OK | Kunden (onboarding) |
 | 14 | Vedlikehold noen ganger i uka for å beholde resultatet | OK | Kunden, iGlow-anmeldelser |
-| 15 | Én tube varer ca. 3 måneder | **SJEKK** | Kundesitater, ikke bekreftet av iGlow |
+| 15 | Én tube varer **3–5 måneder** | OK | Håvard (fra kunden), 15. okt |
 | 16 | «Clinically tested» står på iglow.me | **IKKE BRUK** | Ingen rapport. Be om den |
 | 17 | Norsk merke fra Bergen, på markedet siden 2011 | SJEKK | Kunden. Står ikke på iglow.me |
 | 18 | Største vippeserum i Norge | SJEKK | Håvards inntrykk. Trenger tall |
 | 19 | Irsk infill (extensions) koster **€45–60**, hver ca. 3. uke | OK | Treatwell.ie, Dublin-salonger |
 | 20 | Det blir ca. 17 infills i året, **ca. €765–1 020** | OK | Regnet fra #19 |
+| 20b | Én tube (€49) varer like lenge som **4–7 infills** (€180–420) | OK | Regnet fra #15 og #19 |
+| 20c | **350 000+ kunder** (brukt i iGlows svenske annonser). Håvard tror over 500 000 | SJEKK | Få ett bekreftet tall |
 | 21 | UKLash: «results in as little as 25 days», «85 % saw longer lashes», full effekt 8–12 uker | OK | Inish Pharmacy (irsk apotek) |
 | 22 | Inneholder prostaglandin-analog. EU-forbud på vei (1–2 års overgang) | OK | Brand OneSheet |
 
@@ -245,6 +247,38 @@ Meta.
 notes-skjermbilde, ikke som polerte produktbilder. Produktfoto alene var det svakeste i Irland.
 
 ---
+
+## 8b. Oppdatering 15. okt (etter Sverige-batchene)
+
+**Hva solgte i Sverige:** Batch 1 E5 («Fransförlängning var tredje vecka? Det blir snabbt dyrt», 3 salg,
+de eneste i batchen) og batch 2 C3. Begge er extensions-vinkelen. Sverige stoppet på pris per klikk og
+per visning, ikke på sporing.
+
+**Konklusjon (Halbert: melk vinneren):** Extensions-vinkelen er den eneste med salgsbevis. Irland-batchen
+skal ha flest varianter av den: regnestykket, skaden, falsies hver dag, komplimentet. Big idea («Your own
+lashes, mistaken for falsies») er samme vinkel.
+
+**iGlow er et stort merke (350 000+ kunder).** Det endrer awareness i Irland: flere er product-aware
+eller tidligere kunder enn for et ukjent merke. Bruk tallet som bevis på tvers av batchen, og lag en egen
+annonse til tidligere kunder (Shopify-liste som custom audience).
+
+**«We're sorry» i Irland, på extensions-vinkelen:**
+- «Sorry in advance to your lash tech.»
+- «Sorry in advance for all the "who does your lashes?"»
+- «We're sorry, but you might not need your infill appointment.»
+
+**Jul som kjøretøy, ikke big idea.** «Get long lashes before Christmas» er en frist som gir en grunn til
+å kjøpe nå. Big idea er det som gjør at hun vil ha produktet. Trygg versjon (tidslinjen er 3–8 uker,
+opptil 12): «Start tonight and your lashes have ten weeks until Christmas.»
+
+**Ingredienser (vitaminer, aminosyrer, peptider):** Kosmetiske pleiepåstander som «conditions» eller
+«strengthens lashes» kan være lov hvis de er dokumentert for formelen. «Supports growth» er ikke lov.
+Bruk det bare i underteksten, aldri som headline: i stadium 5 sier alle serum «with biotin and
+peptides», og det er ikke de stoffene som gir resultatet. Spar mekanismen til peptidserumet lanseres.
+Da er den ny, iGlows egen, og sann. Trenger INCI-listen.
+
+**Fra Sverige-annonsene, ikke ta med til Irland:** «Kliniskt testat» (ingen rapport) og «30 % rabatt»
+(bruk euro).
 
 ## 9. Åpne spørsmål (SJEKK før noe går live)
 
